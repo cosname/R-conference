@@ -1,0 +1,110 @@
+/* Custom container */
+.container-fluid {
+	margin: 0 auto;
+	padding: 0;
+	max-width: 1200px;
+} 
+
+body {
+    position: relative;
+    padding-top: 0px;
+}
+
+#banner{
+   background: url("../img/header_bg.jpg") no-repeat;
+   min-height:250px;
+}
+
+.hero{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.hero a.btn{
+    margin-left: 40px;
+}
+ 
+.textwidget ul{  
+  margin: 0;
+}
+
+.textwidget ul li {
+    text-align: center;
+    padding: 5px 0px 0px;
+	list-style-type: none;
+}
+
+
+/* Getting started example */
+#getting-started{
+    margin-top: 20px;
+    border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+
+    border: 0px solid #cccccc;
+    margin-bottom: 20px;
+    padding: 10px 0;
+    text-align: center;
+}
+#getting-started span{
+    border-radius: 2px;
+    -o-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+
+    background-color: #333333;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 25px;
+    padding: 5px;
+}
+
+/* 大屏幕 */
+@media (min-width: 1200px) { }
+ 
+/* 平板电脑和小屏电脑之间的分辨率 */
+@media (min-width: 768px) and (max-width: 979px) {
+	#video-left{
+		width: 100%;
+	}
+}
+
+/* 横向放置的手机和竖向放置的平板之间的分辨率 */
+@media (max-width: 767px) {
+    #header-nav ul li {
+	    width: 19.7%;
+	}
+	
+	#footer .copyright-right {
+	    float: left;
+		width: 100%;
+		margin-top: 10px;
+	}
+	.star {
+	   text-align: left;
+	}
+	
+
+	#video-left{
+		width: 100%;
+	}
+	
+	ul#menu-nav-menu-2{
+	    width: 50%;
+	    margin: 0px auto 0px auto;
+	}
+}
+
+/* 横向放置的手机及分辨率更小的设备 */
+@media (max-width: 480px) { 
+	#header-logo h1 {
+		background-position: center top;
+	}
+
+}
