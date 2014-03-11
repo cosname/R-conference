@@ -24,6 +24,9 @@ body {
     margin-left: 40px;
 }
  
+h3.widget-title{
+  text-align: center;
+}
 .textwidget ul{  
   margin: 0;
 }
