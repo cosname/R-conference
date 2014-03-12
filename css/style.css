@@ -10,6 +10,18 @@ body {
     padding-top: 0px;
 }
 
+
+footer{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #666666;
+	color: #ffffff;
+}
+
+footer p{
+	text-align:center;
+}
+
 #banner{
    background: url("../img/header_bg.jpg") no-repeat;
    min-height:250px;
