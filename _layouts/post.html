@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/">首页</a>
+          <div class="nav-collapse">
+	      <ul class="nav">
+				  <li><a href="#">会议主页</a></li>
+				  <li><a href="#">参会注册</a></li>
+				  <li><a href="#s">会议通知</a></li>
+				  <li><a href="#">主办方介绍</a></li>
+				  <li><a href="#">合作伙伴</a></li>
+				  <li><a href="#">志愿者招募</a></li>
+				  <li><a href="#">联系我们</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<div class="container main">
+
+<div class="row-fluid">
+
+	<div class="span9 typo typo-selection">
+    
+{{ content }}
+
+{% include comment.html %}
+	
+    </div>	<!-- main end -->
+	
+	<div class="span3">
+
+	{% include sidebar/sb1.html %}
+
+			
+	</div>	
+
+
+</div>
+
+{% include sponsors.html %}
+
+
+</div>

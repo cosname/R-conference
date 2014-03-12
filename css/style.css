@@ -5,12 +5,29 @@
 	max-width: 1200px;
 } 
 
+      /* Custom container */
+      .container {
+        margin: 0 auto;
+        max-width: 1200px;
+        }
+      .container > hr {
+        margin: 60px 0;
+      }    
+
 body {
     position: relative;
     padding-top: 0px;
 /*  	font-family: arial,'Microsoft Yahei',微软雅黑,宋体,sans-serif;  */
 }
 
+.main{
+   padding-top: 60px;
+}
+
+.navbar .brand {
+   padding: 8px 20px 12px;
+   line-height: 20px
+}
 
 footer{
 	padding-top: 20px;
