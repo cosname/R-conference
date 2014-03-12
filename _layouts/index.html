@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<div class="container">
+<header class="jumbotron subhead" id="overview">
+
+<div class="row-fluid" id="banner">
+
+ <div class="span7">
+ 
+ <div class="hero">
+   <h1>第七届中国R语言会议</h1>
+   <p class="lead">
+    2014年5月24～25日，北京，中国人民大学
+   </p>
+
+  </div>
+ </div>
+ 
+ <div class="span5">
+  
+ <div id="getting-started">
+  还有
+  <span>%w</span> 周
+  <span>%d</span> 天
+  <span>%H</span> 时
+  <span>%M</span> 分
+  <span>%S</span> 秒开幕
+ </div>
+    <p id="reg-btn"><a class="btn btn-primary btn-large" href="#">报名</a></p>
+ </div>
+ 
+ </div>
+ 
+
+   
+  <div class="subnav">
+    <ul class="nav nav-pills">
+      <li class="active"><a href="#">会议主页</a></li>
+      <li class=""><a href="#">参会注册</a></li>
+      <li class=""><a href="#s">会议通知</a></li>
+      <li><a href="#">主办方介绍</a></li>
+      <li><a href="#">合作伙伴</a></li>
+      <li><a href="#">志愿者招募</a></li>
+	  <li><a href="#">联系我们</a></li>
+    </ul>
+  </div>
+  
+</header>
+
+
+<div class="row-fluid">
+
+	<div class="span9 typo typo-selection">
+    
+{{ content }}
+	
+    </div>	<!-- main end -->
+	
+	<div class="span3">
+
+	{% include sidebar/sb1.html %}
+
+			
+	</div>	
+
+
+</div>
+
+{% include sponsors.html %}
+
+
+</div>
+
+ <script type="text/javascript">
+   $('#getting-started').countdown('2014/05/24', function(event) {
+     $(this).html(event.strftime('还有 '
+       + '<span>%w</span> 周 '
+       + '<span>%d</span> 日 '
+       + '<span>%H</span> 时 '
+       + '<span>%M</span> 分 '
+       + '<span>%S</span> 秒开幕'));
+   });
+</script>

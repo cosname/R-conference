@@ -1,0 +1,6 @@
+task :runjekyll do
+    puts '* Changing the codepage'
+    `chcp.com 65001`
+    puts '* Running Jekyll'
+    `jekyll server`
+end
