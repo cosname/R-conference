@@ -29,6 +29,10 @@ body {
    line-height: 20px
 }
 
+h3, h4{
+   font-weight: bold;
+}
+
 footer{
 	padding-top: 20px;
 	padding-bottom: 20px;
