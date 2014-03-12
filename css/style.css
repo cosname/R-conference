@@ -8,6 +8,7 @@
 body {
     position: relative;
     padding-top: 0px;
+/*  	font-family: arial,'Microsoft Yahei',微软雅黑,宋体,sans-serif;  */
 }
 
 
@@ -22,15 +23,28 @@ footer p{
 	text-align:center;
 }
 
+footer h4{
+   color: #ffffff;
+   margin: 10px 0px;
+}
+
 #banner{
    background: url("../img/header_bg.jpg") no-repeat;
    min-height:250px;
    color: #ffffff;
 }
 
+#reg-btn{
+  text-align: center;
+}
+
 .hero{
   margin-top: 20px;
   margin-left: 20px;
+}
+
+.hero h1{
+  color: #ffffff;
 }
 
 .hero a.btn{
@@ -82,38 +96,26 @@ h3.widget-title{
 }
 
 /* 大屏幕 */
-@media (min-width: 1200px) { }
+@media (min-width: 1200px) {
+
+
+}
  
 /* 平板电脑和小屏电脑之间的分辨率 */
 @media (min-width: 768px) and (max-width: 979px) {
-	#video-left{
-		width: 100%;
-	}
+
 }
 
 /* 横向放置的手机和竖向放置的平板之间的分辨率 */
 @media (max-width: 767px) {
-    #header-nav ul li {
-	    width: 19.7%;
-	}
-	
-	#footer .copyright-right {
-	    float: left;
-		width: 100%;
-		margin-top: 10px;
-	}
-	.star {
-	   text-align: left;
-	}
-	
+    body {
+       padding-left: 20px;
+       padding-right: 20px;
+    }
 
-	#video-left{
-		width: 100%;
-	}
 	
-	ul#menu-nav-menu-2{
-	    width: 50%;
-	    margin: 0px auto 0px auto;
+	#sponsors, footer{
+		text-align: center;
 	}
 }
 
