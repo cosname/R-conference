@@ -50,7 +50,7 @@ footer h4{
 }
 
 #banner{
-   background: url("../img/header_bg.jpg") no-repeat;
+   background: url("http://pic.yupoo.com/cosname/DBliZPCq/Jr8H4.jpg") no-repeat;
    min-height:250px;
    color: #ffffff;
 }
@@ -84,6 +84,7 @@ footer h4{
 .select-menu select{
     display: block;
     margin: 10px auto;	
+	width: 30%;
 }
  
 h3.widget-title{
