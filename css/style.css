@@ -25,6 +25,7 @@ footer p{
 #banner{
    background: url("../img/header_bg.jpg") no-repeat;
    min-height:250px;
+   color: #ffffff;
 }
 
 .hero{
