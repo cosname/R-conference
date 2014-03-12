@@ -71,6 +71,20 @@ footer h4{
 .hero a.btn{
     margin-left: 40px;
 }
+
+.select-menu{
+	display: block;
+	width: 100%;
+	background: none repeat scroll 0% 0% #383D45;
+	margin: 0px auto;
+	float: left;
+	border-bottom: 1px solid #242424;
+}
+
+.select-menu select{
+    display: block;
+    margin: 10px auto;	
+}
  
 h3.widget-title{
   text-align: center;
@@ -133,7 +147,11 @@ h3.widget-title{
        padding-left: 20px;
        padding-right: 20px;
     }
-
+	
+	footer, #overview{
+      margin-left: -20px;
+	  margin-right: -20px
+    }	
 	
 	#sponsors, footer{
 		text-align: center;
@@ -144,6 +162,9 @@ h3.widget-title{
 @media (max-width: 480px) { 
 	#header-logo h1 {
 		background-position: center top;
+	}
+	.jumbotron .btn {
+		width: 30%;
 	}
 
 }

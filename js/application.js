@@ -88,6 +88,56 @@
           btn.button('reset')
         }, 3000)
       })
+	  
+	  
+
+      
+      // Create default option "Go to..."
+      $("<option />", {
+         "selected": "selected",
+         "value"   : "",
+         "text"    : "导航栏..."
+      }).appendTo(".select-menu select");
+      
+      // Populate dropdown with menu items
+      $(".subnav > ul > li:not([data-toggle])").each(function() {
+      
+      	var el = $(this);
+      
+      	var hasChildren = el.find("ul"),
+      	    children    = el.find("li > a");
+       
+      	if (hasChildren.length) {
+      	
+      		$("<optgroup />", {
+      			"label": el.find("> a").text()
+      		}).appendTo(".select-menu select");
+      		
+      		children.each(function() {
+      		      			
+      			$("<option />", {
+					"value"   : $(this).attr("href"),
+      				"text": " - " + $(this).text()
+      			}).appendTo("optgroup:last");
+      		
+      		});
+      		      	
+      	} else {
+      	
+      		$("<option />", {
+	           "value"   : el.find("> a").attr("href"),
+	           "text"    : el.find("> a").text()
+	       }).appendTo(".select-menu select");
+      	
+      	} 
+             
+      });
+ 
+      $(".select-menu select").change(function() {
+        window.location = $(this).find("option:selected").val();
+      });
+	
+	//END -- Menus to <SELECT>	
 
     // carousel demo
     $('#myCarousel').carousel()
