@@ -2,14 +2,22 @@
 layout: index
 ---
 	
-	<h2>最新信息</h2>
+	<div class="row-fluid">
 	
-    <h4>会议信息</h4>
-	第七届中国R语言大会<br />
-	时间：2014年5月24~25日<br />
-	地点：中国人民大学，如论讲堂<br />
-	主办方：中国人民大学统计学院<br />
-	协办方：统计之都
+		<div class="span6 map pull-right">
+		     <img src="/img/China-R-Logo-300x199.gif" alt="">
+		</div>
+		<div class="span6 info">		
+			<h2>最新信息</h2>	
+			<h4>会议信息</h4>
+			第七届中国R语言大会<br />
+			时间：2014年5月24~25日<br />
+			地点：中国人民大学，如论讲堂<br />
+			主办方：中国人民大学统计学院<br />
+			协办方：统计之都
+		</div>
+
+	</div>
 	
 {% for post in site.posts limit:1 %}
 

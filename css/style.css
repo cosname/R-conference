@@ -50,7 +50,7 @@ footer h4{
 }
 
 #banner{
-   background: url("http://pic.yupoo.com/cosname/DBliZPCq/Jr8H4.jpg") no-repeat;
+   background: url("http://pic.yupoo.com/cosname/DBliZPCq/Jr8H4.jpg") center center no-repeat;
    min-height:250px;
    color: #ffffff;
 }
@@ -85,6 +85,19 @@ footer h4{
     display: block;
     margin: 10px auto;	
 	width: 30%;
+}
+
+div.thumbnail{
+  border: 0;
+  box-shadow: none;
+}
+
+.thumbnails h3{
+  text-align: center;
+}
+
+.row-fluid .info{
+  margin-left: 0;
 }
  
 h3.widget-title{
@@ -154,7 +167,7 @@ h3.widget-title{
 	  margin-right: -20px
     }	
 	
-	#sponsors, footer{
+	#sponsors, .map, footer{
 		text-align: center;
 	}
 }
