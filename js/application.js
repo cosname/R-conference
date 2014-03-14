@@ -100,7 +100,7 @@
       }).appendTo(".select-menu select");
       
       // Populate dropdown with menu items
-      $(".subnav > ul > li:not([data-toggle])").each(function() {
+      $(".subnav  ul > li:not([data-toggle])").each(function() {
       
       	var el = $(this);
       
