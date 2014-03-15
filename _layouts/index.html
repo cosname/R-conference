@@ -2,6 +2,17 @@
 layout: default
 ---
 
+<script type="text/javascript">
+$(document).ready(function(){ 
+   var hour = new Date().getHours();
+   if(hour >= 20) {
+      $("#banner").css("background", "url('http://pic.yupoo.com/cosname/DBM7CT5R/eocS4.jpg') center center no-repeat"); 
+   }else if(hour>6 && hour<=17){
+      $("#banner").css("background", "url('http://pic.yupoo.com/cosname/DBM7CDRl/ffVLo.jpg') center center no-repeat"); 
+   }
+})
+</script>
+
 <div class="container">
 <header class="jumbotron subhead" id="overview">
 
