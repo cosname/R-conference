@@ -154,6 +154,10 @@ h3.widget-title{
 .row-fluid .conf-logo {
     width: 40%;
 }
+
+footer a {
+    color: #FFFFFF;
+}
 /**/
 
 /* 大屏幕 */
