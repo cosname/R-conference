@@ -149,6 +149,17 @@ h3.widget-title{
     padding: 5px;
 }
 
+
+/* 自定义部分-yixuan */
+.row-fluid .conf-logo {
+    width: 40%;
+}
+
+footer a {
+    color: #FFFFFF;
+}
+/**/
+
 /* 大屏幕 */
 @media (min-width: 1200px) {
 
