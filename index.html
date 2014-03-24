@@ -22,7 +22,7 @@ layout: index
 
     	{{ post.content | split: '<!-- more -->' | first }}
 
-        <p><a href="{{ post.url }}">阅读全文→</a></p>
+        <p style="text-align:center"><a class="btn btn-primary" href="{{ post.url }}">阅读全文→</a></p>
 
 {% endfor %}
 
