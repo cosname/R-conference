@@ -2,6 +2,8 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:year/:title 
 
+fluid-layout: true
+
 #pygments: false
 markdown: kramdown
 

@@ -3,21 +3,30 @@ layout: default
 ---
 
 <script type="text/javascript">
+  /* function adjustBanner(){
+     // $("#banner").css("min-height","200px");
+	 $("#banner").animate({height:"200px"},"slow");
+   } 
+   */
+   
 $(document).ready(function(){ 
    var hour = new Date().getHours();
    if(hour >= 20 || hour <=6) {
-      $("#banner").css("background", "url('http://pic.yupoo.com/cosname/DBM7CT5R/eocS4.jpg') center center no-repeat"); 
+      $("#overview").css("background", "url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_40.jpg') top center no-repeat"); 
    }else if(hour>6 && hour<=17){
-      $("#banner").css("background", "url('http://pic.yupoo.com/cosname/DBM7CDRl/ffVLo.jpg') center center no-repeat"); 
+      $("#overview").css("background", "url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_40.jpg') top center no-repeat"); 
    }else{
-      $("#banner").css("background", "url('http://pic.yupoo.com/cosname/DBliZPCq/Jr8H4.jpg') center center no-repeat"); 
+      $("#overview").css("background", "url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_40.jpg') top center no-repeat"); 
    }
+   
+  // setInterval(adjustBanner, 2000);    
+   
 })
 </script>
 
-<div class="container">
 <header class="jumbotron subhead" id="overview">
 
+<div class="container{%if site.fluid-layout %}-fluid{%endif%}">
 <div class="row-fluid" id="banner">
 
  <div class="span7">
@@ -38,9 +47,11 @@ $(document).ready(function(){
  </div>
  
  </div>
+ </div>
  
    
   <div class="subnav visible-desktop">
+  <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
     <ul class="nav nav-pills">
       <li class="active"><a href="/">会议主页</a></li>
       <li class=""><a href="/register">参会注册</a></li>
@@ -50,12 +61,16 @@ $(document).ready(function(){
       <li><a href="#">志愿者招募</a></li>
 	  <li><a href="#">联系我们</a></li>
     </ul>
+	</div>
   </div>
   
   <div class="select-menu hidden-desktop">
      <select></select>
   </div>
 </header>
+
+<div class="container{%if site.fluid-layout %}-fluid{%endif%}">
+
 
 
 <div class="row-fluid">
@@ -66,7 +81,7 @@ $(document).ready(function(){
 	
     </div>	<!-- main end -->
 	
-	<div class="span3">
+	<div class="span3 bs-docs-sidebar">
 
 	{% include sidebar/sb1.html %}
 

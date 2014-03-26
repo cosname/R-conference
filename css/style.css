@@ -3,16 +3,7 @@
 	margin: 0 auto;
 	padding: 0;
 	max-width: 1200px;
-} 
-
-      /* Custom container */
-      .container {
-        margin: 0 auto;
-        max-width: 1200px;
-        }
-      .container > hr {
-        margin: 60px 0;
-      }    
+}  
 
 body {
     position: relative;
@@ -51,7 +42,8 @@ footer h4{
 
 #banner{
   /* background: url("http://pic.yupoo.com/cosname/DBliZPCq/Jr8H4.jpg") center center no-repeat;  */
-   min-height:250px;
+   /* min-height:500px; */
+   height: 500px;
    color: #ffffff;
 }
 
@@ -179,7 +171,25 @@ footer a {
 
 }
 
+@media (max-width: 1200px) {
+     body{
+     padding-left: 20px;
+	 padding-right: 20px;
+   }
+   
+   	footer, #overview{
+      margin-left: -20px;
+	  margin-right: -20px
+    }	
+}
+
+@media (min-width: 978px) and (max-width: 1119px) {
+
+}
+
 @media (max-width: 979px) {
+	
+   
     .innerDiv{
 		width:300px;margin:10px auto;overflow:hidden
 	}	
@@ -195,26 +205,15 @@ footer a {
 /* 平板电脑和小屏电脑之间的分辨率 */
 @media (min-width: 768px) and (max-width: 979px) {
 
-
 }
 
 /* 横向放置的手机和竖向放置的平板之间的分辨率 */
 @media (max-width: 767px) {
-    body {
-       padding-left: 20px;
-       padding-right: 20px;
-    }
-	
-	footer, #overview{
-      margin-left: -20px;
-	  margin-right: -20px
-    }	
-	
-	#sponsors, .map, footer{
+
+   #banner{ height: 400px;}
+   #sponsors, .map, footer{
 		text-align: center;
 	}
-	
-
 }
 
 /* 横向放置的手机及分辨率更小的设备 */

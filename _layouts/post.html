@@ -5,7 +5,7 @@ layout: default
 
 <div id="overview">
   <div class="subnav visible-desktop">
-    <div class="container">
+    <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
     <ul class="nav nav-pills">
       <li><a href="/">会议主页</a></li>
       <li><a href="/register">参会注册</a></li>
@@ -24,7 +24,7 @@ layout: default
 </div>
 
 
-<div class="container main">
+<div class="container{%if site.fluid-layout %}-fluid{%endif%} main">
 
 <div class="row-fluid">
 
