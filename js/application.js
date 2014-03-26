@@ -6,10 +6,22 @@
 
   $(function(){
 
+    var $window = $(window);
     // Disable certain links in docs
     $('section [href^=#]').click(function (e) {
       e.preventDefault()
     })
+	
+	    // side bar
+    /*setTimeout(function () {
+      $('#text-5').affix({
+        offset: {
+          top: function () { return $window.width() <= 980 ? 290 : 280; }
+        , bottom: 270
+        }
+      })
+    }, 100)	
+	*/
 
     // make code pretty
     window.prettyPrint && prettyPrint()
