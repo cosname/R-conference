@@ -13,6 +13,8 @@ markdown: kramdown
 # so be sure to set them if your theme uses them.
 #
 title : 中国R语言会议
+description: 中国R语言会议是中国R语言用户和开发者社区的重要会议，会议由中国最大的统计学门户网站——统计之都（http://cos.name）主办，会议演讲者主要由主办方邀请，感兴趣的用户也可以自由申请演讲。
+keywords: R语言, 数据分析, 数据挖掘, 机器学习, 商业智能, 大数据
 
 # description: 
 # keywords: 
