@@ -210,6 +210,7 @@ footer a {
 
 #overview{ 
   background-color: #666666;
+  background-repeat: no-repeat;
   background-attachment: fixed;
   background-image: url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_40.jpg');
 }

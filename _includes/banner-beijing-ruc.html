@@ -8,25 +8,25 @@
 $(document).ready(function(){ 
    var hour = new Date().getHours();
    if(hour >= 22 || hour <=6) {
-      $("#overview").css("background", "url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_51.jpg') top center fixed no-repeat"); 
+      $("#overview").css({"background": "url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_51.jpg')","background-position":"top center"}); 
    }else if(hour>6 && hour<=12){
-      $("#overview").css("background", "url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_30.jpg') top center fixed no-repeat"); 
+      $("#overview").css({"background": "url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_30.jpg')","background-position": "top center"}); 
    }else if(hour>12 && hour<=14){
-      $("#overview").css("background", "url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_44.jpg') top center fixed no-repeat"); 
+      $("#overview").css({"background":"url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_44.jpg')", "background-position": "top center"}); 
    }else if(hour>14 && hour<=16){
-      $("#overview").css("background", "url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_39.jpg') center center fixed no-repeat"); 
+      $("#overview").css({"background":"url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_39.jpg')", "background-position": "center center"}); 
    }else if(hour>16 && hour<=17){
-      $("#overview").css("background", "url('http://pic.yupoo.com/cosname/DDC3rxxr/o6Dej.jpg') top center fixed no-repeat"); 
+      $("#overview").css({"background":"url('http://pic.yupoo.com/cosname/DDC3rxxr/o6Dej.jpg')", "background-position": "top center"}); 
    }else if(hour>17 && hour<=18){
-      $("#overview").css("background", "url('http://pic.yupoo.com/cosname/DDC3NR7T/Qx8jf.jpg') 0 -120px fixed no-repeat"); 
+      $("#overview").css({"background":"url('http://pic.yupoo.com/cosname/DDC3NR7T/Qx8jf.jpg')", "background-position": "0 -120px"}); 
    }else if(hour>18 && hour<=20){
-      $("#overview").css("background", "url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_40.jpg') 0% 10% fixed no-repeat"); 
+      $("#overview").css({"background-image": "url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_40.jpg')", "background-position": "top center"}); 
    }else if(hour>20 && hour<=21){
-      $("#overview").css("background", "url('http://pic.yupoo.com/cosname/DDC3OjTn/sr0Tk.jpg') top center fixed no-repeat"); 
+      $("#overview").css({"background":"url('http://pic.yupoo.com/cosname/DDC3OjTn/sr0Tk.jpg')", "background-position": "top center"}); 
    }else if(hour>21 && hour<=22){
-      $("#overview").css("background", "url('http://pic.yupoo.com/cosname/DDC3OGcR/eu50p.jpg') top center fixed no-repeat"); 
+      $("#overview").css({"background":"url('http://pic.yupoo.com/cosname/DDC3OGcR/eu50p.jpg')", "background-position": "top center"}); 
    }else{
-      $("#overview").css("background", "url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_40.jpg') top center fixed no-repeat"); 
+      $("#overview").css({"background":"url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_40.jpg')", "background-position": "top center"}); 
    }
    
   // setInterval(adjustBanner, 2000);    
