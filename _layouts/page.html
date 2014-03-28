@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+
+<div id="overview">
+  <div class="subnav visible-desktop">
+    <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
+    <ul class="nav nav-pills">
+      <li><a href="/">会议主页</a></li>
+      <li><a href="/register">参会注册</a></li>
+      <li><a href="#">会议通知</a></li>
+      <li><a href="#">主办方介绍</a></li>
+      <li><a href="#">合作伙伴</a></li>
+      <li><a href="#">志愿者招募</a></li>
+	  <li><a href="#">联系我们</a></li>
+    </ul>
+	</div>
+  </div>
+  
+  <div class="select-menu hidden-desktop">
+     <select></select>
+  </div>  
+</div>
+
+
+<div class="container{%if site.fluid-layout %}-fluid{%endif%} main">
+
+<div class="row-fluid">
+
+<div class="span9 typo typo-selection">
+ 
+<h2>{{ page.title }}</h2>
+{{ content }}
+
+	
+</div>	<!-- main end -->
+	
+	<div class="span3 sidebar">
+
+	{% include sidebar/sb2.html %}
+
+			
+	</div>	
+
+
+</div>
+
+</div>
