@@ -208,6 +208,11 @@ footer a {
 	width: 23.0769%;
 }
 
+#overview{ 
+  background-color: #666666;
+  background-attachment: fixed;
+}
+
 /**/
 
 /* 大屏幕 */
@@ -217,8 +222,8 @@ footer a {
 }
 
 @media (max-width: 1200px) {
-     body{
-     padding-left: 20px;
+   body{
+   padding-left: 20px;
 	 padding-right: 20px;
    }
    
