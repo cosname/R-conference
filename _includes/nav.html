@@ -1,0 +1,9 @@
+      <li><a href="/">会议首页</a></li>
+      <li><a href="/register">参会注册</a></li>
+      {% for post in site.posts limit:1 %}<li><a href="{{ post.url }}">会议通知</a></li>{% endfor %}
+      <li><a href="/hosts">主办方介绍</a></li>
+      <li><a href="/partners">合作伙伴</a></li>
+      <li><a href="/about-r-conference">关于中国R语言会议</a></li>
+      
+      
+      
