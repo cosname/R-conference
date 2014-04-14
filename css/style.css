@@ -238,6 +238,10 @@ footer a {
 }
 .com-intro h3{ text-transform: none; }
 
+.margin-top-20{
+  margin-top: 20px;
+}
+
 @media screen and (max-width:767px){  
     .com-logo{
      width: 100%;
