@@ -1,4 +1,4 @@
-/* Custom container */
+﻿/* Custom container */
 .container-fluid {
 	margin: 0 auto;
 	padding: 0;
@@ -240,6 +240,9 @@ footer a {
 
 .margin-top-20{
   margin-top: 20px;
+}
+.sponsors{
+  margin-top:20px;
 }
 
 @media screen and (max-width:767px){  
