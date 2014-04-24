@@ -216,6 +216,10 @@ footer a {
   /* background-image: url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_40.jpg'); */
 }
 
+.thumbnails p{
+ text-align: center;
+}
+
 
 .company{
   width: 100%;
