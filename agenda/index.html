@@ -1,0 +1,751 @@
+---
+layout: page
+title: 会议日程
+---
+<style>
+/*AGENDA*/
+.leftColumn {width: 13%;text-transform: uppercase; background-color:#e9e9e9; padding:10px; border-bottom:#ddd solid 1px; font-size:.9em; line-height:1.2em; font-weight:bold; color:#3a739b ; vertical-align:middle}
+.rightColumn {width: 92% ; background-color:#f3f3f3; padding:10px;  border-bottom:#ddd solid 1px; line-height:1.3em}
+.rightColumn a {font-size:1em; color:#3a739b ;  text-decoration:none}
+.rightColumn a:hover {text-decoration:underline}
+.agendaTitle {font-size:1.1em;}
+.agendaDuration, .agendaSlides, .agendaVideo, .agendaDuration, .agendaSlides, .agendaVideo {font-size:.9em; padding-right:20px}
+.agendaTable { width:98%; border:#ddd solid 1px; }
+.agendaTrackA0,.agendaTrackA1,.agendaTrackA2,.agendaTrackA3,.agendaTrackA4 { display:block; float:left; height:auto; width:43%; margin-right:8px; padding:10px 0 5px 5px; color:#000 }
+.agendaTrackB0,.agendaTrackB1,.agendaTrackB2,.agendaTrackB3,.agendaTrackB4 { display:block; float:left; height:auto;width:43%; margin-left:8px; padding:10px 10px 5px 0; color:#e77212 }
+.agendaTrackC0,.agendaTrackC1,.agendaTrackC2,.agendaTrackC3,.agendaTrackC4 { display:block; float:right; height:auto;width:43%; margin-left:8px; padding:10px 10px 5px 0; color:#e77212 }
+.A0, .A1, .A2, .A3, .A4, .B0, .B1, .B2, .B3, .B4, .C0, .C1, .C2, .C3, .C4 { display:block; height:auto; width:100%; padding:10px 0 5px 5px; color:#000 }
+.agendaTrackSpeaker , .agendaTrackDuration , .agendaTrackSlides , .agendaTrackVideo { color:#555 ; font-size:.9em; }
+.agendaTrackLabelA, .agendaTrackLabelB, .agendaTrackLabelC{ display:block; float:left; background-color:#32719d; height:auto; width:100%; color:#fff; padding:2px 0 0 10px; margin:0 auto 10px auto}
+.agendaDate { font-size:1.2em; color:#32719d; }
+.agendaLabelTime, .agendaLabelDate { background-color:#32719d; color:#fff; padding:12px}
+.agendaLabelDate { font-size:1.3em; border-left:#86CBB3 1px dotted; letter-spacing:.1em}
+.buttonExercises {display:block;  background-color:#ebf0f3; padding:10px 15px; color:#32719d; text-transform:uppercase; margin-bottom:5px; width:260px; text-align:center; margin:15px 0 ; -webkit-box-shadow: 2px 2px 2px 0px rgba(50, 50, 50, 0.28);
+-moz-box-shadow:    2px 2px 2px 0px rgba(50, 50, 50, 0.28);
+box-shadow:         2px 2px 2px 0px rgba(50, 50, 50, 0.28);}
+.buttonExercises a{color:#32719d; text-decoration:none;}
+	
+/*SPEAKER*/
+#speakers {width:700px}
+.speakerLeft, .speakerRight { display:inline-block }
+.speakerRight { float:right }
+.speakerPic { float:left; display:inline-block; width:150px; height:134px; }
+.speakerYear {color:#555; font-size:1.2em; padding-bottom:10px }
+.speakerTitle {color:#000; font-size:2em; line-height:1em; margin-bottom:5px }
+.speakerByline {color:#555; font-size:1.2em; margin-bottom:20px }
+.speakerSlide, .speakerVideo { display:inline-block; padding:20px 20px 0 0; color:#32719d; font-size:1.2em; line-height:2.5em}
+#speakerSelector { height:25px; background-color:#F3F3F3; border: #D8D8D8 1px solid; margin-top:7px}
+#speakers p { margin-bottom:20px;}
+</style>
+<table class="agendaTable" cellspacing="0" cellpadding="0"> 
+        <tbody>
+        <tr>
+              <td class="agendaLabelTime">日期</td>
+              <td class="agendaLabelDate">2014年5月24日 </td>	
+           <!--BREAK-->
+              </tr><tr>
+			  
+                <td class="leftColumn" style="background-color:#fff">
+					<span class="time">
+						09:00 am - <br>09:30 am
+					</span></td>
+                <td class="rightColumn" style="background-color:#fff">	
+                  <span class="agendaTitle">
+					Hadley Wickham(RStudio)：R packages: principles and best practices
+                  </span>
+				 </td></tr><tr>
+              <td class="leftColumn"><span class="time">
+              09:00 am - <br>09:20 am              </span></td>
+                  <td class="rightColumn">	
+                              <span class="agendaTitle"> <a href="http://spark-summit.org/2014/talk/The-Growing-Spark-Community">
+                  The Growing Spark Community                  </a></span>
+                  <br><span class="agendaSpeaker">
+                  Matei Zaharia (CTO, Databricks)                  </span><br>
+                  
+           
+            
+            
+                      </td></tr><tr>
+              <td class="leftColumn"><span class="time">
+              09:20 am - <br>10:20 am              </span></td>
+                  <td class="rightColumn">	
+                              <span class="agendaTitle"> <a href="http://spark-summit.org/2014/talk/ion-stoica">
+                  TBA                  </a></span>
+                  <br><span class="agendaSpeaker">
+                  Ion Stoica (CEO, Databricks)                  </span><br>
+                  
+           
+            
+            
+                     
+           <!--BREAK-->
+              </td></tr><tr>
+                <td class="leftColumn" style="background-color:#fff"><span class="time">
+                  10:20 am - <br>10:40 am                  </span></td>
+                <td class="rightColumn" style="background-color:#fff">	
+                              <span class="agendaTitle">
+                  Break&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                      </td></tr><tr>
+              <td class="leftColumn"><span class="time">
+              10:40 am - <br>11:00 am              </span></td>
+                  <td class="rightColumn">	
+                              <span class="agendaTitle"> <a href="http://spark-summit.org/2014/talk/mike-franklin">
+                  Mike Franklin (Director, UC Berkeley AMPLab)                  </a></span>
+                  <br><span class="agendaSpeaker">
+                                    </span><br>
+                  
+           
+            
+            
+                      </td></tr><tr>
+              <td class="leftColumn"><span class="time">
+              11:00 am - <br>11:20 am              </span></td>
+                  <td class="rightColumn">	
+                              <span class="agendaTitle"> <a href="http://spark-summit.org/Spark+and+Cassandra">
+                  Spark and Cassandra                  </a></span>
+                  <br><span class="agendaSpeaker">
+                  Martin Van Ryswyk (EVP of Engineering, DataStax)                    </span><br>
+                  
+           
+            
+            
+                      </td></tr><tr>
+              <td class="leftColumn"><span class="time">
+              11:20 am - <br>11:40 am              </span></td>
+                  <td class="rightColumn">	
+                              <span class="agendaTitle"> <a href="http://spark-summit.org/eric-baldeschwieler-tech-advisor">
+                  Eric Baldeschwieler (Tech Advisor)                  </a></span>
+                  <br><span class="agendaSpeaker">
+                                    </span><br>
+                  
+           
+            
+            
+                      </td></tr><tr>
+              <td class="leftColumn"><span class="time">
+              11:40 am - <br>12:00 pm              </span></td>
+                  <td class="rightColumn">	
+                              <span class="agendaTitle"> <a href="http://spark-summit.org/2014/talk/david-patterson">
+                  Spark meets Genomics: Helping Fight the Big C with the Big D                  </a></span>
+                  <br><span class="agendaSpeaker">
+                  David Patterson (AMP Lab, UC Berkeley)                  </span><br>
+                  
+           
+            
+            
+                     
+           <!--BREAK-->
+              </td></tr><tr>
+                <td class="leftColumn" style="background-color:#fff"><span class="time">
+                  12:00 pm - <br>01:00 pm                  </span></td>
+                <td class="rightColumn" style="background-color:#fff">	
+                              <span class="agendaTitle">
+                  Lunch&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+          				          
+            </td></tr><tr>
+              <td class="leftColumn"><span class="time">
+              01:00 pm - <br>02:30 pm                   </span></td>
+                  <td class="rightColumn">	
+            
+				<div class="agendaTrackA1  agendaTrack063020140100pm">
+				<div class="agendaTrackLabelA">
+				TRACK A &nbsp;-&nbsp;
+            
+				Applications</div>
+			            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/music-recommendations-at-scale-with-spark">
+                  Music Recommendations at Scale with Spark            </a></span><br><span class="agendaTrackSpeaker">
+            Christopher Johnson (Spotify) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span><div class="A1">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/building-a-data-processing-system-for-real-time-auctions">
+                  Building a Data Processing System for Real Time Auctions            </a></span><br><span class="agendaTrackSpeaker">
+            Russell Cardullo (Sharethrough) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span></div><div class="A1">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/text-analytics-on-spark">
+                  Text Analytics on Spark            </a></span><br><span class="agendaTrackSpeaker">
+            Dimple Bhatia, Sudarshan Thitte (IBM) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span></div></div>
+           
+            
+            
+                          <div class="agendaTrackB1  agendaTrack063020140100pm">    	
+                <div class="agendaTrackLabelB">
+                TRACK B &nbsp;-&nbsp;
+                Developer</div>
+			            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/performing-advanced-analytics-on-relational-data-with-spark-sql-2">
+                  Performing Advanced Analytics on Relational Data with Spark SQL            </a></span><br><span class="agendaTrackSpeaker">
+            Michael Armbrust (Databricks) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span><div class="B1">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/using-spark-streaming-for-high-velocity-analytics-on-cassandra">
+                  Using Spark Streaming for High Velocity Analytics on Cassandra            </a></span><br><span class="agendaTrackSpeaker">
+            Albert P Tobey, Tupshin Harper (Datastax) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span></div><div class="B1">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/applying-the-lambda-architecture-with-spark">
+                  Applying the Lambda Architecture with Spark            </a></span><br><span class="agendaTrackSpeaker">
+            Michael Hausenblas (MapR Technologies) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span></div></div>
+           
+            
+            
+                          <div class="agendaTrackC1 agendaTrack063020140100pm">    	
+                <div class="agendaTrackLabelC">
+                TRACK C &nbsp;-&nbsp;
+                <style>.agendaTrack063020140100pm {width:30% !important; float:left;}</style>
+                Data Science</div>
+			            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/sparkr-interactive-r-programs-at-scale-2">
+                  SparkR: Interactive R programs at Scale            </a></span><br><span class="agendaTrackSpeaker">
+            Shivaram Venkataraman, Zongheng Yang (UC Berkeley) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span><div class="C1">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/scalable-distributed-decision-trees-in-spark-mllib">
+                  Scalable Distributed Decision Trees in Spark MLLib            </a></span><br><span class="agendaTrackSpeaker">
+            Manish Made (Origami Logic), Hirakendu Das (Yahoo! Inc.), Evan Sparks (UC Berkeley), Ameet Talwalkar (UC Berkeley) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span></div><div class="C1">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/end-to-end-analytics-with-oryx-spark-and-mllib">
+                  End-to-end analytics with Oryx, Spark and MLLib            </a></span><br><span class="agendaTrackSpeaker">
+            Sandy Ryza (Cloudera) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span></div></div>
+           
+            
+            
+          									
+           
+            
+            
+          					
+           
+            
+            
+          					
+           
+            
+            
+          									
+           
+            
+            
+          					
+           
+            
+            
+          					
+           
+            
+            
+                     
+           <!--BREAK-->
+              </td></tr><tr>
+                <td class="leftColumn" style="background-color:#fff"><span class="time">
+                  02:30 pm - <br>03:00 pm                  </span></td>
+                <td class="rightColumn" style="background-color:#fff">	
+                              <span class="agendaTitle">
+                  Break&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+          				          
+            </td></tr><tr>
+              <td class="leftColumn"><span class="time">
+              03:00 pm - <br>04:15 pm                   </span></td>
+                  <td class="rightColumn">	
+            
+				<div class="agendaTrackA2  agendaTrack063020140300pm">
+				<div class="agendaTrackLabelA">
+				TRACK A &nbsp;-&nbsp;
+            
+				Applications</div>
+			            <span class="agendaTitle"><a href="http://spark-summit.org/2014/using-spark-and-shark-to-power-a-real-time-recommendation-and-customer-intelligence-platform">
+                  Using Spark and Shark to Power a Real-time Recommendation and Customer Intelligence Platform            </a></span><br><span class="agendaTrackSpeaker">
+            Nick Pentreath (Graphflow) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span><div class="A2">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/xpatterns-on-spark-shark-tachyon-and-mesos">
+                  xPatterns on Spark, Shark, Tachyon and Mesos            </a></span><br><span class="agendaTrackSpeaker">
+            Claudiu Barbura (Atigeo) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span></div><div class="A2">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/using-spark-to-generate-analytics-for-international-cable-tv-video-distribution">
+                  Using Spark to generate analytics for international cable TV video distribution            </a></span><br><span class="agendaTrackSpeaker">
+            Christopher Burdorf (NBC Universal) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">15 min</span> </span></div></div>
+           
+            
+            
+                          <div class="agendaTrackB2  agendaTrack063020140300pm">    	
+                <div class="agendaTrackLabelB">
+                TRACK B &nbsp;-&nbsp;
+                Developer</div>
+			            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/testing-spark-best-practices">
+                  Testing Spark: Best Practices            </a></span><br><span class="agendaTrackSpeaker">
+            Anupama Shetty, Neil Marshall (Ooyala) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span><div class="B2">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/elasticspark-building-1000-node-elastic-spark-clusters-on-amazon-elastic-mapreduce">
+                  ElasticSpark: Building 1000 node elastic Spark clusters on Amazon Elastic MapReduce            </a></span><br><span class="agendaTrackSpeaker">
+            Parviz Deyhim (Amazon Web Services) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span></div><div class="B2">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/streamlining-search-indexing-using-elastic-search-and-spark">
+                  Streamlining Search Indexing using Elastic Search and Spark            </a></span><br><span class="agendaTrackSpeaker">
+            Holden Karau (Databricks) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">15 min</span> </span></div></div>
+           
+            
+            
+                          <div class="agendaTrackC2 agendaTrack063020140300pm">    	
+                <div class="agendaTrackLabelC">
+                TRACK C &nbsp;-&nbsp;
+                <style>.agendaTrack063020140300pm {width:30% !important; float:left;}</style>
+                Research</div>
+			            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/adam-fast-scalable-genomic-analysis">
+                  ADAM: Fast, Scalable Genomic Analysis            </a></span><br><span class="agendaTrackSpeaker">
+            Frank Austin Nothaft (UC Berkeley) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span><div class="C2">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/tachyon-further-improve-sparks-performance">
+                  Tachyon: Further Improve Spark’s Performance            </a></span><br><span class="agendaTrackSpeaker">
+            Haoyuan LI (UC Berkeley) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span></div><div class="C2">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/sparkling-identification-of-task-skew-and-speculative-partition-of-data-for-spark-applications">
+                  Sparkling: Identification of Task Skew and Speculative Partition of Data for Spark Applications            </a></span><br><span class="agendaTrackSpeaker">
+            Peilong Li (University of Massachusetts Lowell, University of Wisconsin Milwaukee) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">15 min</span> </span></div></div>
+           
+            
+            
+          									
+           
+            
+            
+          					
+           
+            
+            
+          					
+           
+            
+            
+          									
+           
+            
+            
+          					
+           
+            
+            
+          					
+           
+            
+            
+                     
+           <!--BREAK-->
+              </td></tr><tr>
+                <td class="leftColumn" style="background-color:#fff"><span class="time">
+                  04:15 pm - <br>04:45 pm                  </span></td>
+                <td class="rightColumn" style="background-color:#fff">	
+                              <span class="agendaTitle">
+                  Break&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+          				          
+            </td></tr><tr>
+              <td class="leftColumn"><span class="time">
+              04:45 pm - <br>06:00 pm                   </span></td>
+                  <td class="rightColumn">	
+            
+				<div class="agendaTrackA3  agendaTrack063020140445pm">
+				<div class="agendaTrackLabelA">
+				TRACK A &nbsp;-&nbsp;
+            
+				Applications</div>
+			            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/spark-and-shark-bridges-the-gap-between-bi-and-machine-learning-at-yahoo-taiwan">
+                  Spark and Shark Bridges the Gap Between BI and Machine Learning at Yahoo! Taiwan            </a></span><br><span class="agendaTrackSpeaker">
+            Wisely Chen (Yahoo!) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span><div class="A3">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/spark-use-case-at-telefonica-cbs">
+                  Spark use case at Telefonica CBS            </a></span><br><span class="agendaTrackSpeaker">
+            Fran J. Gomez (Telefonica) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span></div><div class="A3">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/hunting-malicious-content-with-spark">
+                  Hunting malicious content with Spark            </a></span><br><span class="agendaTrackSpeaker">
+            Perttu Ranta-aho, Ville Lindfors (F-Secure) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">15 min</span> </span></div></div>
+           
+            
+            
+                          <div class="agendaTrackB3  agendaTrack063020140445pm">    	
+                <div class="agendaTrackLabelB">
+                TRACK B &nbsp;-&nbsp;
+                Developer</div>
+			            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/writing-high-performance-spark-applications">
+                  Writing High Performance Spark Applications            </a></span><br><span class="agendaTrackSpeaker">
+            Reynold Xin (Databricks) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span><div class="B3">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/streamsql-on-spark-manipulating-streams-by-sql-using-spark">
+                  StreamSQL on Spark: Manipulating Streams by “SQL” using Spark            </a></span><br><span class="agendaTrackSpeaker">
+            Grace(Jie) Huang, Jerry(Saisai) Shao (Intel) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span></div><div class="B3">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/spark-job-server-easy-spark-job-management">
+                  Spark Job Server:  Easy Spark Job Management            </a></span><br><span class="agendaTrackSpeaker">
+            Evan Chan, Kelvin Chu (Ooyala, Inc.) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">15 min</span> </span></div></div>
+           
+            
+            
+                          <div class="agendaTrackC3 agendaTrack063020140445pm">    	
+                <div class="agendaTrackLabelC">
+                TRACK C &nbsp;-&nbsp;
+                <style>.agendaTrack063020140445pm {width:30% !important; float:left;}</style>
+                Data Science</div>
+			            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/sparse-data-support-in-mllib-2">
+                  Sparse data support in MLlib            </a></span><br><span class="agendaTrackSpeaker">
+            Xiangrui Meng (Databricks) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span><div class="C3">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/leveraging-uima-in-spark">
+                  Leveraging UIMA in Spark            </a></span><br><span class="agendaTrackSpeaker">
+            Philip Ogren (Oracle) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">30 min</span> </span></div><div class="C3">
+					            <span class="agendaTitle"><a href="http://spark-summit.org/2014/talk/fuzzy-matching-with-spark">
+                  Fuzzy matching with Spark            </a></span><br><span class="agendaTrackSpeaker">
+            Sonal Goyal (Nube Technologies) &nbsp;&nbsp;
+            </span><br><span class="agendaTrackDuration">
+            <span class="agendaDuration">15 min</span> </span></div></div>
+           
+            
+            
+          									
+           
+            
+            
+          					
+           
+            
+            
+          					
+           
+            
+            
+          									
+           
+            
+            
+          					
+           
+            
+            
+          					
+           
+            
+            
+                     
+           <!--BREAK-->
+              </td></tr><tr>
+                <td class="leftColumn" style="background-color:#fff"><span class="time">
+                  06:00 pm - <br>08:00 pm                  </span></td>
+                <td class="rightColumn" style="background-color:#fff">	
+                              <span class="agendaTitle">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+                            <span class="agendaTitle" style="display: none;">
+                  Reception&nbsp;&nbsp;&nbsp;
+                  </span>
+           
+           
+            
+            
+           
+        </td></tr><tr><td></td><td></td></tr>
+       	
+        
+        </tbody>   
+        </table>
