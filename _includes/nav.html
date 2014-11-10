@@ -1,9 +1,12 @@
       <li><a href="/">会议首页</a></li>
       <li><a href="http://chinar2014gd.vasee.com/" target="_blank">参会注册</a></li>
+      
+	<li><a href="/agenda">会议日程</a></li>
+      
       <!--
-	  <li><a href="/agenda">会议日程</a></li>
-      -->
       {% for post in site.posts limit:1 %}<li><a href="{{ post.url }}">演讲信息</a></li>{% endfor %}
+      -->
+      <li><a href="/lectures">演讲信息</a></li>
       <li><a href="/hosts">主办方介绍</a></li>
       <li><a href="/partners">合作伙伴</a></li>
       <li><a href="/about-r-conference">关于中国R语言会议</a></li>
