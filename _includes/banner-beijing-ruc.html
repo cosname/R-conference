@@ -7,10 +7,14 @@
 $(document).ready(function(){ 
    var hour = new Date().getHours();
    if(hour < 12) {
-      $("#overview").css({"background-image":"url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_39.jpg')", "background-position": "center center"}); 
+      $("#overview").css({"background-image":"url('/img/header_bg_zhongshan.jpg')", "background-position": "bottom center"}); 
    }else{
-      $("#overview").css({"background-image":"url('http://www.ruc.edu.cn/wp-content/themes/rucweb/images/ruc_bg_40.jpg')", "background-position": "top center"}); 
+      $("#overview").css({"background-image":"url('/img/header_bg_zhongshan.jpg')", "background-position": "bottom left"}); 
    }
+
+   $('#overview').css({"background-attachment": "inherit"});
+   //$("#overview").css({"background-size": "80% 80%"});
+
    
   //setInterval(adjustBanner, 2000);  
   setTimeout(adjustBanner, 2000);   

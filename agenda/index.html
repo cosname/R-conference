@@ -2,467 +2,492 @@
 layout: page
 title: 会议日程
 ---
- 
+
 <style>
-/*AGENDA*/
-.leftColumn {width: 13%;text-transform: uppercase; background-color:#e9e9e9; padding:10px; border-bottom:#ddd solid 1px; font-size:.9em; line-height:1.2em; font-weight:bold; color:#3a739b ; vertical-align:middle}
-.rightColumn {width: 92% ; background-color:#f3f3f3; padding:10px;  border-bottom:#ddd solid 1px; line-height:1.3em}
-.rightColumn a {font-size:1em; color:#3a739b ;  text-decoration:none}
-.rightColumn a:hover {text-decoration:underline}
-.agendaTitle {font-size:1.1em;}
-.agendaDuration, .agendaSlides, .agendaVideo, .agendaDuration, .agendaSlides, .agendaVideo {font-size:.9em; padding-right:20px}
-.agendaTable { width:98%; border:#ddd solid 1px; }
-.agendaTrackA0,.agendaTrackA1,.agendaTrackA2,.agendaTrackA3,.agendaTrackA4 { display:block; float:left; height:auto; width:43%; margin-right:8px; padding:10px 0 5px 5px; color:#000 }
-.agendaTrackB0,.agendaTrackB1,.agendaTrackB2,.agendaTrackB3,.agendaTrackB4 { display:block; float:left; height:auto;width:43%; margin-left:8px; padding:10px 10px 5px 0; color:#000 }
-.agendaTrackC0,.agendaTrackC1,.agendaTrackC2,.agendaTrackC3,.agendaTrackC4 { display:block; float:right; height:auto;width:43%; margin-left:8px; padding:10px 10px 5px 0; color:#000 }
-.A0, .A1, .A2, .A3, .A4, .B0, .B1, .B2, .B3, .B4, .C0, .C1, .C2, .C3, .C4 { display:block; height:auto; width:100%; padding:10px 0 5px 0px; color:#000 }
-.agendaTrackSpeaker , .agendaTrackDuration , .agendaTrackSlides , .agendaTrackVideo { color:#555 ; font-size:.9em; }
-.agendaTrackLabelA, .agendaTrackLabelB, .agendaTrackLabelC{ display:block; float:left; background-color:#32719d; height:auto; width:100%; color:#fff; padding:2px 0 0 10px; margin:0 auto 10px auto}
-.agendaDate { font-size:1.2em; color:#32719d; }
-.agendaLabelTime, .agendaLabelDate { background-color:#32719d; color:#ffffff; padding:12px}
-.agendaLabelDate { font-size:1.3em; border-left:#86CBB3 1px dotted; letter-spacing:.1em}
-.buttonExercises {display:block;  background-color:#ebf0f3; padding:10px 15px; color:#32719d; text-transform:uppercase; margin-bottom:5px; width:260px; text-align:center; margin:15px 0 ; -webkit-box-shadow: 2px 2px 2px 0px rgba(50, 50, 50, 0.28);
--moz-box-shadow:    2px 2px 2px 0px rgba(50, 50, 50, 0.28);
-box-shadow:         2px 2px 2px 0px rgba(50, 50, 50, 0.28);}
-.buttonExercises a{color:#32719d; text-decoration:none;}
-	
-/*SPEAKER*/
-#speakers {width:700px}
-.speakerLeft, .speakerRight { display:inline-block }
-.speakerRight { float:right }
-.speakerPic { float:left; display:inline-block; width:150px; height:134px; }
-.speakerYear {color:#555; font-size:1.2em; padding-bottom:10px }
-.speakerTitle {color:#000; font-size:2em; line-height:1em; margin-bottom:5px }
-.speakerByline {color:#555; font-size:1.2em; margin-bottom:20px }
-.speakerSlide, .speakerVideo { display:inline-block; padding:20px 20px 0 0; color:#32719d; font-size:1.2em; line-height:2.5em}
-#speakerSelector { height:25px; background-color:#F3F3F3; border: #D8D8D8 1px solid; margin-top:7px}
-#speakers p { margin-bottom:20px;}
+<!--
+ /* Font Definitions */
+ @font-face
+    {font-family:Helvetica;
+    panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+    {font-family:宋体;
+    panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+    {font-family:"Cambria Math";
+    panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+    {font-family:Calibri;
+    panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+    {font-family:Verdana;
+    panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+    {font-family:"\@宋体";
+    panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+    {margin:0cm;
+    margin-bottom:.0001pt;
+    text-align:justify;
+    text-justify:inter-ideograph;
+    font-size:10.5pt;
+    font-family:"Calibri","sans-serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+    {mso-style-link:"页眉 Char";
+    margin:0cm;
+    margin-bottom:.0001pt;
+    text-align:center;
+    layout-grid-mode:char;
+    border:none;
+    padding:0cm;
+    font-size:9.0pt;
+    font-family:"Calibri","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+    {mso-style-link:"页脚 Char";
+    margin:0cm;
+    margin-bottom:.0001pt;
+    layout-grid-mode:char;
+    font-size:9.0pt;
+    font-family:"Calibri","sans-serif";}
+span.Char
+    {mso-style-name:"页眉 Char";
+    mso-style-link:页眉;}
+span.Char0
+    {mso-style-name:"页脚 Char";
+    mso-style-link:页脚;}
+.MsoChpDefault
+    {font-family:"Calibri","sans-serif";}
+ /* Page Definitions */
+ @page WordSection1
+    {size:595.3pt 841.9pt;
+    margin:72.0pt 90.0pt 72.0pt 90.0pt;
+    layout-grid:15.6pt;}
+div.WordSection1
+    {page:WordSection1;}
+-->
 </style>
-<table class="agendaTable" cellspacing="0" cellpadding="0"> 
-<tbody>
-    <tr>
-    <td class="agendaLabelTime" style="color:#fff">时间</td>
-    <td class="agendaLabelDate" style="color:#fff">2014年5月24日 白天 如论讲堂</td>	
- <!--BREAK-->
-    </tr>			
-	
-	<tr>
-	  <td class="leftColumn">
-		<span class="time"> 09:00  - 09:30 </span></td>
-		<td class="rightColumn">	
-			<span class="agendaSpeaker">Hadley Wickham(RStudio)：R packages: principles and best practices</span>
-		</td>
-	</tr>
-	
-	<tr>
-	  <td class="leftColumn">
-		<span class="time"> 09:30  - 10:00 </span></td>
-		<td class="rightColumn">	
-			<span class="agendaSpeaker">David Smith(Revolution)：How the growth of R helps data-driven organizations succeed</span>
-		</td>
-	</tr>
-	
-	<tr>
-		<td class="leftColumn" style="background-color:#fff">
-		<span class="time">10:00  - 10:30 </span></td>
-		<td class="rightColumn" style="background-color:#fff">	
-			<span class="agendaTitle">休息（Break）&nbsp;&nbsp;&nbsp;</span>
-		</td>
-	</tr>
-	
-	<tr>
-	  <td class="leftColumn">
-		<span class="time"> 10:30  - 11:00 </span></td>
-		<td class="rightColumn">	
-			<span class="agendaSpeaker">余凯(百度IDL)：Deep Learning Unfolds Big Data Era</span>
-		</td>
-	</tr>	
-	
-	<tr>
-	  <td class="leftColumn">
-		<span class="time"> 11:00  - 11:30 </span></td>
-		<td class="rightColumn">	
-			<span class="agendaSpeaker">周明(微软亚洲研究院)：计算机对联和诗词</span>
-		</td>
-	</tr>
-	
-	<tr>
-	  <td class="leftColumn">
-		<span class="time"> 11:30  - 12:00 </span></td>
-		<td class="rightColumn">	
-			<span class="agendaSpeaker">王汉生(北大光华)：A Statistical Model for Social Network Labeling</span>
-		</td>
-	</tr>
-	
-	<tr>
-		<td class="leftColumn" style="background-color:#fff">
-		<span class="time">12:00  - 13:30 </span></td>
-		<td class="rightColumn" style="background-color:#fff">	
-			<span class="agendaTitle">中午休息（Lunch）&nbsp;&nbsp;&nbsp;</span>
-		</td>
-	</tr>
-	
-	<tr>
-	  <td class="leftColumn">
-		<span class="time"> 13:30  - 14:00 </span></td>
-		<td class="rightColumn">	
-			<span class="agendaSpeaker">胡浩(微量网)：云计算时代的量化投资</span>
-		</td>
-	</tr>
-	
-	<tr>
-	  <td class="leftColumn">
-		<span class="time"> 14:00  - 14:30 </span></td>
-		<td class="rightColumn">	
-			<span class="agendaSpeaker">靳志辉(腾讯)：广告定向中的用户分析</span>
-		</td>
-	</tr>
-	
-	<tr>
-		<td class="leftColumn" style="background-color:#fff">
-		<span class="time">14:30  - 15:15 </span></td>
-		<td class="rightColumn" style="background-color:#fff">	
-			<span class="agendaTitle">Lightning Talk:&nbsp;&nbsp;&nbsp;</span>
-			<br>
-				<li> SupStat</li>
-				<li> Rstudio</li>
-				<li> Springer</li>
-				<li> 1degreenorth</li>
-				<li> Revolution</li>
-				<li> 中華R軟體研發暨應用協會</li>
-				<li> Other</li>
-		</td>
-	</tr>
-	
-	<tr>
-		<td class="leftColumn" style="background-color:#fff">
-		<span class="time">15:15  - 15:30 </span></td>
-		<td class="rightColumn" style="background-color:#fff">	
-			<span class="agendaTitle">休息（Break）&nbsp;&nbsp;&nbsp;</span>
-		</td>
-	</tr>
-	
-	<tr>
-	  <td class="leftColumn">
-		<span class="time">15:30 - 16:00 </span></td>
-		<td class="rightColumn">	
-			<span class="agendaSpeaker">鄭義(國立中山大學): 基金評選平台之建立</span>
-		</td>
-	</tr>
-	
-	<tr>
-	  <td class="leftColumn">
-		<span class="time"> 16:00 - 16:30 </span></td>
-		<td class="rightColumn">	
-			<span class="agendaSpeaker">廖逸竹(优酷土豆)：玩转三亿视频—数据分析在视频产业的应用</span>
-		</td>
-	</tr>
 
-	<tr>
-	  <td class="leftColumn" style="background-color:#fff">
-		<span class="time"> 16:30  - 17:30 </span></td>
-		<td class="rightColumn" style="background-color:#fff">	
-			<span class="agendaSpeaker">大数据/数据科学主题讨论&提问环节<br>
-				嘉宾：余凯、吴喜之、王汉生、姚远、杜长嵘、胡浩<br>
-				主持人：林祯舜
-			</span>
-		</td>
-	</tr>	
-</tbody>	
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=792
+ style='width:100%;margin-left:-8.8pt;border-collapse:collapse;border:none'>
+ <tr style='height:1.0cm'>
+  <td width=118 colspan=2 style='width:88.6pt;border:solid windowtext 1.0pt;
+  background:#EEECE1;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-left:-7.05pt;text-align:center;
+  line-height:200%'><b><span style='font-size:12.0pt;line-height:200%;
+  font-family:宋体'>时间</span></b></p>
+  </td>
+  <td width=56 style='width:41.95pt;border:solid windowtext 1.0pt;border-left:
+  none;background:#EEECE1;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><b><span
+  style='font-size:12.0pt;line-height:200%;font-family:宋体'>议程</span></b></p>
+  </td>
+  <td width=289 style='width:216.8pt;border:solid windowtext 1.0pt;border-left:
+  none;background:#EEECE1;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><b><span
+  style='font-size:12.0pt;line-height:200%;font-family:宋体'>内容</span></b></p>
+  </td>
+  <td width=63 style='width:47.55pt;border:solid windowtext 1.0pt;border-left:
+  none;background:#EEECE1;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><b><span
+  style='font-size:12.0pt;line-height:200%;font-family:宋体'>嘉宾</span></b></p>
+  </td>
+  <td width=65 style='width:48.8pt;border:solid windowtext 1.0pt;border-left:
+  none;background:#EEECE1;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><b><span
+  style='font-size:12.0pt;line-height:200%;font-family:宋体'>主持人</span></b></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=35 rowspan=18 style='width:26.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US>11</span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>月</span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US>15</span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>日</span></p>
+  </td>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US>8:00-9:00</span></p>
+  </td>
+  <td width=473 colspan=4 style='width:355.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='text-indent:131.25pt;line-height:200%'><span
+  style='font-family:宋体'>学员报到</span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US>9:00-9:15</span></p>
+  </td>
+  <td width=345 colspan=2 style='width:258.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>会议致辞</span></p>
+  </td>
+  <td width=63 style='width:47.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>吴喜之</span></p>
+  </td>
+  <td width=65 rowspan=3 style='width:48.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>蔡敬衡</span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US>9:15-9:50</span></p>
+  </td>
+  <td width=56 rowspan=6 style='width:41.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体;color:black'>报告</span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体;color:black'>与</span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体;color:black'>互动</span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体;color:black'>探讨</span></p>
+  </td>
+  <td width=289 style='width:216.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体;color:black'>互联网金融大数据与风险</span></p>
+  </td>
+  <td width=63 style='width:47.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>李英浩</span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US>9:50-10:25</span></p>
+  </td>
+  <td width=289 style='width:216.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体;color:black'>数据科学中的</span><span lang=EN-US
+  style='font-family:"Verdana","sans-serif";color:black'>R</span><span
+  style='font-family:宋体;color:black'>语言</span></p>
+  </td>
+  <td width=63 style='width:47.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体;color:black'>李舰</span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US>10:25-10:45</span></p>
+  </td>
+  <td width=418 colspan=3 style='width:313.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>茶歇</span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US>10:45-11:15</span></p>
+  </td>
+  <td width=289 style='width:216.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>基于</span><span lang=EN-US>GIS</span><span
+  style='font-family:宋体'>技术与</span><span lang=EN-US>R</span><span
+  style='font-family:宋体'>耘慧的渠道大数据解决方案</span></p>
+  </td>
+  <td width=63 style='width:47.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>葛建辉</span></p>
+  </td>
+  <td width=65 rowspan=3 style='width:48.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>尤娜</span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US>11:15-11:45</span></p>
+  </td>
+  <td width=289 style='width:216.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US>R-web :&nbsp;</span><span style='font-family:宋体'>大型多人在线数据分析协作平台</span></p>
+  </td>
+  <td width=63 style='width:47.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>林祯舜</span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US>11:45-12:15</span></p>
+  </td>
+  <td width=289 style='width:216.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US style='line-height:200%;font-family:"Helvetica","sans-serif";
+  color:black'>R</span><span style='line-height:200%;font-family:宋体;color:black'>务正业之量化投资</span></p>
+  </td>
+  <td width=63 style='width:47.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='line-height:200%;font-family:宋体;color:black'>范建宁</span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#EEECE1;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:200%'><span lang=EN-US
+  style='color:red'>12:15-14:00</span></p>
+  </td>
+  <td width=473 colspan=4 style='width:355.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#EEECE1;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=left style='text-align:left;text-indent:162.75pt;
+  line-height:200%'><span style='font-family:宋体'>午间休息</span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:200%'><span lang=EN-US>14:00-14:30</span></p>
+  </td>
+  <td width=56 rowspan=8 style='width:41.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='text-indent:5.25pt;line-height:200%'><span
+  style='font-family:宋体;color:black'>报告</span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体;color:black'>与</span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体;color:black'>互动探讨</span></p>
+  </td>
+  <td width=289 style='width:216.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体;color:red'>基于</span><span lang=EN-US style='color:red'>R</span><span
+  style='font-family:宋体;color:red'>语言的统计分析系统</span></p>
+  </td>
+  <td width=63 style='width:47.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US><a href="#_演讲题目：《基于R语言的统计分析系统》"><span lang=EN-US style='line-height:
+  200%;font-family:宋体;color:black;text-decoration:none'><span lang=EN-US>王斌会</span></span></a></span></p>
+  </td>
+  <td width=65 rowspan=3 style='width:48.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>黄巩怡</span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:200%'><span lang=EN-US>14:30-15:00</span></p>
+  </td>
+  <td width=289 style='width:216.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=left style='text-align:left;text-indent:31.5pt;
+  line-height:200%'><span lang=EN-US style='line-height:200%;font-family:"Helvetica","sans-serif";
+  color:black'>Topic Modeling</span><span style='line-height:200%;font-family:
+  宋体;color:black'>工程实践</span></p>
+  </td>
+  <td width=63 style='width:47.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>赵学敏</span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:200%'><span lang=EN-US>15:00-15:30</span></p>
+  </td>
+  <td width=289 style='width:216.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='line-height:200%;font-family:宋体;color:black'>跳出数据框，拥抱非结构化数据</span></p>
+  </td>
+  <td width=63 style='width:47.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>任坤</span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:200%'><span lang=EN-US
+  style='color:red'>15:30-15:50</span></p>
+  </td>
+  <td width=418 colspan=3 style='width:313.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>茶歇</span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:200%'><span lang=EN-US>15:50-16:20</span></p>
+  </td>
+  <td width=289 style='width:216.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='line-height:200%;font-family:宋体;color:black'>投资属于你的编程语言组合</span></p>
+  </td>
+  <td width=63 style='width:47.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>关菁菁</span></p>
+  </td>
+  <td width=65 rowspan=4 style='width:48.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>朱珊</span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:200%'><span lang=EN-US>16:20-16:50</span></p>
+  </td>
+  <td width=289 style='width:216.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体;color:red'>用数据科学优化人口健康模式</span></p>
+  </td>
+  <td width=63 style='width:47.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US><a href="#_用数据科学优化人口健康模式"><span lang=EN-US style='line-height:
+  200%;font-family:宋体;color:black;text-decoration:none'><span lang=EN-US>尤晓斌</span></span></a></span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:200%'><span lang=EN-US>16:50-17:20</span></p>
+  </td>
+  <td width=289 style='width:216.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>大数据分析中</span><span lang=EN-US>R</span><span
+  style='font-family:宋体'>的一体化应用</span></p>
+  </td>
+  <td width=63 style='width:47.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>王珺伟</span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:200%'><span lang=EN-US>17:20-17:50</span></p>
+  </td>
+  <td width=289 style='width:216.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US>RCurl</span><span style='font-family:宋体'>爬虫和</span><span
+  lang=EN-US>Shiny</span><span style='font-family:宋体'>包在游戏行业的应用</span></p>
+  </td>
+  <td width=63 style='width:47.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  lang=EN-US><a href="#_RCurl爬虫和Shiny包在游戏行业的应用"><span lang=EN-US
+  style='font-family:宋体;color:windowtext;text-decoration:none'><span
+  lang=EN-US>谢佳标</span></span></a></span></p>
+  </td>
+ </tr>
+ <tr style='height:1.0cm'>
+  <td width=83 style='width:62.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:200%'><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=473 colspan=4 style='width:355.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:200%'><span
+  style='font-family:宋体'>拍照留影</span></p>
+  </td>
+ </tr>
 </table>
-	
-<table class="agendaTable" cellspacing="0" cellpadding="0"> 
-<tbody>
-    <tr>
-    <td class="agendaLabelTime" style="color:#fff">时间</td>
-    <td class="agendaLabelDate" style="color:#fff">2014年5月24日 晚上(咖啡厅)</td>	
- <!--BREAK-->
-    </tr>	
-	
-	<tr>
-	  <td class="leftColumn" style="background-color:#fff">
-		<span class="time">19:30  - 22:30 </span></td>
-		<td class="rightColumn" style="background-color:#fff">		
-			<span class="agendaSpeaker">咖啡厅随心所欲自由讨论，穿插部分演讲</span>
-		</td>
-	</tr>
-</tbody>	
-</table>		
-	
-	
-	
-	
-	
-	
-	
-<table class="agendaTable" cellspacing="0" cellpadding="0"> 
-<tbody>
-    <tr>
-    <td class="agendaLabelTime" style="color:#fff">时间</td>
-    <td class="agendaLabelDate" style="color:#fff">2014年5月25日 明德商学楼</td>	
-		<!--BREAK-->
-    </tr>	
-	<tr>
-		<td class="leftColumn">
-			<span class="time">09:00  - 10:00 </span></td>
-		<td class="rightColumn">
-			<div class="agendaTrackA1 agendaTrack063020140100pm">
-				<div class="agendaTrackLabelA"> A场(明德商学楼102，150人会场) <br>
-					专题1&nbsp;-&nbsp; 数据模型</div>
-				<span class="agendaTitle">Hacking Models with R</span><br>
-				<span class="agendaTrackSpeaker">張家齊 &nbsp;&nbsp;</span><br>
-					<span class="agendaTrackDuration"><span class="agendaDuration">30 min</span> </span>
-					
-					<div class="A1">
-						<span class="agendaTitle">Multi-Cluster Detection</a></span>
-						<br><span class="agendaTrackSpeaker">James Wicker &nbsp;&nbsp;</span>
-						<br><span class="agendaTrackDuration"><span class="agendaDuration">30 min</span></span>
-					</div>
-			</div>
-			<div class="agendaTrackB1  agendaTrack063020140100pm">
-				<div class="agendaTrackLabelB"> B场(明德商学楼202，150人会场) <br>
-					专题4&nbsp;-&nbsp; 大数据产业</div>
-				<span class="agendaTitle">大数据的新方向：公开同享趋势下的新数据产业</span><br>
-				<span class="agendaTrackSpeaker">陈堰平 &nbsp;&nbsp;</span><br>
-					<span class="agendaTrackDuration"><span class="agendaDuration">30 min</span> </span>
-					
-					<div class="B1">
-						<span class="agendaTitle">R-Web: 大数据分析及导引云平台</a></span>
-						<br><span class="agendaTrackSpeaker">陈景祥 &nbsp;&nbsp;</span>
-						<br><span class="agendaTrackDuration"><span class="agendaDuration">30 min</span></span>
-					</div>
-			</div>
-			<div class="agendaTrackC1  agendaTrack063020140100pm">
-				<div class="agendaTrackLabelC"> C场(明德商学楼302，150人会场) <br>
-					专题7&nbsp;-&nbsp;<style>.agendaTrack063020140100pm {width:30% !important; float:left;}</style> R与其他工具</div>
-				<span class="agendaTitle">Data Analysis with R and Python</span><br>
-				<span class="agendaTrackSpeaker">郭韋廷 &nbsp;&nbsp;</span><br>
-					<span class="agendaTrackDuration"><span class="agendaDuration">30 min</span> </span>
-					
-					<div class="C1">
-						<span class="agendaTitle">R与Office的整合</a></span>
-						<br><span class="agendaTrackSpeaker">李舰 &nbsp;&nbsp;</span>
-						<br><span class="agendaTrackDuration"><span class="agendaDuration">30 min</span></span>
-					</div>
-			</div>
-		</td>
-	</tr>
-	<tr>
-	  <td class="leftColumn" style="background-color:#fff">
-		<span class="time">10:00  - 10:30 </span></td>
-		<td class="rightColumn" style="background-color:#fff">		
-			<span class="agendaSpeaker">休息(Break)</span>
-		</td>
-	</tr>
-	
-	<tr>
-		<td class="leftColumn">
-			<span class="time">10:30  - 12:00 </span></td>
-		<td class="rightColumn">
-			<div class="agendaTrackA1 agendaTrack063020140100pm">
-				<div class="agendaTrackLabelA"> A场(明德商学楼102，150人会场) <br>
-					专题2&nbsp;-&nbsp; 量化投资</div>
-				<span class="agendaTitle">基于R的程序化交易</span><br>
-				<span class="agendaTrackSpeaker">景亮 &nbsp;&nbsp;</span><br>
-					<span class="agendaTrackDuration"><span class="agendaDuration">30 min</span> </span>
-					
-					<div class="A1">
-						<span class="agendaTitle">开发的血和泪，交易的冰与火</a></span>
-						<br><span class="agendaTrackSpeaker">牟官讯 &nbsp;&nbsp;</span>
-						<br><span class="agendaTrackDuration"><span class="agendaDuration">30 min</span></span>
-					</div>					
-					<div class="A1">
-						<span class="agendaTitle">R语言与金融大数据应用</a></span>
-						<br><span class="agendaTrackSpeaker">张丹 &nbsp;&nbsp;</span>
-						<br><span class="agendaTrackDuration"><span class="agendaDuration">30 min</span></span>
-					</div>
-			</div>
-			<div class="agendaTrackB1  agendaTrack063020140100pm">
-				<div class="agendaTrackLabelB"> B场(明德商学楼202，150人会场) <br>
-					专题5&nbsp;-&nbsp; R中的大数据</div>
-				<span class="agendaTitle">突破R内存瓶颈的若干技术</span><br>
-				<span class="agendaTrackSpeaker">寇强 &nbsp;&nbsp;</span><br>
-					<span class="agendaTrackDuration"><span class="agendaDuration">30 min</span> </span>
-					
-					<div class="B1">
-						<span class="agendaTitle">Large Scale Learning with R</a></span>
-						<br><span class="agendaTrackSpeaker">吳齊軒 &nbsp;&nbsp;</span>
-						<br><span class="agendaTrackDuration"><span class="agendaDuration">30 min</span></span>
-					</div>					
-					<div class="B1">
-						<span class="agendaTitle">Big Data Analysis with RHadoop</a></span>
-						<br><span class="agendaTrackSpeaker">丘祐瑋 &nbsp;&nbsp;</span>
-						<br><span class="agendaTrackDuration"><span class="agendaDuration">30 min</span></span>
-					</div>
-			</div>
-			<div class="agendaTrackC1  agendaTrack063020140100pm">
-				<div class="agendaTrackLabelC"> C场(明德商学楼302，150人会场) <br>
-					专题8&nbsp;-&nbsp;<style>.agendaTrack063020140100pm {width:30% !important; float:left;}</style>数据分析实战</div>
-				<span class="agendaTitle">数据分析在传统行业商业决策中的应用</span><br>
-				<span class="agendaTrackSpeaker">林荟 &nbsp;&nbsp;</span><br>
-					<span class="agendaTrackDuration"><span class="agendaDuration">30 min</span> </span>
-					
-					<div class="C1">
-						<span class="agendaTitle">小而美的数据产品</a></span>
-						<br><span class="agendaTrackSpeaker">欧阳鹤 &nbsp;&nbsp;</span>
-						<br><span class="agendaTrackDuration"><span class="agendaDuration">30 min</span></span>
-					</div>					
-					<div class="C1">
-						<span class="agendaTitle">R与企业级数据挖掘</a></span>
-						<br><span class="agendaTrackSpeaker">刘思喆 &nbsp;&nbsp;</span>
-						<br><span class="agendaTrackDuration"><span class="agendaDuration">30 min</span></span>
-					</div>
-			</div>
-		</td>
-	</tr>
-	
-	<tr>
-	  <td class="leftColumn" style="background-color:#fff">
-		<span class="time">12:00  - 14:00 </span></td>
-		<td class="rightColumn" style="background-color:#fff">		
-			<span class="agendaSpeaker">中午休息(Lunch)</span>
-		</td>
-	</tr>
- 	
-	<tr>
-		<td class="leftColumn">
-			<span class="time">14:00  - 15:30 </span></td>
-		<td class="rightColumn">
-			<div class="agendaTrackA1 agendaTrack063020140100pm">
-				<div class="agendaTrackLabelA"> A场(明德商学楼102，150人会场) <br>
-					专题3&nbsp;-&nbsp; R数据可视化</div>
-				<span class="agendaTitle">Interactive Visualization with R</span><br>
-				<span class="agendaTrackSpeaker">王亮博 &nbsp;&nbsp;</span><br>
-					<span class="agendaTrackDuration"><span class="agendaDuration">30 min</span> </span>
-					
-					<div class="A1">
-						<span class="agendaTitle">它山之石可以攻玉：recharts图形包</a></span>
-						<br><span class="agendaTrackSpeaker">周扬 &nbsp;&nbsp;</span>
-						<br><span class="agendaTrackDuration"><span class="agendaDuration">30 min</span></span>
-					</div>					
-					<div class="A1">
-						<span class="agendaTitle">ggvis</a></span>
-						<br><span class="agendaTrackSpeaker">Hadley Wickham &nbsp;&nbsp;</span>
-						<br><span class="agendaTrackDuration"><span class="agendaDuration">30 min</span></span>
-					</div>
-			</div>
-			<div class="agendaTrackB1  agendaTrack063020140100pm">
-				<div class="agendaTrackLabelB"> B场(明德商学楼202，150人会场) <br>
-					专题6&nbsp;-&nbsp; R高级技术</div>
-				<span class="agendaTitle">构建高效率的数据流水线：在R中使用管道操作</span><br>
-				<span class="agendaTrackSpeaker">任坤 &nbsp;&nbsp;</span><br>
-					<span class="agendaTrackDuration"><span class="agendaDuration">30 min</span> </span>
-					
-					<div class="B1">
-						<span class="agendaTitle">科研角度下的R包开发</a></span>
-						<br><span class="agendaTrackSpeaker">张晔 &nbsp;&nbsp;</span>
-						<br><span class="agendaTrackDuration"><span class="agendaDuration">30 min</span></span>
-					</div>					
-					<div class="B1">
-						<span class="agendaTitle">R中大规模矩阵的特征分解、svd、nmf等</a></span>
-						<br><span class="agendaTrackSpeaker">邱怡轩 &nbsp;&nbsp;</span>
-						<br><span class="agendaTrackDuration"><span class="agendaDuration">30 min</span></span>
-					</div>
-			</div>
-			<div class="agendaTrackC1  agendaTrack063020140100pm">
-				<div class="agendaTrackLabelC"> C场(明德商学楼302，150人会场) <br>
-					专题9&nbsp;-&nbsp;<style>.agendaTrack063020140100pm {width:30% !important; float:left;}</style>生物、心理学</div>
-				<span class="agendaTitle">Integrated Pipeline for Systems Pharmacology in R/Bioconductor</span><br>
-				<span class="agendaTrackSpeaker">肖楠 &nbsp;&nbsp;</span><br>
-					<span class="agendaTrackDuration"><span class="agendaDuration">30 min</span> </span>
-					
-					<div class="C1">
-						<span class="agendaTitle">R在新药研发中的应用</a></span>
-						<br><span class="agendaTrackSpeaker">杨环 &nbsp;&nbsp;</span>
-						<br><span class="agendaTrackDuration"><span class="agendaDuration">30 min</span></span>
-					</div>					
-					<div class="C1">
-						<span class="agendaTitle">Combining R with Psychology——An illustration with SEM</a></span>
-						<br><span class="agendaTrackSpeaker">江歌 &nbsp;&nbsp;</span>
-						<br><span class="agendaTrackDuration"><span class="agendaDuration">30 min</span></span>
-					</div>
-			</div>
-		</td>
-	</tr>
-	
-	<tr>
-	  <td class="leftColumn" style="background-color:#fff">
-		<span class="time">15:30  - 16:00 </span></td>
-		<td class="rightColumn" style="background-color:#fff">		
-			<span class="agendaSpeaker">讨论休息</span>
-		</td>
-	</tr>
- 	
- </tbody>   
- 
- </table>
-<h4 id="meeting-room">会场安排</h4>
-
-<p>第一天：如论讲堂</p>
-
-<p>第二天：明德商学楼：0102，0202，0302</p>
-
-<h4 id="road-map">会场路线</h4>
-
-<p><img src="http://pic.yupoo.com/cosname/DEBlZJIo/rU17i.jpg" alt="路线图" /></p>
-
-<h4 id="jiudian">推荐酒店</h4>
-
-<p>大部分价格来自于携程网，去哪儿网，以及网站报价中的酒店直销价，不含优惠信息。</p>
-
-<p>一、友谊宾馆</p>
-
-<blockquote>
-  <p>地址：北京市海淀区中关村南大街1号，距离中国人民大学0.5公里<br />
-价格：敬宾楼标准房468元（无早餐）【酒店直销价】<br />
-床型：大床1.6m/双床1.1m<br />
-宽带：免费<br />
-评价：位置极佳，设施齐全，装修很大气；价格偏高，环境好，房间舒适。</p>
-</blockquote>
-
-<p>二、燕山大酒店</p>
-
-<blockquote>
-  <p>地址：北京市海淀区中关村大街甲38号，距离中国人民大学0.2公里<br />
-价格：公寓经济间328元（无早餐）【酒店直销价】<br />
-床型：大床1.8m/ 双床0.9m<br />
-宽带：免费<br />
-评价：装修较老，房间干净，整体还不错；交通便捷。  </p>
-</blockquote>
-
-<p><a class="more collapsed" href="##" data-toggle="collapse" data-target="#jiudian-more">查看更多»</a></p>
-
-<div id="jiudian-more" class="collapse">
-  <p>三、便宜居快捷酒店(双榆树店)</p>
-
-  <blockquote>
-    <p>地址：北京市海淀区双榆树西里10号楼，距离中国人民大学0.4公里<br />
-价格：普通标准间280元（无早餐）<br />
-床型：双床(1.1米)<br />
-楼层：1-3层<br />
-宽带：免费宽带<br />
-评价：交通方便，环境一般，设施较旧，房间舒适  </p>
-  </blockquote>
-
-  <p>四、永正商务酒店（北京苏州街店）</p>
-
-  <blockquote>
-    <p>位置：北京市海淀区苏州街18号，距离中国人民大学1.1公里<br />
-价格：标准大床间298元（含早餐，携程网）<br />
-床型：双人床1.5米，1张<br />
-楼层：1-3层<br />
-评价：服务不错,房间也干净,性价比很高；地理位置好   </p>
-  </blockquote>
-
-  <p>五、北京紫金阳光酒店公寓</p>
-
-  <blockquote>
-    <p>位置：北京市海淀区中关村知春路紫金数码园2号楼，距离中国人民大学1.2公里<br />
-价格：普通标准间268元（无早餐）<br />
-床型：双人床1.5米，1张<br />
-宽带：免费<br />
-评价：交通便利，紧邻知春路地铁，公寓式酒店，楼层高，大窗，比较安静，屋内整洁  </p>
-  </blockquote>
-</div>
-
-<p style="text-align:center"><a class="btn btn-primary" href="/2014/beijing">演讲信息</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="btn btn-primary" href="/register">报名注册</a></p>
