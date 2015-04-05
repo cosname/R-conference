@@ -2,43 +2,32 @@
 layout: default
 ---
 
-
 <div id="overview">
   <div class="subnav visible-desktop">
     <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
-    <ul class="nav nav-pills">
-{% include nav.html %}
-    </ul>
-	</div>
+      <ul class="nav nav-pills">
+      {% include nav.html %}
+      </ul>
+    </div>
   </div>
-  
+
   <div class="select-menu hidden-desktop">
-     <select></select>
-  </div>  
+    <select></select>
+  </div>
 </div>
 
 
 <div class="container{%if site.fluid-layout %}-fluid{%endif%} main">
+  <div class="row-fluid">
 
-<div class="row-fluid">
+    <div class="span9 typo typo-selection">
+      <h2>{{ page.title }}</h2>
+      {{ content }} {% include duoshuo-comment.html %}
+    </div>
 
-	<div class="span9 typo typo-selection">
- 
-<h2>{{ page.title }}</h2>
-{{ content }}
+    <div class="span3 sidebar">
+    {% include sidebar/sidebar.html %}
+    </div>
 
-{% include duoshuo-comment.html %}
-	
-    </div>	<!-- main end -->
-	
-	<div class="span3 sidebar">
-
-	{% include sidebar/sidebar.html %}
-
-			
-	</div>	
-
-
-</div>
-
+  </div>
 </div>
