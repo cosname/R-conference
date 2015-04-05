@@ -6,77 +6,59 @@ layout: default
 
 <header class="jumbotron subhead" id="overview">
 
-<div class="container{%if site.fluid-layout %}-fluid{%endif%}">
-<div class="row-fluid" id="banner">
+  <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
+    <div class="row-fluid" id="banner">
 
- <div class="span7">
+      <div class="span7">
+        <div class="hero">
+          <h1 style="color: #ddd; margin-top: 50px;">第八届中国R语言会议（北京）</h1>
+          <p class="lead" style="color: #ddd;">
+            2015年6月6日～7日，北京大学
+          </p>
+        </div>
+      </div>
 
- <div class="hero">
-   <h1 style="color: #ddd; margin-top: 50px;">第七届中国R语言会议（上海会场）</h1>
-   <p class="lead" style="color: #ddd;">
-   2014年12月6日～7日，华东师范大学
-   </p>
+      <div class="span5">
+        <div style="" id="getting-started"></div>
+        <p id="reg-btn"><a class="btn btn-primary btn-large" href="" target="_blank">报名即将开放</a></p>
+      </div>
 
+    </div>
   </div>
- </div>
-
- <div class="span5">
-
- <div style="" id="getting-started"></div>
-    <p id="reg-btn"><a class="btn btn-primary btn-large" href="http://chinar2014sh.vasee.com/" target="_blank">报名</a></p>
- </div>
-
- </div>
- </div>
-
 
   <div class="subnav visible-desktop">
-  <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
-    <ul class="nav nav-pills">
-{% include nav.html %}
-    </ul>
-	</div>
+    <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
+      <ul class="nav nav-pills">
+      {% include nav.html %}
+      </ul>
+    </div>
   </div>
 
-  <div class="select-menu hidden-desktop">
-     <select></select>
-  </div>
 </header>
 
 <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
+  <div class="row-fluid">
 
+    <div class="span9 typo typo-selection">
+    {{ content }}
+    </div>
 
+    <div class="span3 sidebar">
+    {% include sidebar/sidebar.html %}
+    </div>
 
-<div class="row-fluid">
+  </div>
 
-	<div class="span9 typo typo-selection">
-
-{{ content }}
-
-    </div>	<!-- main end -->
-
-	<div class="span3 sidebar">
-
-	{% include sidebar/sidebar.html %}
-
-
-	</div>
-
-
+  {% include sponsors.html %}
 </div>
 
-{% include sponsors.html %}
-
-
-</div>
-
- <script type="text/javascript">
-   $('#getting-started').countdown('2014/12/06', function(event) {
-     $(this).html(event.strftime('还有 '
+<script type="text/javascript">
+  $('#getting-started').countdown('2015/06/06', function(event) {
+    $(this).html(event.strftime('还有 '
        + '<span>%w</span> 周 '
        + '<span>%d</span> 日 '
        + '<span>%H</span> 时 '
        + '<span>%M</span> 分 '
        + '<span>%S</span> 秒开幕'));
-   });
+  });
 </script>
