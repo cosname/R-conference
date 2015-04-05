@@ -1,47 +1,40 @@
 ---
 layout: index
 ---
-	
-	<div class="row-fluid">
-	
-		<div class="conf-logo map pull-right">
-		     <img src="/img/China-R-Logo-300x192.png" alt="">
-		</div>
-		<div class="span6 info">		
-			<h2>最新信息</h2>	
-			<h4>会议信息</h4>
-			第七届中国R语言会议（上海）<br />
-			时间：2014年12月6日、7日<br />
-                        地点：<br />
-                        <ul>
-			  <li>华东师范大学，中山北路校区（中山北路3663号，地铁3，4号线金沙江路站），科学会堂二楼报告厅。</li>
-			</ul>
-			主办方：<br />
-			<ul>
-                	  <li>华东师范大学金融与统计学院</li>
-			  <li>统计之都</li>
-			  <li>Mango Solutions</li>
-			</ul>
-           
-			赞助方：<br />
-			<ul>
-			<li>优酷土豆集团</li>
-			</ul>
+<div class="row-fluid">
 
+  <div class="conf-logo map pull-right">
+    <img src="/img/China-R-Logo-300x192.png" alt="">
+  </div>
 
-		</div>
+  <div class="span6 info">
+    <h2>最新信息</h2>
+    第八届中国R语言会议（北京）
+    <br /> 时间：2015年6月6日、7日
+    <br /> 地点：北京大学百周年纪念讲堂
+    <br />
+    主办方：
+    <br />
+    <ul>
+      <li>北京大学商务智能研究中心</li>
+      <li>统计之都</li>
+    </ul>
 
-		</div>
-        <!--
-			<h1>会议通知</h1>
+    赞助方：
+    <br />
+    <ul>
+      <li>百度</li>
+    </ul>
+  </div>
 
-			<h4><a target="_blank" href="/img/第七届中国R语言会议(北京)-手册.pdf">点击下载会议手册。</a></h4>
-        -->
+</div>
+
+<!--
+<h1>会议通知</h1>
+<h4><a target="_blank" href="/img/第七届中国R语言会议(北京)-手册.pdf">点击下载会议手册。</a></h4>
+-->
+
 {% for post in site.posts limit:1 %}
-
-    	{{ post.content | split: '<!-- more -->' | first }}
-
-        <p style="text-align:center"><a class="btn btn-primary" href="{{ post.url }}">阅读全文→</a></p>
-
+    {{ post.content | split: '<!-- more -->' | first }}
+    <p style="text-align:center"><a class="btn btn-primary" href="{{ post.url }}">阅读全文→</a></p>
 {% endfor %}
-
