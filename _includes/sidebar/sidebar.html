@@ -1,4 +1,4 @@
-		<aside id="text-1" class="well">
+		<aside id="sidebar-info" class="well">
 		      <h3 class="widget-title">会议信息</h3>
 		      <div class="textwidget">
 				<ul>
@@ -26,7 +26,7 @@
 		</aside>
 		{% endcomment %}
 
-		<aside id="text-3" class="well">
+		<aside id="sidebar-official" class="well">
 			<h3 class="widget-title">官方微博</h3>
 			<iframe width="100%" height="100" class="share_self" frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=100&fansRow=0&ptype=1&speed=0&skin=1&isTitle=0&noborder=0&isWeibo=0&isFans=0&uid=1869170057&verifier=44dd67f8&colors=d6f3f7,F5F5F5,666666,0082cb,ecfbfd&dpc=1"></iframe>
 			<h3 class="widget-title">官方微信</h3>
@@ -35,49 +35,10 @@
 			</div>
 		</aside>
 
-		<aside id="text-4" class="well">
-			<h3 class="widget-title">赞助单位</h3>
-			<div class="sponsors">
-				<a href="http://baidu.com/" title="百度" target="_blank"><img width="220" src="/img/logo-baidu.png" alt="百度"></a>
-			</div>
-		</aside>
-		<!--
-		<aside id="text-5" class="well">
-			<h3 class="widget-title">赞助单位</h3>
-			<div class="sponsors">
-				<a href="http://supstat.com/cn" title="SupStat Inc." target="_blank"><img src="/img/logo-supstat.png" alt="SupStat Inc."></a>
-			</div>
-			<div class="sponsors">
-				<a href="http://www.revolutionanalytics.com/" title="Revolution Analytics" target="_blank"><img src="/img/logo-revo.png" alt="Revolution Analytics"></a>
-			</div>
-			<div class="sponsors">
-				<a href="http://rstudio.com" title="RStudio" target="_blank"><img src="/img/logo-rstudio.png" alt="RStudio"></a>
-			</div>
-			<div class="sponsors">
-				<a href="http://www.vsnc.com.cn/" title="VSNC" target="_blank"><img src="/img/logo-vscn.jpg" alt="VSNC"></a>
-			</div>
-			<div class="sponsors">
-				<a href="http://www.1degreenorth.com/" title="1degreenorth" target="_blank"><img src="/img/logo-1degreenorth.png" alt="1degreenorth"></a>
-			</div>
-		</aside>
-		<aside id="text-6" class="well">
-		     <h3 class="widget-title">合作单位</h3>
-			<div class="sponsors">
-				<a href="http://www.hzbook.com/ps/" title="华章图书" target="_blank"><img width="220" src="/img/hzbook.gif" alt="华章图书"></a>
-			</div>
-			<div class="sponsors">
-				<a href="http://www.springer.com/" title="Springer" target="_blank"><img width="220" src="/img/logo-springer.jpg" alt="Springer"></a>
-			</div>
-			<div class="sponsors">
-				<a href="http://www.crup.com.cn/" title="中国人民大学出版社有限公司" target="_blank"><img width="220" src="/img/logo-crup.png" alt="中国人民大学出版社有限公司"></a>
-			</div>
-			<div class="sponsors">
-				<a href="http://www.ptpress.com.cn/" title="人民邮电出版社" target="_blank"><img width="220" src="/img/logo-ptpress.jpg" alt="人民邮电出版社"></a>
-			</div>
-		</aside>
-		-->
-		<aside id="text-7" class="well">
-		     <h3 class="widget-title">往届会议</h3>
+		{% include sidebar/sponsors.html %}
+
+		<aside id="sidebar-previous" class="well">
+		    <h3 class="widget-title">往届会议</h3>
 		  	<div class="textwidget">
 			<ul>
 				<li>2014年<a href="/2014/beijing">北京</a>，<a href="/2014/guangzhou">广州</a>，<a href="/2014/hangzhou">杭州</a>，<a href="/2014/shanghai">上海</a></li>
