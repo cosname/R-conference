@@ -3,7 +3,7 @@
 	margin: 0 auto;
 	padding: 0;
 	max-width: 1200px;
-}  
+}
 
 body {
     position: relative;
@@ -14,7 +14,7 @@ body {
 .subnav {
   background-color: #1B1B1B;
   background-image: linear-gradient(to bottom, #222222, #111111);
-  
+
   background-image: -moz-linear-gradient(top, #222222 0%, #111111 100%); /* FF3.6+ */
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#222222), color-stop(100%,#111111)); /* Chrome,Safari4+ */
   background-image: -webkit-linear-gradient(top, #222222 0%,#111111 100%); /* Chrome 10+,Safari 5.1+ */
@@ -109,7 +109,7 @@ footer h4{
 
 .select-menu select{
     display: block;
-    margin: 10px auto;	
+    margin: 10px auto;
 	width: 30%;
 }
 
@@ -143,11 +143,11 @@ div.thumbnail{
 .row-fluid .info{
   margin-left: 0;
 }
- 
+
 h3.widget-title{
   text-align: center;
 }
-.textwidget ul{  
+.textwidget ul{
   margin: 0;
 }
 
@@ -201,14 +201,14 @@ footer a {
 .innerFooter{
   padding-left: 20px;
   padding-right: 20px;
-} 
+}
 
 .affix {
     top: 50px;
 	width: 23.0769%;
 }
 
-#overview{ 
+#overview{
   background-color: #666666;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -230,14 +230,14 @@ footer a {
 
 .com-logo{
  float: left;
- clear:left; 
+ clear:left;
  width: 30%;
 }
 
 .com-intro{
  float: left;
  margin-left: 2%;
- clear: right; 
+ clear: right;
  width: 68%;
 }
 .com-intro h3{ text-transform: none; }
@@ -245,22 +245,32 @@ footer a {
 .margin-top-20{
   margin-top: 20px;
 }
+
+
+/* Styles for sponsors in sidebar */
 .sponsors{
   margin-top:20px;
+  text-align: center;
+}
+/* Sponsors logos */
+.sponsors img{
+  width: 220px;
 }
 
-@media screen and (max-width:767px){  
+
+
+@media screen and (max-width:767px){
     .com-logo{
      width: 100%;
     }
 
     .com-intro{
      width: 100%;
-    }  
+    }
 
 }
 
-/**/
+
 
 /* 大屏幕 */
 @media (min-width: 1200px) {
@@ -273,11 +283,11 @@ footer a {
    padding-left: 20px;
 	 padding-right: 20px;
    }
-   
+
    	footer, #overview{
       margin-left: -20px;
 	  margin-right: -20px
-    }	
+    }
 }
 
 @media (min-width: 978px) and (max-width: 1200px) {
@@ -285,22 +295,22 @@ footer a {
 }
 
 @media (max-width: 979px) {
-	
-   
+
+
     .innerDiv{
 		width:300px;margin:10px auto;overflow:hidden
-	}	
+	}
 
 	.innerDiv iframe{
 	   margin-left: -400px;
 	   width: 700px;
 	   height: 170px
 	}
-	
+
 	.sidebar{ margin-top: 10px;}
-	
+
 }
- 
+
 /* 平板电脑和小屏电脑之间的分辨率 */
 @media (min-width: 768px) and (max-width: 979px) {
 
@@ -313,15 +323,15 @@ footer a {
    #sponsors, .map, .thumbnail p, footer{
 		text-align: center;
 	}
-	
+
 	.thumbnail{
-	   border: 0;	   
+	   border: 0;
 	}
-	
+
 a.thumbnail:hover,a.thumbnail:focus{border:0;-webkit-box-shadow:0;-moz-box-shadow:0;box-shadow:0;}
 
 /* 横向放置的手机及分辨率更小的设备 */
-@media (max-width: 480px) { 
+@media (max-width: 480px) {
 	#header-logo h1 {
 		background-position: center top;
 	}
