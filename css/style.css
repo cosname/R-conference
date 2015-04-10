@@ -256,6 +256,12 @@ footer a {
 .sponsors img{
   width: 220px;
 }
+/* Sponsor levels */
+.sponsor-level{
+  margin-top:30px;
+  margin-bottom:10px;
+  text-align:center;
+}
 
 
 
