@@ -37,13 +37,13 @@ layout: default
 </header>
 
 <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
-  <div class="row-fluid">
+  <div class="row">
 
-    <div class="span9 typo typo-selection">
+    <div class="col-md-9 typo typo-selection">
     {{ content }}
     </div>
 
-    <div class="span3 sidebar">
+    <div class="col-md-3" id="sidebar">
     {% include sidebar/sidebar.html %}
     </div>
 
