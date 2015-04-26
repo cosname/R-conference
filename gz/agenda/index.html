@@ -1,31 +1,6 @@
 ---
-layout: default
+layout: gz-page
+title: 会议日程
 ---
 
-<div id="overview">
-
-  <div class="subnav">
-    <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
-    <ul class="nav nav-pills">
-    {% include gz/nav.html %}
-    </ul>
-	</div>
-  </div>
-
-</div>
-
-
-<div class="container{%if site.fluid-layout %}-fluid{%endif%} main">
-  <div class="row-fluid">
-
-    <div class="span9 typo typo-selection">
-      <h2>会议日程</h2>
-      {% include agenda/2015-guangzhou.html %}
-    </div>
-
-	<div class="span3 sidebar">
-	{% include gz/sidebar/sidebar.html %}
-	</div>
-
-  </div>
-</div>
+{% include agenda/2015-guangzhou.html %}

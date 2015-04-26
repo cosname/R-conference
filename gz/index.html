@@ -1,93 +1,36 @@
 ---
-layout: default
+layout: gz-index
 ---
 
-{% include gz/banner.html %}
+<div class="row-fluid">
 
-<header class="jumbotron subhead" id="overview">
-
-  <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
-    <div class="row-fluid" id="banner">
-
-      <div class="span7">
-        <div class="hero">
-          <h1 style="color: #ddd; margin-top: 50px;">第八届中国R语言会议（广州）</h1>
-          <p class="lead" style="color: #ddd;">
-            2015年5月23日～24日，中山大学
-          </p>
-        </div>
-      </div>
-
-      <div class="span5">
-        <div style="" id="getting-started"></div>
-        <p id="reg-btn"><a class="btn btn-primary btn-large" href="" target="_blank">报名即将开放</a></p>
-      </div>
-
-    </div>
+  <div class="conf-logo map pull-right">
+    <img src="/img/China-R-Logo-300x192.png" alt="">
   </div>
 
-  <div class="subnav">
-    <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
-      <ul class="nav nav-pills">
-          {% include gz/nav.html %}
-      </ul>
-    </div>
+  <div class="span6 info">
+    <h2>最新信息</h2>
+    第八届中国R语言会议（广州）
+    <br /> 时间：2015年5月23日、24日
+    <br /> 地点：中山大学
+    <br />
+    主办方：
+    <br />
+    <ul>
+      <li>中山大学</li>
+      <li>统计之都</li>
+    </ul>
   </div>
 
-</header>
-
-<div class="container{%if site.fluid-layout %}-fluid{%endif%}">
-  <div class="row-fluid">
-
-    <div class="span9 typo typo-selection">
-        <div class="row-fluid">
-
-          <div class="conf-logo map pull-right">
-            <img src="/img/China-R-Logo-300x192.png" alt="">
-          </div>
-
-          <div class="span6 info">
-            <h2>最新信息</h2>
-            第八届中国R语言会议（广州）
-            <br /> 时间：2015年5月23日、24日
-            <br /> 地点：
-            <br />
-            主办方：
-            <br />
-            <ul>
-              <li>中山大学</li>
-              <li>统计之都</li>
-            </ul>
-          </div>
-
-        </div>
-
-        {% for post in site.posts %}
-            {% if post.title contains '广州' %}
-
-            {{ post.content | split: '<!-- more -->' | first }}
-            <p style="text-align:center"><a class="btn btn-primary" href="{{ post.url }}">阅读全文→</a></p>
-
-            {% break %}
-            {% endif %}
-        {% endfor %}
-
-    </div>
-
-    <div class="span3 sidebar">
-    {% include gz/sidebar/sidebar.html %}
-    </div>
-
-  </div>
 </div>
 
-<script type="text/javascript">
-  $('#getting-started').countdown('2015/05/23', function(event) {
-    $(this).html(event.strftime('还有 '
-       + '<span>%w</span> 周 '
-       + '<span>%d</span> 日 '
-       + '<span>%H</span> 时 '
-       + '<span>%M</span> 分 '
-       + '<span>%S</span> 秒开幕'));
-  });
-</script>
+
+{% for post in site.posts %}
+    {% if post.title contains '广州' %}
+
+    {{ post.content | split: '<!-- more -->' | first }}
+    <p style="text-align:center"><a class="btn btn-primary" href="{{ post.url }}">阅读全文→</a></p>
+
+    {% break %}
+    {% endif %}
+{% endfor %}

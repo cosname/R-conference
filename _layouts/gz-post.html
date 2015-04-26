@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div id="overview">
+  <div class="subnav">
+    <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
+      <ul class="nav nav-pills">
+      {% include gz/nav.html %}
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<div class="container{%if site.fluid-layout %}-fluid{%endif%} main">
+  <div class="row-fluid">
+
+    <div class="span9 typo typo-selection">
+      <h2>{{ page.title }}</h2>
+      {{ content }}
+      {% include comment.html %}
+    </div>
+
+    <div class="span3 sidebar">
+    {% include gz/sidebar/sidebar.html %}
+    </div>
+
+  </div>
+</div>
