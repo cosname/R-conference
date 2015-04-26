@@ -660,7 +660,7 @@ form.well {
     margin-right: 0;
   }
   .jumbotron h1 {
-    font-size: 45px;
+    font-size: 28px;
     margin-right: 0;
   }
   .jumbotron p {
@@ -790,7 +790,7 @@ form.well {
 
   /* Scale down the jumbotron content */
   .jumbotron h1 {
-    font-size: 54px;
+    font-size: 30px;
   }
   .jumbotron p {
     margin-right: 0;
@@ -809,7 +809,7 @@ form.well {
 
   /* Scale down the jumbotron content */
   .jumbotron h1 {
-    font-size: 72px;
+    font-size: 36px;
   }
 
 }
