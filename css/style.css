@@ -2,6 +2,13 @@
 html {
 	font-size: 16px; /* Bootstrap sets this to 10px, too small */
 }
+/* "Show details" */
+a.more.collapsed {
+    display: inline;
+}
+a.more {
+    display: none;
+}
 
 
 
