@@ -13,6 +13,20 @@
 	text-align: center;
 	margin: 10px 0;
 }
+/* Widget subtitle */
+.widget-subtitle {
+	text-align: center;
+	margin: 10px 0;
+}
+/* Widget content */
 .widget-content {
 	margin-bottom: 10px; /* widget title has a 10px margin-top */
+}
+/* Sponsors list */
+.sponsors {
+	text-align: center;
+	margin: 10px 0;
+}
+.sponsors img {
+	width: 200px;
 }
