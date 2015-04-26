@@ -1,4 +1,4 @@
-﻿/* ===== Main container ===== */
+﻿/* ===== Container ===== */
 .container-fluid {
 	max-width: 1200px;
 }
@@ -6,8 +6,35 @@
 
 
 
-/* ===== Sidebar ===== */
 
+/* ===== Header ===== */
+#page-banner {
+    color: #ffffff;
+    height: 450px;
+}
+/* Countdown */
+#banner-countdown {
+    border: 0 solid #cccccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 10px 0;
+    text-align: center;
+}
+#banner-countdown span {
+    background-color: #333333;
+    border-radius: 2px;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 25px;
+    padding: 5px;
+}
+
+
+
+/* ===== Sidebar ===== */
 /* Widget title */
 .widget-title {
 	text-align: center;
