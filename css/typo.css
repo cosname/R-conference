@@ -2,8 +2,8 @@
 
 /* 防止用户自定义背景颜色对网页的影响，添加让用户可以自定义字体 */
 html{
-  color:#333;
-  background:#fff;
+  /* color:#333;
+  background:#fff; */
   -webkit-text-size-adjust:100%;
   -ms-text-size-adjust:100%;
   text-rendering:optimizelegibility;
@@ -20,8 +20,8 @@ html.borderbox *, html.borderbox *:before, html.borderbox *:after {
 
 /* 内外边距通常让各个浏览器样式的表现位置不同 */
 body, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td, hr, button, article, aside, details, figcaption, figure, footer, header, menu, nav, section{
-  margin:0;
-  padding:0;
+  /* margin:0;
+  padding:0; */
 }
 
 /* 重设 HTML5 标签, IE 需要在 js 中 createElement(TAG) */
@@ -119,9 +119,9 @@ address, caption, cite, code, dfn, em, th, var{
 }
 
 /* 去掉列表前的标识, li 会继承，大部分网站通常用列表来很多内容，所以应该当去 */
-ul, ol{
+/*ul, ol{
   list-style:none;
-}
+}*/
 
 /* 对齐是排版最重要的因素, 别让什么都居中 */
 caption, th{
@@ -252,8 +252,8 @@ strong, b{font-weight:bold;color:#000;}
 
 h1, h2, h3, h4, h5, h6{
   font-family:'Helvetica Neue', 'Microsoft Yahei', 'Hiragino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif;
-  /*font-weight:200;*/
-  color:#000;
+  /* font-weight:200; */
+  /* color:#000; */
 }
 
 /* 标题应该更贴紧内容，并与其他块区分，margin 值要相应做优化 */
@@ -285,19 +285,19 @@ h1, h2, h3, h4, h5, h6{
 
 /* 在文章中，应该还原 ul 和 ol 的样式 */
 .typo ul, .typo-ul{
-  margin-left:1.3em;
+  /* margin-left:1.3em; */
   list-style:disc;
 }
 
 .typo ol, .typo-ol{
   list-style:decimal;
-  margin-left:1.9em;
+  /* margin-left:1.9em; */
 }
 
 .typo li ul, .typo li ol, .typo-ul ul, .typo-ul ol, .typo-ol ul, .typo-ol ol{
   margin-top:0;
   margin-bottom:0;
-  margin-left:2em;
+  /* margin-left:2em; */
 }
 
 .typo li ul, .typo-ul ul, .typo-ol ul{

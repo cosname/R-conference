@@ -1,4 +1,13 @@
-﻿/* ===== Container ===== */
+/* ===== Global setting ===== */
+html {
+	font-size: 16px; /* Bootstrap sets this to 10px, too small */
+}
+
+
+
+
+
+/* ===== Container ===== */
 .container-fluid {
 	max-width: 1200px;
 }
