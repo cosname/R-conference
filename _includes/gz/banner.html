@@ -1,0 +1,30 @@
+<script type="text/javascript">
+  function adjustBanner() {
+    $("#overview").css("background-color", "#ffffff");
+  }
+
+  $(document).ready(function() {
+    var hour = new Date().getHours();
+    if (hour < 12) {
+      $("#overview").css({
+        /* image origin: http://img.ivsky.com/img/tupian/img/201104/02/beijing_daxue-003.jpg */
+        "background-image": "url('/img/gz/hall.jpg')",
+        "background-position": "center bottom"
+      });
+    } else {
+      $("#overview").css({
+        /* image origin: http://sylt.zhifu.gov.cn/UploadFile/2013-5/201352211165665196.jpg */
+        "background-image": "url('/img/gz/boya_dusk.jpg')",
+        "background-position": "center top"
+      });
+    }
+
+    $('#overview').css({
+      "background-attachment": "inherit"
+    });
+    //$("#overview").css({"background-size": "80% 80%"});
+
+    //setInterval(adjustBanner, 2000);
+    setTimeout(adjustBanner, 2000);
+  })
+</script>
