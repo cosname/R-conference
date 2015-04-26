@@ -1,4 +1,18 @@
-﻿/* Custom container */
+﻿/* ===== Main container ===== */
 .container-fluid {
 	max-width: 1200px;
+}
+
+
+
+
+/* ===== Sidebar ===== */
+
+/* Widget title */
+.widget-title {
+	text-align: center;
+	margin: 10px 0;
+}
+.widget-content {
+	margin-bottom: 10px; /* widget title has a 10px margin-top */
 }
