@@ -4,46 +4,44 @@ layout: default
 
 {% include gz/banner.html %}
 
-<header class="jumbotron subhead" id="overview">
+<header id="overview">
 
   <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
-    <div class="row-fluid" id="banner">
+    <div class="row" id="page-banner">
 
-      <div class="span7">
-        <div class="hero">
-          <h1 style="color: #ddd; margin-top: 50px;">第八届中国R语言会议（广州）</h1>
-          <p class="lead" style="color: #ddd;">
-            2015年5月23日～24日，中山大学
-          </p>
-        </div>
+      <div class="col-md-7">
+          <h1>第八届中国R语言会议（广州）</h1>
+          <h3>2015年5月23日～24日，中山大学</h3>
       </div>
 
-      <div class="span5">
-        <div style="" id="getting-started"></div>
-        <p id="reg-btn"><a class="btn btn-primary btn-large" href="" target="_blank">报名即将开放</a></p>
+      <div class="col-md-5 text-center">
+        <div style="" id="banner-countdown"></div>
+        <a class="btn btn-primary btn-lg" href="" target="_blank">报名即将开放</a>
       </div>
 
     </div>
   </div>
 
-  <div class="subnav">
+  <nav class="navbar navbar-inverse">
     <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
-      <ul class="nav nav-pills">
-      {% include gz/nav.html %}
-      </ul>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+        {% include gz/nav.html %}
+        </ul>
+      <div class="collapse navbar-collapse">
     </div>
-  </div>
+  </nav>
 
 </header>
 
 <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
-  <div class="row-fluid">
+  <div class="row">
 
-    <div class="span9 typo typo-selection">
+    <div class="col-md-9 typo">
     {{ content }}
     </div>
 
-    <div class="span3 sidebar">
+    <div class="col-md-3" id="sidebar">
     {% include gz/sidebar/sidebar.html %}
     </div>
 
@@ -51,7 +49,7 @@ layout: default
 </div>
 
 <script type="text/javascript">
-  $('#getting-started').countdown('2015/05/23', function(event) {
+  $('#banner-countdown').countdown('2015/05/23', function(event) {
     $(this).html(event.strftime('还有 '
        + '<span>%w</span> 周 '
        + '<span>%d</span> 日 '
