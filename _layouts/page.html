@@ -2,31 +2,29 @@
 layout: default
 ---
 
-
 <div id="overview">
-
-  <div class="subnav">
+  <nav class="navbar navbar-inverse">
     <div class="container{%if site.fluid-layout %}-fluid{%endif%}">
-    <ul class="nav nav-pills">
-    {% include nav.html %}
-    </ul>
-	</div>
-  </div>
-
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+        {% include nav.html %}
+        </ul>
+      <div class="collapse navbar-collapse">
+    </div>
+  </nav>
 </div>
 
+<div class="container{%if site.fluid-layout %}-fluid{%endif%}">
+  <div class="row">
 
-<div class="container{%if site.fluid-layout %}-fluid{%endif%} main">
-  <div class="row-fluid">
-
-    <div class="span9 typo typo-selection">
+    <div class="col-md-9 typo">
       <h2>{{ page.title }}</h2>
       {{ content }}
     </div>
 
-	<div class="span3 sidebar">
-	{% include sidebar/sidebar.html %}
-	</div>
+    <div class="col-md-3" id="sidebar">
+    {% include sidebar/sidebar.html %}
+    </div>
 
   </div>
 </div>
