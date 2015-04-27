@@ -7,12 +7,10 @@
     var hour = new Date().getHours();
     if (hour < 12) {
       $("#overview").css({
-	    /* image origin: /gz/img/zhongda.jpg */
         "background-image": "url('/img/pic_morning.jpg')",
         "background-position": "center bottom"
       });
     } else {
-	  /* image origin: /gz/img/zhongda.jpg */
       $("#overview").css({
         "background-image": "url('/img/pic_evening.jpg')",
         "background-position": "center top"
