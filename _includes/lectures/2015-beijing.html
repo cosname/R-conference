@@ -3,7 +3,7 @@
     <tr class="success">
       <th>嘉宾介绍</th>
       <th>演讲介绍</th>
-    </tr>
+    </tr>f'l
 
 <tr>
     <td><b>郁彬（UC Berkeley）</b><br><br>Bin Yu is Chancellor’s Professor in the Departments of Statistics and of Electrical Engineering & Computer Science at the University of California at Berkeley.  Her current research interests focus on statistics and machine learning theory, methodologies, and algorithms for solving high- dimensional data problems. Her group is engaged in interdisciplinary research with scientists from genomics, neuroscience, and remote sensing.
@@ -417,9 +417,8 @@ Online experiments often shows the weak signal problem among massive data set an
 
 <tr>
     <td><b>冯凌秉（江西财经大学 金融管理国际研究院）</b><br><br>男， 1988年5月生， 安徽合肥人。本科毕业于中南财经政法大学统计学专业，研究生毕业于中国人民大学统计学专业，博士毕业于澳大利亚国立大学。研究兴趣为应用统计与金融计量。</td>
-    <td><b>imputeR: A General Imputation Framework</b><br><br>imputeR实现了缺失值插补的一个综合框架。此框架主要有两个特点：首先，其核心是在缺失值插补算法中利用了变量选择技术，以达到更好的插补精度并且保证了插补的收敛速度；此外，可用于该框架下的数据类型包括连续型数据，分类型数据和混合型数据，也即包含了在现实数据处理中所遇到的大多数数据类型。
-
-本演讲将简述该框架的算法原理，并详细介绍imputeR包中实现该算法的具体函数。</td>
+    <td><b>imputeR: A General Imputation Framework</b><br><br>数据的搜集、记录和保存过程很难保证数据的完整性，数据的缺失基本是难以避免的，然而大多数统计模型又都需要数据是完整的，从而导致缺失值问题成为数据分析不可逾越的鸿沟。如何精确有效的插补数据中的缺失值一直是统计学的热门研究课题。
+imputeR建立在missForest（Stekhoven & Bühlmann, 2013）方法之上，提出了一个综合性的缺失值插补框架。在此框架下， 1. 所有具有变量选择功能的模型，比如最小子集回归，Lasso, 决策树，随机森林等都可以用作缺失值的插补；2. 它可以插补三种类型的数据：连续性变量数据，分类型变量的数据以及混合型变量的数据。本演讲将结合imputeR包介绍该算法的设计细节，插补精度与效率表现以及实证收敛特性。</td>
 </tr>
 
 
