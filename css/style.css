@@ -66,11 +66,11 @@ a.more {
 	margin-bottom: 10px; /* widget title has a 10px margin-top */
 }
 /* Sponsors list */
-.sponsors {
+.sponsors, .hosts {
 	text-align: center;
 	margin: 10px 0;
 }
-.sponsors img {
+.sponsors img, .hosts img {
 	width: 200px;
 }
 
