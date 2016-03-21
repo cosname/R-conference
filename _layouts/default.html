@@ -1,5 +1,21 @@
-{% include head.html %}
-{{ content }}
-{% include footer.html %}
-{% include foot.html %}
+<!DOCTYPE html>
+<html lang="zh-CN">
 
+  {% include head.html %}
+
+  <body>
+    <div id='wx_logo' style='display:none;'>
+      <img src='/img/cos-logo-300x300.jpg' />
+    </div>
+
+    {% include header.html %}
+
+    <div class="container site-main">
+      {{ content }}
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
