@@ -1,24 +1,18 @@
-# This is the default format. 
-# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:year/:title 
-
-fluid-layout: true
-
-#pygments: false
-markdown: kramdown
-
-#paginate: 5
-
-# Themes are encouraged to use these universal variables 
-# so be sure to set them if your theme uses them.
+# Welcome to Jekyll!
 #
-title : 中国R语言会议
-description: 中国R语言会议是中国R语言用户和开发者社区的重要会议，会议由中国最大的统计学门户网站——统计之都（http://cos.name）主办，会议演讲者主要由主办方邀请，感兴趣的用户也可以自由申请演讲。
-keywords: R语言, 数据分析, 数据挖掘, 机器学习, 商业智能, 大数据
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# description: 
-# keywords: 
-# author :
+# Site settings
+title: 中国R语言会议
+email: contact@cos.name
+description: 中国R语言会议是中国R语言和数据科学的重要会议，由中国最大的统计学门户网站——统计之都（http://cos.name）主办。
+keywords: R语言, 数据科学，数据分析, 数据挖掘, 机器学习, 商业智能, 大数据
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://localhost:4000" # the base hostname & protocol for your site
 
-product_url: http://china-r.org
-
+# Build settings
+markdown: kramdown
+permalink: /:year/:title 

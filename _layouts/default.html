@@ -1,5 +1,22 @@
-{% include head.html %}
-{{ content }}
-{% include footer.html %}
-{% include foot.html %}
+<!DOCTYPE html>
+<html lang="zh-CN">
 
+  {% include head.html %}
+
+  <body>
+
+    <div id="wx_logo" style="display:none;">
+      <img src="{{ '/img/logo-cos-square.png' | prepend: site.baseurl }}" />
+    </div>
+
+    {% include header.html %}
+
+    <div id="site_main">
+      {{ content }}
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
