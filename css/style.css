@@ -42,7 +42,7 @@ a:active {
 h1,h2, h3, h4, h5, h6 {
 	font-weight:700;
 	line-height:1.1em;
-	color:#666;
+	color:#333;
 	margin-bottom: 20px;
 }
 
@@ -572,7 +572,7 @@ header ul.nav li ul li.dropdown-submenu li a {
 	padding:0;
 }
 #featured.bg {
-	background: url(../img/dummies/feat-bg.jpg) no-repeat top center;
+	background: url(../img/slides/bg.jpg) no-repeat top center;
 }
 
 /* ===================================
@@ -609,23 +609,25 @@ box-shadow: none;
 /* ===================================
 7. Section: call action
 ==================================== */
-section.callaction {
-	background:#fafafa;
-	padding:30px 0 0 0;
-}
 .cta-text {
 	margin-top:10px;
-	text-align: left;
+	text-align:left;
 }
 
 .cta-text h2 {
 	font-weight:900;
 	line-height:1.1em;
 }
+
 .cta-btn {
 	float:right;
 	padding:20px;
 	margin-top:10px;
+}
+
+section.contrast {
+	background:#F0F0F0;
+	padding:30px 0 0 0;
 }
 
 /* ===================================
