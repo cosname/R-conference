@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 主办机构
+location: bj
 ---
 
 ### [中国人民大学统计学院](http://stat.ruc.edu.cn/)
