@@ -7,7 +7,7 @@ title: 主办机构
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/logo-ruc.jpg' | prepend: site.baseurl }}" alt="中国人民大学" class="img-responsive center-block" />
+    <img src="{{ '/img/logo-ruc.jpg' | prepend: site.qiniubaseurl }}" alt="中国人民大学" class="img-responsive center-block" />
   </div>
 </div>
 
@@ -17,7 +17,7 @@ title: 主办机构
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/logo-pku.jpg' | prepend: site.baseurl }}" alt="北京大学" class="img-responsive center-block" />
+    <img src="{{ '/img/logo-pku.jpg' | prepend: site.qiniubaseurl }}" alt="北京大学" class="img-responsive center-block" />
   </div>
 </div>
 
@@ -27,7 +27,7 @@ title: 主办机构
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/logo-cos.png' | prepend: site.baseurl }}" alt="统计之都" class="img-responsive center-block" />
+    <img src="{{ '/img/logo-cos.png' | prepend: site.qiniubaseurl }}" alt="统计之都" class="img-responsive center-block" />
   </div>
 </div>
 

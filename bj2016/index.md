@@ -6,7 +6,7 @@ title: 第九届中国R语言会议（北京）
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/img/ruc2.jpg' | prepend: site.baseurl }}" alt="人民大学" class="img-responsive" />
+    <img src="{{ '/img/ruc2.jpg' | prepend: site.qiniubaseurl }}" alt="人民大学" class="img-responsive" />
   </div>
 </div>
 
@@ -64,19 +64,19 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
 
   <div class="col-md-4 aligncenter client">
     <a href="http://www.baifendian.com/" title="百分点" target="_blank">
-      <img src="{{ '/img/logo-baifendian.jpg' | prepend: site.baseurl }}" alt="百分点" class="img-responsive center-block" />
+      <img src="{{ '/img/logo-baifendian.jpg' | prepend: site.qiniubaseurl }}" alt="百分点" class="img-responsive center-block" />
     </a>
   </div>
 
   <div class="col-md-4 aligncenter client">
     <a href="http://www.kaolazhengxin.com/" title="考拉征信" target="_blank">
-      <img src="{{ '/img/logo-kaola.jpg' | prepend: site.baseurl }}" alt="考拉征信" class="img-responsive center-block" />
+      <img src="{{ '/img/logo-kaola.jpg' | prepend: site.qiniubaseurl }}" alt="考拉征信" class="img-responsive center-block" />
     </a>
   </div>
 
   <div class="col-md-4 aligncenter client">
     <a href="http://www.quanttech.cn/" title="量邦" target="_blank">
-      <img src="{{ '/img/logo-liangbang.jpg' | prepend: site.baseurl }}" alt="量邦" class="img-responsive center-block" />
+      <img src="{{ '/img/logo-liangbang.jpg' | prepend: site.qiniubaseurl }}" alt="量邦" class="img-responsive center-block" />
     </a>
   </div>
 

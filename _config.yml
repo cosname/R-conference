@@ -13,6 +13,8 @@ keywords: R语言, 数据科学，数据分析, 数据挖掘, 机器学习, 商�
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://china-r.org" # the base hostname & protocol for your site
 
+qiniubaseurl: "http://7xs9ic.com1.z0.glb.clouddn.com"  # qiniu CDN speedup
+
 # Build settings
 markdown: kramdown
 permalink: /:year/:title
