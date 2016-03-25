@@ -16,9 +16,17 @@
 
       <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav">
-          <li><a href="{{ '/'                  | prepend: site.baseurl }}">首页</a></li>
-          <li><a href="{{ '/bj2016/index.html' | prepend: site.baseurl }}">最新</a></li>
-          <li><a href="{{ '/history.html'      | prepend: site.baseurl }}">历史</a></li>
+          <li><a href="{{ '/' | prepend: site.baseurl }}">首页</a></li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">
+              最新 <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="{{ '/xian2016/index.html' | prepend: site.baseurl }}">西安会场</a></li>
+              <li><a href="{{ '/bj2016/index.html'   | prepend: site.baseurl }}">北京会场</a></li>
+            </ul>
+          </li>
+          <li><a href="{{ '/history.html' | prepend: site.baseurl }}">历史</a></li>
         </ul>
       </div>
 
