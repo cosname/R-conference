@@ -342,17 +342,3 @@ title: 往届会议
 
   </div>
 </section>
-
-<script type="text/javascript">
-jQuery(document).ready(function($) { 
-      $('h4.timeline-title a').each(function(index,element){
-                var href = $(this).attr('href');
-                if(href.indexOf('#') == 0){
-                }else if ( href.indexOf('/') == 0 || href.toLowerCase().indexOf('china-r.org')>-1 ){
-                }else{
-                    $(this).attr('target','_blank');
-                    $(this).addClass('external');
-                }
-        });  
-	});
- </script>
