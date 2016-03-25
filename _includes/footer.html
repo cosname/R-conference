@@ -3,18 +3,18 @@
   <div class="container">
 		<div class="row">
 
-      <div class="col-md-4 text-center">
+      <div class="col-sm-4 text-center">
         <h4>关于我们</h4>
         <p><a href="http://cos.name/about">关于统计之都</a></p>
         <p><a href="http://cos.name/2008/11/how-to-work-with-cos/">加入我们</a></p>
       </div>
 
-     <div class="col-md-4 text-center">
+     <div class="col-sm-4 text-center">
        <h4>官方微信</h4>
        <img width="100px" src="{{ '/img/qrcode-8cm.jpg' | prepend: site.qiniubaseurl }}" alt="QR code">
      </div>
 
-     <div class="col-md-4 text-center">
+     <div class="col-sm-4 text-center">
        <h4>官方微博</h4>
        <iframe width="200" height="100" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=200&height=100&fansRow=2&ptype=1&speed=0&skin=1&isTitle=0&noborder=0&isWeibo=0&isFans=0&uid=1869170057&verifier=44dd67f8&dpc=1"></iframe>
      </div>
@@ -44,25 +44,27 @@
   </div>
 
 </footer>
-<script type="text/javascript">
-jQuery(document).ready(function($) { 
-      $('body a').each(function(index,element){
-                var href = $(this).attr('href');
-                if(href.indexOf('#') == 0){
-                }else if ( href.indexOf('/') == 0 || href.toLowerCase().indexOf('china-r.org')>-1 ){
-                }else{
-                    $(this).attr('target','_blank');
-                    $(this).addClass('external');
-                }
-        });  
-	});
- </script>
-  <script type="text/javascript">
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    ga('create', 'UA-1988641-9', 'china-r.org');
-    ga('send', 'pageview');
-  </script>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+  $('body a').each(function(index, element) {
+    var href = $(this).attr('href');
+    if(href.indexOf('#') == 0) {
+    } else if(href.indexOf('/') == 0 || href.toLowerCase().indexOf('china-r.org') > -1 ) {
+    } else {
+      $(this).attr('target', '_blank');
+      $(this).addClass('external');
+    }
+  });
+});
+</script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1988641-9', 'china-r.org');
+  ga('send', 'pageview');
+</script>
