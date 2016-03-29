@@ -12,26 +12,25 @@
 
   <link rel="stylesheet" href="{{ '/css/bootstrap.min.css' | prepend: site.qiniubaseurl }}">
   <link rel="stylesheet" href="{{ '/plugins/flexslider/flexslider.css' | prepend: site.qiniubaseurl }}">
-  <link rel="stylesheet" href="{{ '/css/skins/blue.css'    | prepend: site.qiniubaseurl }}">
-  <link rel="stylesheet" href="{{ '/css/style.css'         | prepend: site.qiniubaseurl }}">
-  <link rel="stylesheet" href="{{ '/css/timeline.css'      | prepend: site.qiniubaseurl }}">
+  <link rel="stylesheet" href="{{ '/css/skins/blue.css'  | prepend: site.qiniubaseurl }}">
+  <link rel="stylesheet" href="{{ '/css/style.css'       | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ '/css/timeline.css'    | prepend: site.qiniubaseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
   <script type="text/javascript" src="{{ '/js/jquery-2.2.2.min.js' | prepend: site.qiniubaseurl }}"></script>
   <script type="text/javascript" src="{{ '/js/bootstrap.min.js'    | prepend: site.qiniubaseurl }}"></script>
   <script type="text/javascript" src="{{ '/plugins/flexslider/jquery.flexslider-min.js' | prepend: site.qiniubaseurl }}"></script>
   <script type="text/javascript" src="{{ '/plugins/flexslider/flexslider.config.js'     | prepend: site.qiniubaseurl }}"></script>
-  
+
   <script type="text/javascript">
-     $(function() {      
-        $('.dropdown').hover(function() {
-           $(this).addClass('open');
-        },
-       function() {
-         $(this).removeClass('open');
-       });
-       
-     });       
+    $(function() {
+      $('.dropdown').hover(function() {
+        $(this).addClass('open');
+      },
+      function() {
+        $(this).removeClass('open');
+      });
+    });
   </script>
 
 </head>
