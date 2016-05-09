@@ -2572,3 +2572,8 @@ a.btn.btn-wide {
 
 
 /* Theme Styler :: End */
+
+
+.table tbody>tr>td{
+    vertical-align: middle;
+}
