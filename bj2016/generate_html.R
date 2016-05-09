@@ -2,7 +2,8 @@ library(readxl)
 library(dplyr)
 
 tab = read_excel("speakers.xls")
-names(tab) = c("session", "sponsor", "order_within_session", "location", "time",
+names(tab) = c("sessionid", "session", "chair", "session2", "sponsor", "order_within_session",
+               "location", "time",
                "name", "org", "department", "position",
                "email", "cellphone", "website", "title",
                "intro", "abstract")
@@ -10,7 +11,7 @@ names(tab) = c("session", "sponsor", "order_within_session", "location", "time",
 dat = tab %>%
     select(session, order_within_session, name, org, website, title, intro, abstract) %>%
     arrange(session, order_within_session) %>%
-    mutate(session_name = substr(session, 4, 7),
+    mutate(session_name = substring(session, 5),
            intro = gsub("\\n+", "<br>", intro),
            abstract = gsub("\\n+", "<br>", abstract))
 
