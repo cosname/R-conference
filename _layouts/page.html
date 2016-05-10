@@ -4,20 +4,20 @@ layout: default
 
 <section id="content">
   <div class="container">
-		<div class="row">
+	<div class="row">
 
-			<div class="col-md-9">
+      <div class="col-md-3 col-md-push-9 col-xs-12">
+        <aside class="right-sidebar">
+          {% include sidebar-{{page.location}}.html %}
+        </aside>
+      </div>
+
+	  <div class="col-md-9 col-md-pull-3 col-xs-12">
         <div class="text-center">
           <h2>{{ page.title }}</h2>
         </div>
 
         {{ content }}
-      </div>
-
-      <div class="col-md-3">
-        <aside class="right-sidebar">
-          {% include sidebar-{{page.location}}.html %}
-        </aside>
       </div>
 
     </div>
