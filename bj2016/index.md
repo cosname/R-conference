@@ -64,8 +64,7 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
 
 ### 五、会议赞助
 
-本届会议的赞助商包括：
-
+<h3 class ="text-center">白金赞助</h3>
 <div class="row">
 
   <div class="col-md-4 aligncenter client">
@@ -87,6 +86,46 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
   </div>
 
 </div>
+<h3 class="text-center">金牌赞助</h3>
+<div class="row">
+
+  <div class="col-md-3 aligncenter client">
+    <a href="http://www.rstudio.com/" title="Rsudio" target="_blank">
+      <img src="{{ '/img/logo-rstudio.png' | prepend: site.baseurl }}" alt="RStudio" class="img-responsive center-block" />
+    </a>
+  </div>
+
+  <div class="col-md-3 aligncenter client">
+    <a href="http://lantouzi.com/" title="懒投资" target="_blank">
+      <img src="{{ '/img/logo-lantouzi.png' | prepend: site.baseurl }}" alt="懒投资" class="img-responsive center-block" />
+    </a>
+  </div>
+
+  <div class="col-md-3 aligncenter client">
+    <a href="https://www.microsoft.com/zh-cn" title="微软" target="_blank">
+      <img src="{{ '/img/logo-microsoft.png' | prepend: site.baseurl }}" alt="微软" class="img-responsive center-block" />
+    </a>
+  </div>
+
+  <div class="col-md-3 aligncenter client">
+    <a href="http://www.tableau.com/" title="Tableau" target="_blank">
+      <img src="{{ '/img/logo-tableau.jpg' | prepend: site.baseurl }}" alt="Tableau" class="img-responsive center-block" />
+    </a>
+  </div>
+
+</div>
+<h3 class="text-center">银牌赞助</h3>
+
+<div class="row">
+
+  <div class="col-md-4 col-md-offset-4">
+    <a href="http://nycdatascience.com/" title="NYC Data Science Academy" target="_blank">
+      <img src="{{ '/img/logo-nycdsa.png' | prepend: site.baseurl }}" alt="NYC Data Science Academy" class="img-responsive center-block" />
+    </a>
+  </div>
+
+</div>
+
 
 本次大会欢迎任何企业、高校、个人的多种形式赞助，作为回馈，会议手册上会印制赞助商介绍，同时为赞助商提供报告演讲机会。会议具体情况请和会务组讨论商定，请联系chinar-2016-bj@cos.name。
 
