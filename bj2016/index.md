@@ -65,6 +65,7 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
 ### 五、会议赞助
 
 <h3 class ="text-center">白金赞助</h3>
+
 <div class="row">
 
   <div class="col-md-4 aligncenter client">
@@ -86,7 +87,9 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
   </div>
 
 </div>
+
 <h3 class="text-center">金牌赞助</h3>
+
 <div class="row">
 
   <div class="col-md-3 aligncenter client">
@@ -114,6 +117,7 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
   </div>
 
 </div>
+
 <h3 class="text-center">银牌赞助</h3>
 
 <div class="row">
