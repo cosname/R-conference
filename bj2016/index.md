@@ -70,7 +70,7 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
 
   <div class="col-md-4 aligncenter client">
     <a href="http://www.baifendian.com/" title="百分点" target="_blank">
-      <img src="{{ '/img/logo-baifendian.jpg' | prepend: site.qiniubaseurl }}" alt="百分点" class="img-responsive center-block" />
+      <img src="{{ '/img/logo-baifendian.jpg' | prepend: site.baseurl }}" alt="百分点" class="img-responsive center-block" />
     </a>
   </div>
 
