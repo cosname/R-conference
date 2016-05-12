@@ -64,8 +64,7 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
 
 ### 五、会议赞助
 
-本届会议的赞助商包括：
-
+<h3 class ="text-center">白金赞助</h3>
 <div class="row">
 
   <div class="col-md-4 aligncenter client">
