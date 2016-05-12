@@ -86,7 +86,7 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
   </div>
 
 </div>
-<h3>金牌赞助</h3>
+<h3 class="text-center">金牌赞助</h3>
 <div class="row">
 
   <div class="col-md-3 aligncenter client">
@@ -110,6 +110,17 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
   <div class="col-md-3 aligncenter client">
     <a href="http://www.tableau.com/" title="Tableau" target="_blank">
       <img src="{{ '/img/logo-tableau.jpg' | prepend: site.baseurl }}" alt="Tableau" class="img-responsive center-block" />
+    </a>
+  </div>
+
+</div>
+<h3 class="text-center">银牌赞助</h3>
+
+<div class="row">
+
+  <div class="col-md-4 col-md-offset-4">
+    <a href="http://nycdatascience.com/" title="NYC Data Science Academy" target="_blank">
+      <img src="{{ '/img/logo-nycdsa.png' | prepend: site.baseurl }}" alt="NYC Data Science Academy" class="img-responsive center-block" />
     </a>
   </div>
 
