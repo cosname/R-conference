@@ -39,8 +39,9 @@ location: bj
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/logo-baifendian.jpg' | prepend: site.baseurl }}" alt="统计之都" class="img-responsive center-block" />
+    <img src="{{ '/img/logo-baifendian.jpg' | prepend: site.baseurl }}" alt="百分点" class="img-responsive center-block" />
   </div>
-  
+ </div> 
+ 
 百分点集团成立于2009年，是中国领先的大数据技术与应用服务商。目前，已为近2,000家企业提供大数据技术平台搭建和大数据驱动的SaaS应用，客户涵盖制造、金融、汽车、零售、快消、电商、媒体、政府等行业的龙头企业，如华为、TCL、长虹、建设银行、华夏银行、王府井百货、汤臣倍健、1号店、第一财经和中关村在线等。
 
