@@ -86,7 +86,7 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
   </div>
 
 </div>
-
+<h3>金牌赞助</h3>
 <div class="row">
 
   <div class="col-md-3 aligncenter client">
