@@ -76,7 +76,7 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
 
   <div class="col-md-4 aligncenter client">
     <a href="http://www.kaolazhengxin.com/" title="考拉征信" target="_blank">
-      <img src="{{ '/img/logo-kaola.jpg' | prepend: site.qiniubaseurl }}" alt="考拉征信" class="img-responsive center-block" />z
+      <img src="{{ '/img/logo-kaola.jpg' | prepend: site.qiniubaseurl }}" alt="考拉征信" class="img-responsive center-block" />
     </a>
   </div>
 
