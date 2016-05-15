@@ -58,21 +58,13 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
 18. 智能制造
 19. 汽车联网
 
-### 四、演讲报名
 
-大会除了邀请嘉宾演讲之外，也欢迎报名演讲。主题包括但不限于金融与金融大数据、统计与机器学习、业界应用与数据可视化、自然语言与软件工具等。欢迎有兴趣的演讲者将个人简介、二寸照片、演讲题目、演讲摘要（200字左右）邮件发送至chinar-2016-bj@cos.name。大会组委会将对报名的演讲择优录用。演讲者报名截止日期为4月10日。
 
-### 五、会议赞助
+### 四、会议赞助
 
 <h3 class ="text-center">白金赞助</h3>
 
-<div class="row">
 
-  <div class="col-md-4 aligncenter client">
-    <a href="http://www.baifendian.com/" title="百分点" target="_blank">
-      <img src="{{ '/img/logo-baifendian.jpg' | prepend: site.baseurl }}" alt="百分点" class="img-responsive center-block" />
-    </a>
-  </div>
 
   <div class="col-md-4 aligncenter client">
     <a href="http://www.kaolazhengxin.com/" title="考拉征信" target="_blank">
