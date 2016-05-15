@@ -65,7 +65,7 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
 <h3 class ="text-center">白金赞助</h3>
 
 
-
+<div class="row">
   <div class="col-md-4 aligncenter client">
     <a href="http://www.kaolazhengxin.com/" title="考拉征信" target="_blank">
       <img src="{{ '/img/logo-kaola.jpg' | prepend: site.qiniubaseurl }}" alt="考拉征信" class="img-responsive center-block" />
@@ -77,7 +77,7 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
       <img src="{{ '/img/logo-liangbang.jpg' | prepend: site.qiniubaseurl }}" alt="量邦" class="img-responsive center-block" />
     </a>
   </div>
-
+</div>
 
 
 <h3 class="text-center">金牌赞助</h3>
