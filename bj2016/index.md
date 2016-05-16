@@ -90,7 +90,7 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
     </a>
   </div>
 
-  <div class="col-md-4 col-md-offset-6 aligncenter client">
+  <div class="col-md-4 aligncenter client">
     <a href="http://www.quanttech.cn/" title="量邦" target="_blank">
       <img src="{{ '/img/logo-liangbang.jpg' | prepend: site.qiniubaseurl }}" alt="量邦" class="img-responsive center-block" />
     </a>
@@ -132,7 +132,7 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
 
 <div class="row">
 
-  <div class="col-md-4 col-md-offset-4">
+  <div class="col-md-2 col-md-offset-5">
     <a href="http://nycdatascience.com/" title="NYC Data Science Academy" target="_blank">
       <img src="{{ '/img/logo-nycdsa.png' | prepend: site.baseurl }}" alt="NYC Data Science Academy" class="img-responsive center-block" />
     </a>
