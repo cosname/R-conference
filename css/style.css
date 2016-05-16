@@ -2577,3 +2577,9 @@ a.btn.btn-wide {
 .table tbody>tr>td{
     vertical-align: middle;
 }
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
