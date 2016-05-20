@@ -138,9 +138,15 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
 
 <div class="row">
 
-  <div class="col-md-3 col-centered">
+  <div class="col-md-3 col-md-offset-3 aligncenter client">
     <a href="http://nycdatascience.com/" title="NYC Data Science Academy" target="_blank">
       <img src="{{ '/img/logo-nycdsa.png' | prepend: site.baseurl }}" alt="NYC Data Science Academy" class="img-responsive center-block" />
+    </a>
+  </div>
+
+  <div class="col-md-3 aligncenter client">
+    <a href="http://www.jjklife.com/" title="记健康" target="_blank">
+      <img src="{{ '/img/logo-jjk.png' | prepend: site.baseurl }}" alt="记健康" class="img-responsive center-block" />
     </a>
   </div>
 
