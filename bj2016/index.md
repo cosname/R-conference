@@ -37,6 +37,11 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
 
 - [会议手册]({{ '/files/ChinaR_9th.pdf' | prepend: site.baseurl }})
 
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <img src="{{ '/img/table.png' | prepend: site.qiniubaseurl }}" alt="中国人民大学" class="img-responsive center-block" />
+  </div>
+</div>
 
 
 分会场主题如下：
