@@ -86,13 +86,6 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
 22.时空数据
 
 
-<div class="row">
- <div class="col-md-3 aligncenter client">
-    <a href=" " title="记健康" target="_blank">
-      <img src="{{ '/img/table.png' | prepend: site.baseurl }}" alt="记健康" class="img-responsive center-block" />
-    </a>
-  </div>
-
 
 
 ### 四、会议赞助
