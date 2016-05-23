@@ -39,7 +39,7 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/table.png' | prepend: site.qiniubaseurl }}" alt="中国人民大学"　　 class="img-responsive center-block" />
+    <img src="{{ '/img/logo-ruc.jpg' | prepend: site.qiniubaseurl }}" alt="中国人民大学" class="img-responsive center-block" />
   </div>
 </div>
 
