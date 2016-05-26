@@ -1988,10 +1988,10 @@ location: bj
 
   <tr>
     <td class="col-md-2">
-    <p>尹志</p>
+    <p>邱怡轩</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>大数据时代的柳叶刀 --- data.table使用体验</strong></p>
+    <p class="text-center"><strong>SupR：让R语言走向多线程并行计算</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-19-sub-3">详情</button>
@@ -1999,17 +1999,17 @@ location: bj
   </tr>
   <tr class="collapse" id="session-19-sub-3">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> “跑一下你的Hadoop，我有一堆大数据需要你处理。”他递给我一个容量为2G的U盘，淡淡地说道。<br>在大数据的浪潮下，许多从业人员开始将Hadoop，Spark等工具奉为圭臬。然而，在各类数据挖掘场景下，我们更多面对的是GB量级的“中型数据”。撇开庞大臃肿的Hadoop，快速拥抱数据、挖掘有效信息才是我们<br>真正的目标。本报告将介绍R语言data.table包。该工具堪称大数据时代的柳叶刀--快速、高效、自成一体。报告将围绕data.table的历史、特点、使用及技巧展开。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 尹志：尹志，浙江大学物理学博士，现就职于宁波工程学院理学院。水过机器学习论文，做过数据挖掘项目，打过数据科学比赛。研究方向集中在推荐系统、文本挖掘等机器学习领域，对解决各类数据科学相关的实际问题尤感兴趣。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> R语言是一个深受众多数据科学家喜爱的数据分析软件和平台，然而随着数据规模的增大，它的一些弊端也逐渐显露。例如，R对并行计算和分布式数据存储的支持不太理想，这使得它在大规模数据的分析上有所欠缺。即使目前有若干支持R并行计算的扩展包，但它们大都是基于进程级别的并行，其劣势是内存占用大，通信成本高。<br>对于数据分析平台，理想的并行模式是在单机上进行多线程的并行（例如C/C++的OpenMP和Java的Thread类），集群上进行多机之间的通信，一个典型的例子就是目前非常流行的Apache Spark。至今为止R语言的官方版本尚不能很好地支持多线程并行，原因是R的解释器和内存调度不是线程安全的。但考虑到R语言长久的社区支持和软件包积累，如果能让R语言实现这样的并行机制，将能极大地节省数据分析者的开发成本。<br>为了解决这一难题，普渡大学的刘传海教授基于R的官方版本试验开发了一款同时支持多线程和分布式计算的修改版R——SupR。SupR对官方R在源代码级别上进行了修改和补充，同时借鉴了Spark平台的诸多特性，实现了如下适合大规模数据分析的特性：<br>(1) 保持R的语法和内部数据结构不变<br>(2) 提供类似于Java的多线程计算<br>(3) 提供类似于Spark的集群运算<br>(4) 内置的分布式文件系统支持<br>SupR目前处于开发阶段，正式版将以开源软件的形式发布。当前的开发信息可以在http://www.stat.purdue.edu/~chuanhai/SupR/internal/index.html上获取。我们希望SupR能吸引更多的开发者和使用者，将R语言真正带向大规模数据分析的世界。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 邱怡轩：普渡大学统计系博士生，统计之都理事会成员，感兴趣的方向包括复杂数据的统计推断，大规模统计计算和统计学习等。参与翻译了《ggplot2：数据分析与图形艺术》、《R语言编程艺术》、《应用预测模型》等书籍，是RSpectra、showtext、recosystem等R软件包的开发者。</p>
     </td>
   </tr>
-
+  
   <tr>
     <td class="col-md-2">
-    <p>覃文锋</p>
+    <p>尹志</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>Rust and R Integration</strong></p>
+    <p class="text-center"><strong>大数据时代的柳叶刀 --- data.table使用体验</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-19-sub-4">详情</button>
@@ -2017,11 +2017,12 @@ location: bj
   </tr>
   <tr class="collapse" id="session-19-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. <br>The rustr Rust library and rustinr R package simplifies integrating Rust code with R. It provides Rust interfaces that map many types of R objects (vectors,  functions, environments, ...) to Rust type. Object interchange between R and Rust is easy. Rust code can be compiled, and loaded on the fly, or added to a package.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 覃文锋：厦门大学公共卫生学院学生。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> “跑一下你的Hadoop，我有一堆大数据需要你处理。”他递给我一个容量为2G的U盘，淡淡地说道。<br>在大数据的浪潮下，许多从业人员开始将Hadoop，Spark等工具奉为圭臬。然而，在各类数据挖掘场景下，我们更多面对的是GB量级的“中型数据”。撇开庞大臃肿的Hadoop，快速拥抱数据、挖掘有效信息才是我们<br>真正的目标。本报告将介绍R语言data.table包。该工具堪称大数据时代的柳叶刀--快速、高效、自成一体。报告将围绕data.table的历史、特点、使用及技巧展开。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 尹志：尹志，浙江大学物理学博士，现就职于宁波工程学院理学院。水过机器学习论文，做过数据挖掘项目，打过数据科学比赛。研究方向集中在推荐系统、文本挖掘等机器学习领域，对解决各类数据科学相关的实际问题尤感兴趣。</p>
     </td>
   </tr>
 
+ 
   <tr>
     <td class="col-md-2">
     <p>肖凯</p>
@@ -2039,13 +2040,12 @@ location: bj
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 肖凯：一个爱折腾数据的人，《数据科学中的R语言》作者之一。</p>
     </td>
   </tr>
-
-  <tr>
+ <tr>
     <td class="col-md-2">
-    <p>邱怡轩</p>
+    <p>覃文锋</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>SupR：让R语言走向多线程并行计算</strong></p>
+    <p class="text-center"><strong>Rust and R Integration</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-19-sub-6">详情</button>
@@ -2053,10 +2053,12 @@ location: bj
   </tr>
   <tr class="collapse" id="session-19-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> R语言是一个深受众多数据科学家喜爱的数据分析软件和平台，然而随着数据规模的增大，它的一些弊端也逐渐显露。例如，R对并行计算和分布式数据存储的支持不太理想，这使得它在大规模数据的分析上有所欠缺。即使目前有若干支持R并行计算的扩展包，但它们大都是基于进程级别的并行，其劣势是内存占用大，通信成本高。<br>对于数据分析平台，理想的并行模式是在单机上进行多线程的并行（例如C/C++的OpenMP和Java的Thread类），集群上进行多机之间的通信，一个典型的例子就是目前非常流行的Apache Spark。至今为止R语言的官方版本尚不能很好地支持多线程并行，原因是R的解释器和内存调度不是线程安全的。但考虑到R语言长久的社区支持和软件包积累，如果能让R语言实现这样的并行机制，将能极大地节省数据分析者的开发成本。<br>为了解决这一难题，普渡大学的刘传海教授基于R的官方版本试验开发了一款同时支持多线程和分布式计算的修改版R——SupR。SupR对官方R在源代码级别上进行了修改和补充，同时借鉴了Spark平台的诸多特性，实现了如下适合大规模数据分析的特性：<br>(1) 保持R的语法和内部数据结构不变<br>(2) 提供类似于Java的多线程计算<br>(3) 提供类似于Spark的集群运算<br>(4) 内置的分布式文件系统支持<br>SupR目前处于开发阶段，正式版将以开源软件的形式发布。当前的开发信息可以在http://www.stat.purdue.edu/~chuanhai/SupR/internal/index.html上获取。我们希望SupR能吸引更多的开发者和使用者，将R语言真正带向大规模数据分析的世界。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 邱怡轩：普渡大学统计系博士生，统计之都理事会成员，感兴趣的方向包括复杂数据的统计推断，大规模统计计算和统计学习等。参与翻译了《ggplot2：数据分析与图形艺术》、《R语言编程艺术》、《应用预测模型》等书籍，是RSpectra、showtext、recosystem等R软件包的开发者。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. <br>The rustr Rust library and rustinr R package simplifies integrating Rust code with R. It provides Rust interfaces that map many types of R objects (vectors,  functions, environments, ...) to Rust type. Object interchange between R and Rust is easy. Rust code can be compiled, and loaded on the fly, or added to a package.</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 覃文锋：厦门大学公共卫生学院学生。</p>
     </td>
   </tr>
+
+
 
 </table>
 
