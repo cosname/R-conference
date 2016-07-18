@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 第九届中国R语言会议（成都）
-location: bj
+location: cd
 ---
 
 <!-- picture -->
