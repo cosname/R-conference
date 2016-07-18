@@ -7,7 +7,7 @@ location: bj
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/img/xinanjiaotong.png' | prepend: site.qiniubaseurl }}" alt="西南交通大学" class="img-responsive" />
+    <img src="{{ '/img/ruc.jpg' | prepend: site.qiniubaseurl }}" alt="西南交通大学" class="img-responsive" />
   </div>
 </div>
 
