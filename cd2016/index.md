@@ -11,121 +11,55 @@ location: bj
   </div>
 </div>
 
-2016年，是统计之都倡导的中国R语言会议第九年，也是统计之都成立十周年。本届R语言会议将与第七届中国人民大学国际统计论坛、2016百分点数据与价值国际论坛联合举办，共同组成迄今为止中国最大的统计盛会——大统计与数据科学联合会议。
+2016年是统计之都发起主办的中国R语言会议第九年，也是统计之都成立十周年。本届中国R语言会议（成都）将由统计之都与西南交通大学联合主办，西南交通大学经济管理学院智慧营销实验室协办。这次R会议首次走进西南地区，愿与更多的数据爱好者探讨数据科学，共同进步提高！中国R语言会议，欢迎各位的到来！
 
-中国R语言会议是由统计之都发起，并同国内高校共同举办的R语言与数据科学会议。2008年，中国R语言会议在中国人民大学举办第1届，2015年已发展至全国七个城市举办，报名人数近万人。内容覆盖数据科学及R语言在各行各业的应用，包括天文、地理、医疗、生物、金融、能源、互联网等领域。
-
-R语言会议不断发展，统计之都也已走过了十年风雨。十年间，统计之都服务着广大统计学爱好者，推动着R语言在中国的不断发展，见证着数据科学时代的逐渐崛起。在这样一个值得纪念的时刻，让我们相聚人大，相聚统计之都十周年庆典，也相聚这场数据与统计的盛宴！
-
-会议的相关情况如下：
-
+中国R语言会议是由统计之都发起，并同国内高校共同举办的R语言与数据科学会议。自2008年在中国人民大学举办第一届起，中国R语言会议已先后在全国七个城市举办，影响也日渐扩大，前后报名参与人数已过万人。会议内容覆盖数据科学及R语言在各行各业的应用，包括天文、地理、医疗、生物、金融、能源、互联网等领域。
+十年磨一剑，破鞘天下惊。R语言会议发展壮大的同时，统计之都也已走过十年风雨。十年间，统计之都服务着广大统计学爱好者，推动着R语言在中国的传播发展，见证着数据科学时代的逐渐崛起。迄今，统计之都已先后出版八本图书，举行海内外沙龙五十余期；未来，我们将再接再厉，继续为国内统计学和数据科学发展贡献自己的力量。
 ### 一、会议时间
 
-2016年5月27日~29日
+2016年9月24日
 
 ### 二、会议地点
 
-会议在中国人民大学举办：
+西南交通大学 ，四川成都
 
-* 5月27日：世纪馆
-* 5月28日：逸夫会议报告厅、国学馆报告厅、第一教学楼
-* 5月29日：逸夫会议报告厅、国学馆报告厅、800人大报告厅
+### 三、会议主题
 
-### 三、会议演讲
-
-截至目前，本次大会共筹备了Keynote专场(27日)和22个分会场(28~29日)。
-
-- [会议手册]({{ '/files/ChinaR_9th.pdf' | prepend: site.baseurl }})
-
-
-分会场主题如下：
-
-<!-- picture -->
-<div class="row">
-  <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/img/table.png' | prepend: site.qiniubaseurl }}" alt="人民大学" class="img-responsive" />
-  </div>
-</div>
+  包括但不限于统计与机器学习、金融保险、智慧营销等。
 
 
 ### 四、会议赞助
 
-<h3 class ="text-center">白金赞助</h3>
+   本次大会欢迎任何企业、高校、个人的多种形式赞助，作为回馈，会议手册上会印制赞助商介绍，同时为赞助商提供报告演讲机会。会议具体情况请和会务组讨论商定，请联系lingbing.feng@cos.name
 
-<div class="row">
-  <div class="col-md-4 col-md-offset-2 aligncenter client">
-    <a href="http://www.kaolazhengxin.com/" title="考拉征信" target="_blank">
-      <img src="{{ '/img/logo-kaola.jpg' | prepend: site.qiniubaseurl }}" alt="考拉征信" class="img-responsive center-block" />
-    </a>
-  </div>
+### 五、演讲者报名
 
-  <div class="col-md-4 aligncenter client">
-    <a href="http://www.quanttech.cn/" title="量邦" target="_blank">
-      <img src="{{ '/img/logo-liangbang.jpg' | prepend: site.qiniubaseurl }}" alt="量邦" class="img-responsive center-block" />
-    </a>
-  </div>
-</div>
+   大会除了邀请嘉宾演讲之外，也欢迎报名演讲。主题包括但不限于金融与金融大数据、统计与机器学习、业界应用与数据可视化、自然语言与软件工具等。欢迎有兴趣的演讲者将个人简介、二寸照片、演讲题目、演讲摘要（200字左右）邮件发送至XXX。大会组委会将对报名的演讲择优录用。演讲者报名截止日期为XXXX
 
+### 六、参会者报名
 
-<h3 class="text-center">金牌赞助</h3>
+  在线报名已经开放，请登陆会议活动主页XXXX或点击下方阅读原文报名。请务必用A4纸打印门票，进入会场时候需要凭纸质票进入！此外，请务必保证您的门票上的名字和身份证或者护照上的名字完全一致，以免无法进门。报名审核只是为了确认报名者身份的真实性。本次会议不收取任何费用，交通、食宿等花费自理。为会议参会者（以在线报名结果为依据）免费提供会议材料，请报名的朋友们尽量前往参会。
+   
+   在线报名已经开放，请点击页面右上方链接报名。请务必用A4纸打印门票，进入会场时候需要凭纸质票进入！此外，请务必保证您的门票上的名字和身份证或者护照上的名字完全一致，以免无法进门。报名审核只是为了确认报名者身份的真实性。本次会议不收取任何费用，交通、食宿等花费自理。为会议参会者（以在线报名结果为依据）免费提供会议材料，请报名的朋友们尽量前往参会。如需邀请函请点击下面的链接。
 
-<div class="row">
+### 七、主办方
 
-  <div class="col-md-3 aligncenter client">
-    <a href="http://www.rstudio.com/" title="Rsudio" target="_blank">
-      <img src="{{ '/img/logo-rstudio.png' | prepend: site.baseurl }}" alt="RStudio" class="img-responsive center-block" />
-    </a>
-  </div>
+   西南交通大学
+   统计之都
 
-  <div class="col-md-3 aligncenter client">
-    <a href="http://lantouzi.com/" title="懒投资" target="_blank">
-      <img src="{{ '/img/logo-lantouzi.png' | prepend: site.baseurl }}" alt="懒投资" class="img-responsive center-block" />
-    </a>
-  </div>
+### 八、协办方
 
-  <div class="col-md-3 aligncenter client">
-    <a href="https://www.microsoft.com/zh-cn" title="微软" target="_blank">
-      <img src="{{ '/img/logo-microsoft.png' | prepend: site.baseurl }}" alt="微软" class="img-responsive center-block" />
-    </a>
-  </div>
+    西南交通大学经济管理学院智慧营销实验室
+	
+### 九、主办方及协办方介绍
 
-  <div class="col-md-3 aligncenter client">
-    <a href="http://www.tableau.com/" title="Tableau" target="_blank">
-      <img src="{{ '/img/logo-tableau.jpg' | prepend: site.baseurl }}" alt="Tableau" class="img-responsive center-block" />
-    </a>
-  </div>
+西南交通大学创建于1896年，是国家首批“211工程”、“特色985工程”重点建设、首批进入国家“2011计划”协同创新中心并设有研究生院的教育部直属全国重点大学。西南交通大学经济管理学院前身为管理工程系，始建于1984年。为适应社会主义市场经济发展对经济管理人才的需要，学校于1993年成立经济管理学院。我院的学历教育涵盖本科、硕士研究生、博士研究生三个层次，并设有博士后流动站，是西南交通大学教育层次最多、最齐全的学院之一。学院拥有西南地区最早的“管理科学与工程”一级学科博士学位授权点及博士后流动站，现共有“管理科学与工程”与“工商管理”2个一级学科博士学位授权点和2个博士后流动站，以及“应用经济学”、“理论经济学”2个一级学科硕士学位授权点在内的10多个学术型、专业型学位授权点。学院现有教职工130余人，其中双聘院士1人，教育部长江学者讲座教授5人，杰出青年基金获得者1人，教育部“新世纪优秀人才支持计划”8人，四川省百人计划、有突出贡献专家、学术和技术带头人20余人。学院另聘有国内外兼职教授60余人。
+西南交通大学经济管理学院智慧营销实验室
 
-</div>
-
-<h3 class="text-center">银牌赞助</h3>
-
-<div class="row">
-
-  <div class="col-md-3 col-md-offset-3 aligncenter client">
-    <a href="http://nycdatascience.com/" title="NYC Data Science Academy" target="_blank">
-      <img src="{{ '/img/logo-nycdsa.png' | prepend: site.baseurl }}" alt="NYC Data Science Academy" class="img-responsive center-block" />
-    </a>
-  </div>
-
-  <div class="col-md-3 aligncenter client">
-    <a href="http://www.jjklife.com/" title="记健康" target="_blank">
-      <img src="{{ '/img/logo-jjk.png' | prepend: site.baseurl }}" alt="记健康" class="img-responsive center-block" />
-    </a>
-  </div>
-
-</div>
-
-
-本次大会欢迎任何企业、高校、个人的多种形式赞助，作为回馈，会议手册上会印制赞助商介绍，同时为赞助商提供报告演讲机会。会议具体情况请和会务组讨论商定，请联系chinar-2016-bj@cos.name。
-
-### 五、参会者报名
-
-在线报名已经开放，请点击页面右上方链接报名。请务必用A4纸打印门票，进入会场时候需要凭纸质票进入！此外，请务必保证您的门票上的名字和身份证或者护照上的名字完全一致，以免无法进门。报名审核只是为了确认报名者身份的真实性。本次会议不收取任何费用，交通、食宿等花费自理。为会议参会者（以在线报名结果为依据）免费提供会议材料，请报名的朋友们尽量前往参会。如需邀请函请点击下面的链接。
-
-- [中文邀请函]({{ '/files/invitation_bj_2016_cn.pdf' | prepend: site.baseurl }})
-- [English invitation letter]({{ '/files/invitation_bj_2016_en.pdf' | prepend: site.baseurl }})
-
-### 六、联系方式
+学院于2014年正式加入IBM U100大数据及分析百校计划，共同探讨大数据及分析技术与我院传统优势学科的结合之路。在IBM强大的技术支持下，学院与香港中文大学市场系系主任、西南交通大学经济管理学院名誉院长及“长江学者”贾建民教授共同打造“智慧营销实验室”（Smart Marketing Lab）。
+智慧营销实验室致力于利用数据工程、社交聆听、语音数据挖掘、营销决策系统等先进技术开展产学研一体化的大数据分析服务与研究工作，力争从教学、科研和企业服务等各方面切实开展大数据及分析研究、培养大数据及分析人才、企业数据营销决策支持等工作。继2014年成功举办面向全国高校的“2014年智慧营销师资研讨会”之后，智慧营销实验室又于2015年3月在成都主办“大数据时代智慧零售行业研讨会”。同年，西南交通大学智慧营销实验室与香港中文大学、对外经济贸易大学及IBM公司共同发起百企大数据A100计划，致力于产学研一体化的大数据分析服务与研究工作。『A100』2.0时代中，智慧营销实验室将继续以企业的真实数据和业务需求为应用载体，通过提供数据分析服务，更好地帮助企业洞察数据背后的价值。因在该领域的工作表现突出，智慧营销实验室荣获“2014年度教育部-IBM高校合作项目大数据应用创新协作奖”。
+   
+   ### 七、联系方式
 
 新浪微博：@统计之都
 
