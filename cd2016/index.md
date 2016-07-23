@@ -5,7 +5,11 @@ location: cd
 ---
 
 <!-- picture -->
-<img src="{{ '/img/xinanjiaotong.jpg' | prepend: site.qiniubaseurl }}" alt="西南交通大学" class="img-responsive center-block" />
+<div class="row">
+  <div class="col-md-10 col-md-offset-1 text-center">
+    <img src="{{ '/img/xinanjiaotong.jpg' | prepend: site.baseurl }}" alt="西南交通大学" class="img-responsive" />
+  </div>
+</div>
 
 2016年是统计之都发起主办的中国R语言会议第九年，也是统计之都成立十周年。本届中国R语言会议（成都）将由统计之都与西南交通大学联合主办，西南交通大学经济管理学院智慧营销实验室协办。这次R会议首次走进西南地区，愿与更多的数据爱好者探讨数据科学，共同进步提高！中国R语言会议，欢迎各位的到来！
 
@@ -18,7 +22,7 @@ location: cd
 
 ### 二、会议地点
 
-四川成都，西南交通大学 
+四川成都，西南交通大学
 
 ### 三、会议主题
 
