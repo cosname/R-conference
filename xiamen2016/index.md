@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 第九届中国R语言会议（厦门）<br>暨厦门大学数据科学与量化金融研讨会
+title: 第九届中国R语言会议（厦门）暨厦门大学数据科学与量化金融研讨会
 location: xiamen
 ---
 
