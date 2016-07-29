@@ -44,8 +44,19 @@ location: cd
 
 主办方
 
-- 西南交通大学
-- 统计之都
+<!-- picture -->
+<div class="row">
+  <div class="col-md-10 col-md-offset-1 text-center">
+    <img src="{{ '/img/xnjt.jpg' | prepend: site.qiniubaseurl }}" alt="西南交通大学" class="img-responsive" />
+  </div>
+</div>
+<!-- picture -->
+<div class="row">
+  <div class="col-md-10 col-md-offset-1 text-center">
+    <img src="{{ '/img/cos.png' | prepend: site.qiniubaseurl }}" alt="统计之都" class="img-responsive" />
+  </div>
+</div>
+
 
 协办方
 
