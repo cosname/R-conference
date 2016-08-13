@@ -10,12 +10,7 @@ location: hangzhou
     <img src="{{ '/img/zhejiangcaijing.jpg' | prepend: site.baseurl }}" alt="浙江财经大学" class="img-responsive" />
   </div>
 </div>
-<!-- picture -->
-<div class="row">
-  <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/img/zhejiangcaijing.jpg' | prepend: site.baseurl }}" alt="浙江财经大学" class="img-responsive" />
-  </div>
-</div>
+
 
 中国R语言会议是由统计之都发起，并同国内高校共同举办的R语言与数据科学会议。本次中国R语言会议（杭州）将由统计之都与浙江财经大学联合主办，浙江财经大学数据科学学院承办。中国R语言会议再次走进中国电子商务之都、长江三角洲中心城市、享有“人间天堂”美誉的魅力之都——杭州，愿与更多的数据爱好者与研究者探讨数据科学，共同进步提高！中国R语言会议，欢迎各位的到来！
 
