@@ -51,7 +51,7 @@ location: cd
 
 <div class="row">
 
-  <div class="col-md-1 aligncenter client">
+  <div class="col-md-6 aligncenter client">
     <a href="http://www.hansyinfo.com/" title="环赛信息 " target="_blank">
       <img src="{{ '/img/zanzhu-huansai.jpg' | prepend: site.baseurl }}" alt="环赛信息" class="img-responsive center-block" />
     </a>
