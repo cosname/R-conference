@@ -41,7 +41,7 @@ location: cd
 
   <div class="col-md-8 col-md-offset-1 aligncenter client">
     <a href="http://www.yooli.com/" title="有利网" target="_blank">
-      <img src="{{ '/img/zanzhu-youliwang.jpg' | prepend: site.qiniubaseurl }}" alt="有利网" class="img-responsive center-block" />
+      <img src="{{ '/img/zanzhu-youli.jpg' | prepend: site.qiniubaseurl }}" alt="有利网" class="img-responsive center-block" />
     </a>
   </div>
 </div>
