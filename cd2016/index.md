@@ -56,6 +56,7 @@ location: cd
       <img src="{{ '/img/zanzhu-huansai.jpg' | prepend: site.baseurl }}" alt="环赛信息" class="img-responsive center-block" />
     </a>
   </div>
+  
 </div>
 
 <h3 class="text-center">银牌赞助</h3>
@@ -67,6 +68,7 @@ location: cd
       <img src="{{ '/img/zanzhu-rong360.jpg' | prepend: site.baseurl }}" alt="融360 " class="img-responsive center-block" />
     </a>
   </div>
+  
 </div>
 
 
