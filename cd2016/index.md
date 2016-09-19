@@ -90,7 +90,7 @@ location: cd
 
 <!-- picture -->
 <div class="row">
-  <div class="col-md-8 col-md-offset-2 text-center">
+  <div class="col-md-6 col-md-offset-2 text-center">
     <img src="{{ '/img/xnjt_smart.jpg' | prepend: site.qiniubaseurl }}" alt="西南交通大学智慧营销实验室" class="img-responsive" />
   </div>
 </div>
