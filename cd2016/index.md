@@ -63,7 +63,7 @@ location: cd
 
 <div class="row">
 
-  <div class="col-md-4 col-md-offset-3 text-center">
+  <div class="col-md-4 col-md-offset-4 text-center">
     <a href="http://www.rong360.com/" title="融360 " target="_blank">
       <img src="{{ '/img/zanzhu-rong360.jpg' | prepend: site.baseurl }}" alt="融360 " class="img-responsive center-block" />
     </a>
@@ -88,12 +88,8 @@ location: cd
 
 主办方
 
-<!-- picture -->
-<div class="row">
-  <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/img/xnjt.jpg' | prepend: site.qiniubaseurl }}" alt="西南交通大学" class="img-responsive" />
-  </div>
-</div>
+- 西南交通大学经济管理学院智慧营销实验室
+
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
@@ -104,7 +100,13 @@ location: cd
 
 协办方
 
-- 西南交通大学经济管理学院智慧营销实验室
+<!-- picture -->
+<div class="row">
+  <div class="col-md-10 col-md-offset-1 text-center">
+    <img src="{{ '/img/xnjt.jpg' | prepend: site.qiniubaseurl }}" alt="西南交通大学" class="img-responsive" />
+  </div>
+</div>
+
 
 ### 八、主办方及协办方介绍
 
