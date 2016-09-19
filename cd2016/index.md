@@ -29,6 +29,70 @@ location: cd
 包括但不限于统计与机器学习、金融保险、智慧营销等。
 
 ### 四、会议赞助
+<h3 class ="text-center">白金赞助</h3>
+
+<div class="row">
+  <div class="col-md-4 col-md-offset-2 aligncenter client">
+    <a href="http://www.lemoncome.com/" title="柠檬科技" target="_blank">
+      <img src="{{ '/img/zanzhu-ningmengkeji.jpg' | prepend: site.qiniubaseurl }}" alt="柠檬科技" class="img-responsive center-block" />
+    </a>
+  </div>
+
+  <div class="col-md-4 aligncenter client">
+    <a href="http://www.yooli.com/" title="有利网" target="_blank">
+      <img src="{{ '/img/zanzhu-youli.jpg' | prepend: site.qiniubaseurl }}" alt="有利网" class="img-responsive center-block" />
+    </a>
+  </div>
+</div>
+
+
+<h3 class="text-center">金牌赞助</h3>
+
+<div class="row">
+
+  <div class="col-md-3 aligncenter client">
+    <a href="http://www.hansyinfo.com/" title="环赛信息 " target="_blank">
+      <img src="{{ '/img/zan'zhu-huansai.jpg' | prepend: site.baseurl }}" alt="环赛信息" class="img-responsive center-block" />
+    </a>
+  </div>
+
+  <div class="col-md-3 aligncenter client">
+    <a href="http://lantouzi.com/" title="懒投资" target="_blank">
+      <img src="{{ '/img/logo-lantouzi.png' | prepend: site.baseurl }}" alt="懒投资" class="img-responsive center-block" />
+    </a>
+  </div>
+
+  <div class="col-md-3 aligncenter client">
+    <a href="https://www.microsoft.com/zh-cn" title="微软" target="_blank">
+      <img src="{{ '/img/logo-microsoft.png' | prepend: site.baseurl }}" alt="微软" class="img-responsive center-block" />
+    </a>
+  </div>
+
+  <div class="col-md-3 aligncenter client">
+    <a href="http://www.tableau.com/" title="Tableau" target="_blank">
+      <img src="{{ '/img/logo-tableau.jpg' | prepend: site.baseurl }}" alt="Tableau" class="img-responsive center-block" />
+    </a>
+  </div>
+
+</div>
+
+<h3 class="text-center">银牌赞助</h3>
+
+<div class="row">
+
+  <div class="col-md-3 col-md-offset-3 aligncenter client">
+    <a href="http://nycdatascience.com/" title="NYC Data Science Academy" target="_blank">
+      <img src="{{ '/img/logo-nycdsa.png' | prepend: site.baseurl }}" alt="NYC Data Science Academy" class="img-responsive center-block" />
+    </a>
+  </div>
+
+  <div class="col-md-3 aligncenter client">
+    <a href="http://www.jjklife.com/" title="记健康" target="_blank">
+      <img src="{{ '/img/logo-jjk.png' | prepend: site.baseurl }}" alt="记健康" class="img-responsive center-block" />
+    </a>
+  </div>
+
+</div>
 
 本次大会欢迎企业、高校以及个人以合适的形式提供赞助，主办方将提供包括在会议手册上印制赞助商介绍、为赞助商提供报告演讲机会等在内的多种权益。具体赞助事宜请与会务组讨论商定，联系邮箱sponsor@cos.name。
 
