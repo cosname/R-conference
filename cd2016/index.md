@@ -51,7 +51,7 @@ location: cd
 
 <div class="row">
 
-  <div class="col-md-3 aligncenter client">
+  <div class="col-md-1 aligncenter client">
     <a href="http://www.hansyinfo.com/" title="环赛信息 " target="_blank">
       <img src="{{ '/img/zanzhu-huansai.jpg' | prepend: site.baseurl }}" alt="环赛信息" class="img-responsive center-block" />
     </a>
@@ -63,7 +63,7 @@ location: cd
 
 <div class="row">
 
-  <div class="col-md-3 aligncenter client">
+  <div class="col-md-1 aligncenter client">
     <a href="http://www.rong360.com/" title="融360 " target="_blank">
       <img src="{{ '/img/zanzhu-rong360.jpg' | prepend: site.baseurl }}" alt="融360 " class="img-responsive center-block" />
     </a>
