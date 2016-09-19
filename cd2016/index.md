@@ -33,7 +33,7 @@ location: cd
 <h3 class ="text-center">白金赞助</h3>
 
 <div class="row">
-  <div class="col-md-2 col-md-offset-2 aligncenter client">
+  <div class="col-md-2 col-md-offset-1 aligncenter client">
     <a href="http://www.lemoncome.com/" title="柠檬科技" target="_blank">
       <img src="{{ '/img/zanzhu-ningmengkeji.jpg' | prepend: site.qiniubaseurl }}" alt="柠檬科技" class="img-responsive center-block" />
     </a>
@@ -51,7 +51,7 @@ location: cd
 
 <div class="row">
 
-  <div class="col-md-6 col-md-offset-1 text-center">
+  <div class="col-md-6 col-md-offset-3 text-center">
     <a href="http://www.hansyinfo.com/" title="环赛信息 " target="_blank">
       <img src="{{ '/img/zanzhu-huansai.jpg' | prepend: site.baseurl }}" alt="环赛信息" class="img-responsive center-block" />
     </a>
@@ -63,7 +63,7 @@ location: cd
 
 <div class="row">
 
-  <div class="col-md-4 col-md-offset-1 text-center">
+  <div class="col-md-4 col-md-offset-3 text-center">
     <a href="http://www.rong360.com/" title="融360 " target="_blank">
       <img src="{{ '/img/zanzhu-rong360.jpg' | prepend: site.baseurl }}" alt="融360 " class="img-responsive center-block" />
     </a>
