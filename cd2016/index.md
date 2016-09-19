@@ -55,9 +55,10 @@ location: cd
       <img src="{{ '/img/zanzhu-huansai.jpg' | prepend: site.baseurl }}" alt="环赛信息" class="img-responsive center-block" />
     </a>
   </div>
-
+</div>
   
 本次大会欢迎企业、高校以及个人以合适的形式提供赞助，主办方将提供包括在会议手册上印制赞助商介绍、为赞助商提供报告演讲机会等在内的多种权益。具体赞助事宜请与会务组讨论商定，联系邮箱sponsor@cos.name。
+
 
 ### 五、演讲者报名
 
