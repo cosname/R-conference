@@ -33,13 +33,13 @@ location: cd
 <h3 class ="text-center">白金赞助</h3>
 
 <div class="row">
-  <div class="col-md-2 col-md-offset-1 aligncenter client">
+  <div class="col-md-4 col-md-offset-1 aligncenter client">
     <a href="http://www.lemoncome.com/" title="柠檬科技" target="_blank">
       <img src="{{ '/img/zanzhu-ningmengkeji.jpg' | prepend: site.qiniubaseurl }}" alt="柠檬科技" class="img-responsive center-block" />
     </a>
   </div>
 
-  <div class="col-md-8 col-md-offset-1 aligncenter client">
+  <div class="col-md-4 col-md-offset-1 aligncenter client">
     <a href="http://www.yooli.com/" title="有利网" target="_blank">
       <img src="{{ '/img/zanzhu-youli.jpg' | prepend: site.qiniubaseurl }}" alt="有利网" class="img-responsive center-block" />
     </a>
