@@ -63,7 +63,7 @@ location: cd
 
 <div class="row">
 
-  <div class="col-md-6 col-md-offset-1 text-center">
+  <div class="col-md-4 col-md-offset-1 text-center">
     <a href="http://www.rong360.com/" title="融360 " target="_blank">
       <img src="{{ '/img/zanzhu-rong360.jpg' | prepend: site.baseurl }}" alt="融360 " class="img-responsive center-block" />
     </a>
