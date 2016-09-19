@@ -88,7 +88,12 @@ location: cd
 
 主办方
 
-- 西南交通大学经济管理学院智慧营销实验室
+<!-- picture -->
+<div class="row">
+  <div class="col-md-10 col-md-offset-1 text-center">
+    <img src="{{ '/img/xnjt_smart.jpg' | prepend: site.qiniubaseurl }}" alt="西南交通大学智慧营销实验室" class="img-responsive" />
+  </div>
+</div>
 
 <!-- picture -->
 <div class="row">
@@ -103,7 +108,7 @@ location: cd
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/img/xnjt.jpg' | prepend: site.qiniubaseurl }}" alt="西南交通大学" class="img-responsive" />
+    <img src="{{ '/img/xnjt.png' | prepend: site.qiniubaseurl }}" alt="西南交通大学" class="img-responsive" />
   </div>
 </div>
 
