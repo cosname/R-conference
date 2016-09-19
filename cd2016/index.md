@@ -29,6 +29,7 @@ location: cd
 包括但不限于统计与机器学习、金融保险、智慧营销等。
 
 ### 四、会议赞助
+
 <h3 class ="text-center">白金赞助</h3>
 
 <div class="row">
@@ -48,7 +49,7 @@ location: cd
 
 <h3 class="text-center">金牌赞助</h3>
 
-<div class="row">
+<div class="text-center">
 
   <div class="col-md-3 aligncenter client">
     <a href="http://www.hansyinfo.com/" title="环赛信息 " target="_blank">
@@ -56,6 +57,18 @@ location: cd
     </a>
   </div>
 </div>
+
+<h3 class="text-center">银牌赞助</h3>
+
+<div class="text-center">
+
+  <div class="col-md-3 aligncenter client">
+    <a href="http://www.hansyinfo.com/" title="环赛信息 " target="_blank">
+      <img src="{{ '/img/zanzhu-huansai.jpg' | prepend: site.baseurl }}" alt="环赛信息" class="img-responsive center-block" />
+    </a>
+  </div>
+</div>
+
   
 本次大会欢迎企业、高校以及个人以合适的形式提供赞助，主办方将提供包括在会议手册上印制赞助商介绍、为赞助商提供报告演讲机会等在内的多种权益。具体赞助事宜请与会务组讨论商定，联系邮箱sponsor@cos.name。
 
