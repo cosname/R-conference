@@ -49,7 +49,7 @@ location: cd
 
 <h3 class="text-center">金牌赞助</h3>
 
-<div class="text-center">
+<div class="row">
 
   <div class="col-md-3 aligncenter client">
     <a href="http://www.hansyinfo.com/" title="环赛信息 " target="_blank">
@@ -61,7 +61,7 @@ location: cd
 
 <h3 class="text-center">银牌赞助</h3>
 
-<div class="text-center">
+<div class="row">
 
   <div class="col-md-3 aligncenter client">
     <a href="http://www.rong360.com/" title="融360 " target="_blank">
