@@ -97,16 +97,17 @@ location: xiamen
 2.  经济楼所有会场WIFI全覆盖，与会代表可搜索“wise-soe”接入点，直接连接，无须密码。
 3. 厦门以和谐文明、风景秀丽而闻名，但我们依然真诚地提醒各位代表，外出时请注意您的人身和财产安全，建议您不要下海游泳，晚上外出请结伴而行。 
 4. 以下附上厦门大学校园平面图及经济楼平面图：
+
  <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/xiamenpingmian1.jpg' | prepend: site.qiniubaseurl }}" alt="厦门大学校园平面图" class="img-responsive" />
+    <img src="{{ '/xiamenpingmain1.jpg' | prepend: site.qiniubaseurl }}" alt="厦门大学校园平面图" class="img-responsive" />
   </div>
 </div>
  <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/xiamenpingmian2.jpg' | prepend: site.qiniubaseurl }}" alt="经济楼平面图" class="img-responsive" />
+    <img src="{{ '/xiamenpingmain2.jpg' | prepend: site.qiniubaseurl }}" alt="经济楼平面图" class="img-responsive" />
   </div>
 </div>
 
