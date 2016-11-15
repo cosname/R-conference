@@ -8,7 +8,7 @@ location: xiamen
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/xiamen2016/huiyirichen1.jpg' | prepend: site.qiniubaseurl }}" alt="会议日程" class="img-responsive" />
+    <img src="{{ '/xiamen2016/huiyiricheng1.jpg' | prepend: site.qiniubaseurl }}" alt="会议日程" class="img-responsive" />
   </div>
 </div>
 <!-- picture -->
@@ -39,7 +39,7 @@ location: xiamen
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/xiamen2016/huiyirichen6.jpg' | prepend: site.qiniubaseurl }}" alt="会议日程" class="img-responsive" />
+    <img src="{{ '/xiamen2016/huiyiricheng6.jpg' | prepend: site.qiniubaseurl }}" alt="会议日程" class="img-responsive" />
   </div>
 </div>
 <!-- picture -->
