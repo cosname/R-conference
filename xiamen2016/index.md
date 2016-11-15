@@ -66,7 +66,8 @@ location: xiamen
     <img src="{{ '/xiamenjiaotong.jpg' | prepend: site.qiniubaseurl }}" alt="" class="img-responsive" />
   </div>
 </div>
-4. 以下为从厦门北站、厦门火车站及高崎国际机场到厦门大学或厦门卡尔曼酒店的交通路线：
+
+ 4. 以下为从厦门北站、厦门火车站及高崎国际机场到厦门大学或厦门卡尔曼酒店的交通路线：
 
 厦门火车北站：
 
