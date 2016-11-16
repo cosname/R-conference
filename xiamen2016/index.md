@@ -27,7 +27,7 @@ location: xiamen
 
 地址：福建省厦门市思明区思明南路422号厦门大学
 
-### 四、会议日程及演讲信息
+### 三、会议日程及演讲信息
 
 - [会议手册]({{ '/files/R_xiamen2016.pdf' | prepend: site.baseurl }})
 
