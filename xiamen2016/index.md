@@ -35,11 +35,11 @@ location: xiamen
  1. 本次会议不收取任何会议费。主办方为演讲嘉宾提供住宿和餐饮，其他报名人员住宿及交通均自理。
  2. 本届会议为演讲嘉宾提供住宿，但交通费需自理。住宿时间为2016年11月18日至11月20日（不超过3晚），住宿费由会议承担，杂费自理。（注：请嘉宾注意退房时 间，通常为中午12：00）
  3. 报名参会人员会议期间住宿请自行安排，敬请谅解，会议地点附近酒店参考信息如下：
- 
+
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/xiamenjiudian2016.jpg' | prepend: site.qiniubaseurl }}" alt="" class="img-responsive" />
+    <img src="{{ '/img/xiamenjiudian2016.jpg' | prepend: site.qiniubaseurl }}" alt="" class="img-responsive" />
   </div>
 </div>
 
@@ -47,7 +47,7 @@ location: xiamen
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/jiucananpai2016.jpg' | prepend: site.qiniubaseurl }}" alt="" class="img-responsive" />
+    <img src="{{ '/img/jiucananpai2016.jpg' | prepend: site.qiniubaseurl }}" alt="" class="img-responsive" />
   </div>
 </div>
 
@@ -65,7 +65,7 @@ location: xiamen
  <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/xiamenjiaotong.jpg' | prepend: site.qiniubaseurl }}" alt="" class="img-responsive" />
+    <img src="{{ '/img/xiamenjiaotong.jpg' | prepend: site.qiniubaseurl }}" alt="" class="img-responsive" />
   </div>
 </div>
 
@@ -80,7 +80,7 @@ location: xiamen
 
  - 乘坐出租车到厦门大学西村或厦门卡尔曼酒店（原希尔福酒店）（全程车费约40元）；
  - 乘坐1路、21路到厦门理工学院思明校区站下车可到厦门卡尔曼酒店，到厦大站下车可致厦门大学。全程约30分钟。
- 
+
 厦门高崎国际机场：
 
  - 乘坐出租车，说明走成功大道到厦门大学西村或厦门卡尔曼酒店（原希尔福酒店）（全程车费约45元，20分钟）；
@@ -93,23 +93,23 @@ location: xiamen
 2. 厦门航班订票热线：0592-2226666 （厦门岛内免费送票）
 3. 厦门机场咨询电话：96363；厦门机场票务中心：0592-5738816
 
-### 八 、温馨提示 
+### 八 、温馨提示
 
 1. 开会时，请各位参会代表关闭手机，尽量不要在场内走动。
 2.  经济楼所有会场WIFI全覆盖，与会代表可搜索“wise-soe”接入点，直接连接，无须密码。
-3. 厦门以和谐文明、风景秀丽而闻名，但我们依然真诚地提醒各位代表，外出时请注意您的人身和财产安全，建议您不要下海游泳，晚上外出请结伴而行。 
+3. 厦门以和谐文明、风景秀丽而闻名，但我们依然真诚地提醒各位代表，外出时请注意您的人身和财产安全，建议您不要下海游泳，晚上外出请结伴而行。
 4. 以下附上厦门大学校园平面图及经济楼平面图：
 
  <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/xiamenpingmain1.jpg' | prepend: site.qiniubaseurl }}" alt="厦门大学校园平面图" class="img-responsive" />
+    <img src="{{ '/img/xiamenpingmain1.jpg' | prepend: site.qiniubaseurl }}" alt="厦门大学校园平面图" class="img-responsive" />
   </div>
 </div>
  <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/xiamenpingmain2.jpg' | prepend: site.qiniubaseurl }}" alt="经济楼平面图" class="img-responsive" />
+    <img src="{{ '/img/xiamenpingmain2.jpg' | prepend: site.qiniubaseurl }}" alt="经济楼平面图" class="img-responsive" />
   </div>
 </div>
 
@@ -131,7 +131,7 @@ location: xiamen
 - 厦门大学数据科学与决策咨询中心
 
 - WISE R Club
-	
+
 ### 十、主办方及协办方介绍
 
 #### 厦门大学经济学院
