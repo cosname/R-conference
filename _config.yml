@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 中国R语言会议
+title: 中国R会议
 email: contact@cos.name
-description: 中国R语言会议是中国R语言和数据科学的重要会议，由中国最大的统计学门户网站——统计之都（http://cos.name）主办。
-keywords: R语言, 数据科学，数据分析, 数据挖掘, 机器学习, 商业智能, 大数据
+description: 中国R会议是中国R语言和数据科学的重要会议，由中国最大的统计学门户网站——统计之都（http://cos.name）主办。
+keywords: R语言, 数据科学, 数据分析, 数据挖掘, 机器学习, 商业智能, 大数据
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://china-r.org" # the base hostname & protocol for your site
 
