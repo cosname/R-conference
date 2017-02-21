@@ -7,7 +7,7 @@ location: bj
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/img/tsinghua.jpg' | prepend: site.baseurl }}" alt="清华大学" class="img-responsive" />
+    <img src="{{ '/img/tsinghua.jpg' | prepend: site.qiniubaseurl }}" alt="清华大学" class="img-responsive" />
   </div>
 </div>
 
