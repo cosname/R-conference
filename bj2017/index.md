@@ -48,10 +48,12 @@ location: bj
 ### 五、合作伙伴
 <!-- picture -->
 <div class="row">
+<div align="center">
   <div class="col-md-5 col-md-offset-1 text-center">
      <a href="http://elastic.co" title="Elastic" target="_blank">
-      <img src="{{ '/img/elastic.jpg' | prepend: site.qiniubaseurl }}" alt="elastic" class="img-responsive center-block" />
+      <img src="{{ '/img/elastic.jpg' | prepend: site.qiniubaseurl }}" alt="elastic" class="img-responsive center-block"/>
     </a>
+  </div>
   </div>
 </div>
 
