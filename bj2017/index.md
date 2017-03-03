@@ -44,6 +44,16 @@ location: bj
 ### 四、会议赞助
 
 本次大会欢迎企业、高校、个人的多种形式赞助，作为回馈，会议手册上会印制赞助商介绍，同时为赞助商提供报告演讲机会。会议具体情况请和会务组讨论商定，请联系chinar-2017-bj@cos.name。
+### 四、会议赞助
+
+<h3 class ="text-center">赞助</h3>
+Elastic 是一家世界领先的开源软件提供商，致力于结构化和非结构化数据的实时可用性，使用场景涵盖搜索、日志和数据分析等领域。公司成立于2012年，旗下拥有开源产品：分布式实时搜索与数据分析引擎：Elasticsearch；可视化展现与分析：Kibana；数据收集与处理中间件：Logstash；轻量级数据收集与网络层流量分析：Beats；除此之外还提供安全、预警、监控、图分析及机器学习的商业插件：X-Pack 以及托管的 Elasticsearch 云服务：Elastic Cloud；这些产品迄今累计已超过8千万次下载。Elastic 由 Benchmark Capital、Index Ventures 及 NEA 投资，总部位于荷兰阿姆斯特丹和美国加州山景城，公司员工及办事处遍布全球各地。
+<div class="row">
+  <div class="col-md-4 col-md-offset-2 aligncenter client">
+    <a href="http://elastic.co" title="Elastic" target="_blank">
+      <img src="{{ '/img/elastic.jpg' | prepend: site.qiniubaseurl }}" alt="elastic" class="img-responsive center-block" />
+    </a>
+  </div>
 
 ### 五、联系方式
 
