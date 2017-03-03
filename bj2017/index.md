@@ -6,7 +6,7 @@ location: bj
 
 <!-- picture -->
 <div class="row">
-  <div class="col-md-5 col-md-offset-1 text-center">
+  <div class="col-md-10 col-md-offset-1 text-center">
     <img src="{{ '/img/tsinghua.jpg' | prepend: site.qiniubaseurl }}" alt="清华大学" class="img-responsive" />
   </div>
 </div>
@@ -48,7 +48,7 @@ location: bj
 ### 五、合作伙伴
 <!-- picture -->
 <div class="row">
-  <div class="col-md-10 col-md-offset-1 text-center">
+  <div class="col-md-5 col-md-offset-1 text-center">
      <a href="http://elastic.co" title="Elastic" target="_blank">
       <img src="{{ '/img/elastic.jpg' | prepend: site.qiniubaseurl }}" alt="elastic" class="img-responsive center-block" />
     </a>
