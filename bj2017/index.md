@@ -50,7 +50,7 @@ location: bj
 <div class="row">
   <div class="col-md-5 col-md-offset-1 text-center">
      <a href="http://elastic.co" title="Elastic" target="_blank">
-      <img src="{{ '/img/elastic.jpg' | prepend: site.qiniubaseurl }}" alt="elastic" class="img-responsive center-block" />
+      <img src="{{ '/img/elastic.jpg' | prepend: site.qiniubaseurl }}" alt="elastic" class="img-responsive" />
     </a>
   </div>
 </div>
