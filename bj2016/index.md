@@ -42,7 +42,7 @@ R语言会议不断发展，统计之都也已走过了十年风雨。十年间�
 
 <!-- picture -->
 <div class="row">
-  <div class="col-md-10 col-md-offset-1 text-center">
+  <div class="col-md-5 col-md-offset-1 text-center">
     <img src="{{ '/img/table.png' | prepend: site.qiniubaseurl }}" alt="人民大学" class="img-responsive" />
   </div>
 </div>
