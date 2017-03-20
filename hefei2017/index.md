@@ -59,7 +59,7 @@ location: hefei
 
 <!-- picture -->
 <div class="row">
-  <div class="col-md-6 col-md-offset-3 text-center">
+  <div class="col-md-5 col-md-offset-3 text-center">
     <img src="{{ '/img/zkd.jpg' | prepend: site.qiniubaseurl }}" alt="中国科学技术大学管理学院" class="img-responsive" />
   </div>
 </div>
