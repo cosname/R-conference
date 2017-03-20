@@ -53,14 +53,17 @@ location: hefei
 
 ### 七、组织机构
 
-主办方
+#### 主办方
+
+#### [清华大学统计学研究中心](http://www.stat.tsinghua.edu.cn/)
 
 <!-- picture -->
 <div class="row">
-  <div class="col-md-10 col-md-offset-1 text-center">
+  <div class="col-md-6 col-md-offset-3 text-center">
     <img src="{{ '/img/zkd.jpg' | prepend: site.qiniubaseurl }}" alt="中国科学技术大学管理学院" class="img-responsive" />
   </div>
 </div>
+#### [统计之都](http://cos.name/)
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
@@ -69,7 +72,7 @@ location: hefei
 </div>
 
 
-协办方
+#### 协办方
 
 - 中国科学技术大学国际金融研究院
 
