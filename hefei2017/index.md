@@ -27,7 +27,16 @@ location: hefei
 ### 三、会议主题
 
 本届分会议的主题包括但不限于：
-医疗健康、生物信息、消费金融、量化投资、工业工程、智能制造、软件工具、计算平台、概率统计、机器学习、人工智能、自然语言、天文地理、城市规划、环境科学、社交网络、政务数据、商务统计、人文社科等诸多话题。
+- 医疗健康、生物信息
+- 消费金融、量化投资
+- 工业工程、智能制造
+- 软件工具、计算平台
+- 概率统计、机器学习
+- 人工智能、自然语言
+- 天文地理、城市规划
+- 环境科学、社交网络
+- 政务数据、商务统计
+- 人文社科等诸多话题。
 
 
 ### 四、会议赞助
@@ -49,7 +58,7 @@ location: hefei
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/img/zhongguokeda.jpg' | prepend: site.qiniubaseurl }}" alt="中国科学技术大学" class="img-responsive" />
+    <img src="{{ '/img/zkd.jpg' | prepend: site.qiniubaseurl }}" alt="中国科学技术大学管理学院" class="img-responsive" />
   </div>
 </div>
 <!-- picture -->
@@ -62,7 +71,7 @@ location: hefei
 
 协办方
 
-- 西南交通大学经济管理学院智慧营销实验室
+- 中国科学技术大学国际金融研究院
 
 ### 八、主办方及协办方介绍
 
@@ -86,4 +95,4 @@ location: hefei
 
 微信公众号：统计之都
 
-会议联系邮箱：chinar-2016-cd@cos.name
+会议联系邮箱：xxx
