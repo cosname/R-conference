@@ -47,6 +47,16 @@ location: bj
 
 ### 五、合作伙伴
 <!-- picture -->
+ <div class="col-md-5 col-md-offset-3 text-center">
+    <a href="http://lantouzi.com/" title="懒投资" target="_blank">
+      <img src="{{ '/img/logo-lantouzi.png' | prepend: site.baseurl }}" alt="懒投资" class="img-responsive center-block" />
+    </a>
+  </div>
+
+
+懒投资隶属于北京大家玩科技有限公司， 2014年9月上线运营， A轮融2100万美元，来自策源创投、源码资本、福布斯富豪夏佐全先生。累计交易金额超100亿，为用户赚取3.1亿收益，注册用户超百万，无一例逾期。 懒投资主要对接应收账款保理、融资租赁和消费金融等优质债权资产。2015年12月，国资参股背景的大型担保机构中盈盛达在香港上市，懒投资作为其基石投资者受邀现场敲钟。这是国内首例互联网金融公司以基石投资者身份亮相国际资本市场。
+
+
 <div class="row">
   <div class="col-md-5 col-md-offset-3 text-center">
      <a href="http://elastic.co" title="Elastic" target="_blank">
@@ -54,17 +64,11 @@ location: bj
     </a>
   </div>
 </div>
- <div class="col-md-5 col-md-offset-3 text-center">
-    <a href="http://lantouzi.com/" title="懒投资" target="_blank">
-      <img src="{{ '/img/logo-lantouzi.png' | prepend: site.baseurl }}" alt="懒投资" class="img-responsive center-block" />
-    </a>
-  </div>
+
 
 Elastic 是一家世界领先的开源软件提供商，致力于结构化和非结构化数据的实时可用性，使用场景涵盖搜索、日志和数据分析等领域。公司成立于2012年，旗下拥有开源产品：分布式实时搜索与数据分析引擎：Elasticsearch；可视化展现与分析：Kibana；数据收集与处理中间件：Logstash；轻量级数据收集与网络层流量分析：Beats；除此之外还提供安全、预警、监控、图分析及机器学习的商业插件：X-Pack 以及托管的 Elasticsearch 云服务：Elastic Cloud；这些产品迄今累计已超过8千万次下载。Elastic 由 Benchmark Capital、Index Ventures 及 NEA 投资，总部位于荷兰阿姆斯特丹和美国加州山景城，公司员工及办事处遍布全球各地。
 
 
-
- 
 ### 六、联系方式
 
 组委会主席：姜瑛恺
