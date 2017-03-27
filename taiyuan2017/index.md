@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 第十届中国R会议（太原））
+title: 第十届中国R会议（太原）
 location: hefei
 ---
 
