@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 第十届中国R会议（合肥））
+title: 第十届中国R会议（合肥）
 location: hefei
 ---
 
