@@ -69,6 +69,24 @@ location: bj
 
 Elastic 是一家世界领先的开源软件提供商，致力于结构化和非结构化数据的实时可用性，使用场景涵盖搜索、日志和数据分析等领域。公司成立于2012年，旗下拥有开源产品：分布式实时搜索与数据分析引擎：Elasticsearch；可视化展现与分析：Kibana；数据收集与处理中间件：Logstash；轻量级数据收集与网络层流量分析：Beats；除此之外还提供安全、预警、监控、图分析及机器学习的商业插件：X-Pack 以及托管的 Elasticsearch 云服务：Elastic Cloud；这些产品迄今累计已超过8千万次下载。Elastic 由 Benchmark Capital、Index Ventures 及 NEA 投资，总部位于荷兰阿姆斯特丹和美国加州山景城，公司员工及办事处遍布全球各地。
 
+<div class="row">
+  <div class="col-md-5 col-md-offset-3 text-center">
+     <a href="http://www.rstudio.com/" title="Rstudio" target="_blank">
+      <img src="{{ '/img/logo-rstudio.png' | prepend: site.qiniubaseurl }}" alt="elastic" class="img-responsive center-block"/>
+    </a>
+  </div>
+</div>
+
+RStudio 公司成立于2008 年，创始人为JJ Allaire，R 社区领军人物Hadley Wickham 现任RStudio 首席
+科学家。RStudio 旨在为R 语言提供更便利的开发环境和数据分析工具，例如RStudio 集成开发环境（IDE）、
+RStudio 服务器、Shiny、Shiny 服务器、ShinyApps.io、R Markdown、RStudio Connect 等。RStudio 坚定支
+持开源软件和社区，其产品多为免费开源软件，但同时RStudio 也提供相应的企业级软件应用（如RStudio 服
+务器专业版、Shiny 服务器专业版等），以满足商业使用需求（如企业内部RStudio 服务器管理、售后服务支
+持）。自2012 年起，RStudio 为世界各地的R 会议提供了大量赞助和支持，包括官方R 语言会议和中国R 语
+言会议。为了R 语言能更持续稳定发展，RStudio 倡议与微软、Tibco、Google 等几家商业公司成立了R 联合
+团体（R Consortium），每年为R 社区的开源项目提供大量资助，召集优秀人才解决R 语言现存的重要且有
+挑战性的问题。
+
 
 ### 六、联系方式
 
