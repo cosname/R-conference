@@ -77,15 +77,7 @@ Elastic 是一家世界领先的开源软件提供商，致力于结构化和�
   </div>
 </div>
 
-RStudio 公司成立于2008 年，创始人为JJ Allaire，R 社区领军人物Hadley Wickham 现任RStudio 首席
-科学家。RStudio 旨在为R 语言提供更便利的开发环境和数据分析工具，例如RStudio 集成开发环境（IDE）、
-RStudio 服务器、Shiny、Shiny 服务器、ShinyApps.io、R Markdown、RStudio Connect 等。RStudio 坚定支
-持开源软件和社区，其产品多为免费开源软件，但同时RStudio 也提供相应的企业级软件应用（如RStudio 服
-务器专业版、Shiny 服务器专业版等），以满足商业使用需求（如企业内部RStudio 服务器管理、售后服务支
-持）。自2012 年起，RStudio 为世界各地的R 会议提供了大量赞助和支持，包括官方R 语言会议和中国R 语
-言会议。为了R 语言能更持续稳定发展，RStudio 倡议与微软、Tibco、Google 等几家商业公司成立了R 联合
-团体（R Consortium），每年为R 社区的开源项目提供大量资助，召集优秀人才解决R 语言现存的重要且有
-挑战性的问题。
+RStudio 公司成立于 2008 年，创始人为 JJ Allaire，R 社区领军人物 Hadley Wickham 现任 RStudio 首席科学家。RStudio 旨在为 R 语言提供更便利的开发环境和数据分析工具，例如 RStudio 集成开发环境（IDE）、RStudio 服务器、Shiny、Shiny 服务器、ShinyApps.io、R Markdown、RStudio Connect 等。RStudio 坚定支持开源软件和社区，其产品多为免费开源软件，但同时 RStudio 也提供相应的企业级软件应用（如 RStudio 服务器专业版、Shiny 服务器专业版等），以满足商业使用需求（如企业内部 RStudio 服务器管理、售后服务支持）。自 2012 年起，RStudio 为世界各地的 R 会议提供了大量赞助和支持，包括官方 R 语言会议和中国 R 语 言会议。为了 R 语言能更持续稳定发展，RStudio 倡议与微软、Tibco、Google 等几家商业公司成立了 R 联合团体（R Consortium），每年为 R 社区的开源项目提供大量资助，召集优秀人才解决 R 语言现存的重要且有挑战性的问题。
 
 
 ### 六、联系方式
