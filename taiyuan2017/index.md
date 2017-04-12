@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 第十届中国R会议（太原）暨山西省大数据产业创新发展论坛
-location: hefei
+location: taiyuan
 ---
 
 <!-- picture -->
