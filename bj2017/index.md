@@ -38,7 +38,7 @@ location: bj
 
 报名成功后，请查看邮箱，下载含二维码的PDF文件。请A4纸打印，并在会议期间随身携带。
 
-点击地址：
+选择您需要的票种类型报名：
 
 <div><iframe id='mgframe' height='353px' width='100%' src='https://eventdove.com/business/getInnerTicket.do?siteInfoId=125128&moduleId=44&viewFlag=1&tc=promoteticket&isShow=1' frameborder='0' scrolling='no'></iframe></div>
 
