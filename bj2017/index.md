@@ -7,7 +7,7 @@ location: bj
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/img/tsinghua.jpg' | prepend: site.qiniubaseurl }}" alt="清华大学" class="img-responsive" />
+    <img src="{{ '/img/tsinghua.jpg' | prepend: site.baseurl }}" alt="清华大学" class="img-responsive" />
   </div>
 </div>
 
@@ -62,7 +62,7 @@ location: bj
       <img src="{{ '/img/logo-lantouzi.png' | prepend: site.baseurl }}" alt="懒投资" class="img-responsive center-block" />
     </a>
   </div>
- </div> 
+ </div>
 
 懒投资隶属于北京大家玩科技有限公司， 2014年9月上线运营， A轮融2100万美元，来自策源创投、源码资本、福布斯富豪夏佐全先生。累计交易金额超100亿，为用户赚取3.1亿收益，注册用户超百万，无一例逾期。 懒投资主要对接应收账款保理、融资租赁和消费金融等优质债权资产。2015年12月，国资参股背景的大型担保机构中盈盛达在香港上市，懒投资作为其基石投资者受邀现场敲钟。这是国内首例互联网金融公司以基石投资者身份亮相国际资本市场。
 
@@ -70,7 +70,7 @@ location: bj
 <div class="row">
   <div class="col-md-5 col-md-offset-3 text-center">
      <a href="http://elastic.co" title="Elastic" target="_blank">
-      <img src="{{ '/img/elastic.jpg' | prepend: site.qiniubaseurl }}" alt="elastic" class="img-responsive center-block"/>
+      <img src="{{ '/img/elastic.jpg' | prepend: site.baseurl }}" alt="elastic" class="img-responsive center-block"/>
     </a>
   </div>
 </div>
@@ -81,7 +81,7 @@ Elastic 是一家世界领先的开源软件提供商，致力于结构化和�
 <div class="row">
   <div class="col-md-5 col-md-offset-3 text-center">
      <a href="http://www.rstudio.com/" title="Rstudio" target="_blank">
-      <img src="{{ '/img/logo-rstudio.png' | prepend: site.qiniubaseurl }}" alt="elastic" class="img-responsive center-block"/>
+      <img src="{{ '/img/logo-rstudio.png' | prepend: site.baseurl }}" alt="elastic" class="img-responsive center-block"/>
     </a>
   </div>
 </div>

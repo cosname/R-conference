@@ -7,20 +7,20 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}" />
 
-  <link rel="shortcut icon" href="{{ '/img/favicon.ico' | prepend: site.qiniubaseurl }}" type="image/x-icon">
-  <link rel="icon" href="{{ '/img/favicon.ico' | prepend: site.qiniubaseurl }}" type="image/ico">
+  <link rel="shortcut icon" href="{{ '/img/favicon.ico' | prepend: site.baseurl }}" type="image/x-icon">
+  <link rel="icon" href="{{ '/img/favicon.ico' | prepend: site.baseurl }}" type="image/ico">
 
-  <link rel="stylesheet" href="{{ '/css/bootstrap.min.css' | prepend: site.qiniubaseurl }}">
-  <link rel="stylesheet" href="{{ '/plugins/flexslider/flexslider.css' | prepend: site.qiniubaseurl }}">
-  <link rel="stylesheet" href="{{ '/css/skins/blue.css'  | prepend: site.qiniubaseurl }}">
+  <link rel="stylesheet" href="{{ '/css/bootstrap.min.css' | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ '/plugins/flexslider/flexslider.css' | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ '/css/skins/blue.css'  | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ '/css/style.css'       | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ '/css/timeline.css'    | prepend: site.qiniubaseurl }}">
+  <link rel="stylesheet" href="{{ '/css/timeline.css'    | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-  <script type="text/javascript" src="{{ '/js/jquery-2.2.2.min.js' | prepend: site.qiniubaseurl }}"></script>
-  <script type="text/javascript" src="{{ '/js/bootstrap.min.js'    | prepend: site.qiniubaseurl }}"></script>
-  <script type="text/javascript" src="{{ '/plugins/flexslider/jquery.flexslider-min.js' | prepend: site.qiniubaseurl }}"></script>
-  <script type="text/javascript" src="{{ '/plugins/flexslider/flexslider.config.js'     | prepend: site.qiniubaseurl }}"></script>
+  <script type="text/javascript" src="{{ '/js/jquery-2.2.2.min.js' | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ '/js/bootstrap.min.js'    | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ '/plugins/flexslider/jquery.flexslider-min.js' | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ '/plugins/flexslider/flexslider.config.js'     | prepend: site.baseurl }}"></script>
 
   <script type="text/javascript">
     $(function() {

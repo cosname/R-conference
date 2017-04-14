@@ -60,14 +60,14 @@ location: hefei
 <!-- picture -->
 <div class="row">
   <div class="col-md-5 col-md-offset-3 text-center">
-    <img src="{{ '/img/zkd.jpg' | prepend: site.qiniubaseurl }}" alt="中国科学技术大学管理学院" class="img-responsive" />
+    <img src="{{ '/img/zkd.jpg' | prepend: site.baseurl }}" alt="中国科学技术大学管理学院" class="img-responsive" />
   </div>
 </div>
 #### [统计之都](http://cos.name/)
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/img/cos.png' | prepend: site.qiniubaseurl }}" alt="统计之都" class="img-responsive" />
+    <img src="{{ '/img/cos.png' | prepend: site.baseurl }}" alt="统计之都" class="img-responsive" />
   </div>
 </div>
 
