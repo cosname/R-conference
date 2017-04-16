@@ -13,9 +13,9 @@ location: bj
 
 1. 宗福季（港科）：统计转移学习及其在统计过程控制中的应用
 2. 王永雄（斯坦福大学）：已确认
-3. 刘军（哈佛大学）：Statistical learning with genomic big-data
+3. 刘军（哈佛大学）：基因大数据的统计学习
 4. 李航（华为）：用AI技术构建更美好的全连接世界
-5. 郭建华（东北师大）：已确认
+5. 郭建华（东北师大）：大数据时代下的统计学思维一以文本挖掘为例
 6. 圆桌讨论
 
 ### 狗熊会专场：王汉生（19日下午）
@@ -55,7 +55,7 @@ location: bj
 
 
 ### 工业数据-王凯波&朱宇（20日上午）
-1. 姜海（清华大学）
+1. 姜海（清华大学）：基于车辆GPS 数据的交通大数据应用
 2. 皋琴（清华大学）：Branding with social media: User gratifications, usage patterns, and brand message content strategies
 3. 王凯波（清华大学）：卓越质量管理中的大数据分析
 4. 商艳芬（天津大学）：轮廓数据的统计过程控制--以质保数据为例
