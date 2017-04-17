@@ -55,11 +55,11 @@ location: bj
 
 
 ### 工业数据-王凯波&朱宇（20日上午）
-1. 姜海（清华大学）：基于车辆GPS 数据的交通大数据应用
-2. 皋琴（清华大学）：Branding with social media: User gratifications, usage patterns, and brand message content strategies
-3. 王凯波（清华大学）：卓越质量管理中的大数据分析
-4. 商艳芬（天津大学）：轮廓数据的统计过程控制--以质保数据为例
-5. 李彦夫（清华大学）：System reliability assessment and optimization
+1. 商艳芬（天津大学）：轮廓数据的统计过程控制--以质保数据为例
+2. 王凯波（清华大学）：卓越质量管理中的大数据分析
+3. 李彦夫（清华大学）：System reliability assessment and optimization
+4. 皋琴（清华大学）：Branding with social media: User gratifications, usage patterns, and brand message content strategies
+5. 姜海（清华大学）：基于车辆GPS数据的交通大数据应用
 6. 讨论
 
 ### 工业制造-田春华（20日下午）
