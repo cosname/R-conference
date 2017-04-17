@@ -100,9 +100,9 @@ location: bj
 
 
 ### 软件工具-肖楠
-1. 谢佳标（乐逗）：利用css对shiny页面优化及利用htmlwidgets包创建HTML控件
-2. 覃文峰（rweekly）：跟踪 R 社区动态 - R Weekly 的背后
-3. 肖楠（七桥基因）：Persistent Reproducible Reporting with Docker and R
+1. 谢佳标（乐逗）：利用CSS对Shiny页面优化及利用htmlwidgets包创建HTML控件
+2. 覃文峰（R Weekly）：跟踪 R 社区动态 - R Weekly 的背后
+3. 肖楠（Seven Bridges）：Persistent Reproducible Reporting with Docker and R
 
 
 ### 社交网络-刘跃文
