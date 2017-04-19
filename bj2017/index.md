@@ -91,7 +91,7 @@ RStudio 公司成立于 2008 年，创始人为 JJ Allaire，R 社区领军人�
 <div class="row">
   <div class="col-md-5 col-md-offset-3 text-center">
      <a href="http://www.hzbook.com/ps/" title="Rstudio" target="_blank">
-      <img src="{{ '/img/logo-hz.jpg' | prepend: site.baseurl }}" alt="elastic" class="img-responsive center-block"/>
+      <img src="{{ '/img/logo-hzbook.jpg' | prepend: site.baseurl }}" alt="elastic" class="img-responsive center-block"/>
     </a>
   </div>
 </div>
