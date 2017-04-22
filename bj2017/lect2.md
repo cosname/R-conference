@@ -1,9 +1,10 @@
----
+ ---
 layout: page
 title: 演讲信息
 location: bj
 ---
-
+ 
+ 
 <div class="alert alert-info" role="alert"><h3 class="text-center">联合会议主会场</h3></div>
 
 <table class="table table-striped">
