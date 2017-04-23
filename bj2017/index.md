@@ -50,6 +50,10 @@ location: bj
 
 <div><iframe id='mgframe' height='353px' width='100%' src='https://eventdove.com/business/getInnerTicket.do?siteInfoId=125128&moduleId=44&viewFlag=1&tc=promoteticket&isShow=1' frameborder='0' scrolling='no'></iframe></div>
 
+- [参会邀请函]({{ '/files/invitation_bj_2017_cn.pdf' | prepend: site.baseurl }})
+- [嘉宾邀请函]({{ '/files/invitation_bj_2017_cn_VIP.pdf' | prepend: site.baseurl }})
+
+
 ### 四、会议赞助
 
 本次大会欢迎企业、高校、个人的多种形式赞助，作为回馈，会议手册上会印制赞助商介绍，同时为赞助商提供报告演讲机会。会议具体情况请和会务组讨论商定，请联系chinar-2017-bj@cos.name。
