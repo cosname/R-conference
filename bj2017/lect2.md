@@ -49,7 +49,7 @@ location: bj
     <p>李航</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>Building Better Connected World with Artificial Intelligence Technologies</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-1-sub-3">详情</button>
@@ -57,8 +57,8 @@ location: bj
   </tr>
   <tr class="collapse" id="session-1-sub-3">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 李航:NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> We envision that with artificial intelligence technologies the telecommunication, enterprise, and consumer industries, in which Huawei has its main business, will enter a completely new horizon; specifically, all the products and services will be revolutionized to become more intelligent. Huawei is indeed pushing the frontier of research and development of technologies in those fields and has accomplished significant achievements. In this talk, I will introduce some of the best practices as well as the technology breakthroughs made in Huawei, with regard to building better telecommunication networks, better enterprise management, and better mobile devices. Specifically, I will describe the accomplishments made at research projects of Huawei Noah’s Ark Lab.  Finally, I will summarize the challenges and important research directions in artificial intelligence, for which more research, particularly fundamental research, is needed.</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 李航:李航博士的研究方向包括信息检索，自然语言处理，统计机器学习，及数据挖掘。李航 1988 年日本 京都大学电气工程系毕业，1998 年获得日本东京大学计算机科学博 士。他 1990 年至 2001 年就职于日本 NEC 公司中央研究所，任研究 员，2001 年至 2012 年就职于微软亚洲研究院，任高级研究员与主任 研究员。李航一直活跃在相关学术领域，曽出版过三部学术专著，并 在顶级国际学术会议和顶级国际学术期刊上发表过 120 多篇学术论 文，包括 SIGIR, WWW, WSDM, ACL, EMNLP, ICML, NIPS, SIGKDD, AAAI, IJCAI，以及 CL, NLE, JMLR, TOIS, IRJ, IPM, TKDE, TWEB, TIST。他和同事 的论文获得了 KDD2008 最佳应用论文奖，他指导的学生获得了 SIGIR2008，ACL2012 最佳学生论文奖。李航参与了多项产品开发，包 括 Microsoft SQL Server 2005, Microsoft Office 2007, Microsoft Live Search 2008, Microsoft Bing 2009, Bing 2010, Office 2010, Office 2012。 他拥有 42 项授权美国专利。李航还在顶级国际学术会议和顶级国际 学术期刊担任许多重要工作，如大会程序委员会主席，资深委员，及 委员，期刊编委，包括 SIGIR, WWW, WSDM, ACL, NAACL, EMNLP, NIPS, SIGKDD, ICDM, ACML, IJCAI, 以及 CL, IRJ, TIST, JASIST, JCST。</p>
     </td>
   </tr>
 
