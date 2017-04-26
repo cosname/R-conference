@@ -1,9 +1,8 @@
----
+ ---
 layout: page
 title: 演讲信息
 location: bj
 ---
-
 
  <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 
@@ -101,7 +100,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">狗熊会专场分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">狗熊会专场</h3></div>
 
 <table class="table table-striped">
 
@@ -215,7 +214,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">人工智能与量化金融分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">人工智能与量化金融</h3></div>
 
 <table class="table table-striped">
 
@@ -336,7 +335,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">商务统计分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">商务统计</h3></div>
 
 <table class="table table-striped">
 
@@ -450,7 +449,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">可视分析分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">可视分析</h3></div>
 
 <table class="table table-striped">
 
@@ -561,7 +560,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">文本挖掘分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">文本挖掘</h3></div>
 
 <table class="table table-striped">
 
@@ -657,7 +656,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">数据工程与哦工业工程应用分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">数据工程与工业工程应用</h3></div>
 
 <table class="table table-striped">
 
@@ -753,7 +752,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">工业制造分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">工业制造</h3></div>
 
 <table class="table table-striped">
 
@@ -867,7 +866,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">机器学习分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">机器学习</h3></div>
 
 <table class="table table-striped">
 
@@ -982,7 +981,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">深度学习应用分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">深度学习应用</h3></div>
 
 <table class="table table-striped">
 
@@ -1096,7 +1095,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">计算平台分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">计算平台</h3></div>
 
 <table class="table table-striped">
 
@@ -1210,7 +1209,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">软件工具分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">软件工具</h3></div>
 
 <table class="table table-striped">
 
@@ -1270,7 +1269,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">社交网络分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">社交网络</h3></div>
 
 <table class="table table-striped">
 
@@ -1389,7 +1388,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">汽车联网分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">汽车联网</h3></div>
 
 <table class="table table-striped">
 
@@ -1507,7 +1506,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">统计理论A分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">统计理论A</h3></div>
 
 <table class="table table-striped">
 
@@ -1603,7 +1602,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">统计理论B分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">统计理论B</h3></div>
 
 <table class="table table-striped">
 
@@ -1699,7 +1698,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">生物信息分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">生物信息</h3></div>
 
 <table class="table table-striped">
 
@@ -1813,7 +1812,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">医疗健康分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">医疗健康</h3></div>
 
 <table class="table table-striped">
 
@@ -1873,7 +1872,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">Bioconductor-CharityLaw分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">Bioconductor-CharityLaw</h3></div>
 
 <table class="table table-striped">
 
@@ -1951,7 +1950,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">公共卫生分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">公共卫生</h3></div>
 
 <table class="table table-striped">
 
@@ -2065,7 +2064,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">人文数据分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">人文数据</h3></div>
 
 <table class="table table-striped">
 
@@ -2161,7 +2160,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">教育培训分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">教育培训</h3></div>
 
 <table class="table table-striped">
 
@@ -2257,7 +2256,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">心理科学分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">心理科学</h3></div>
 
 <table class="table table-striped">
 
@@ -2335,7 +2334,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">R软件在社会科学中的应用分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">R软件在社会科学中的应用</h3></div>
 
 <table class="table table-striped">
 
@@ -2431,7 +2430,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">资产管理分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">资产管理</h3></div>
 
 <table class="table table-striped">
 
@@ -2491,7 +2490,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">消费金融分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">消费金融</h3></div>
 
 <table class="table table-striped">
 
@@ -2569,7 +2568,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">政府数据分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">政府数据</h3></div>
 
 <table class="table table-striped">
 
@@ -2593,7 +2592,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">空间数据分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">空间数据</h3></div>
 
 <table class="table table-striped">
 
@@ -2617,7 +2616,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">医学与基因组学分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">医学与基因组学</h3></div>
 
 <table class="table table-striped">
 
@@ -2731,7 +2730,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">语言智能与产业应用分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">语言智能与产业应用</h3></div>
 
 <table class="table table-striped">
 
@@ -2827,7 +2826,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">？？分会场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">？？</h3></div>
 
 <table class="table table-striped">
 
