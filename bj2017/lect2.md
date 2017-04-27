@@ -2710,10 +2710,10 @@ location: bj
 
   <tr>
     <td class="col-md-2">
-    <p>郎大卫</p>
+    <p>郎大为</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>Mxnet进行车型分类</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-28-sub-5">详情</button>
@@ -2721,8 +2721,8 @@ location: bj
   </tr>
   <tr class="collapse" id="session-28-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 郎大卫:NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 深度学习发展到今天，慢慢与一些传统的概念开始交叉，迁移学习就是其中之一，迁移学习可以通过已有模型的基础上进一步调整，训练，以大幅减少建模与训练的时间。本文将会以车型分类为例，介绍如何使用一个预先训练好的模型，在R语言中使用mxnet进行模型的微调（fine-tuned），并介绍入门深度学习的一些经验。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 郎大为: J.D. Power 数据分析师，致力于汽车行业的数据咨询,曾任职于Supstat，Ctrip，浙江大学业界导师，REmap, wordcloud2，leafletCN等包的作者。</p>
     </td>
   </tr>
 
