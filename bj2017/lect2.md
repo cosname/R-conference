@@ -2713,7 +2713,7 @@ location: bj
     <p>郎大为</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>Mxnet进行车型分类</strong></p>
+    <p class="text-center"><strong>R语言中的深度学习: 用Mxnet进行车型识别</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-28-sub-5">详情</button>
