@@ -102,6 +102,31 @@ RStudio 公司成立于 2008 年，创始人为 JJ Allaire，R 社区领军人�
 
 北京华章图文信息有限公司（机械工业出版社华章公司）成立于1995年，是国内第一家中外合资的出版公司。20年来出版了《算法导论》、《编译原理》、《Java编程思想》、《深入理解计算机系统》、《代码之美》、《点石成金：访客至上的网页设计秘笈》、《PHP和MySQL Web开发》、《深入理解Java虚拟机》等知名畅销书，累计出版图书3000多种，图书销售册数超过2000万册。
 
+<div class="row">
+  <div class="col-md-5 col-md-offset-3 text-center">
+     <a href="https://www.hellobi.com/" title="Rstudio" target="_blank">
+      <img src="{{ '/img/tszn_logo.jpg' | prepend: site.baseurl }}" alt="elastic" class="img-responsive center-block"/>
+    </a>
+  </div>
+</div>
+
+天善智能hellobi.com 致力于构建一个基于大数据领域的生态圈，链接一切与数据相关的资源，共同努力推动大数据、数据分析、商业智能BI、数据挖掘、人工智能等领域在国内的普及和发展。
+社区包括技术问答、博客、活动、学院、招聘、读书频道等子版块，内容覆盖了与大数据、数据分析、数据挖掘和商业智能BI、数据分析、数据挖掘和大数据相关的技术领域。
+2017年初，社区组织编著的《数据实践之美》印刷出版，累计销量4000+册。
+
+<div class="row">
+  <div class="col-md-5 col-md-offset-3 text-center">
+     <a href="https://www.hellobi.com/" title="Rstudio" target="_blank">
+      <img src="{{ '/img/r_cn_logo.png' | prepend: site.baseurl }}" alt="elastic" class="img-responsive center-block"/>
+    </a>
+  </div>
+</div>
+
+
+国内最大的R语言中文社区，隶属于天善智能旗下，提供R全球最新资讯与成果,专业技术实践分享和海量课程及教材学习资源，始终致力于推动R在国内的发展及实践应用，加入我们，你就是R高手！
+
+
+
 
 
 ### 六、联系方式
