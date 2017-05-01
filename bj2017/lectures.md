@@ -816,7 +816,7 @@ location: bj
     <p>任坤</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>从学生到量化从业人员的角色转变</strong></p>
+    <p class="text-center"><strong>R语言与量化投资实战</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-8-sub-4">详情</button>
@@ -824,8 +824,8 @@ location: bj
   </tr>
   <tr class="collapse" id="session-8-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 任坤:NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button>量化投资是用数量化的方法，基于历史数据，发现、分析和验证投资逻辑，而R语言则是量化研究的重要利器。从股票到期货和其他金融衍生品，丰富的数据一方面为多样化的投资逻辑提供了可能，另一方面也为投研人员带来了一些挑战。该演讲从量化投资所涉及的数据处理方面的挑战入手，从数据操作、高性能计算等方面介绍R语言和相关扩展包如何提升量化投资研究的生产力。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 任坤: 上海明汯投资资深投资经理，主要从事股票量化对冲、期货量化策略的研发。编写了 formattable、rlist 等扩展包，是《Learning R Programming》的作者。</p>
     </td>
   </tr>
 
