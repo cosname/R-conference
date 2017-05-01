@@ -5,7 +5,6 @@ location: bj
 ---
 
 
-
 <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 
 <table class="table table-striped">
@@ -1167,7 +1166,7 @@ location: bj
     <p>张宸</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>制造即服务，数据即价值</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-11-sub-5">详情</button>
@@ -1175,8 +1174,8 @@ location: bj
   </tr>
   <tr class="collapse" id="session-11-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 张宸:NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 制造即服务，数据即价值</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 张宸:本科数学，硕博模式识别，现任三一集团数据科学家。</p>
     </td>
   </tr>
 
