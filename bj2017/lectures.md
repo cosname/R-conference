@@ -3,7 +3,6 @@ layout: page
 title: 演讲信息
 location: bj
 ---
-
 <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 
 <table class="table table-striped">
@@ -2516,7 +2515,7 @@ location: bj
     <p>沈志勇</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>数据智能应用实践—从互联网到传统行业</strong></p>
+    <p class="text-center"><strong>数据智能实践--从互联网到传统行业</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-25-sub-3">详情</button>
@@ -2524,8 +2523,26 @@ location: bj
   </tr>
   <tr class="collapse" id="session-25-sub-3">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 沈志勇博士，百度云首席数据科学家。大数据分析技术国家工程实验室学术委员会成员，大数据流通与交易技术国家工程实验室专家委员会成员。曾任百度研究院大数据实验室副主任、惠普中国研究院研究员。本科毕业于北大数学学院概率统计专业，随后于中科院软件所获得计算机博士学位。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 行业的发展的需求，正从信息化，慢慢的转为数据驱动，最近开始追求智能化。随着各行业相继完成信息化进程，数据在各行业内逐渐形成积累，数据驱动的决策与业务优化的需求越来越明确，在某些数据驱动应用充分的行业，如金融，又在此基础上开始追求业务的智能化。互联网行业较早的经历和完成了从数据驱动到智能化的演化，在这里介绍一些相关的案例。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 沈志勇博士，百度云首席数据科学家。大数据分析技术国家工程实验室学术委员会成员，大数据流通与交易技术国家工程实验室专家委员会成员。本科毕业于北大数学学院概率统计专业，随后于中科院软件所获得博士学位。曾任百度大数据实验室副主任，惠普中国研究院研究员。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>田野</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>数控机床大数据分析</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-25-sub-4">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-25-sub-4">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 节能减排是缓解工业能源消耗的主要途径，数途科技基于大数据技术，重点研究工业智能制造中的CNC数控机床智能生产。以精益生产为核心，对机床生产过程产生的实时数据开展分析。通过顶层设计，实现智能机床数据的云端整合。通过设计高维分布式大数据分析算法，实现智能机床生成的能量消耗实时预测。最终实现对工厂运行从排期到生成的全流程监控，全过程优化。以最低能耗实现产品精准化生产，真正达到工业生成的智能制造。该技术服务于数控机床零件加工企业，在冲压、注塑，过程制造，离散化生产线等领域都拥有巨大的应用场景。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 现任Inrevo杭州数途信息科技有限公司创始人。先后在纽约知名互联网企业服务企业Register.com, NetworkSolutions, Web.com, Travelclick.com 等纳斯达克上市企业担任公首席架构师，全球网络运营资深运营经理, 世界500强企业雅芳集团全球网络与存储云计算转型总监，亚马逊全球网络实施高级经理等职务。现从事于工业物联网技术和工业大数据处理的研发，所创Inrevo公司以I-IoT驱动精益生产和设备管理理念为核心，基于大数据技术实现对工业生产过程中数据进行实时精准的分析处理，对工厂运行的各个环节实现透明化数字化管理，为持续改进，业务决策提供关键的大数据技术支撑。</p>
     </td>
   </tr>
 
@@ -2700,24 +2717,6 @@ location: bj
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 随着可再生能源行业的快速发展，越来越多的从业主体希望数据分析能够在实际业务中发挥更多的作用。R语言作为一种易于上手的开源语言，成为了许多从业者的首选分析工具。演讲将以新能源行业的基本特点入手，通过环境特征分析、设备性能分析、运营管理分析、行业信息与舆情分析四个业务方向，介绍新能源领域数据分析的重要价值与工作方法，最后分享基于公有云R语言分析平台的建设经验，展示R语言并行处理海量数据的思路与方法。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 陈卓，CCF中国计算机学会会员，ACM国际计算机协会会员，CIPS中国中文信息学会会员，曾任北京东润环能科技有限公司高级算法工程师、产品经理，金风科技“金风慧能大数据平台” 数据分析主管，主要工作方向为新能源风电行业的数据分析与数据发掘。<br>张悦，中科院大气物理所大气科学和地球流体力学数值模拟国家重点实验室博士，北方大贤风电科技（北京）有限公司高级顾问，长期从事新能源与气象行业的学术研究与工程化推广工作，主要研究方向为新能源行业的气象预测、功率预测与数字化应用。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>田野</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>数控机床大数据分析</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-27-sub-6">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-27-sub-6">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 节能减排是缓解工业能源消耗的主要途径，数途科技基于大数据技术，重点研究工业智能制造中的CNC数控机床智能生产。以精益生产为核心，对机床生产过程产生的实时数据开展分析。通过顶层设计，实现智能机床数据的云端整合。通过设计高维分布式大数据分析算法，实现智能机床生成的能量消耗实时预测。最终实现对工厂运行从排期到生成的全流程监控，全过程优化。以最低能耗实现产品精准化生产，真正达到工业生成的智能制造。该技术服务于数控机床零件加工企业，在冲压、注塑，过程制造，离散化生产线等领域都拥有巨大的应用场景。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 现任Inrevo杭州数途信息科技有限公司创始人。先后在纽约知名互联网企业服务企业Register.com, NetworkSolutions, Web.com, Travelclick.com 等纳斯达克上市企业担任公首席架构师，全球网络运营资深运营经理, 世界500强企业雅芳集团全球网络与存储云计算转型总监，亚马逊全球网络实施高级经理等职务。现从事于工业物联网技术和工业大数据处理的研发，所创Inrevo公司以I-IoT驱动精益生产和设备管理理念为核心，基于大数据技术实现对工业生产过程中数据进行实时精准的分析处理，对工厂运行的各个环节实现透明化数字化管理，为持续改进，业务决策提供关键的大数据技术支撑。</p>
     </td>
   </tr>
 
@@ -2954,52 +2953,16 @@ location: bj
 
   <tr>
     <td class="col-md-2">
-    <p>沈志勇</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>数据智能实践--从互联网到传统行业</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-30-sub-2">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-30-sub-2">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 行业的发展的需求，正从信息化，慢慢的转为数据驱动，最近开始追求智能化。随着各行业相继完成信息化进程，数据在各行业内逐渐形成积累，数据驱动的决策与业务优化的需求越来越明确，在某些数据驱动应用充分的行业，如金融，又在此基础上开始追求业务的智能化。互联网行业较早的经历和完成了从数据驱动到智能化的演化，在这里介绍一些相关的案例。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 沈志勇博士，百度云首席数据科学家。大数据分析技术国家工程实验室学术委员会成员，大数据流通与交易技术国家工程实验室专家委员会成员。本科毕业于北大数学学院概率统计专业，随后于中科院软件所获得博士学位。曾任百度大数据实验室副主任，惠普中国研究院研究员。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>薛少飞</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>阿里巴巴语音识别声学模型的进化历程</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-30-sub-3">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-30-sub-3">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 近年来，随着技术的发展，基于深度学习的语音识别已经成为业界主流的方法。本次演讲将首先带着大家梳理基于深度学习的语音识别声学模型发展历程，之后将分享阿里巴巴在语音识别声学建模上所做的技术突破，并展示我们在语音识别应用上的一些案例。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 薛少飞，阿里巴巴 iDST 语音识别专家，中国科学技术大学博士。现负责阿里声学模型研究与应用：包括语音识别声学建模和深度学习在业务场景中的应用。博士期间的研究方向为语音识别说话人自适应，提出基于 Speaker Code 的模型域自适应方法，在语音相关的会议和期刊上发表论文十余篇。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
     <p>张志成</p>
     </td>
     <td class="col-md-8">
     <p class="text-center"><strong>地理数据与商业网点选址实战</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-30-sub-4">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-30-sub-2">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-30-sub-4">
+  <tr class="collapse" id="session-30-sub-2">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 电商与数据时代，实体店作为重要的消费场景，各种app推广主力渠道等，在各种渠道中地位将会被继续强化，新零售也开始通过数据来武装实体渠道，从而帮助实体渠道能够实现科学选址、精细化运营等，然而数据的应用应该首先以行业知识为基础和导向，本次将会分享开店实战中是如何利用数据科学选址的，从中可以看到数据选取、方法与业务融合、执行落地缺一不可，也将会了解到数据时代实体渠道的更强生命力与机会点在哪里。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 《数据实践之美》联合作者，10余年的商业网点选址分析与开店工作经验。服务过百胜餐饮、沃尔玛中国等公司，曾作为外部顾问参与IBM农行网点优化。项目经验涵盖零售、餐饮、金融与服务、体验等商业业态。基于行业经验，能够从业务角度正确解读数据。掌握主流的数据工具与简单的编程能力,能够通过数据分析洞察业务机会。对数据驱动商业选址有一手的实战经验。</p>
@@ -3011,16 +2974,16 @@ location: bj
     <p>黄蔚欣</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>时空位置信息对理解人群的环境行为具有重要的意义。传统的环境行为学研究方法使用拍照、绘图、跟踪、问卷等方式调查人们的行为，可以较准确的记录人们的时空位置和活动的内容，为分析少量个体在特定时段的行为提供了较为全面和准确的信息。然而，这样的调研方式也存在样本数量少，覆盖时间短、空间有限的不足。使用室内定位系统(IPS)的时空位置数据，能够分析人群在大型公共建筑室内外空间、社区公共空间、居住空间等的行为，总结行为模式，比较不同人群、功能空间的特点，为建筑设计、商业运营、公共安全管理提供动态依据。</strong></p>
+    <p class="text-center"><strong>基于室内定位数据（IPS）的时空行为分析</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-30-sub-5">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-30-sub-3">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-30-sub-5">
+  <tr class="collapse" id="session-30-sub-3">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 黄蔚欣，清华大学建筑学院副教授，日本京都大学博士，数字建筑技术教学工作委员会副主任委员，亚洲计算机辅助建筑学会（CAADRIA）委员，中国建筑学会建筑师分会数字建筑设计专业委员会（DADA）联合发起人，清华大数据产业联合会会员。主要研究领域：数字建筑设计、大数据行为分析，设计认知等。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 基于室内定位数据（IPS）的时空行为分析</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 时空位置信息对理解人群的环境行为具有重要的意义。传统的环境行为学研究方法使用拍照、绘图、跟踪、问卷等方式调查人们的行为，可以较准确的记录人们的时空位置和活动的内容，为分析少量个体在特定时段的行为提供了较为全面和准确的信息。然而，这样的调研方式也存在样本数量少，覆盖时间短、空间有限的不足。使用室内定位系统(IPS)的时空位置数据，能够分析人群在大型公共建筑室内外空间、社区公共空间、居住空间等的行为，总结行为模式，比较不同人群、功能空间的特点，为建筑设计、商业运营、公共安全管理提供动态依据。</p>
     </td>
   </tr>
 
