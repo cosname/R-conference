@@ -4,6 +4,7 @@ title: 演讲信息
 location: bj
 ---
 
+
 <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 
 <table class="table table-striped">
@@ -136,7 +137,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">狗熊会专场 (主席:王汉生) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">狗熊会专场 (主席：王汉生) </h3></div>
 
 <table class="table table-striped">
 
