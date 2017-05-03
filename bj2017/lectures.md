@@ -13,8 +13,6 @@ $('#toggle-all').on('click', function (e) {
 
 
 
-
-
 <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 
 <table class="table table-striped">
@@ -1350,7 +1348,7 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>NA</p>
+    <p>讨论</p>
     </td>
     <td class="col-md-8">
     <p class="text-center"><strong>NA</strong></p>
@@ -2926,7 +2924,7 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>NA</p>
+    <p>讨论</p>
     </td>
     <td class="col-md-8">
     <p class="text-center"><strong>NA</strong></p>
