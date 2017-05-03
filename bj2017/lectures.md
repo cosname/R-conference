@@ -3,6 +3,8 @@ layout: page
 title: 演讲信息
 location: bj
 ---
+
+
 <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 
 <table class="table table-striped">
@@ -135,7 +137,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">狗熊会专场</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">狗熊会专场(主席:王汉生)</h3></div>
 
 <table class="table table-striped">
 
@@ -267,7 +269,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">生物信息</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">生物信息(主席:侯琳&江瑞)</h3></div>
 
 <table class="table table-striped">
 
@@ -381,7 +383,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">Bioconductor-CharityLaw</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">Bioconductor-CharityLaw(主席:NA)</h3></div>
 
 <table class="table table-striped">
 
@@ -459,7 +461,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">汽车联网</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">汽车联网(主席:李旭)</h3></div>
 
 <table class="table table-striped">
 
@@ -575,7 +577,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">统计理论A</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">统计理论A(主席:杨立坚&李东)</h3></div>
 
 <table class="table table-striped">
 
@@ -671,7 +673,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">数据科学与工业工程</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">数据科学与工业工程(主席:王凯波&朱宇)</h3></div>
 
 <table class="table table-striped">
 
@@ -767,7 +769,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">人工智能与量化金融</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">人工智能与量化金融(主席:郭健)</h3></div>
 
 <table class="table table-striped">
 
@@ -888,7 +890,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">工业制造</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">工业制造(主席:田春华)</h3></div>
 
 <table class="table table-striped">
 
@@ -1002,7 +1004,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">机器学习</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">机器学习(主席:常象宇)</h3></div>
 
 <table class="table table-striped">
 
@@ -1117,7 +1119,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">计算平台</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">计算平台(主席:颜深根)</h3></div>
 
 <table class="table table-striped">
 
@@ -1231,7 +1233,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">统计理论B</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">统计理论B(主席:杨立坚&李东)</h3></div>
 
 <table class="table table-striped">
 
@@ -1327,7 +1329,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">R软件在社会科学中的应用</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">R软件在社会科学中的应用(主席:苏毓淞)</h3></div>
 
 <table class="table table-striped">
 
@@ -1423,7 +1425,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">公共卫生</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">公共卫生(主席:蔡俊)</h3></div>
 
 <table class="table table-striped">
 
@@ -1537,7 +1539,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">人文数据</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">人文数据(主席:陈静)</h3></div>
 
 <table class="table table-striped">
 
@@ -1633,7 +1635,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">教育培训</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">教育培训(主席:王涛)</h3></div>
 
 <table class="table table-striped">
 
@@ -1729,7 +1731,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">文本挖掘</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">文本挖掘(主席:张俊妮)</h3></div>
 
 <table class="table table-striped">
 
@@ -1825,7 +1827,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">软件工具</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">软件工具(主席:肖楠)</h3></div>
 
 <table class="table table-striped">
 
@@ -1903,7 +1905,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">社交网络</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">社交网络(主席:刘跃文)</h3></div>
 
 <table class="table table-striped">
 
@@ -2004,7 +2006,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">心理科学</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">心理科学(主席:夏骁凯)</h3></div>
 
 <table class="table table-striped">
 
@@ -2100,7 +2102,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">资产管理</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">资产管理(主席:吴海山)</h3></div>
 
 <table class="table table-striped">
 
@@ -2178,7 +2180,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">消费金融</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">消费金融(主席:张云松)</h3></div>
 
 <table class="table table-striped">
 
@@ -2256,7 +2258,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">医学与基因组学</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">医学与基因组学(主席:韩思蒙&李程)</h3></div>
 
 <table class="table table-striped">
 
@@ -2370,7 +2372,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">语言智能与产业应用</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">语言智能与产业应用(主席:刘知远)</h3></div>
 
 <table class="table table-striped">
 
@@ -2466,7 +2468,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">？？</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">？？(主席:邓柯)</h3></div>
 
 <table class="table table-striped">
 
@@ -2548,7 +2550,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">医疗健康</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">医疗健康(主席:李响)</h3></div>
 
 <table class="table table-striped">
 
@@ -2626,7 +2628,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">商务统计</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">商务统计(主席:黎波)</h3></div>
 
 <table class="table table-striped">
 
@@ -2722,7 +2724,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">可视分析</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">可视分析(主席:袁晓如)</h3></div>
 
 <table class="table table-striped">
 
@@ -2815,7 +2817,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">深度学习应用</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">深度学习应用(主席:陈昱)</h3></div>
 
 <table class="table table-striped">
 
@@ -2929,7 +2931,7 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">城市数据</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">城市数据(主席:李栋)</h3></div>
 
 <table class="table table-striped">
 
