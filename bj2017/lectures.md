@@ -1,8 +1,9 @@
- ---
+---
 layout: page
 title: 演讲信息
 location: bj
 ---
+
 
 <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 
@@ -355,7 +356,7 @@ location: bj
     <p>Yang Liao</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>Rsubread: an efficient toolkit for mapping and counting short sequencing reads</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-4-sub-1">详情</button>
@@ -363,17 +364,17 @@ location: bj
   </tr>
   <tr class="collapse" id="session-4-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Read mapping and quantification tools play a critical role in many genetic analysis pipelines that take high-throughput sequencing data as input. The accuracy and sensitivity of the read mapping tool directly determine the validity and quality of the outcomes from downstream analysis. More importantly, the very large (and continuously increasing) amount of data generated in high-throughput sequencing brings on the needs to highly efficient tools for read mapping and quantification.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
     </td>
   </tr>
 
   <tr>
     <td class="col-md-2">
-    <p> Yunshun Chen</p>
+    <p>Yunshun Chen</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>From reads to genes to pathways: differential expression analysis of RNA-Seq experiments in Bioconductor</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-4-sub-2">详情</button>
@@ -381,7 +382,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-4-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In recent years, RNA sequencing (RNA-seq) has become a very widely used technology for profiling gene expression. One of the most common aims of RNA-seq profiling is to identify genes or molecular pathways that are differentially expressed (DE) between two or more biological conditions. Changes in expression can then be associated with differences in biology, providing avenues for further investigation into potential mechanisms of action.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
     </td>
   </tr>
@@ -391,7 +392,7 @@ location: bj
     <p>Charity Law</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>Glimma: getting greater graphics for your  genes</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-4-sub-3">详情</button>
@@ -399,14 +400,14 @@ location: bj
   </tr>
   <tr class="collapse" id="session-4-sub-3">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> RNA-sequencing is a popular technology used by scientists to study changes in gene expression levels across tens of thousands of genes simultaneously. Representing gene expression levels, the counts in each sample are typically analysed by categorising samples into groups of interest, and obtaining gene-wise summary statistics in the form of log-fold changes, t-statistics, p-values, and the like. The data and its results can be explored by plotting one summary statistic against another and highlighting genes that are significant or of interest. The new Bioconductor package, Glimma, generates interactive graphics for plots typically found in the limma package with the enhanced feature of connecting many levels of information within the analysis on a single html page using d3.js. A Glimma-style mean-difference plot, or the more generic xy-plot, allows one to click on the points to bring up a new plot of sample-wise expression levels that is displayed alongside the original plot. This feature enables researchers to interrogate the data more intensely than ever before without the need to repeat the work for every gene under examination. The plots include options to search and select for genes of interest, and zoom in and out for better resolution. Unlike the traditional multi-dimensional scaling (MDS) plot, Glimma’s MDS plot shows several dimensions and group combinations on the same page. The functions within Glimma are tailored to integrate smoothly with objects native to limma, edgeR and DESeq2, and can be extended for use with microarray, single-cell and methylation data analyses.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
     </td>
   </tr>
 
   <tr>
     <td class="col-md-2">
-    <p>Goknur Giner</p>
+    <p>Alexandra Garnham</p>
     </td>
     <td class="col-md-8">
     <p class="text-center"><strong>NA</strong></p>
@@ -417,7 +418,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-4-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> RNA-seq analysis involves a number of steps, including read alignment, read summarization, differential expression and pathway analysis. This talk presents a computational workflow for the detection of DE genes and pathways from RNA-seq data by providing a complete analysis of an RNA-seq experiment profiling epithelial cell subsets in the mouse mammary gland. R software packages from the open-source Bioconductor project are used to cover all steps of the analysis pipeline, including alignment of read sequences, data exploration, differential expression analysis, visualization and pathway analysis. Read alignment and count quantification is conducted using the Rsubread package and the statistical analyses are performed using the edgeR package. The differential expression analysis uses the quasi-likelihood functionality of edgeR.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
     </td>
   </tr>
@@ -441,7 +442,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-5-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 车联网作为物联网的先行者、自动驾驶的必由之路，业已开始步入蓬勃发展期，海量的多源异构的数据随之而生 ，这其中尤以时空轨迹数据为盛。如何挖掘如此大规模的数据金矿，并洞察背后的价值，这一问题在如今的数据时代显得极为迫切。本次演讲主要分享车网互联在车联网领域数据的认知和经验，围绕以下三个业务核心进行介绍：事件识别，行为评价，用户画像。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 侯志伟，数据分析师，专注于车联网时空数据分析、挖掘及其可视化。曾多次获得数学建模国家一等奖，且均为交通方向。已获得专业领域内发明专利3项，发表中文核心期刊论文1篇。擅长领域：时空数据挖掘、用户画像系统、智能优化算法，Spark高性能计算等。</p>
     </td>
   </tr>
@@ -459,7 +460,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-5-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 摩拜单车在最近的一年里发展飞速，许多实际问题亟待通过数据驱动的方法去解决。本次演讲将主要从供应链优化的角度，谈一谈在运营效率的提升方面，摩拜数据科学应用的现状以及对策。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> The analysis approach presented in this talk can be applied to any RNA-seq study that includes some replication, but it is especially appropriate for designed experiments with multiple treatment factors and with small numbers of biological replicates.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 朱俊辉，摩拜单车算法工程师，熟悉R语言和Python，专注于供应链量化和可重复性研究。</p>
     </td>
   </tr>
