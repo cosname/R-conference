@@ -59,74 +59,69 @@ location: bj
 本次大会欢迎企业、高校、个人的多种形式赞助，作为回馈，会议手册上会印制赞助商介绍，同时为赞助商提供报告演讲机会。会议具体情况请和会务组讨论商定，请联系chinar-2017-bj@cos.name。
 
 ### 五、合作伙伴
-<!-- picture -->
+
+<h3 class ="text-center">战略合作伙伴</h3>
+
 <div class="row">
- <div class="col-md-5 col-md-offset-3 text-center">
-    <a href="http://lantouzi.com/" title="懒投资" target="_blank">
-      <img src="{{ '/img/logo-lantouzi.png' | prepend: site.baseurl }}" alt="懒投资" class="img-responsive center-block" />
+  <div class="col-md-4 col-md-offset-2 aligncenter client">
+    <a href="http://lantouzi.com/" title="懒投资" target="_blank">
+      <img src="{{ '/img/logo-lantouzi.png' | prepend: site.qiniubaseurl }}" alt="懒投资" class="img-responsive center-block" />
     </a>
   </div>
- </div>
+
+  <div class="col-md-4 aligncenter client">
+    <a href="https://charminginsurance.cn/" title="卓铭保险" target="_blank">
+      <img src="{{ '/img/logo-lantouzi.png' | prepend: site.qiniubaseurl }}" alt="卓铭保险" class="img-responsive center-block" />
+    </a>
+  </div>
+</div>
 
 懒投资隶属于北京大家玩科技有限公司， 2014年9月上线运营， A轮融2100万美元，来自策源创投、源码资本、福布斯富豪夏佐全先生。累计交易金额超266亿，为用户赚取7.8亿收益，注册用户超百万，无一例逾期。 懒投资主要对接应收账款保理、融资租赁和消费金融等优质债权资产。2015年12月，国资参股背景的大型担保机构中盈盛达在香港上市，懒投资作为其基石投资者受邀现场敲钟。这是国内首例互联网金融公司以基石投资者身份亮相国际资本市场。
 
 
+<h3 class="text-center">金牌赞助</h3>
+
 <div class="row">
-  <div class="col-md-5 col-md-offset-3 text-center">
-     <a href="http://elastic.co" title="Elastic" target="_blank">
-      <img src="{{ '/img/elastic.jpg' | prepend: site.baseurl }}" alt="elastic" class="img-responsive center-block"/>
+  <div class="col-md-4 aligncenter client">
+    <a href="http://elastic.co" title="Elastic" target="_blank">
+      <img src="{{ '/img/elastic.jpg' | prepend: site.baseurl }}" alt="Elastic" class="img-responsive center-block" />
+    </a>
+  </div>
+
+  <div class="col-md-4 aligncenter client">
+    <a href="http://www.rstudio.com/" title="Rsudio" target="_blank">
+      <img src="{{ '/img/logo-rstudio.png' | prepend: site.baseurl }}" alt="RStudio" class="img-responsive center-block" />
     </a>
   </div>
 </div>
-
 
 Elastic 是一家世界领先的开源软件提供商，致力于结构化和非结构化数据的实时可用性，使用场景涵盖搜索、日志和数据分析等领域。公司成立于2012年，旗下拥有开源产品：分布式实时搜索与数据分析引擎：Elasticsearch；可视化展现与分析：Kibana；数据收集与处理中间件：Logstash；轻量级数据收集与网络层流量分析：Beats；除此之外还提供安全、预警、监控、图分析及机器学习的商业插件：X-Pack 以及托管的 Elasticsearch 云服务：Elastic Cloud；这些产品迄今累计已超过8千万次下载。Elastic 由 Benchmark Capital、Index Ventures 及 NEA 投资，总部位于荷兰阿姆斯特丹和美国加州山景城，公司员工及办事处遍布全球各地。
 
-<div class="row">
-  <div class="col-md-5 col-md-offset-3 text-center">
-     <a href="http://www.rstudio.com/" title="Rstudio" target="_blank">
-      <img src="{{ '/img/logo-rstudio.png' | prepend: site.baseurl }}" alt="elastic" class="img-responsive center-block"/>
-    </a>
-  </div>
-</div>
-
 RStudio 公司成立于 2008 年，创始人为 JJ Allaire，R 社区领军人物 Hadley Wickham 现任 RStudio 首席科学家。RStudio 旨在为 R 语言提供更便利的开发环境和数据分析工具，例如 RStudio 集成开发环境（IDE）、RStudio 服务器、Shiny、Shiny 服务器、ShinyApps.io、R Markdown、RStudio Connect 等。RStudio 坚定支持开源软件和社区，其产品多为免费开源软件，但同时 RStudio 也提供相应的企业级软件应用（如 RStudio 服务器专业版、Shiny 服务器专业版等），以满足商业使用需求（如企业内部 RStudio 服务器管理、售后服务支持）。自 2012 年起，RStudio 为世界各地的 R 会议提供了大量赞助和支持，包括官方 R 语言会议和中国 R 语 言会议。为了 R 语言能更持续稳定发展，RStudio 倡议与微软、Tibco、Google 等几家商业公司成立了 R 联合团体（R Consortium），每年为 R 社区的开源项目提供大量资助，召集优秀人才解决 R 语言现存的重要且有挑战性的问题。
 
+<h3 class="text-center">银牌赞助</h3>
+
 <div class="row">
-  <div class="col-md-5 col-md-offset-3 text-center">
-     <a href="http://www.hzbook.com/ps/" title="Rstudio" target="_blank">
-      <img src="{{ '/img/logo-hz.jpg' | prepend: site.baseurl }}" alt="elastic" class="img-responsive center-block"/>
+
+  <div class="col-md-4 col-md-offset-3 aligncenter client">
+    <a href="http://www.hzbook.com/ps/" title="华章" target="_blank">
+      <img src="{{ '/img/logo-hz.jpg' | prepend: site.baseurl }}" alt="华章" class="img-responsive center-block" />
+    </a>
+  </div>
+
+  <div class="col-md-4 aligncenter client">
+    <a href="https://www.hellobi.com/" title="天善智能" target="_blank">
+      <img src="{{ '/img/tszn_logo.jpg' | prepend: site.baseurl }}" alt="天善智能" class="img-responsive center-block" />
     </a>
   </div>
 </div>
+
 
 北京华章图文信息有限公司（机械工业出版社华章公司）成立于1995年，是国内第一家中外合资的出版公司。20年来出版了《算法导论》、《编译原理》、《Java编程思想》、《深入理解计算机系统》、《代码之美》、《点石成金：访客至上的网页设计秘笈》、《PHP和MySQL Web开发》、《深入理解Java虚拟机》等知名畅销书，累计出版图书3000多种，图书销售册数超过2000万册。
-
-<div class="row">
-  <div class="col-md-5 col-md-offset-3 text-center">
-     <a href="https://www.hellobi.com/" title="Rstudio" target="_blank">
-      <img src="{{ '/img/tszn_logo.jpg' | prepend: site.baseurl }}" alt="elastic" class="img-responsive center-block"/>
-    </a>
-  </div>
-</div>
 
 天善智能hellobi.com 致力于构建一个基于大数据领域的生态圈，链接一切与数据相关的资源，共同努力推动大数据、数据分析、商业智能BI、数据挖掘、人工智能等领域在国内的普及和发展。
 社区包括技术问答、博客、活动、学院、招聘、读书频道等子版块，内容覆盖了与大数据、数据分析、数据挖掘和商业智能BI、数据分析、数据挖掘和大数据相关的技术领域。
 2017年初，社区组织编著的《数据实践之美》印刷出版，累计销量4000+册。
-
-<div class="row">
-  <div class="col-md-5 col-md-offset-3 text-center">
-     <a href="https://www.hellobi.com/" title="Rstudio" target="_blank">
-      <img src="{{ '/img/r_cn_logo.png' | prepend: site.baseurl }}" alt="elastic" class="img-responsive center-block"/>
-    </a>
-  </div>
-</div>
-
-
-国内最大的R语言中文社区，隶属于天善智能旗下，提供R全球最新资讯与成果,专业技术实践分享和海量课程及教材学习资源，始终致力于推动R在国内的发展及实践应用，加入我们，你就是R高手！
-
-
-
 
 
 ### 六、联系方式
