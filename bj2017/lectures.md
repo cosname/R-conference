@@ -116,6 +116,24 @@ location: bj
     </td>
   </tr>
 
+  <tr>
+    <td class="col-md-2">
+    <p>圆桌讨论</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>NA</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-1-sub-7">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-1-sub-7">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    </td>
+  </tr>
+
 </table>
 
 <div class="alert alert-info" role="alert"><h3 class="text-center">狗熊会专场</h3></div>
@@ -227,6 +245,24 @@ location: bj
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 当前，汽车行业整体处于数据来源一致性低、数据质量一般且可用性不强的基本状态。车联网数据作为采集频度高、数据质量好、来源稳定的数据源，成为了汽车主机厂商及周边行业的关注热点。其中包括的方向有：车险UBI、无人驾驶、汽车营销、汽车后市场、车辆的生产制造及工况研究等核心方向。此次演讲，将基于彩虹无线多年来在车联网大数据行业的深耕，围绕实际商业应用场景，结合统计模型及算法，分享基于车联网数据商业应用的实践案例。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 周扬，彩虹无线数据科学家，数据科学部总监，浙江大学客座讲师，四川大学生物信息/生物统计专业硕士，拥有国家发明专利一项，先后在NAR、Bioinformatics发表论文三篇，累计影响因子超过18。多年来致力于车联网数据与汽车行业数据的价值研究，为汽车智能制造、车辆工况研究、创新车险等方面提供数据赋能。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>兰伟</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>浅谈消费金融</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-2-sub-7">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-2-sub-7">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 介绍目前消费金融的线上线下运营模式，流量获取方式和风控模式，以及目前网络图谱在反欺诈中的应用和进展。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 西南财经大学统计学副教授，柠檬科技创始人。</p>
     </td>
   </tr>
 
@@ -400,7 +436,7 @@ location: bj
   <tr class="collapse" id="session-4-sub-3">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> RNA-sequencing is a popular technology used by scientists to study changes in gene expression levels across tens of thousands of genes simultaneously. Representing gene expression levels, the counts in each sample are typically analysed by categorising samples into groups of interest, and obtaining gene-wise summary statistics in the form of log-fold changes, t-statistics, p-values, and the like. The data and its results can be explored by plotting one summary statistic against another and highlighting genes that are significant or of interest. The new Bioconductor package, Glimma, generates interactive graphics for plots typically found in the limma package with the enhanced feature of connecting many levels of information within the analysis on a single html page using d3.js. A Glimma-style mean-difference plot, or the more generic xy-plot, allows one to click on the points to bring up a new plot of sample-wise expression levels that is displayed alongside the original plot. This feature enables researchers to interrogate the data more intensely than ever before without the need to repeat the work for every gene under examination. The plots include options to search and select for genes of interest, and zoom in and out for better resolution. Unlike the traditional multi-dimensional scaling (MDS) plot, Glimma’s MDS plot shows several dimensions and group combinations on the same page. The functions within Glimma are tailored to integrate smoothly with objects native to limma, edgeR and DESeq2, and can be extended for use with microarray, single-cell and methylation data analyses.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> Charity Law is a statistical bioinformatician whose work focuses predominantly on gene expression analyses of high-throughput data. The impact of her work is best illustrated by the popularity of voom [1], a method for RNA-seq gene expression analysis that she developed which has been cited 602 times since its publication in 2014 (Source: Google Scholar). She currently holds the position of senior research officer in the Molecular Medicine Division at Walter and Eliza Hall Institute of Medical Research, Australia. In addition to differential gene expression, her research interests include differential isoform usage, transcript expression, and histone modification analyses.</p>
     </td>
   </tr>
 
@@ -409,7 +445,7 @@ location: bj
     <p>Alexandra Garnham</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>Deconvolving human and viral RNA in RNA sequencing data</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-4-sub-4">详情</button>
@@ -417,7 +453,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-4-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> RNA-seq analysis involves a number of steps, including read alignment, read summarization, differential expression and pathway analysis. This talk presents a computational workflow for the detection of DE genes and pathways from RNA-seq data by providing a complete analysis of an RNA-seq experiment profiling epithelial cell subsets in the mouse mammary gland. R software packages from the open-source Bioconductor project are used to cover all steps of the analysis pipeline, including alignment of read sequences, data exploration, differential expression analysis, visualization and pathway analysis. Read alignment and count quantification is conducted using the Rsubread package and the statistical analyses are performed using the edgeR package. The differential expression analysis uses the quasi-likelihood functionality of edgeR.</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> It is estimated that 15-20% of all human cancers are associated with viral infections. Viruses can</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
     </td>
   </tr>
@@ -441,7 +477,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-5-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> influence various stages of the oncogenic process, however discovering the biological significance of</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 侯志伟，数据分析师，专注于车联网时空数据分析、挖掘及其可视化。曾多次获得数学建模国家一等奖，且均为交通方向。已获得专业领域内发明专利3项，发表中文核心期刊论文1篇。擅长领域：时空数据挖掘、用户画像系统、智能优化算法，Spark高性能计算等。</p>
     </td>
   </tr>
@@ -459,7 +495,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-5-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> The analysis approach presented in this talk can be applied to any RNA-seq study that includes some replication, but it is especially appropriate for designed experiments with multiple treatment factors and with small numbers of biological replicates.</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> their contribution can be challenging. The prevalence of a virus with a particular cancer can range</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 朱俊辉，摩拜单车算法工程师，熟悉R语言和Python，专注于供应链量化和可重复性研究。</p>
     </td>
   </tr>
@@ -477,7 +513,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-5-sub-3">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 介绍斑马互联网汽车的数据应用，包括轨迹poi分析，驾驶行为分析，硬件使用分析和用户使用分析。通过介绍专车识别，驾驶评分，油耗预测等业务模型，分享建模工作中的心得。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> from 15-100%. An option in determining the abundance of viral presence in a tumour sample would</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 李晔彤，斑马网络数据挖掘工程师，从事车辆轨迹，硬件，车主数据分析与挖掘。毕业于西安交通大学和伦敦政治经济学院，应用数学专业。</p>
     </td>
   </tr>
@@ -495,7 +531,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-5-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 每天滴滴出行平台产生海量出行数据，而滴滴正利用这些数据不断建立各种机器学习模型来优化线上产品体验，从分单到定价，滴滴的机器学习和传统互联网公司的推荐广告算法的差异很大，这次分享会介绍滴滴平台典型的机器学习应用，进一步会介绍在顺风车场景如何利用机器学习来构建更加智能理性的大数据运营引擎.</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> be to perform RNA sequencing on the tumour. We have developed a pipeline utilizing the Rsubread</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 现任滴滴大数据-顺风车策略团队负责人，负责顺风车分单调度、拼车、信任值、定价、画像、智能补贴等相关算法策略的迭代优化；曾任腾讯微博&腾讯新闻 数据挖掘&推荐系统负责人；曾任58集团-数据智能部负责人；个人兴趣在于利用大数据&大规模机器学习方法持续改进业务和产品体验。</p>
     </td>
   </tr>
@@ -513,9 +549,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-5-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 在移动互联网时代，多屏媒体，O2O多维互动，给消费者购物带来了更多信息和更多选择。也给了企业更丰富，更有挑战的营销环境。
-<br>在众多影响决策的微时刻（micro-moment）和关键时刻（moment of truch）中，汽车消费者的思维已经不知觉的进入了“车型鄙视链” 的精神世界和换车魔力象限的领域。
-<br>利用车轮查违章，车轮社区（覆盖2亿真实车主的APP应用）中用户对车型PK投票的数据，我们真实再现了这个车型鄙视链，从中会发现每一款车，你都可以找到选择他的理由。这为更加细分，更加个性化的汽车市场提供了理论支撑。以此报告希望能够协助用户选到最适合自己的车，也协助车厂在细分市场更加精准的定位，甚至可以预测未来的汽车销量</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Bioconductor package that enables us to deconvolve viral RNA from human, thereby allowing us to</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 汽车盒子数据科学家，车轮互联数据副总裁</p>
     </td>
   </tr>
@@ -533,7 +567,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-5-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 报告主要介绍了汽车驾驶员驾驶行为数据分析的思路和结果。本例的驾驶行为数据主要采集自车辆的CAN总线与陀螺仪数据，报告首先介绍了数据的预处理方案，包括数据的滤波方法及坐标转换方法，然后介绍了常规类驾驶行为与特殊驾驶行为的识别算法，最后介绍了驾驶行为的统计结果以及对车辆性能的预估。本报告所涉及的数据处理、数据分析基本都使用R语言进行，相关的R包包括ggplot2、dtw、corrplot、sqldf等。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> detect and quantify the presence of viruses. We demonstrate this pipeline using RNA sequencing</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 吉林大学车辆工程专业硕士学位，中国汽车工程学会（SAE-China）会员、中国计算机学会（CCF）会员。曾任汽车仿真与控制国家重点实验室研究员，现任中国汽车技术研究中心数据资源中心数据技术部部长助理，全面负责数据建设及挖掘工作。
 <br> 
 <br>从事研究领域包括车辆数据集成、机器学习、深度学习等，擅长基于R语言、MATLAB的算法模型开发。个人曾获北美大学生数据建模竞赛一等奖、全国研究生数学建模竞赛一等奖，并多次在天池大数据算法大赛中获奖。</p>
@@ -559,7 +593,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-6-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> We propose a new class of spatio-temporal models with unknown and banded autoregressive coecient matrices. The setting represents a sparse structure for high dimensional spatial panel dynamic models when panel members represent economic (or other type) individuals at many dierent locations. The structure is practically meaningful when the order of panel members is arranged appropriately. Note that the implied autocovariance metrices are unlikely to be banded, and therefore, the proposal is radically dierent from the existing literature on the inference for high-dimensional banded covari-<br>ance matrices. Due to the innate endogeneity, we apply the least squares method based on a Yule-Walker equation to estimating autoregressive matrices. A ratio-based method for determining the bandwidth of autoregressive matrices is also proposed. Some asymptotic properties of the inference methods are established. The proposed methodology is further illustrated using both simulated and real data sets.</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> data from human Head and Neck Squamous Cell Carcinomas (HNSC) acquired from The Cancer</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京航空航天大学经管学院助理教授，研究方法为社交网络数据分析，高维数据分析，付费搜索广告营销</p>
     </td>
   </tr>
@@ -577,7 +611,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-6-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Motivated by the double autoregressive (DAR) model, in this talk, we study a vector double autoregressive model (VDAR). The model is a straightforward extension from univariate case to multivariate case. Sufficient ergodicity conditions are given for the model. Without existence of second moment conditions for observed time series, the quasi maximum likelihood estimator (QMLE) of<br>the parameter in the model is shown to be asymptotically normal, which does not hold for classic vector autoregressive (VAR) model with i.i.d errors. Simulation results confirm that our estimators perform well. A given empirical study implies the proposed model has potential applications in practice.<br>Keywords: Vector double autoregressive model, quasi maximum likelihood estimation</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Genome Atlas.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 广州大学经济与统计学院统计系副教授， 副系主任<br>研究兴趣： 时间序列分析</p>
     </td>
   </tr>
@@ -636,27 +670,9 @@ location: bj
     </td>
   </tr>
 
-  <tr>
-    <td class="col-md-2">
-    <p>朱雪宁</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>PM 2.5 数据的时空特征及统计建模</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-6-sub-6">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-6-sub-6">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 如今，PM 2.5已经成为生活中经常谈论的高频词，同时，许多研究、报道也表明PM 2.5给呼吸系统、心肺功能带来不良影响，危害健康。为了了解这一雾霾指标的时空分布规律，本演讲从数据分析及统计建模的层面对PM 2.5数据进行研究。具体地，本演讲将讨论PM 2.5相关的动态及空间相关特征。从统计建模上，利用带有空间相关性的自回归模型对时空特征进行了建模。最后，本研究给出空间中未知地点的预测插值方法。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 光华管理学院商务统计系四年级博士生。研究上关注社交网络、高维数据、环境数据分析等；“狗熊会”公众号专栏作者。曾在Annals of Statistics 以及Statistics and Its Interface有所发表。</p>
-    </td>
-  </tr>
-
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">据科学与工业工程</h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">数据科学与工业工程</h3></div>
 
 <table class="table table-striped">
 
@@ -1108,10 +1124,10 @@ location: bj
 
   <tr>
     <td class="col-md-2">
-    <p>肖倾城</p>
+    <p>张先轶</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs</strong></p>
+    <p class="text-center"><strong>嵌入式上的深度学习初探</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-11-sub-1">详情</button>
@@ -1119,17 +1135,17 @@ location: bj
   </tr>
   <tr class="collapse" id="session-11-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Convolutional neural network (CNN) finds applications in a variety of computer vision applications ranging from object recognition and detection to scene understanding owing to its exceptional accuracy. There exist different algorithms for CNNs computation. In this patent, we explore conventional convolution algorithm with a faster algorithm using Winograd’s minimal filtering theory for efficient FPGA implementation. Distinct from the conventional convolution algorithm, Winograd algorithm uses less computing resources but puts more pressure on the memory bandwidth. We first propose a fusion architecture that can fuse multiple layers naturally in CNNs, reusing the intermediate data. Based on this fusion architecture, we explore heterogeneous algorithms to maximize the throughput of a CNN. We design an optimal algorithm to determine the fusion and algorithm strategy for each layer. We also develop an automated toolchain to ease the mapping from Caffe model to FPGA bitstream using Vivado HLS.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京大学高能效计算与应用中心研究生，商汤集团FPGA研发实习生。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 嵌入式系统的深度学习已经成为主要趋势之一。将模型的Inference直接在嵌入式设备本地运行，除了本身模型不能过于复杂外，还需要深度学习框架与底层优化库的配合。本报告讲介绍我们团队在这方面的工作，包括底层库的优化，框架精简，以及模型压缩等。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 张先轶，PerfXLab澎峰科技创始人，中科院博士，曾先后于美国得州大学奥斯汀分校，麻省理工学院进行博士后研究工作，主要研究方向为矩阵计算，高性能计算，性能优化等。全球领先的开源矩阵计算项目OpenBLAS发起人与维护者，获得2016年中国计算机学会科学技术二等奖。</p>
     </td>
   </tr>
 
   <tr>
     <td class="col-md-2">
-    <p>卢丽强</p>
+    <p>肖倾城</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>Evaluating Fast Algorithms for Convolutional Neural Networks on FPGAs</strong></p>
+    <p class="text-center"><strong>Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-11-sub-2">详情</button>
@@ -1137,8 +1153,8 @@ location: bj
   </tr>
   <tr class="collapse" id="session-11-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In recent years, Convolutional Neural Networks (CNNs) have become widely adopted for computer vision tasks. FPGAs have been adequately explored as a promising hardware accelerator for CNNs due to its high performance, energy efficiency, and reconfigurability. However, prior FPGA solutions based on the conventional convolutional algorithm is often bounded by the computational capability of FPGAs (e.g., the number of DSPs). In this paper, we demonstrate that fast Winograd algorithm can dramatically reduce the arithmetic complexity, and improve the performance of CNNs on FPGAs. We first propose a novel architecture for implementing Winograd algorithm on FPGAs. Our design employs line buffer to effectively reuse the feature map data among different tiles. We also effectively pipeline the Winograd PE engine and initiate multiple PEs through parallelization. Meanwhile, there exists a complex design space to explore. We propose an analytical model to predict the resource usage and reason about the performance. Then, we use the model to guide a fast design space exploration. Experiments using the state-of-the-art CNNs demonstrate the best performance and energy efficiency on FPGAs. We achieve an average 785.1 GOP/s for the convolutional layers and 749.4 GOP/s for the overall AlexNet and an average 2653.4 GOP/s for the convolutional layers and 2272.6 GOP/s for the overall VGG16 on Xilinx ZCU102 platform.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京大学信科13级本科生 高能效计算与应用中心 sensetime FPGA研发实习生</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Convolutional neural network (CNN) finds applications in a variety of computer vision applications ranging from object recognition and detection to scene understanding owing to its exceptional accuracy. There exist different algorithms for CNNs computation. In this patent, we explore conventional convolution algorithm with a faster algorithm using Winograd’s minimal filtering theory for efficient FPGA implementation. Distinct from the conventional convolution algorithm, Winograd algorithm uses less computing resources but puts more pressure on the memory bandwidth. We first propose a fusion architecture that can fuse multiple layers naturally in CNNs, reusing the intermediate data. Based on this fusion architecture, we explore heterogeneous algorithms to maximize the throughput of a CNN. We design an optimal algorithm to determine the fusion and algorithm strategy for each layer. We also develop an automated toolchain to ease the mapping from Caffe model to FPGA bitstream using Vivado HLS.</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京大学高能效计算与应用中心研究生，商汤集团FPGA研发实习生。</p>
     </td>
   </tr>
 
@@ -1162,10 +1178,10 @@ location: bj
 
   <tr>
     <td class="col-md-2">
-    <p>张先轶</p>
+    <p>卢丽强</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>嵌入式上的深度学习初探</strong></p>
+    <p class="text-center"><strong>Evaluating Fast Algorithms for Convolutional Neural Networks on FPGAs</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-11-sub-4">详情</button>
@@ -1173,26 +1189,8 @@ location: bj
   </tr>
   <tr class="collapse" id="session-11-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 嵌入式系统的深度学习已经成为主要趋势之一。将模型的Inference直接在嵌入式设备本地运行，除了本身模型不能过于复杂外，还需要深度学习框架与底层优化库的配合。本报告讲介绍我们团队在这方面的工作，包括底层库的优化，框架精简，以及模型压缩等。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 张先轶，PerfXLab澎峰科技创始人，中科院博士，曾先后于美国得州大学奥斯汀分校，麻省理工学院进行博士后研究工作，主要研究方向为矩阵计算，高性能计算，性能优化等。全球领先的开源矩阵计算项目OpenBLAS发起人与维护者，获得2016年中国计算机学会科学技术二等奖。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>张宸</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>制造即服务，数据即价值</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-11-sub-5">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-11-sub-5">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 制造即服务，数据即价值</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 本科数学，硕博模式识别，现任三一集团数据科学家。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In recent years, Convolutional Neural Networks (CNNs) have become widely adopted for computer vision tasks. FPGAs have been adequately explored as a promising hardware accelerator for CNNs due to its high performance, energy efficiency, and reconfigurability. However, prior FPGA solutions based on the conventional convolutional algorithm is often bounded by the computational capability of FPGAs (e.g., the number of DSPs). In this paper, we demonstrate that fast Winograd algorithm can dramatically reduce the arithmetic complexity, and improve the performance of CNNs on FPGAs. We first propose a novel architecture for implementing Winograd algorithm on FPGAs. Our design employs line buffer to effectively reuse the feature map data among different tiles. We also effectively pipeline the Winograd PE engine and initiate multiple PEs through parallelization. Meanwhile, there exists a complex design space to explore. We propose an analytical model to predict the resource usage and reason about the performance. Then, we use the model to guide a fast design space exploration. Experiments using the state-of-the-art CNNs demonstrate the best performance and energy efficiency on FPGAs. We achieve an average 785.1 GOP/s for the convolutional layers and 749.4 GOP/s for the overall AlexNet and an average 2653.4 GOP/s for the convolutional layers and 2272.6 GOP/s for the overall VGG16 on Xilinx ZCU102 platform.</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京大学信科13级本科生 高能效计算与应用中心 sensetime FPGA研发实习生</p>
     </td>
   </tr>
 
@@ -1204,13 +1202,31 @@ location: bj
     <p class="text-center"><strong>Elastic Stack 与机器学习</strong></p>
     </td>
     <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-11-sub-5">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-11-sub-5">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 目前常规的分析手段往往只关注到了总体的趋势，而忽略了异常的个体行为，比如在海量的信用卡订单中，我们可以通过统计可以知道总体的交易量、每笔交易、平均交易时间等等， 但是如何快速识别和定位其中存在盗刷可能的交易同样重要，而通过机器学习，您就可以在海量的订单数据中发现异常的数据，定位异常的单笔交易行为。 另外传统的机器学习往往需要经历较长的离线处理，如果能够实时的对数据进行基于机器学习的分析将大大改善提升数据分析的能力和改善客户体验， 本次分享将主要介绍如何基于 ElasticStack 及 X-Pack 提供的机器学习能力来实现的实时行为分析。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 曾勇（Medcl），Elastic工程师与布道师，2015年加入Elastic公司，在加入Elastic之前，在搜索和运维等方面积累了超过七年的经验。Elasticsearch国内首批用户，自2010年起就开始接触Elasticsearch，是Elasticsearch中文社区的发起人，同时也是Elastic在中国的首位员工。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>张宸</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>制造即服务，数据即价值</strong></p>
+    </td>
+    <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-11-sub-6">详情</button>
     </td>
   </tr>
   <tr class="collapse" id="session-11-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 目前常规的分析手段往往只关注到了总体的趋势，而忽略了异常的个体行为，比如在海量的信用卡订单中，我们可以通过统计可以知道总体的交易量、每笔交易、平均交易时间等等， 但是如何快速识别和定位其中存在盗刷可能的交易同样重要，而通过机器学习，您就可以在海量的订单数据中发现异常的数据，定位异常的单笔交易行为。 另外传统的机器学习往往需要经历较长的离线处理，如果能够实时的对数据进行基于机器学习的分析将大大改善提升数据分析的能力和改善客户体验， 本次分享将主要介绍如何基于 ElasticStack 及 X-Pack 提供的机器学习能力来实现的实时行为分析。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 曾勇（Medcl），Elastic工程师与布道师，2015年加入Elastic公司，在加入Elastic之前，在搜索和运维等方面积累了超过七年的经验。Elasticsearch国内首批用户，自2010年起就开始接触Elasticsearch，是Elasticsearch中文社区的发起人，同时也是Elastic在中国的首位员工。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 制造即服务，数据即价值</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 本科数学，硕博模式识别，现任三一集团数据科学家。</p>
     </td>
   </tr>
 
@@ -1233,7 +1249,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-12-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> The distributions of the factor return and specific error for an individual variable are important in forecasting and applications. However, they are not identified with low-dimensional time series observations. Using the recently developed theory for large-dimensional approximate factor model for large panel data, the factor return and specific error can be estimated consistently. Based on the estimated factor returns and residual errors, we construct the empirical processes for estimation of the distribution functions of the factor return and specific error, respectively. We prove that the two empirical processes are oracle<br>efficient when p≥CT^{3/2} where p and T are the dimensionality and sample size, respectively. This demonstrates that the factor and residual empirical processes behave as well as the empirical processes pretending that the factor returns and specific errors for an individual variable are directly observable. Based on this oracle property, we construct the simultaneous confidence bands<br>for the distributions of the factor return and specific error. Extensive simulation studies check that the estimated bands have good coverage probabilities. Our real data analysis shows that the factor return distribution has a structural change during the crisis in 2008.</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> The distributions of the factor return and specific error for an individual variable are important in forecasting and applications. However, they are not identified with low-dimensional time series observations. Using the recently developed theory for large-dimensional approximate factor model for large panel data, the factor return and specific error can be estimated consistently. Based on the estimated factor returns and residual errors, we construct the empirical processes for estimation of the distribution functions of the factor return and specific error, respectively. We prove that the two empirical processes are oracle<br>efficient when $p \geq CT^{3/2}$ where p and T are the dimensionality and sample size, respectively. This demonstrates that the factor and residual empirical processes behave as well as the empirical processes pretending that the factor returns and specific errors for an individual variable are directly observable. Based on this oracle property, we construct the simultaneous confidence bands<br>for the distributions of the factor return and specific error. Extensive simulation studies check that the estimated bands have good coverage probabilities. Our real data analysis shows that the factor return distribution has a structural change during the crisis in 2008.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 王江艳，理学博士，2016年毕业于苏州大学概率论与数理统计专业，现为南京审计大学理学院统计科学与大数据研究院讲师。<br>研究方向：时间序列分析，函数型数据分析，非参数统计推断，空间统计，抽样调查。<br>科研经历：2010 年至2016年，在苏州大学高等统计与计量经济中心进行课题研究，师从中组部“千人计划”专家杨立坚教授；入选“2015 年国家建设高水平大学公派研究生项目”，2015年9月-2016年9月于爱荷华州立大学Iowa State University）公派留学，师从“千人计划”专家陈松蹊教授，合作导师Lily Wang 教授.<br>公开发表论文<br>? Wang, J., Cheng, F. and Yang, L. (2013). Smooth simultaneous confidence bands for cumulative distribution functions. Journal of Nonparametric Statistics. <br>25, 395- 407.<br>? Wang, J., Liu, R., Cheng, F. and Yang, L. (2014). Oracally efficient estimation of autoregressive error distribution with simultaneous confidence band. Annals of Statistics. 42, 654-668.<br>? Wang, J., Wang, S.and Yang, L. (2016). Simultaneous confidence bands for the distribution functions of a finite population and of its superpopulation. TEST. 25, 692-709.<br>主持项目<br>? 2013 年苏州大学优秀博士学位论文选题项目, 233200113，时间序列和函数型数据的默示有效估计理论与同时置信区域方法，2013/01-2016/12<br>? 江苏省研究生（博士）科研创新项目, KYZZ0331，函数型数据的默示有效估计理论与同时置信区域方法，2014/09-2016/12<br>参与项目<br>? 国家自然科学基金面上项目，11371272，函数型数据的统计推断，2014/01-2017/12<br>? 教育部博士学科点专项科研基金项目，20133201110002，函数型数据的统计推断，2014/01-2016/12<br>实践项目<br>养老金收支分析及决策建议, 苏州市社保局<br>主要报告<br>? Simultaneous confidence band for survey data. Joint Statistical Meetings 2016, July 30-August 4, 2016, Chicago, Illinois, USA. (2016 年联合统计大会，7 月30 日-8 月4 日，美国芝加哥)<br>? Comparative study and sensitivity analysis of skewed spatial processes.Joint Statistical Meetings 2015, August 8-13, 2015, Seattle, Washington, USA. (2015 年联合统计大会，8 月8-13 日，美国西雅图)<br>? Simultaneous confidence bands for the distribution functions of a finite population and its superpopulation. Joint Statistical Meetings 2015, August 8-13, 2015, Seattle, Washington, USA. (2015 年联合统计大会, 8 月8-13 日，美国西雅图)<br>? Oracally efficient inference for the time varying GARCH model. 2015 IMS-China International Conference on Statistics and Probability, July 1-4, 2015, Kunming, Yunnan, China. (2015 年国际数理统计协会暨中国统计与概率国际会议，7 月1-4 日，云南昆明)<br>? Oracally efficient estimation of autoregressive error distribution with simultaneous confidence band. Jiangsu Province Industrial and Applied Mathematics 2014 Annual Conference, December 12-14, 2014, Nanjing,<br>Jiangsu, China. (江苏省工业与应用数学2014 年年会，12 月12-14 日，江苏南京)<br>? Oracally efficient inference for time varying GARCH model. ASC-IMS 2014, July 7-10, 2014, Sydney, NSW, Australia. (2014 年国际数理统计协会暨澳大利亚国际统计会议，7 月7-10 日，澳大利亚悉尼)<br>? Smooth simultaneous confidence bands for autoregressive error distribution functions. Joint Statistical Meetings 2013, August 3-8, 2013, Montréal, QC, Canada. (2013 年联合统计大会，8 月3-8 日，加拿大蒙特利尔)<br>? Smooth simultaneous confidence bands for autoregressive error distribution functions. The Second Taihu International Statistical Forum, July 6-8, 2013, Suzhou, Jiangsu, China. (第二届太湖国际统计论坛，7 月6-8 日，江苏苏州)<br>? Oracally efficient estimation of autoregressive error distribution function. Seminar at Michigan State University, August 5, 2012, East Lansing, MI, USA. (密歇根州立大学统计系报告，2012 年8 月5 日，美国东兰辛)<br>? Oracally efficient estimation of autoregressive error distribution function. Joint Statistical Meetings 2012, July 28-August 2, 2012, San Diego, CA, USA. (2012 年联合统计大会，7 月28-8 月2 日，美国圣地亚哥)<br>主要获奖及荣誉：<br>朱敬文特别奖学金, 苏州大学2016年4月；苏州大学研究生“学术标兵”,苏州大学2015 年6月；研究生国家奖学金（博士）, 教育部2014 年9 月; 2014 IMS Travel Award, 国际数理统计协会2014年7月; 优秀奖学金, 苏州大学2014年5月; 优秀毕业研究生, 苏州大学2013 年6 月; 研究生国家奖学金（硕士）, 教育部2012年12月; 优秀研究生, 苏州大学2012年6月</p>
     </td>
   </tr>
@@ -1383,7 +1399,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-13-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> `ezdf` 包的目的是使 R 支持类似 SPSS 或 Stata 那样对用户友好的标签输出。`ezdf` 包并不是要定义一套新的制表函数，而是控制相关制表函数（如 `pander`）在输出时，能够自动带上对应的标签。除此之外，`ezdf` 也封装了几个常用的制表方法。<br>众所周知，在 R 的体系当中，并无变量标签或者数值标签的定义。对于类别变量，在 R 中使用 `factor` 类型可起到部分标签的功能。对于变量标签，在`data.frame` 中尽管可以直接使用标签来命名变量，例如 `df$年龄` ，但是实际使用中多有不便。<br>在 R 中导入 SPSS 或 Stata 等传统统计软件的数据格式可有多个包来实现，例如 `foreign`、`readStata13`、`haven`、`sas7bdat`  等等。这些包在导入数据时，都能保持原数据中所定义的标签。然而所有这些包目前来说各有优缺点，即使对同一个格式也做不到支持各个版本的导入，因此难以提供一揽子解决方案。更重要的，各个包导入数据之后所定义的标签属性各不相同，导致对标签的使用难以统一。更不用说，在制作表格或者统计结果输出时，能够让 R 做到标签友好。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> `ezdf` 包的目的是使 R 支持类似 SPSS 或 Stata 那样对用户友好的标签输出。`ezdf` 包并不是要定义一套新的制表函数，而是控制相关制表函数（如 `pander`）在输出时，能够自动带上对应的标签。除此之外，`ezdf` 也封装了几个常用的制表方法。<br>众所周知，在 R 的体系当中，并无变量标签或者数值标签的定义。对于类别变量，在 R 中使用 `factor` 类型可起到部分标签的功能。对于变量标签，在`data.frame` 中尽管可以直接使用标签来命名变量，例如 `df$\$$年龄` ，但是实际使用中多有不便。<br>在 R 中导入 SPSS 或 Stata 等传统统计软件的数据格式可有多个包来实现，例如 `foreign`、`readStata13`、`haven`、`sas7bdat`  等等。这些包在导入数据时，都能保持原数据中所定义的标签。然而所有这些包目前来说各有优缺点，即使对同一个格式也做不到支持各个版本的导入，因此难以提供一揽子解决方案。更重要的，各个包导入数据之后所定义的标签属性各不相同，导致对标签的使用难以统一。更不用说，在制作表格或者统计结果输出时，能够让 R 做到标签友好。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 副研究员</p>
     </td>
   </tr>
@@ -2187,10 +2203,10 @@ location: bj
 
   <tr>
     <td class="col-md-2">
-    <p>兰伟</p>
+    <p>肖勃飞</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>浅谈消费金融</strong></p>
+    <p class="text-center"><strong>柠檬科技反欺诈产品介绍</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-22-sub-2">详情</button>
@@ -2198,14 +2214,14 @@ location: bj
   </tr>
   <tr class="collapse" id="session-22-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 介绍目前消费金融的线上线下运营模式，流量获取方式和风控模式，以及目前网络图谱在反欺诈中的应用和进展。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 西南财经大学统计学副教授，柠檬科技创始人。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 1，反欺诈产品综述；2，介绍图查询引擎设计；3，介绍反欺诈模型；4，介绍反欺诈可视化产品</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 曾担任中国最大的金融IT服务商东南融通BI数据挖掘团队负责人，GE智能医疗研发负责人，京东风控决策支持部负责人，四方伟业首席科学家和大数据产品部总经理；在CRM系统、精准营销、信贷风控、智能医疗、电商交易风控、反欺诈行业应用方面具有丰富的经验，同时在大数据和数据挖掘的产品化方向经验丰富。</p>
     </td>
   </tr>
 
   <tr>
     <td class="col-md-2">
-    <p>李届悦</p>
+    <p>董骝焕</p>
     </td>
     <td class="col-md-8">
     <p class="text-center"><strong>NA</strong></p>
@@ -2845,7 +2861,7 @@ location: bj
     <p>薛少飞</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>阿里巴巴语音识别声学模型的进化历程</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-29-sub-3">详情</button>
@@ -2853,8 +2869,8 @@ location: bj
   </tr>
   <tr class="collapse" id="session-29-sub-3">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 近年来，随着技术的发展，基于深度学习的语音识别已经成为业界主流的方法。本次演讲将首先带着大家梳理基于深度学习的语音识别声学模型发展历程，之后将分享阿里巴巴在语音识别声学建模上所做的技术突破，并展示我们在语音识别应用上的一些案例。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 薛少飞，阿里巴巴 iDST 语音识别专家，中国科学技术大学博士。现负责阿里声学模型研究与应用：包括语音识别声学建模和深度学习在业务场景中的应用。博士期间的研究方向为语音识别说话人自适应，提出基于 Speaker Code 的模型域自适应方法，在语音相关的会议和期刊上发表论文十余篇。</p>
     </td>
   </tr>
 
@@ -2909,6 +2925,102 @@ location: bj
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> GANs 是一种脱离统计模型学习目标分布的方法，基本思想是让两个神经网络，一个作为生成器，一个作为分类器，相互竞争共同进步。我会简单介绍gan的原理并做一个pytorch或者mxnet＋r的教程。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 我在nyu读计算机博士，研究深度学习。</p>
+    </td>
+  </tr>
+
+</table>
+
+<div class="alert alert-info" role="alert"><h3 class="text-center">城市数据</h3></div>
+
+<table class="table table-striped">
+
+  <tr>
+    <td class="col-md-2">
+    <p>朱雪宁</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>PM 2.5 数据的时空特征及统计建模</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-30-sub-1">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-30-sub-1">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 如今，PM 2.5已经成为生活中经常谈论的高频词，同时，许多研究、报道也表明PM 2.5给呼吸系统、心肺功能带来不良影响，危害健康。为了了解这一雾霾指标的时空分布规律，本演讲从数据分析及统计建模的层面对PM 2.5数据进行研究。具体地，本演讲将讨论PM 2.5相关的动态及空间相关特征。从统计建模上，利用带有空间相关性的自回归模型对时空特征进行了建模。最后，本研究给出空间中未知地点的预测插值方法。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 光华管理学院商务统计系四年级博士生。研究上关注社交网络、高维数据、环境数据分析等；“狗熊会”公众号专栏作者。曾在Annals of Statistics 以及Statistics and Its Interface有所发表。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>沈志勇</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>数据智能实践--从互联网到传统行业</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-30-sub-2">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-30-sub-2">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 行业的发展的需求，正从信息化，慢慢的转为数据驱动，最近开始追求智能化。随着各行业相继完成信息化进程，数据在各行业内逐渐形成积累，数据驱动的决策与业务优化的需求越来越明确，在某些数据驱动应用充分的行业，如金融，又在此基础上开始追求业务的智能化。互联网行业较早的经历和完成了从数据驱动到智能化的演化，在这里介绍一些相关的案例。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 沈志勇博士，百度云首席数据科学家。大数据分析技术国家工程实验室学术委员会成员，大数据流通与交易技术国家工程实验室专家委员会成员。本科毕业于北大数学学院概率统计专业，随后于中科院软件所获得博士学位。曾任百度大数据实验室副主任，惠普中国研究院研究员。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>薛少飞</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>阿里巴巴语音识别声学模型的进化历程</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-30-sub-3">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-30-sub-3">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 近年来，随着技术的发展，基于深度学习的语音识别已经成为业界主流的方法。本次演讲将首先带着大家梳理基于深度学习的语音识别声学模型发展历程，之后将分享阿里巴巴在语音识别声学建模上所做的技术突破，并展示我们在语音识别应用上的一些案例。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 薛少飞，阿里巴巴 iDST 语音识别专家，中国科学技术大学博士。现负责阿里声学模型研究与应用：包括语音识别声学建模和深度学习在业务场景中的应用。博士期间的研究方向为语音识别说话人自适应，提出基于 Speaker Code 的模型域自适应方法，在语音相关的会议和期刊上发表论文十余篇。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>张志成</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>地理数据与商业网点选址实战</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-30-sub-4">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-30-sub-4">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 电商与数据时代，实体店作为重要的消费场景，各种app推广主力渠道等，在各种渠道中地位将会被继续强化，新零售也开始通过数据来武装实体渠道，从而帮助实体渠道能够实现科学选址、精细化运营等，然而数据的应用应该首先以行业知识为基础和导向，本次将会分享开店实战中是如何利用数据科学选址的，从中可以看到数据选取、方法与业务融合、执行落地缺一不可，也将会了解到数据时代实体渠道的更强生命力与机会点在哪里。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 《数据实践之美》联合作者，10余年的商业网点选址分析与开店工作经验。服务过百胜餐饮、沃尔玛中国等公司，曾作为外部顾问参与IBM农行网点优化。项目经验涵盖零售、餐饮、金融与服务、体验等商业业态。基于行业经验，能够从业务角度正确解读数据。掌握主流的数据工具与简单的编程能力,能够通过数据分析洞察业务机会。对数据驱动商业选址有一手的实战经验。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>黄蔚欣</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>时空位置信息对理解人群的环境行为具有重要的意义。传统的环境行为学研究方法使用拍照、绘图、跟踪、问卷等方式调查人们的行为，可以较准确的记录人们的时空位置和活动的内容，为分析少量个体在特定时段的行为提供了较为全面和准确的信息。然而，这样的调研方式也存在样本数量少，覆盖时间短、空间有限的不足。使用室内定位系统(IPS)的时空位置数据，能够分析人群在大型公共建筑室内外空间、社区公共空间、居住空间等的行为，总结行为模式，比较不同人群、功能空间的特点，为建筑设计、商业运营、公共安全管理提供动态依据。</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-30-sub-5">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-30-sub-5">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 黄蔚欣，清华大学建筑学院副教授，日本京都大学博士，数字建筑技术教学工作委员会副主任委员，亚洲计算机辅助建筑学会（CAADRIA）委员，中国建筑学会建筑师分会数字建筑设计专业委员会（DADA）联合发起人，清华大数据产业联合会会员。主要研究领域：数字建筑设计、大数据行为分析，设计认知等。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 基于室内定位数据（IPS）的时空行为分析</p>
     </td>
   </tr>
 
