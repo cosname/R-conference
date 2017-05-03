@@ -4,6 +4,8 @@ title: 演讲信息
 location: bj
 ---
 
+<button type="button" class="btn btn-success center-block" id="toggle-all">展开/隐藏所有摘要</button>
+
 <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 
 <table class="table table-striped">
@@ -569,7 +571,7 @@ location: bj
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> detect and quantify the presence of viruses. We demonstrate this pipeline using RNA sequencing</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 吉林大学车辆工程专业硕士学位，中国汽车工程学会（SAE-China）会员、中国计算机学会（CCF）会员。曾任汽车仿真与控制国家重点实验室研究员，现任中国汽车技术研究中心数据资源中心数据技术部部长助理，全面负责数据建设及挖掘工作。
-<br> 
+<br>
 <br>从事研究领域包括车辆数据集成、机器学习、深度学习等，擅长基于R语言、MATLAB的算法模型开发。个人曾获北美大学生数据建模竞赛一等奖、全国研究生数学建模竞赛一等奖，并多次在天池大数据算法大赛中获奖。</p>
     </td>
   </tr>
@@ -1038,7 +1040,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-10-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In this talk, I will show that several mathematical models in image science, such as the sparsity-based models and statistical models, can be reformulated as deep learning models. The basic idea is that the iterative optimization algorithms for energy minimization or statistical inference can be unfolded to be deep architectures. In this way, the parameters and even the formulations of these models can be discriminatively learned for specific task.  I will show that the Markov random field model in image prior modeling, iterative shrinkage in signal processing, compressive sensing model in MRI can be formulated to be 
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In this talk, I will show that several mathematical models in image science, such as the sparsity-based models and statistical models, can be reformulated as deep learning models. The basic idea is that the iterative optimization algorithms for energy minimization or statistical inference can be unfolded to be deep architectures. In this way, the parameters and even the formulations of these models can be discriminatively learned for specific task.  I will show that the Markov random field model in image prior modeling, iterative shrinkage in signal processing, compressive sensing model in MRI can be formulated to be
 <br>deep learning problems. These induced deep architectures are non-conventional, task-specific and achieved state-of-the-art results for solving image inverse problems, e.g., image restoration, compressive sensing MRI.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 孙剑，西安交通大学数学与统计学院信息科学系教授，2009年获得西安交通大学应用数学博士学位。主要关注自然图像和医学影像处理与分析中的数学模型与算法研究，相关成果发表于IJCV, IEEE TIP, CVPR, NIPS,MICCAI等领域内著名国际期刊和会议。曾经在微软亚洲研究院（2005-2008）、美国中佛罗里达大学（2009-2010）、法国巴黎高等师范学院与法国国家信息与自动化研究院（2012-2014）做博士后或访问学者。入选教育部新世纪优秀人才计划（2012）、国家基金委优青项目（2016），获得中国工业与应用数学学会优秀青年学者奖。</p>
     </td>
@@ -1997,7 +1999,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-19-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Community structures detection in complex network is important for understanding not only the topological structures of the network, but also the functions of it. Stochastic block model and nonnegative matrix factorization are two widely used methods for community detection, which are proposed from different perspectives. The relations between them are studied in this talk. The logarithm of likelihood function for stochastic block model can be reformulated under the framework of nonnegative matrix factorization. Besides the model equivalence, the algorithms employed by the two methods are different. 
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Community structures detection in complex network is important for understanding not only the topological structures of the network, but also the functions of it. Stochastic block model and nonnegative matrix factorization are two widely used methods for community detection, which are proposed from different perspectives. The relations between them are studied in this talk. The logarithm of likelihood function for stochastic block model can be reformulated under the framework of nonnegative matrix factorization. Besides the model equivalence, the algorithms employed by the two methods are different.
 <br>Furthermore, we design new matrix factorization model for signed network, and its effectiveness is evaluated.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 张忠元目前为中央财经大学统计与数学学院教授，博士生导师，中国计算机学会高级会员和果壳网科学顾问. 主要研究兴趣在机器学习和复杂网络分析. 在中国科学、Data Mining and Knowledge Discovery、Physical Review E、EPL(Europhysics Letters)、Scientific Reports、Knowledge and Information Systems、BMC Bioinformatics 等期刊发表过论文.</p>
     </td>
@@ -2768,7 +2770,7 @@ location: bj
 <br>本次分享主要介绍我们是如何在现在的 ECharts 中集成 WebGL 去解决这些问题的，包括：
 <br>1.  ECharts 简介以及目前的情况
 <br>2.  用 WebGL 绘制地球，三维的散点图，Surface 等三维图表
-<br>3.  用 WebGL 加速散点图等常见二维图表的绘制	
+<br>3.  用 WebGL 加速散点图等常见二维图表的绘制
 <br>4.  以及利用 GPGPU 进行一些布局运算的性能优化</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 2012 年浙江大学专业毕业后一直在百度做前端开发，目前为百度资深研发工程师，主要从事 ECharts 的研发。个人研究领域有二维，三维的前端图形绘制，数据可视化等。视觉系，对游戏开发，程序生成设计，绘画等感兴趣</p>
     </td>
@@ -2990,3 +2992,8 @@ location: bj
 
 </table>
 
+<script type="text/javascript">
+$('#toggle-all').on('click', function (e) {
+    $('.collapse').collapse('toggle');
+})
+</script>
