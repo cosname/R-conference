@@ -82,7 +82,7 @@ location: bj
 <h3 class="text-center">金牌赞助</h3>
 
 <div class="row">
-  <div class="col-md-3 aligncenter client">
+  <div class="col-md-3 col-md-offset-2 aligncenter client">
     <a href="http://elastic.co" title="Elastic" target="_blank">
       <img src="{{ '/img/elastic.jpg' | prepend: site.baseurl }}" alt="Elastic" class="img-responsive center-block" />
     </a>
