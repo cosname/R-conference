@@ -93,11 +93,21 @@ location: bj
       <img src="{{ '/img/logo-rstudio.png' | prepend: site.baseurl }}" alt="RStudio" class="img-responsive center-block" />
     </a>
   </div>
+
+
+  <div class="col-md-4 aligncenter client">
+    <a href="https://www.tongdun.cn/" title="同盾科技" target="_blank">
+      <img src="{{ '/img/logo-rstudio.png' | prepend: site.baseurl }}" alt="同盾科技" class="img-responsive center-block" />
+    </a>
+  </div>
 </div>
 
 Elastic 是一家世界领先的开源软件提供商，致力于结构化和非结构化数据的实时可用性，使用场景涵盖搜索、日志和数据分析等领域。公司成立于2012年，旗下拥有开源产品：分布式实时搜索与数据分析引擎：Elasticsearch；可视化展现与分析：Kibana；数据收集与处理中间件：Logstash；轻量级数据收集与网络层流量分析：Beats；除此之外还提供安全、预警、监控、图分析及机器学习的商业插件：X-Pack 以及托管的 Elasticsearch 云服务：Elastic Cloud；这些产品迄今累计已超过8千万次下载。Elastic 由 Benchmark Capital、Index Ventures 及 NEA 投资，总部位于荷兰阿姆斯特丹和美国加州山景城，公司员工及办事处遍布全球各地。
 
 RStudio 公司成立于 2008 年，创始人为 JJ Allaire，R 社区领军人物 Hadley Wickham 现任 RStudio 首席科学家。RStudio 旨在为 R 语言提供更便利的开发环境和数据分析工具，例如 RStudio 集成开发环境（IDE）、RStudio 服务器、Shiny、Shiny 服务器、ShinyApps.io、R Markdown、RStudio Connect 等。RStudio 坚定支持开源软件和社区，其产品多为免费开源软件，但同时 RStudio 也提供相应的企业级软件应用（如 RStudio 服务器专业版、Shiny 服务器专业版等），以满足商业使用需求（如企业内部 RStudio 服务器管理、售后服务支持）。自 2012 年起，RStudio 为世界各地的 R 会议提供了大量赞助和支持，包括官方 R 语言会议和中国 R 语 言会议。为了 R 语言能更持续稳定发展，RStudio 倡议与微软、Tibco、Google 等几家商业公司成立了 R 联合团体（R Consortium），每年为 R 社区的开源项目提供大量资助，召集优秀人才解决 R 语言现存的重要且有挑战性的问题。
+
+同盾科技成立于2013年，总部位于浙江杭州，是国内专业的第三方大数据风控服务提供商。自创立以来，同盾始终坚持“跨行业联防联控”的理念，为非银行信贷、银行、保险、基金理财、三方支付、航旅、电商、O2O、游戏、社交平台等多个行业超过6000家客户提供基于大数据的风险控制、反欺诈及数据核验服务。作为互联网及金融大数据风控的领导者，同盾希望通过持续创新产品与技术，逐步累积海量正负向数据，不断提升服务可靠性，努力成为值得客户信赖的第三方风控服务提供商。
+
 
 <h3 class="text-center">银牌赞助</h3>
 
