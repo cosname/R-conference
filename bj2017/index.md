@@ -82,22 +82,22 @@ location: bj
 <h3 class="text-center">金牌赞助</h3>
 
 <div class="row">
-  <div class="col-md-4 col-md-offset-2 aligncenter client">
+  <div class="col-md-3 aligncenter client">
     <a href="http://elastic.co" title="Elastic" target="_blank">
       <img src="{{ '/img/elastic.jpg' | prepend: site.baseurl }}" alt="Elastic" class="img-responsive center-block" />
     </a>
   </div>
 
-  <div class="col-md-4 aligncenter client">
+  <div class="col-md-3 aligncenter client">
     <a href="http://www.rstudio.com/" title="Rsudio" target="_blank">
       <img src="{{ '/img/logo-rstudio.png' | prepend: site.baseurl }}" alt="RStudio" class="img-responsive center-block" />
     </a>
   </div>
 
 
-  <div class="col-md-4 aligncenter client">
+  <div class="col-md-3 aligncenter client">
     <a href="https://www.tongdun.cn/" title="同盾科技" target="_blank">
-      <img src="{{ '/img/logo-rstudio.png' | prepend: site.baseurl }}" alt="同盾科技" class="img-responsive center-block" />
+      <img src="{{ '/img/logo_tongdun.jpg' | prepend: site.baseurl }}" alt="同盾科技" class="img-responsive center-block" />
     </a>
   </div>
 </div>
