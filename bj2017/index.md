@@ -71,12 +71,15 @@ location: bj
 
   <div class="col-md-4 aligncenter client">
     <a href="https://charminginsurance.cn/" title="卓铭保险" target="_blank">
-      <img src="{{ '/img/logo-lantouzi.png' | prepend: site.qiniubaseurl }}" alt="卓铭保险" class="img-responsive center-block" />
+      <img src="{{ '/img/logo_zhuoming.png' | prepend: site.qiniubaseurl }}" alt="卓铭保险" class="img-responsive center-block" />
     </a>
   </div>
 </div>
 
 懒投资隶属于北京大家玩科技有限公司， 2014年9月上线运营， A轮融2100万美元，来自策源创投、源码资本、福布斯富豪夏佐全先生。累计交易金额超266亿，为用户赚取7.8亿收益，注册用户超百万，无一例逾期。 懒投资主要对接应收账款保理、融资租赁和消费金融等优质债权资产。2015年12月，国资参股背景的大型担保机构中盈盛达在香港上市，懒投资作为其基石投资者受邀现场敲钟。这是国内首例互联网金融公司以基石投资者身份亮相国际资本市场。
+
+卓铭保险（Charming Insurance ）隶属润安国际保险经纪有限公司，注册资本5000万人民币，联合全球顶级的保险集团BUPA、美国信诺保险及中国高端保险公司招商信诺、中意保险、永安保险等数10家国内专业的保险公司，致力于为当代精英人群提供全球高端保险服务。核心团队由360、百度、阿里、腾讯等知名互联网公司及平安、PICC等知名保险机构的资深人士组成，以 InsurTech为驱动力，高度重视用户体验服务及数据安全。
+卓铭保险作为国内首个创新型科技保险公司，始终坚持用户至上，根据用户实际需求，与跨国保险公司共同为用户定制针对性保险服务。用户不但可以享有国际险种专有权益，还可以享受保后一站式服务。
 
 
 <h3 class="text-center">金牌赞助</h3>
