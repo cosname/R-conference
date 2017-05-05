@@ -127,6 +127,13 @@ RStudio 公司成立于 2008 年，创始人为 JJ Allaire，R 社区领军人�
       <img src="{{ '/img/tszn_logo.jpg' | prepend: site.baseurl }}" alt="天善智能" class="img-responsive center-block" />
     </a>
   </div>
+  
+    <div class="col-md-4 aligncenter client">
+    <a href="http://www.ituring.com.cn/" title="图灵教育" target="_blank">
+      <img src="{{ '/img/tulingjiaoyu.jpg' | prepend: site.baseurl }}" alt="图灵教育" class="img-responsive center-block" />
+    </a>
+  </div>
+  
 </div>
 
 
@@ -135,6 +142,8 @@ RStudio 公司成立于 2008 年，创始人为 JJ Allaire，R 社区领军人�
 天善智能hellobi.com 致力于构建一个基于大数据领域的生态圈，链接一切与数据相关的资源，共同努力推动大数据、数据分析、商业智能BI、数据挖掘、人工智能等领域在国内的普及和发展。
 社区包括技术问答、博客、活动、学院、招聘、读书频道等子版块，内容覆盖了与大数据、数据分析、数据挖掘和商业智能BI、数据分析、数据挖掘和大数据相关的技术领域。
 2017年初，社区组织编著的《数据实践之美》印刷出版，累计销量4000+册。
+
+北京图灵文化发展有限公司，始终以策划高质量的科技图书为核心业务，成立11年以来，累计销售图书已达1000多万册，影响了数百万读者。旗下图灵教育品牌是国内计算机图书领域的高端品牌之一。图灵社区是图灵公司打造的综合性服务平台，集图书内容生产、作译者服务、电子书销售、技术人士交流于一体。
 
 
 ### 六、联系方式
