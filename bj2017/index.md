@@ -116,19 +116,19 @@ RStudio 公司成立于 2008 年，创始人为 JJ Allaire，R 社区领军人�
 
 <div class="row">
 
-  <div class="col-md-4 col-md-offset-2 aligncenter client">
+  <div class="col-md-3 col-md-offset-2 aligncenter client">
     <a href="http://www.hzbook.com/ps/" title="华章" target="_blank">
       <img src="{{ '/img/logo-hz.jpg' | prepend: site.baseurl }}" alt="华章" class="img-responsive center-block" />
     </a>
   </div>
 
-  <div class="col-md-4 aligncenter client">
+  <div class="col-md-3 aligncenter client">
     <a href="https://www.hellobi.com/" title="天善智能" target="_blank">
       <img src="{{ '/img/tszn_logo.jpg' | prepend: site.baseurl }}" alt="天善智能" class="img-responsive center-block" />
     </a>
   </div>
   
-    <div class="col-md-4 aligncenter client">
+    <div class="col-md-3 aligncenter client">
     <a href="http://www.ituring.com.cn/" title="图灵教育" target="_blank">
       <img src="{{ '/img/tulingjiaoyu.jpg' | prepend: site.baseurl }}" alt="图灵教育" class="img-responsive center-block" />
     </a>
