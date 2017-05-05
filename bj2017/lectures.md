@@ -13,6 +13,7 @@ $('#toggle-all').on('click', function (e) {
 
 
 
+
 <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 
 <table class="table table-striped">
@@ -130,7 +131,7 @@ $('#toggle-all').on('click', function (e) {
     <p>圆桌讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>圆桌讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-1-sub-7">详情</button>
@@ -138,14 +139,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-1-sub-7">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 圆桌讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 圆桌讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">狗熊会专场  (主席：王汉生 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">狗熊会专场  (主席: 狗熊会政委 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -277,7 +278,7 @@ $('#toggle-all').on('click', function (e) {
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">生物信息  (主席：侯琳&江瑞 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">生物信息  (主席: 侯琳&江瑞 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -330,7 +331,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-3-sub-3">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Hepatocellular carcinoma (HCC) is one of the most common type of cancer in our country. There have been many studies on it. In this talk, we will introduce our recent work on HCC classification based on HBV next generation sequencing data. The clinical phenotype data are also analyzed, and their relations with HBV are studied.    </p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Hepatocellular carcinoma (HCC) is one of the most common type of cancer in our country. There have been many studies on it. In this talk, we will introduce our recent work on HCC classification based on HBV next generation sequencing data. The clinical phenotype data are also analyzed, and their relations with HBV are studied.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 博士毕业于香港大学数学系，目前为复旦大学数学学院副教授。主要研究方向为计算数学、统计学、最优化方法在生物及医学数据中的建模、计算及相关分析，尤其网络数据的建模及分析。</p>
     </td>
   </tr>
@@ -391,7 +392,7 @@ $('#toggle-all').on('click', function (e) {
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">Bioconductor  (主席：CharityLaw ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">Bioconductor  (主席: CharityLaw ) </h3></div>
 
 <table class="table table-striped">
 
@@ -409,7 +410,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-4-sub-1">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Read mapping and quantification tools play a critical role in many genetic analysis pipelines that take high-throughput sequencing data as input. The accuracy and sensitivity of the read mapping tool directly determine the validity and quality of the outcomes from downstream analysis. More importantly, the very large (and continuously increasing) amount of data generated in high-throughput sequencing brings on the needs to highly efficient tools for read mapping and quantification.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> Yang Liao is a postdoctoral researcher in the Bioinformatics division of the Walter and Eliza Hall Institute of Medical Research (WEHI). He is the co-author of the Subread and Rsubread package for genomic analysis. With his computer science background, Yang Liao's research interests focus on high performance computing in Bioinformatics, including highly efficient read mapping, quantification and downstream analysis.</p>
     </td>
   </tr>
 
@@ -427,7 +428,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-4-sub-2">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In recent years, RNA sequencing (RNA-seq) has become a very widely used technology for profiling gene expression. One of the most common aims of RNA-seq profiling is to identify genes or molecular pathways that are differentially expressed (DE) between two or more biological conditions. Changes in expression can then be associated with differences in biology, providing avenues for further investigation into potential mechanisms of action.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> Yunshun (Andy) Chen is a Postdoctoral Research Fellow in the Bioinformatics Division at the Walter and Eliza Hall Institute (WEHI) of Medical Research. His research mainly focuses on differential gene expression of the next-generation sequencing data. He is one of the authors and the main maintainer of the edgeR package - the arguably world's most popular R package specifically designed for count-based sequencing data. His other research interests include DNA methylation, alternative splicing, microRNA and single cell RNA-Seq data.</p>
     </td>
   </tr>
 
@@ -472,7 +473,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-4-sub-5">详情</button>
@@ -480,14 +481,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-4-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">汽车联网  (主席：李旭 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">汽车联网  (主席: 李旭 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -603,7 +604,7 @@ $('#toggle-all').on('click', function (e) {
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">统计理论A  (主席：杨立坚&李东 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">统计理论A  (主席: 杨立坚&李东 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -702,7 +703,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-6-sub-6">详情</button>
@@ -710,14 +711,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-6-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">数据科学与工业工程  (主席：王凯波&朱宇 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">数据科学与工业工程  (主席: 王凯波&朱宇 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -816,7 +817,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-7-sub-6">详情</button>
@@ -824,23 +825,23 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-7-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">城市数据  (主席：李栋 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">城市数据  (主席: 李栋 ) </h3></div>
 
 <table class="table table-striped">
 
   <tr>
     <td class="col-md-2">
-    <p>朱雪宁</p>
+    <p>吴梦荷</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>PM 2.5 数据的时空特征及统计建模</strong></p>
+    <p class="text-center"><strong>基于区域关联视角的智慧城市发展</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-8-sub-1">详情</button>
@@ -848,8 +849,26 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-8-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 如今，PM 2.5已经成为生活中经常谈论的高频词，同时，许多研究、报道也表明PM 2.5给呼吸系统、心肺功能带来不良影响，危害健康。为了了解这一雾霾指标的时空分布规律，本演讲从数据分析及统计建模的层面对PM 2.5数据进行研究。具体地，本演讲将讨论PM 2.5相关的动态及空间相关特征。从统计建模上，利用带有空间相关性的自回归模型对时空特征进行了建模。最后，本研究给出空间中未知地点的预测插值方法。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 光华管理学院商务统计系四年级博士生。研究上关注社交网络、高维数据、环境数据分析等；“狗熊会”公众号专栏作者。曾在Annals of Statistics 以及Statistics and Its Interface有所发表。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 智慧城市旨在以新的科学技术手段优化城市发展路径，这一范畴则包含了从微观到宏观的一系列尺度上的问题，区域问题也是智慧城市发展的重要部分。如今网络化的城市关系正在形成，城市的良性发展与区域关系密不可分，因此以区域的视角解析智慧城市发展路径十分重要。研究基于智慧城市的理念和内涵，探索基于城市间关联的区域分析框架，采用新的数据源和技术方法，把握区域发展格局、统筹城市间发展关系，透视交通、人口、资本等特征，从而为宏观区域发展提供智慧的解决之道。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 城市与区域规划专业理学硕士，现任职于清华同衡规划设计研究院技术创新中心，从事城市规划相关的数据分析与数据分析产品研发。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>顾竹</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>环境大数据的商业应用</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-8-sub-2">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-8-sub-2">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 基于卫星遥感、GIS等数据，采用统计分析和机器学习技术，可以挖掘出更为丰富的信息，为社会生产、发展等各个领域应用。环境大数据智能共享云平台技术，包含了针对空间环境数据特定优化的数据采集、分析、发布与可视化多个模块，能够实现对气象，环境，地质等多类型环境数据的实时监测和关键环境变量的预报预测。其作为颠覆整个环境大数据行业的历史性突破技术，获得国内外专家的广泛认可，市场价值极其可观。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京佳格天地科技有限公司产品副总裁。南京师范大学本科、硕士，美国纽约州立大学博士，人工智能和大数据专家，前NASA深度学习研究员。在美国纽约州立大学攻读博士期间，就被NASA邀请参与遥感影像的重要项目。多年来专注遥感影像的深度学习。佳格是世界上首先采用深度学习来分析图像获取农业信息的公司。</p>
     </td>
   </tr>
 
@@ -861,10 +880,10 @@ $('#toggle-all').on('click', function (e) {
     <p class="text-center"><strong>地理数据与商业网点选址实战</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-8-sub-2">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-8-sub-3">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-8-sub-2">
+  <tr class="collapse" id="session-8-sub-3">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 电商与数据时代，实体店作为重要的消费场景，各种app推广主力渠道等，在各种渠道中地位将会被继续强化，新零售也开始通过数据来武装实体渠道，从而帮助实体渠道能够实现科学选址、精细化运营等，然而数据的应用应该首先以行业知识为基础和导向，本次将会分享开店实战中是如何利用数据科学选址的，从中可以看到数据选取、方法与业务融合、执行落地缺一不可，也将会了解到数据时代实体渠道的更强生命力与机会点在哪里。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 《数据实践之美》联合作者，10余年的商业网点选址分析与开店工作经验。服务过百胜餐饮、沃尔玛中国等公司，曾作为外部顾问参与IBM农行网点优化。项目经验涵盖零售、餐饮、金融与服务、体验等商业业态。基于行业经验，能够从业务角度正确解读数据。掌握主流的数据工具与简单的编程能力,能够通过数据分析洞察业务机会。对数据驱动商业选址有一手的实战经验。</p>
@@ -879,10 +898,10 @@ $('#toggle-all').on('click', function (e) {
     <p class="text-center"><strong>基于室内定位数据（IPS）的时空行为分析</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-8-sub-3">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-8-sub-4">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-8-sub-3">
+  <tr class="collapse" id="session-8-sub-4">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 黄蔚欣，清华大学建筑学院副教授，日本京都大学博士，数字建筑技术教学工作委员会副主任委员，亚洲计算机辅助建筑学会（CAADRIA）委员，中国建筑学会建筑师分会数字建筑设计专业委员会（DADA）联合发起人，清华大数据产业联合会会员。主要研究领域：数字建筑设计、大数据行为分析，设计认知等。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 时空位置信息对理解人群的环境行为具有重要的意义。传统的环境行为学研究方法使用拍照、绘图、跟踪、问卷等方式调查人们的行为，可以较准确的记录人们的时空位置和活动的内容，为分析少量个体在特定时段的行为提供了较为全面和准确的信息。然而，这样的调研方式也存在样本数量少，覆盖时间短、空间有限的不足。使用室内定位系统(IPS)的时空位置数据，能够分析人群在大型公共建筑室内外空间、社区公共空间、居住空间等的行为，总结行为模式，比较不同人群、功能空间的特点，为建筑设计、商业运营、公共安全管理提供动态依据。</p>
@@ -891,28 +910,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>顾竹</p>
+    <p>高楠</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>环境大数据的商业应用</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-8-sub-4">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-8-sub-4">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 基于卫星遥感、GIS等数据，采用统计分析和机器学习技术，可以挖掘出更为丰富的信息，为社会生产、发展等各个领域应用。环境大数据智能共享云平台技术，包含了针对空间环境数据特定优化的数据采集、分析、发布与可视化多个模块，能够实现对气象，环境，地质等多类型环境数据的实时监测和关键环境变量的预报预测。其作为颠覆整个环境大数据行业的历史性突破技术，获得国内外专家的广泛认可，市场价值极其可观。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京佳格天地科技有限公司产品副总裁。南京师范大学本科、硕士，美国纽约州立大学博士，人工智能和大数据专家，前NASA深度学习研究员。在美国纽约州立大学攻读博士期间，就被NASA邀请参与遥感影像的重要项目。多年来专注遥感影像的深度学习。佳格是世界上首先采用深度学习来分析图像获取农业信息的公司。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>吴梦荷</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>基于区域关联视角的智慧城市发展</strong></p>
+    <p class="text-center"><strong>不可或缺的优质地理大数据</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-8-sub-5">详情</button>
@@ -920,8 +921,26 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-8-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 智慧城市旨在以新的科学技术手段优化城市发展路径，这一范畴则包含了从微观到宏观的一系列尺度上的问题，区域问题也是智慧城市发展的重要部分。如今网络化的城市关系正在形成，城市的良性发展与区域关系密不可分，因此以区域的视角解析智慧城市发展路径十分重要。研究基于智慧城市的理念和内涵，探索基于城市间关联的区域分析框架，采用新的数据源和技术方法，把握区域发展格局、统筹城市间发展关系，透视交通、人口、资本等特征，从而为宏观区域发展提供智慧的解决之道。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 城市与区域规划专业理学硕士，现任职于清华同衡规划设计研究院技术创新中心，从事城市规划相关的数据分析与数据分析产品研发。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>朱雪宁</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>PM 2.5 数据的时空特征及统计建模</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-8-sub-6">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-8-sub-6">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 如今，PM 2.5已经成为生活中经常谈论的高频词，同时，许多研究、报道也表明PM 2.5给呼吸系统、心肺功能带来不良影响，危害健康。为了了解这一雾霾指标的时空分布规律，本演讲从数据分析及统计建模的层面对PM 2.5数据进行研究。具体地，本演讲将讨论PM 2.5相关的动态及空间相关特征。从统计建模上，利用带有空间相关性的自回归模型对时空特征进行了建模。最后，本研究给出空间中未知地点的预测插值方法。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 光华管理学院商务统计系四年级博士生。研究上关注社交网络、高维数据、环境数据分析等；“狗熊会”公众号专栏作者。曾在Annals of Statistics 以及Statistics and Its Interface有所发表。</p>
     </td>
   </tr>
 
@@ -930,22 +949,22 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-8-sub-6">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-8-sub-7">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-8-sub-6">
+  <tr class="collapse" id="session-8-sub-7">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">机器学习  (主席：常象宇 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">机器学习  (主席: 常象宇 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -1060,7 +1079,7 @@ $('#toggle-all').on('click', function (e) {
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">消费金融  (主席：张云松 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">消费金融  (主席: 张云松 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -1141,7 +1160,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-10-sub-5">详情</button>
@@ -1149,14 +1168,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-10-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">医学与基因组学  (主席：韩思蒙&李程 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">医学与基因组学  (主席: 韩思蒙&李程 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -1173,7 +1192,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-11-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> While SAS remains an important tool in the pharmaceutical industry, more and more pharma companies are starting to use R as a complimentary tool to streamline their analytic processes. In the drug development stage, R is becoming a popular tool in daily work, for example, statisticians often use R to do scenario simulations for trial design. However, R is still rarely utilized in formal regulatory submissions although no agencies prohibit its use for statistical analysis. A key feature of R is the very large number of user contributed free code packages, however few of these have been fully validated. In the conservative pharma reporting environment, the applicability of user contributed R functions is therefore limited so far. My presentation will address two aspects. First I will introduce an RShiny App for sample size calculation developed by BI statisticians. This internal App supports project teams to determine Go/No-go criteria, i.e. to determine whether they should start Phase III trials based on the Phase Ib/II data. Then I will talk about the process that BI is now working on to validate external R packages (those in addition to base R and its default, recommended, packages). The aim of this process is to identify a group of high quality R packages which could be used for formal clinical reporting. </p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> While SAS remains an important tool in the pharmaceutical industry, more and more pharma companies are starting to use R as a complimentary tool to streamline their analytic processes. In the drug development stage, R is becoming a popular tool in daily work, for example, statisticians often use R to do scenario simulations for trial design. However, R is still rarely utilized in formal regulatory submissions although no agencies prohibit its use for statistical analysis. A key feature of R is the very large number of user contributed free code packages, however few of these have been fully validated. In the conservative pharma reporting environment, the applicability of user contributed R functions is therefore limited so far. My presentation will address two aspects. First I will introduce an RShiny App for sample size calculation developed by BI statisticians. This internal App supports project teams to determine Go/No-go criteria, i.e. to determine whether they should start Phase III trials based on the Phase Ib/II data. Then I will talk about the process that BI is now working on to validate external R packages (those in addition to base R and its default, recommended, packages). The aim of this process is to identify a group of high quality R packages which could be used for formal clinical reporting.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> Dr. Hairui (Harry) Hua is currently Senior Statistician in Boehringer-Ingelheim. He received bachelor degree in Statistics from Fudan University and then went to UK to pursue his master degree and PhD degree in Statistics in University of Bristol and University of Birmingham. In 2015, He worked in Roche UK for more than 1 year and joined BI China since last July till now. He mainly worked on the Phase I to III trials in oncology. His research area includes semiparametric modeling in survival analysis & individual patient meta-analysis.</p>
     </td>
   </tr>
@@ -1270,7 +1289,7 @@ $('#toggle-all').on('click', function (e) {
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">资产管理  (主席：吴海山 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">资产管理  (主席: 吴海山 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -1351,7 +1370,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-12-sub-5">详情</button>
@@ -1359,14 +1378,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-12-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">人文数据  (主席：陈静 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">人文数据  (主席: 陈静 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -1465,7 +1484,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-13-sub-6">详情</button>
@@ -1473,14 +1492,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-13-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">人工智能与量化金融  (主席：郭健 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">人工智能与量化金融  (主席: 郭健 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -1601,7 +1620,7 @@ $('#toggle-all').on('click', function (e) {
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">公共卫生  (主席：蔡俊 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">公共卫生  (主席: 蔡俊 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -1715,7 +1734,7 @@ $('#toggle-all').on('click', function (e) {
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">工业制造  (主席：田春华 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">工业制造  (主席: 田春华 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -1829,7 +1848,7 @@ $('#toggle-all').on('click', function (e) {
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">计算平台  (主席：颜深根 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">计算平台  (主席: 颜深根 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -1928,7 +1947,7 @@ $('#toggle-all').on('click', function (e) {
     <p>张宸</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>制造即服务，数据即价值</strong></p>
+    <p class="text-center"><strong>FPGA在深度学习方面引用最高论文的作者</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-17-sub-6">详情</button>
@@ -1936,14 +1955,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-17-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 制造即服务，数据即价值</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 本科数学，硕博模式识别，现任三一集团数据科学家。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">统计理论B  (主席：杨立坚&李东 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">统计理论B  (主席: 杨立坚&李东 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -2042,7 +2061,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-18-sub-6">详情</button>
@@ -2050,14 +2069,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-18-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">R软件在社会科学中的应用  (主席：苏毓淞 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">R软件在社会科学中的应用  (主席: 苏毓淞 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -2156,7 +2175,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-19-sub-6">详情</button>
@@ -2164,14 +2183,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-19-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">教育培训  (主席：王涛 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">教育培训  (主席: 王涛 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -2234,7 +2253,7 @@ $('#toggle-all').on('click', function (e) {
     <p>欧高炎</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>数据科学与大数据专业体系与实训平台建设 </strong></p>
+    <p class="text-center"><strong>数据科学与大数据专业体系与实训平台建设</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-20-sub-4">详情</button>
@@ -2270,7 +2289,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-20-sub-6">详情</button>
@@ -2278,14 +2297,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-20-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">社交网络  (主席：刘跃文 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">社交网络  (主席: 周静 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -2331,34 +2350,16 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>杜玮</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>大数据时代推动科研创新管理的新工具：科研社交网络</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-21-sub-3">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-21-sub-3">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 科研社交网络分析起源于文献计量学和科学计量学领域，对科学领域的发展研究和科研管理等方向起到了重要作用。随着大数据时代的发展，科研创新管理要求融合多源异构科研资源、创新资源、各大独立的文献数据库以及线上的动态科研信息，如何将这些多源异构的科研创新信息组织起来以提供更好的科研创新管理服务是亟待解决的重大问题。本演讲将结合实际项目与研究问题（如科研创新资源的推荐、合作机会推荐等），重点介绍如何结合前沿技术，将科研社交网络打造成推动科研创新管理的新工具。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 香港城市大学信息系统系博士，现任香港城市大学信息系统系博士后研究员，主要从事社交网络分析、知识图谱、科研管理、创新管理、大数据分析等方向的研究，在国际会议ICIS、HICSS、PACIS等上发表论文多篇，在国际期刊Scientometrics、Journal of Network and Computer Applications等上发表多篇期刊论文。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
     <p>周静</p>
     </td>
     <td class="col-md-8">
     <p class="text-center"><strong>从文本分析看小说中人物的复杂关系：以琅琊榜为例</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-21-sub-4">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-21-sub-3">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-21-sub-4">
+  <tr class="collapse" id="session-21-sub-3">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 本报告通过对人气网络小说《琅琊榜》进行小说三要素的文本分析，从人物形象、故事情节和典型环境三个方面进行剖析。在人物形象的分析中主要探索不同人物之间的关系、从他们的动作、语言等方面去探索他们不同的性格特征。在故事情节上，主要对小说的开端、发展、高潮和结局做了相应的分析，同时为了研究人物之间复杂的关系，我们对角色之间的亲密度、出场密度和称谓的变化等进行了分析。最后选取了几个典型环境来分析故事情节的发展。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 周静，中国人民大学统计学院助理教授，北京大学光华管理学院管理学博士，研究上关注复杂网络数据建模、营销模型、消费者行为分析等，研究论文发表于Journal of business and economic Statistics、Science China Mathematics、营销科学学报等国内外权威杂志上。在产业实践上，对客户流失预警模型、用户欺诈模型等相关模型具有丰富的实战经验。热衷案例创作，是微信公众号狗熊会精品案例的作者之一。</p>
@@ -2373,10 +2374,10 @@ $('#toggle-all').on('click', function (e) {
     <p class="text-center"><strong>On equivalence of likelihood maximization of stochastic block model and nonnegative matrix factorization, and beyond</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-21-sub-5">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-21-sub-4">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-21-sub-5">
+  <tr class="collapse" id="session-21-sub-4">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Community structures detection in complex network is important for understanding not only the topological structures of the network, but also the functions of it. Stochastic block model and nonnegative matrix factorization are two widely used methods for community detection, which are proposed from different perspectives. The relations between them are studied in this talk. The logarithm of likelihood function for stochastic block model can be reformulated under the framework of nonnegative matrix factorization. Besides the model equivalence, the algorithms employed by the two methods are different. 
 <br>Furthermore, we design new matrix factorization model for signed network, and its effectiveness is evaluated.</p>
@@ -2389,22 +2390,22 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-21-sub-6">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-21-sub-5">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-21-sub-6">
+  <tr class="collapse" id="session-21-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">软件工具  (主席：肖楠 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">软件工具  (主席: 肖楠 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -2422,7 +2423,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-22-sub-1">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 本演讲将介绍如何利用CSS对shiny页面进行个性化设计及在网页中嵌入视频；并通过一个详细案例介绍了利用htmlwidgets包开发HTML控件，基于D3.JS库创建简单的交互桑基图，包括控件创建、函数修改、数据调用及与shiny结合的演示。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 乐逗游戏高级数据分析师，负责大数据挖掘及可视化。资深R语言用户，有九年以上数据挖掘工作实战经验，多次在中国R语言大会上作主题演讲。合著过《R语言与数据挖掘》、《数据实践之美》，新书《R语言游戏数据分析与挖掘》也即将上市。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
@@ -2440,7 +2441,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-22-sub-2">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> RWeekly.org 搭建了一个一站式的信息平台，通过网站，邮件，新浪微博 @rweekly 等渠道，实时地向来自140多个国家的读者推送社区的最新动态。每周的资讯速递帮助 R 用户快速地掌握社区一周内的最新进展。 近年来，R 社区发展迅速，CRAN 现在已有 10000+ 的程序包。学会发现，学习和使用现有的基础资源，掌握社区的最佳实践，可以节省时间、减少重复的轮子。 这个讲座将会介绍 R Weekly 的一些有趣的发现以及背后的故事。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> R Weekly 创始人之一</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
@@ -2458,7 +2459,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-22-sub-3">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Automatic report generation has a massive number of use cases for reproducible research and commercial applications. Fortunately, most of the problems involved in this topic have been elegantly solved by knitr and the R Markdown specification for the R community. However, the issues on data persistence and operating system-level reproducibility were rarely considered in the context of reproducible report generation. Today, such issues have become a major concern in the current software implementations. In this talk, we will discuss potential approaches to tackle such problems, particularly with the help of modern containerization technologies. We will also demonstrate how to compose a persistent and reproducible R Markdown report with the help of the two R packages we developed: docker-r and liftr. Specifically, you will learn to dockerize your existing R Markdown documents, how to apply it to the analysis of petabyte-scale cancer genomics data on the Cancer Genomics Cloud, and how to distribute or reuse such containerized reports.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> Nan is a Genomic Data Scientist at Seven Bridges, where he and his colleagues build innovative data-driven products for petabyte-scale biomedical data analysis, accelerating breakthroughs in genomics research for cancer, drug development, and precision medicine. With the help of Docker, their scalable, cloud-based Seven Bridges Platform empowers rapid, collaborative analysis of millions of genomes in concert with other forms of biomedical data. As an active contributor to the R community, Nan is the author of 10+ R/Bioconductor packages covering topics of machine learning, reproducible research, and data visualization.</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
@@ -2476,7 +2477,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-22-sub-4">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In the realm of high performance computing with R, users might take a learning path from R, Rcpp to some R internals. However, each one of the three parts can be challenging without a proper understanding of the other two. This lecture attempts to share my experience and viewpoint with those who have similar interests in gaining better understanding of how R works behind the scene while advancing their C++ skills.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 量化工程师，主要方向为股票、期货策略。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
@@ -2485,7 +2486,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-22-sub-5">详情</button>
@@ -2493,14 +2494,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-22-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">心理科学  (主席：夏骁凯 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">心理科学  (主席: 夏骁凯 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -2518,7 +2519,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-23-sub-1">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 互联网时代的到来，能够将普通人的日常行为以空前的规模和精细程度进行记录，形成网络行为大数据，为个性心理研究提供了前所未有的机遇，也提出了新的理论与技术问题。我们对反映个性特征的社会媒体大数据开展研究，运用机器学习方法构建利用社会媒体数据预测用户个性心理特征的计算模型，并开始尝试将模型预测作为测量手段运用于个性心理学研究。这些初步工作，为网络技术支持下个性心理研究的纵深化、精细化发展做了铺垫，并开始显露出巨大的应用潜力。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 中国科学院心理研究所研究员，博士生导师，入选中国科学院“百人计划”。获得中国科学院计算技术研究所硕士学位和博士学位，于2005年获得加拿大University of Alberta博士学位。朱廷劭研究员的工作涉及机器学习、汉语转换以及网络行为心理研究等多个领域，并取得创新性成果。他开展的网络行为心理研究，从网络行为的分析实现对用户人格、心理健康以及社会态度的感知，并在此基础上实现群体心理的预警预报和有效干预。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
@@ -2536,25 +2537,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-23-sub-2">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 传统心理统计的教学模式较为依赖于纸笔运算，所倾向使用的基础统计软件多为SPSS，教学过程中统计知识与软件的结合相对分离。要促进心理统计知识与技能的学习，统计计算软件的深度参与是必不可少的，但这种软件自身知识的学习同时可能加重学生的学习负担，从而导致其学习动机和可持续性不足。本演讲将基于作者在南开大学周恩来政府管理学院的多年本科及硕士的统计类课程教学实践，说明和演示如何在教学过程中贯穿“用统计软件为统计学习服务”的基本理念，如何利用R与Rstudio简化统计教学的流程，使学生更为便利地接受R语言这一统计计算工具，同时利用Rstudio进行作业布置与管理。统计工具的大众化需要各学科内从事具体教学科研的工作人员不断提供的尝试方式，最大化地体现新工具较之传统工具的优势，如此才能形成一种良性的教学文化，使得一种统计工具真正能够在学科领域扎根并流行。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 南开大学副教授。主要研究方向包括：文化与社会心理学，尤其是对医学现象的社会学、心理学、人类学交叉视角研究及本土化阐释；统计方法及统计社会学，尤其是基于R语言的数据分析与可视化实践。出版了《R语言统计学基础》、《AP微积分基础教程》、《AP统计学基础教程》等多篇专著，在心理学报、心理科学进展、心理科学，等心理学核心刊物上发表多篇文章。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>余嘉元</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>心理学在助老机器人研发中的应用</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-3">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-23-sub-3">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 当前70岁以上老年人存在不同程度的孤独感和抑郁感，影响了他们的心理健康水平。在研发助老机器人的过程中，我们采用隐马尔可夫模型和神经网络对老年人的语音进行分析，通过模糊模式识别方法对他们的孤独和抑郁程度进行评定。然后在事先构建的心理辅导知识库中提取相应的专家知识，对老年人进行个别化的干预，从而缓解其孤独感和抑郁感。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 南京师范大学教授，博士生导师，享受国务院特殊津贴专家。目前担任中国心理学会理事，心理测量专业委员会副主任、中国机器学习学会理事和《心理学报》编委等职务。研究内容主要包括心理测量和认知心理学，出版了《教育和心理测量》等多部专著，在国内外学术刊物上发表了200余篇论文。在心理测量方面，主要是对项目反应理论的研究，包括对项目反应模型和参数估计方法的研究。在认知心理学方面，主要是对问题解决的策略、联结主义（又称人工神经网络）及其应用进行了研究。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
@@ -2566,13 +2549,13 @@ $('#toggle-all').on('click', function (e) {
     <p class="text-center"><strong>R语言在加强心理学可重复性中的作用</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-4">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-3">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-23-sub-4">
+  <tr class="collapse" id="session-23-sub-3">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自2011年，由于一系列的重复失败事件，可重复性问题成为了心理学界一个持续的热点问题。统计方法严谨性（如过度依赖于p值）和开放性（大量的可疑研究操作）不足是导致心理学研究可重复率过低的重要原因。为了应对心理学中的可重复危机，研究者们倡导使用更加多样的统计方法以及公开透明的研究实践。由于R语言中分析方法的灵活性与开放性，R语言在加强心理学研究的可重复性上可以起到重要作用。首先，R语言能够加强心理学研究中统计的严谨性和统计方法的多样性。由于众多心理学相关的软件包（psych, MBESS, lavaan, BootES, BayesFactor, Metafor等），使用R语言，研究者可以进行多样的统计，避免过度依赖于p值。例如，使用BootES，研究者可以快速地对效应量的置信区间进行估计，使用BayesFactor，研究者可以使用贝叶斯因子来进行统计。其次，R语言能够加强心理学研究中数据分析的公开与透明的程度。与心理学中最常用的SPSS软件相比，R语言代码而非鼠标点击进行数据的预处理以及分析，能够精确地记录数据分析的过程。这对于将数据分析过程透明化具有重大意义。最近，合理使用Rmarkdown的强大功能，能够将数据处理与结果报告结合起来，能够让研究者完全地数据分析与论文撰写无缝结合，例如papaja工具包的出现，可以让研究者直接使用Rmarkdown完成APA格式的文稿写作。正是由于R语言的这些优势，在最近的重复研究中，R语言被广泛地使用。例如，2015，发表在Science上的大规模重复实验中，其数据分析用R完成。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 清华大学博士五年级，研究兴趣为社会认知神经科学。近年来，由于心理学中的可重复危机，开始关注如何加强心理学研究的可重复性问题。在《心理科学进展》上发表《心理学研究的可重复性问题：从危机到契机》，专门分析心理学研究中的可重复性问题。2016年10月第19届全国心理学大会期间，举办《加强心理学研究的可重复性》工作坊。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
@@ -2584,13 +2567,31 @@ $('#toggle-all').on('click', function (e) {
     <p class="text-center"><strong>心理学研究规范化及在R语言的实现</strong></p>
     </td>
     <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-4">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-23-sub-4">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自2015年RPP项目的结果公布，表明其中的100项心理学研究中只有39项得到重复以来，心理学可重复性的危机已昭然若揭。不可重复背后主要涉及到各种不规范的研究操作，研究中使用的统计方法和出版偏见。为应对这种危机，新提出的TOP标准强调研究要提前注册，完整公开，开放数据与材料。运用R语言各种包和函数的强大功能，能有效增强心理学研究的规范化，促进研究的公开、透明和开放，从而提升研究的可重复性。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>余嘉元</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>心理学在助老机器人研发中的应用</strong></p>
+    </td>
+    <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-5">详情</button>
     </td>
   </tr>
   <tr class="collapse" id="session-23-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自2015年RPP项目的结果公布，表明其中的100项心理学研究中只有39项得到重复以来，心理学可重复性的危机已昭然若揭。不可重复背后主要涉及到各种不规范的研究操作，研究中使用的统计方法和出版偏见。为应对这种危机，新提出的TOP标准强调研究要提前注册，完整公开，开放数据与材料。运用R语言各种包和函数的强大功能，能有效增强心理学研究的规范化，促进研究的公开、透明和开放，从而提升研究的可重复性。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 天津师范大学应用心理专业硕士。PsychoR团队成员，研究方向为科研规范化与可重复研究的实现。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 当前70岁以上老年人存在不同程度的孤独感和抑郁感，影响了他们的心理健康水平。在研发助老机器人的过程中，我们采用隐马尔可夫模型和神经网络对老年人的语音进行分析，通过模糊模式识别方法对他们的孤独和抑郁程度进行评定。然后在事先构建的心理辅导知识库中提取相应的专家知识，对老年人进行个别化的干预，从而缓解其孤独感和抑郁感。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 南京师范大学教授，博士生导师，享受国务院特殊津贴专家。目前担任中国心理学会理事，心理测量专业委员会副主任、中国机器学习学会理事和《心理学报》编委等职务。研究内容主要包括心理测量和认知心理学，出版了《教育和心理测量》等多部专著，在国内外学术刊物上发表了200余篇论文。在心理测量方面，主要是对项目反应理论的研究，包括对项目反应模型和参数估计方法的研究。在认知心理学方面，主要是对问题解决的策略、联结主义（又称人工神经网络）及其应用进行了研究。</p>
     </td>
   </tr>
 
@@ -2599,7 +2600,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-6">详情</button>
@@ -2607,14 +2608,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-23-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">文本挖掘  (主席：张俊妮 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">文本挖掘  (主席: 张俊妮 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -2713,7 +2714,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-24-sub-6">详情</button>
@@ -2721,14 +2722,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-24-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">智能制造  (主席：邓柯 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">智能制造  (主席: 邓柯 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -2813,7 +2814,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-25-sub-5">详情</button>
@@ -2821,14 +2822,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-25-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">语言智能与产业应用  (主席：刘知远 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">语言智能与产业应用  (主席: 刘知远 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -2927,7 +2928,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-26-sub-6">详情</button>
@@ -2935,14 +2936,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-26-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">医疗健康  (主席：李响 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">医疗健康  (主席: 李响 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -3023,7 +3024,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-27-sub-5">详情</button>
@@ -3031,14 +3032,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-27-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">商务统计  (主席：黎波 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">商务统计  (主席: 黎波 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -3137,7 +3138,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-28-sub-6">详情</button>
@@ -3145,14 +3146,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-28-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">可视分析  (主席：袁晓如 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">可视分析  (主席: 袁晓如 ) </h3></div>
 
 <table class="table table-striped">
 
@@ -3248,7 +3249,7 @@ $('#toggle-all').on('click', function (e) {
     <p>讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-29-sub-5">详情</button>
@@ -3256,14 +3257,14 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-29-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">深度学习应用  (主席：陈昱 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">深度学习应用  (主席: 陈昱 ) </h3></div>
 
 <table class="table table-striped">
 
