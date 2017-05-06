@@ -98,14 +98,14 @@ location: bj
   </div>
   
   <div class="col-md-3 aligncenter client">
-    <a href="https://www.tongdun.cn/" title="同盾科技" target="_blank">
-      <img src="{{ '/img/logo_tongdun.jpg' | prepend: site.baseurl }}" alt="同盾科技" class="img-responsive center-block" />
+    <a href="https://www.tongdun.cn/" title="同盾科技" target="_blank">
+      <img src="{{ '/img/logo_tongdun.jpg' | prepend: site.baseurl }}" alt="同盾科技" class="img-responsive center-block" />
     </a>
   </div>
   
   <div class="col-md-3 aligncenter client">
     <a href="http://www.kuang-chi.org/" title="光启" target="_blank">
-      <img src="{{ '/img/guangqi_logo.png' | prepend: site.baseurl }}" alt="光启" class="img-responsive center-block" />
+      <img src="{{ '/img/guangqi_logo.png' | prepend: site.baseurl }}" alt="光启" class="img-responsive center-block" />
     </a>
   </div>
 </div>
