@@ -85,7 +85,7 @@ location: bj
 <h3 class="text-center">金牌赞助</h3>
 
 <div class="row">
-  <div class="col-md-3 col-md-offset-1 aligncenter client">
+  <div class="col-md-3 aligncenter client">
     <a href="http://elastic.co" title="Elastic" target="_blank">
       <img src="{{ '/img/elastic.jpg' | prepend: site.baseurl }}" alt="Elastic" class="img-responsive center-block" />
     </a>
@@ -158,6 +158,7 @@ RStudio 公司成立于 2008 年，创始人为 JJ Allaire，R 社区领军人�
 <h3 class ="text-center">会议视频服务独家合作伙伴</h3>
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
+   <a href="http://www.itdks.com/" title="IT大咖说" target="_blank">
     <img src="{{ '/img/IT_logo.jpg' | prepend: site.baseurl }}" alt="IT大咖说" class="img-responsive" />
   </div>
 </div>
