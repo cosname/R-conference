@@ -160,8 +160,10 @@ RStudio 公司成立于 2008 年，创始人为 JJ Allaire，R 社区领军人�
   <div class="col-md-10 col-md-offset-1 text-center">
    <a href="http://www.itdks.com/" title="IT大咖说" target="_blank">
     <img src="{{ '/img/IT_logo.jpg' | prepend: site.baseurl }}" alt="IT大咖说" class="img-responsive" />
+    </a>
   </div>
 </div>
+
 
 
 ### 六、联系方式
