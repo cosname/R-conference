@@ -13,7 +13,6 @@ $('#toggle-all').on('click', function (e) {
 
 
 
-
 <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 
 <table class="table table-striped">
@@ -505,7 +504,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-5-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> influence various stages of the oncogenic process, however discovering the biological significance of</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 车联网作为物联网的先行者、自动驾驶的必由之路，业已开始步入蓬勃发展期，海量的多源异构的数据随之而生 ，这其中尤以时空轨迹数据为盛。如何挖掘如此大规模的数据金矿，并洞察背后的价值，这一问题在如今的数据时代显得极为迫切。本次演讲主要分享车网互联在车联网领域数据的认知和经验，围绕以下三个业务核心进行介绍：事件识别，行为评价，用户画像。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 侯志伟，数据分析师，专注于车联网时空数据分析、挖掘及其可视化。曾多次获得数学建模国家一等奖，且均为交通方向。已获得专业领域内发明专利3项，发表中文核心期刊论文1篇。擅长领域：时空数据挖掘、用户画像系统、智能优化算法，Spark高性能计算等。</p>
     </td>
   </tr>
@@ -523,7 +522,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-5-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> their contribution can be challenging. The prevalence of a virus with a particular cancer can range</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 摩拜单车在最近的一年里发展飞速，许多实际问题亟待通过数据驱动的方法去解决。本次演讲将主要从供应链优化的角度，谈一谈在运营效率的提升方面，摩拜数据科学应用的现状以及对策。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 朱俊辉，摩拜单车算法工程师，熟悉R语言和Python，专注于供应链量化和可重复性研究。</p>
     </td>
   </tr>
@@ -541,7 +540,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-5-sub-3">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> from 15-100%. An option in determining the abundance of viral presence in a tumour sample would</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 介绍斑马互联网汽车的数据应用，包括轨迹poi分析，驾驶行为分析，硬件使用分析和用户使用分析。通过介绍专车识别，驾驶评分，油耗预测等业务模型，分享建模工作中的心得。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 李晔彤，斑马网络数据挖掘工程师，从事车辆轨迹，硬件，车主数据分析与挖掘。毕业于西安交通大学和伦敦政治经济学院，应用数学专业。</p>
     </td>
   </tr>
@@ -559,7 +558,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-5-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> be to perform RNA sequencing on the tumour. We have developed a pipeline utilizing the Rsubread</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 每天滴滴出行平台产生海量出行数据，而滴滴正利用这些数据不断建立各种机器学习模型来优化线上产品体验，从分单到定价，滴滴的机器学习和传统互联网公司的推荐广告算法的差异很大，这次分享会介绍滴滴平台典型的机器学习应用，进一步会介绍在顺风车场景如何利用机器学习来构建更加智能理性的大数据运营引擎.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 现任滴滴大数据-顺风车策略团队负责人，负责顺风车分单调度、拼车、信任值、定价、画像、智能补贴等相关算法策略的迭代优化；曾任腾讯微博&腾讯新闻 数据挖掘&推荐系统负责人；曾任58集团-数据智能部负责人；个人兴趣在于利用大数据&大规模机器学习方法持续改进业务和产品体验。</p>
     </td>
   </tr>
@@ -577,7 +576,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-5-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Bioconductor package that enables us to deconvolve viral RNA from human, thereby allowing us to</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 在移动互联网时代，多屏媒体，O2O多维互动，给消费者购物带来了更多信息和更多选择。也给了企业更丰富，更有挑战的营销环境。 在众多影响决策的微时刻（micro-moment）和关键时刻（moment of truch）中，汽车消费者的思维已经不知觉的进入了“车型鄙视链” 的精神世界和换车魔力象限的领域。 利用车轮查违章，车轮社区（覆盖2亿真实车主的APP应用）中用户对车型PK投票的数据，我们真实再现了这个车型鄙视链，从中会发现每一款车，你都可以找到选择他的理由。这为更加细分，更加个性化的汽车市场提供了理论支撑。以此报告希望能够协助用户选到最适合自己的车，也协助车厂在细分市场更加精准的定位，甚至可以预测未来的汽车销量</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 汽车盒子数据科学家，车轮互联数据副总裁</p>
     </td>
   </tr>
@@ -595,7 +594,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-5-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> detect and quantify the presence of viruses. We demonstrate this pipeline using RNA sequencing</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 报告主要介绍了汽车驾驶员驾驶行为数据分析的思路和结果。本例的驾驶行为数据主要采集自车辆的CAN总线与陀螺仪数据，报告首先介绍了数据的预处理方案，包括数据的滤波方法及坐标转换方法，然后介绍了常规类驾驶行为与特殊驾驶行为的识别算法，最后介绍了驾驶行为的统计结果以及对车辆性能的预估。本报告所涉及的数据处理、数据分析基本都使用R语言进行，相关的R包包括ggplot2、dtw、corrplot、sqldf等。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 吉林大学车辆工程专业硕士学位，中国汽车工程学会（SAE-China）会员、中国计算机学会（CCF）会员。曾任汽车仿真与控制国家重点实验室研究员，现任中国汽车技术研究中心数据资源中心数据技术部部长助理，全面负责数据建设及挖掘工作。
 <br> 
 <br>从事研究领域包括车辆数据集成、机器学习、深度学习等，擅长基于R语言、MATLAB的算法模型开发。个人曾获北美大学生数据建模竞赛一等奖、全国研究生数学建模竞赛一等奖，并多次在天池大数据算法大赛中获奖。</p>
@@ -724,10 +723,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>何曙光</p>
+    <p>王凯波</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>质保数据建模与分析</strong></p>
+    <p class="text-center"><strong>卓越质量管理中的大数据分析</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-7-sub-1">详情</button>
@@ -735,17 +734,17 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-7-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 当前几乎所有的耐用品都提供质量保证，在规定的质保期有生产方或销售方对失效产品进行免费维修或更换。在质保服务过程中，会累计海量的数据。本报告某汽车制造企业质保数据为例，介绍二维质保条件下的产品可靠性评估、质保索赔预测等方面的研究进展和应用。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 何曙光博士，天津大学管理与经济学部教室。他在天津大学管理学院获管理科学与工程博士学位。何曙光的研究主要关注基于数据分析的质量改进、过程监控和基于质保数据的产品可靠性评估等。近年来在学术期刊发表论文30余篇，包括Reliability engineering and system safety, Journal of quality technology, Annals of operations research等。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 质量管理就是走独木桥，而大数据为拓宽质量管理的道路提供了新的广阔支撑。大数据除了在网络和社交媒体领域存在之外，在各类工程系统中同样广泛存在，而且价值巨大。本报告将以工程质量改善项目为案例，介绍各类制造数据在质量管理和提升项目中的应用。案例包括劳动力密集型企业质量改善、半导体生产过程质量改善、太阳能生产质量改善等。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 王凯波博士是清华大学工业工程系教授、系副主任。他在香港科技大学获得工业工程与工程管理学博士学位。王凯波的研究主要关注复杂系统的质量建模、监视与控制。他是多个自然科学基金与企业资助科研项目的负责人，在质量控制领域SCI索引的国际期刊发表了30余篇论文，其中包括Journal of Quality Technology, IIE Transactions, IEEE Transactions of Automation Science and Engineering, Quality and Reliability Engineering International 等。王凯波博士现为INFORMS 质量、统计与可靠性分会(QSR)主席，是美国质量协会(ASQ)资深会员，IIE、INFORMS、IEEE会员。更多信息，请访问http://www.ie.tsinghua.edu.cn/kbwang/ 。</p>
     </td>
   </tr>
 
   <tr>
     <td class="col-md-2">
-    <p>王凯波</p>
+    <p>何曙光</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>卓越质量管理中的大数据分析</strong></p>
+    <p class="text-center"><strong>质保数据建模与分析</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-7-sub-2">详情</button>
@@ -753,8 +752,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-7-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 质量管理就是走独木桥，而大数据为拓宽质量管理的道路提供了新的广阔支撑。大数据除了在网络和社交媒体领域存在之外，在各类工程系统中同样广泛存在，而且价值巨大。本报告将以工程质量改善项目为案例，介绍各类制造数据在质量管理和提升项目中的应用。案例包括劳动力密集型企业质量改善、半导体生产过程质量改善、太阳能生产质量改善等。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 王凯波博士是清华大学工业工程系教授、系副主任。他在香港科技大学获得工业工程与工程管理学博士学位。王凯波的研究主要关注复杂系统的质量建模、监视与控制。他是多个自然科学基金与企业资助科研项目的负责人，在质量控制领域SCI索引的国际期刊发表了30余篇论文，其中包括Journal of Quality Technology, IIE Transactions, IEEE Transactions of Automation Science and Engineering, Quality and Reliability Engineering International 等。王凯波博士现为INFORMS 质量、统计与可靠性分会(QSR)主席，是美国质量协会(ASQ)资深会员，IIE、INFORMS、IEEE会员。更多信息，请访问http://www.ie.tsinghua.edu.cn/kbwang/ 。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 当前几乎所有的耐用品都提供质量保证，在规定的质保期有生产方或销售方对失效产品进行免费维修或更换。在质保服务过程中，会累计海量的数据。本报告某汽车制造企业质保数据为例，介绍二维质保条件下的产品可靠性评估、质保索赔预测等方面的研究进展和应用。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 何曙光博士，天津大学管理与经济学部教室。他在天津大学管理学院获管理科学与工程博士学位。何曙光的研究主要关注基于数据分析的质量改进、过程监控和基于质保数据的产品可靠性评估等。近年来在学术期刊发表论文30余篇，包括Reliability engineering and system safety, Journal of quality technology, Annals of operations research等。</p>
     </td>
   </tr>
 
@@ -1028,7 +1027,7 @@ $('#toggle-all').on('click', function (e) {
     <p>熊熹</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>机器学习在京东推荐系统中的应用</strong></p>
+    <p class="text-center"><strong>大规模线上实验与机器学习</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-9-sub-4">详情</button>
@@ -1036,8 +1035,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-9-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 先占坑</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 京东推荐系统算法工程师，曾负责算法策略，模型研发，现在主管analytic&online experimentation</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 大规模线上实验在京东每一天都在发生，大到一个全新的模块乃至平台上线，小到一个icon颜色，样式的更改，主要以AB试验的形式进行。大多数试验遵循直觉，数据收集和整理的工作冗长，但是对需要测试的指标以及收集到的数据的验证工作比较简单，容易造成区分度不足乃至和真实结论南辕北辙的情况。本次报告会详细介绍线上实验的基本科学原则，实施细节，容易犯的错误；并结合google,微软,LinkedIn，Amazon等公司的最新研究论文，以及京东个性化推荐中的实践，从案例中学习如何使用机器学习和人工智能技术来验证数据一致性，降低误差等。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 2015年加入京东，一直致力于机器学习算法在京东个性化与推荐业务中的应用，目前主要负责个性化业务中大规模线上实验，指标定义，异常追踪和用户体验优化等。曾在国内外知名大公司和研究机构从事复杂实验设计的理论和实践工作，并持续跟踪大规模线上实验与机器学习在其中应用的前沿研究。由于在利用人工智能技术提升个性化用户体验以及更全面科学地定义个性化对京东的贡献等工作上的突出贡献，曾获得2016年度CTO特别奖。</p>
     </td>
   </tr>
 
@@ -1391,34 +1390,16 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>王成军</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>network diffusion: Simulate and Visualize Network Diffusion</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-13-sub-1">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-13-sub-1">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> network diffusion, a R package which can help simulate and visualize the network diffusion. https://github.com/chengjun/networkdiffusion Network diffusion research focuses on how network structure exerts its impact on the diffusion process. The networkdiffusion package would help you simulate amd visualize the most simple network diffusion with R. The algorithm is quite simple:<br>Generate a network g: g(V, E). Randomly select one or n nodes as seeds. Each infected node influences its neighbors with probability p (transmission rate, β). Slides: http://chengjun.github.io/network-diffusion</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> Cheng-Jun Wang is currently an assistant research fellow in the School of Journalism and Communication, Nanjing University. He is the director of Ogilvy Data Science Lab, and also a research member of Computational Communication Collaboratory and Web Mining Lab. His research on computational communication appears in both SSCI and SCI indexed journals, such as Scientific Reports, PloS ONE, Physica A, Cyberpsychology.</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
     <p>陈静</p>
     </td>
     <td class="col-md-8">
     <p class="text-center"><strong>计算与人文：作为新领域的“数字人文”</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-13-sub-2">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-13-sub-1">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-13-sub-2">
+  <tr class="collapse" id="session-13-sub-1">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 数字人文（digital humanities），源于“计算人文”(computing humanities)，是近20年来兴起的一个多学科交叉领域，研究主题从中世纪手稿的文本分析、历史文献主题挖掘、元数据框架、诗歌分析到计算机游戏、艺术品风格分析等，其参与主体包括艺术家、人文学者、社会科学家、统计学家、计算机科学家、地理专家、软件工程师等。数字人文主要关注的是在当今信息社会语境下，在知识生产方式及知识进行转型的重要时期，如何解决新出现的人类社会文化问题，或者通过新的研究方法、路径和工具对人文学科的进行再认识、再研究和再挖掘。<br>本发言将主要从“计算与人文”的关系对“数字人文”的发展脉络进行简要说明，并在此历史框架内，结合具体个案对统计学方法、自然语言分析、主题模型、社交网络、HGIS、Pyton、R语言等数字人文学者常用的分析方法或者工具对人文研究的作用和影响进行说明。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 陈静，南京大学艺术研究院副教授。南京大学博士，Rice University博士后。主要研究兴趣为：文化与媒介研究、数字人文、新媒体艺术。</p>
@@ -1427,10 +1408,28 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>邱伟云</p>
+    <p>王成军</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>词汇、概念、数字：文本探勘技术于中国近代观念史研究中的应用与实践</strong></p>
+    <p class="text-center"><strong>network diffusion: Simulate and Visualize Network Diffusion</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-13-sub-2">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-13-sub-2">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> network diffusion, a R package which can help simulate and visualize the network diffusion. https://github.com/chengjun/networkdiffusion Network diffusion research focuses on how network structure exerts its impact on the diffusion process. The networkdiffusion package would help you simulate amd visualize the most simple network diffusion with R. The algorithm is quite simple:<br>Generate a network g: g(V, E). Randomly select one or n nodes as seeds. Each infected node influences its neighbors with probability p (transmission rate, β). Slides: http://chengjun.github.io/network-diffusion</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> Cheng-Jun Wang is currently an assistant research fellow in the School of Journalism and Communication, Nanjing University. He is the director of Ogilvy Data Science Lab, and also a research member of Computational Communication Collaboratory and Web Mining Lab. His research on computational communication appears in both SSCI and SCI indexed journals, such as Scientific Reports, PloS ONE, Physica A, Cyberpsychology.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>郑文惠</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>情感现象学与色彩政治学──唐诗色彩词的数字人文研究</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-13-sub-3">详情</button>
@@ -1438,8 +1437,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-13-sub-3">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 关键词、观念史与概念史研究法，皆以辞汇为研究对象，关注辞汇自身及其在修辞结构乃至于话语系统中的变化状况，为人文学领域中着重辞汇研究的一套人文研究法。自然语言处理与文本探勘方法，亦以辞汇为研究对象，着重于辞汇撷取技术以及辞汇在文本脉络中的视觉化呈现，及核心词汇与其他关键词共现互动现象，为资讯科学领域中着重辞汇研究的一套数字研究法。从上述两套分属人文与资科领域之研究法说明可知，两套方法都共同关注辞汇，因此产生了跨领域协作研究的可能，也使数字技术得以与人文研究产生对话空间，因此关键词/观念史/概念史研究法的数字化转向，可说是百花齐放的数字人文学发展中一道不可忽视的风景。本次演讲正欲以过去结合文本探勘技术与中国近代观念史研究的诸多案例，说明数字技术如何协助人文研究？人文思维又可提供数字技术哪些思考方向？数字与人文该如何搭配才能进行协同研究？报告将以几种已运用于中国近代观念史研究上的数字人文方法为例，说明这些方法的操作过程及其优点，以及人文学者在数字人文协作研究过程中怀有哪些疑问？遭遇哪些难题？还希望有什么突破？对于未来发展前景有何期待？以上即是本次演讲的主要内容所在。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 邱伟云，博士，山东大学历史文化学院副研究员，台湾政治大学历史与思想数位人文实验室成员。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 作者：郑文惠*、余清祥**、颜静馨***、刘昭麟****、邱伟云***** <br>摘要：本次演讲主要以台湾政治大学历史与思想数字人文实验室团队近年来以数字技术进行文学文本研究之重要成果与未来开展为内容。以古典诗歌作为数字人文方法实践之场域，主因于中国古典诗歌大多以具体可感的形象描摹抽象的心理情感，亦即诗歌中一个个词组，几乎是传达诗人心理情感的一个个意象，承载了象征诗人心理情感与思想观念的意义系统 。而诗人在独特的身体感知中，以诗歌的修辞技术，标记出本己的思想情感，呈显为独特的诗歌风格，从而蔚为一代的记忆表征，也积淀了世代间不同的思想价值与文化风俗。 2015 年，我们借用高分子化学的“分子链”概念，施作于诗歌的意象丛及主题研究等，藉由数字技术尝试从“句链”中勾勒出色彩词在诗歌中的构词，及其出现位置与对仗词、搭配词，考察其中所透显出的情感现象学与色彩政治学。2016 年，我们纳入颜色词的同义字，在原有技术基础上，结合 R 进行文本探勘，运用统计理论模型，更为全面且深入地研究唐诗颜色光谱学。大体而言，唐诗颜色光谱学除与诗人个人独特的联觉通感、视觉想像、心理情感与感觉结构息息相关外，还涉及佛道宗教信仰、经世与隐逸思想、园林文化、祭典仪式、身分地位、染织技术、彩绘技术、化妆术…等等，从中不仅可掌握诗人独特的颜色修辞与诗歌主题风格的关系及其深层的颜色心灵光谱，也可深入理解透过各期唐诗多重性的颜色光谱所开展的隐喻系统，及所表征不同时期宗教、思想、技术、政治、经济、阶级等社会文化的变革。2017年我们将尝试拓展可纳入句链结构的元素，以“色彩词”为对象，将古典诗歌重要的声、律与前述技术成果结合，探索声音在诗歌中如何与情感、意象互动，而数字技术又能为深具传统的古典诗歌研究带来怎样的风貌，此为本团队系列研究未来开展的方向。 <br>*     台湾政治大学中国文学系教授。(通讯作者) <br>**    台湾政治大学统计学系教授。 <br>***   台湾中正大学中国文学系博士生。<br>**** 台湾政治大学资讯科学系特聘教授。<br>***** 山东大学历史文化学院副研究员。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 郑文惠，台湾政治大学文学博士，现任台湾政治大学中文系教授。<br>主编?中国近现代思想及文学史专业数据库（1830-1930）?、《东亚观念史集刊》、《革命．启蒙．抒情――中国近现代文学与文化研究学思录》等。著有《文学与图像的文化美学――想像共同体的乐园论述》、《诗情画意――明代题画诗的诗画对应关系》、《钱选》、《王绂》、《中国书道传习汇编》等书，及古典诗歌、文学与图像、遗民诗画、汉画、晚明版画、近代画报、近代小说、文学地景与记忆认同、世变与乐园、观念史、数字人文学等论文。<br>现主持「世变与文心∕画像∕书体──东汉末期价值逆反与文化再现」与?观念?话语?行动：数位视野下中国∕台湾多元现代性研究」、「新∕旧」的激变与交锋：中国现代性形成的数位人文研究观念?科技部个人型计划与整合型计划，及「中国认同与现代国家的形成」、「中国近现代思想及文学史专业数据库（1830-1930）」教育部迈向顶尖大学计划。<br>曾任哈佛大学、莱斯大学、海德堡大学、捷克国家科学研究院、日本关西大学、国际日本文化研究院、韩国江原大学、韩国翰林大学、复旦大学、中国美术学院、福建师范大学、江苏师范大学、新加坡南洋理工大学、香港教育学院等有关叙事文学、书法文化美学、文学与图像、遗民诗画、从遗民到后遗民的时间地理政治学、桃花源历史地理政治学、视觉文化与中国近现代画报、中国近现代报刊与文化研究、观念史、数字人文学等讲座或演讲。</p>
     </td>
   </tr>
 
@@ -1463,10 +1462,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>郑文惠</p>
+    <p>邱伟云</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>情感现象学与色彩政治学──唐诗色彩词的数字人文研究</strong></p>
+    <p class="text-center"><strong>词汇、概念、数字：文本探勘技术于中国近代观念史研究中的应用与实践</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-13-sub-5">详情</button>
@@ -1474,8 +1473,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-13-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 作者：郑文惠*、余清祥**、颜静馨***、刘昭麟****、邱伟云***** <br>摘要：本次演讲主要以台湾政治大学历史与思想数字人文实验室团队近年来以数字技术进行文学文本研究之重要成果与未来开展为内容。以古典诗歌作为数字人文方法实践之场域，主因于中国古典诗歌大多以具体可感的形象描摹抽象的心理情感，亦即诗歌中一个个词组，几乎是传达诗人心理情感的一个个意象，承载了象征诗人心理情感与思想观念的意义系统 。而诗人在独特的身体感知中，以诗歌的修辞技术，标记出本己的思想情感，呈显为独特的诗歌风格，从而蔚为一代的记忆表征，也积淀了世代间不同的思想价值与文化风俗。 2015 年，我们借用高分子化学的“分子链”概念，施作于诗歌的意象丛及主题研究等，藉由数字技术尝试从“句链”中勾勒出色彩词在诗歌中的构词，及其出现位置与对仗词、搭配词，考察其中所透显出的情感现象学与色彩政治学。2016 年，我们纳入颜色词的同义字，在原有技术基础上，结合 R 进行文本探勘，运用统计理论模型，更为全面且深入地研究唐诗颜色光谱学。大体而言，唐诗颜色光谱学除与诗人个人独特的联觉通感、视觉想像、心理情感与感觉结构息息相关外，还涉及佛道宗教信仰、经世与隐逸思想、园林文化、祭典仪式、身分地位、染织技术、彩绘技术、化妆术…等等，从中不仅可掌握诗人独特的颜色修辞与诗歌主题风格的关系及其深层的颜色心灵光谱，也可深入理解透过各期唐诗多重性的颜色光谱所开展的隐喻系统，及所表征不同时期宗教、思想、技术、政治、经济、阶级等社会文化的变革。2017年我们将尝试拓展可纳入句链结构的元素，以“色彩词”为对象，将古典诗歌重要的声、律与前述技术成果结合，探索声音在诗歌中如何与情感、意象互动，而数字技术又能为深具传统的古典诗歌研究带来怎样的风貌，此为本团队系列研究未来开展的方向。 <br>*     台湾政治大学中国文学系教授。(通讯作者) <br>**    台湾政治大学统计学系教授。 <br>***   台湾中正大学中国文学系博士生。<br>**** 台湾政治大学资讯科学系特聘教授。<br>***** 山东大学历史文化学院副研究员。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 郑文惠，台湾政治大学文学博士，现任台湾政治大学中文系教授。<br>主编?中国近现代思想及文学史专业数据库（1830-1930）?、《东亚观念史集刊》、《革命．启蒙．抒情――中国近现代文学与文化研究学思录》等。著有《文学与图像的文化美学――想像共同体的乐园论述》、《诗情画意――明代题画诗的诗画对应关系》、《钱选》、《王绂》、《中国书道传习汇编》等书，及古典诗歌、文学与图像、遗民诗画、汉画、晚明版画、近代画报、近代小说、文学地景与记忆认同、世变与乐园、观念史、数字人文学等论文。<br>现主持「世变与文心∕画像∕书体──东汉末期价值逆反与文化再现」与?观念?话语?行动：数位视野下中国∕台湾多元现代性研究」、「新∕旧」的激变与交锋：中国现代性形成的数位人文研究观念?科技部个人型计划与整合型计划，及「中国认同与现代国家的形成」、「中国近现代思想及文学史专业数据库（1830-1930）」教育部迈向顶尖大学计划。<br>曾任哈佛大学、莱斯大学、海德堡大学、捷克国家科学研究院、日本关西大学、国际日本文化研究院、韩国江原大学、韩国翰林大学、复旦大学、中国美术学院、福建师范大学、江苏师范大学、新加坡南洋理工大学、香港教育学院等有关叙事文学、书法文化美学、文学与图像、遗民诗画、从遗民到后遗民的时间地理政治学、桃花源历史地理政治学、视觉文化与中国近现代画报、中国近现代报刊与文化研究、观念史、数字人文学等讲座或演讲。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 关键词、观念史与概念史研究法，皆以辞汇为研究对象，关注辞汇自身及其在修辞结构乃至于话语系统中的变化状况，为人文学领域中着重辞汇研究的一套人文研究法。自然语言处理与文本探勘方法，亦以辞汇为研究对象，着重于辞汇撷取技术以及辞汇在文本脉络中的视觉化呈现，及核心词汇与其他关键词共现互动现象，为资讯科学领域中着重辞汇研究的一套数字研究法。从上述两套分属人文与资科领域之研究法说明可知，两套方法都共同关注辞汇，因此产生了跨领域协作研究的可能，也使数字技术得以与人文研究产生对话空间，因此关键词/观念史/概念史研究法的数字化转向，可说是百花齐放的数字人文学发展中一道不可忽视的风景。本次演讲正欲以过去结合文本探勘技术与中国近代观念史研究的诸多案例，说明数字技术如何协助人文研究？人文思维又可提供数字技术哪些思考方向？数字与人文该如何搭配才能进行协同研究？报告将以几种已运用于中国近代观念史研究上的数字人文方法为例，说明这些方法的操作过程及其优点，以及人文学者在数字人文协作研究过程中怀有哪些疑问？遭遇哪些难题？还希望有什么突破？对于未来发展前景有何期待？以上即是本次演讲的主要内容所在。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 邱伟云，博士，山东大学历史文化学院副研究员，台湾政治大学历史与思想数位人文实验室成员。</p>
     </td>
   </tr>
 
@@ -1523,16 +1522,34 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>王鑫</p>
+    <p>丁磊</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>量化投资简介</strong></p>
+    <p class="text-center"><strong>数据驱动人工智能的实践</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-14-sub-2">详情</button>
     </td>
   </tr>
   <tr class="collapse" id="session-14-sub-2">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 如果说数据是原油，那么人工智能就是从原油中提炼各种高价值产品的加工厂。丁博士将结合十多年在零售、金融、广告等行业开发人工智能产品的实践，分享他关于人工智能技术在商业领域的深度思考。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 丁磊博士是百度金融首席数据科学家，曾任职PayPal全球消费者数据科学部负责人，通过一系列的人工智能和个性化产品大幅度提升了全球电商和支付用户的消费体验。丁博士曾在哥伦比亚大学和IBM Watson研究院工作，在人工智能和大规模机器学习等领域有丰富的成果。丁博士曾在斯坦福大学学习管理。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>王鑫</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>量化投资简介</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-14-sub-3">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-14-sub-3">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 讲解量化投资特点、分类等方面的基本概念，并对主要投资策略的理论基础、适用条件、应用特点等角度做进一步阐述，在此基础上介绍量化投资中常用的风险衡量、业绩评估指标等。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 清华大学物理系学士、中国科学院理论物理博士，美国莱斯大学物理与天文系博士后，历任杭州某量化对冲基金资深基金经理、基金管理部总监、量化分析师。在数学建模相关领域具有相当造诣，擅长结合物理实验建模，精通分子动力学模拟，擅长各类算法及海量数据存储技术。多年大型高性能分布式并行计算处理经验，擅长复杂数据分析和大数据挖掘。</p>
@@ -1547,31 +1564,13 @@ $('#toggle-all').on('click', function (e) {
     <p class="text-center"><strong>论机器学习在金融领域的应用</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-14-sub-3">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-14-sub-3">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 近年来，量化交易已经在国内二级市场得到了充分发展，人们越来越认识到量化模型对于风险控制的重要性。而机器学习也慢慢渗透进入这个领域，顶尖的技术人才开始试图用更复杂的非线性模型来解释略显神秘的金融市场的不确定性。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 清华大学电子工程系本科生，曾获得清华大学最高荣誉特等奖学金。博士就读于普林斯顿大学电子工程系，从事机器学习人工智能方面的研究。博士毕业后曾就职于华尔街最大的做市商骑士资本，其独立开发的策略日均交易额达10亿美金。现回国创立卓识投资，任总经理，负责开发期货CTA和股票阿尔法策略</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>丁磊</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>数据驱动人工智能的实践</strong></p>
-    </td>
-    <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-14-sub-4">详情</button>
     </td>
   </tr>
   <tr class="collapse" id="session-14-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 如果说数据是原油，那么人工智能就是从原油中提炼各种高价值产品的加工厂。丁博士将结合十多年在零售、金融、广告等行业开发人工智能产品的实践，分享他关于人工智能技术在商业领域的深度思考。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 丁磊博士是百度金融首席数据科学家，曾任职PayPal全球消费者数据科学部负责人，通过一系列的人工智能和个性化产品大幅度提升了全球电商和支付用户的消费体验。丁博士曾在哥伦比亚大学和IBM Watson研究院工作，在人工智能和大规模机器学习等领域有丰富的成果。丁博士曾在斯坦福大学学习管理。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 近年来，量化交易已经在国内二级市场得到了充分发展，人们越来越认识到量化模型对于风险控制的重要性。而机器学习也慢慢渗透进入这个领域，顶尖的技术人才开始试图用更复杂的非线性模型来解释略显神秘的金融市场的不确定性。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 清华大学电子工程系本科生，曾获得清华大学最高荣誉特等奖学金。博士就读于普林斯顿大学电子工程系，从事机器学习人工智能方面的研究。博士毕业后曾就职于华尔街最大的做市商骑士资本，其独立开发的策略日均交易额达10亿美金。现回国创立卓识投资，任总经理，负责开发期货CTA和股票阿尔法策略</p>
     </td>
   </tr>
 
@@ -1606,15 +1605,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-14-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 1.自我介绍
-<br>2.常用R包
-<br>3.投资思路
-<br>4.建议
-<br>5.提问，批评指正</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 中国人民大学统计学本科
-<br>第七届R语言会议秘书长
-<br>5年股票经验，4年期货投资经验
-<br>主要研究方向：CTA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 量化投资是在传统的投资思路上，运用了数据验证与定量化的工具，能够极大的增强策略的可靠性，可复制性，可解释性，并提高开发的效率，降低研发的成本。而CTA类型的策略，则是量化被广泛运用的领域之一。该演讲将结合个人从主观交易员转向量化研究的经历，介绍R中常用的包与CTA策略构建的一些经验。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 中国人民大学统计学2012级本科生。量化研究员，主要从事期货量化策略的研发，四年衍生品投资经历。曾任私募主观交易员，从事期货交易，后转入量化研究的领域。有一系列错误与正确的投资经验。</p>
     </td>
   </tr>
 
@@ -1942,24 +1934,6 @@ $('#toggle-all').on('click', function (e) {
     </td>
   </tr>
 
-  <tr>
-    <td class="col-md-2">
-    <p>张宸</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>FPGA在深度学习方面引用最高论文的作者</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-17-sub-6">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-17-sub-6">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
-    </td>
-  </tr>
-
 </table>
 
 <div class="alert alert-info" role="alert"><h3 class="text-center">统计理论B  (主席: 杨立坚&李东 ) </h3></div>
@@ -2100,10 +2074,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>李代</p>
+    <p>陈华珊</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>再抽样法分析夫妻般配与家庭工资不平等</strong></p>
+    <p class="text-center"><strong>ezdf: 用户友好的标签数据框</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-19-sub-2">详情</button>
@@ -2111,8 +2085,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-19-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 近年来，关于同型婚配的研究在社会学界得到越来越多的关注。本文采用LHSC1996与CGSS2012两个截面数据，首先用对数线性模型测量调查数据显示的夫妻教育匹配的同型程度，用相关系数测量工资收入上的相似程度。然后使用模糊置换检验，估量在控制年龄、城乡和地域之后教育程度上存在的匹配对家庭工资收入不平等指数泰尔指数（Theil Index）影响，并通过比较两个截面数据考察其变化趋势。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京大学社会学系博士研究生</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> `ezdf` 包的目的是使 R 支持类似 SPSS 或 Stata 那样对用户友好的标签输出。`ezdf` 包并不是要定义一套新的制表函数，而是控制相关制表函数（如 `pander`）在输出时，能够自动带上对应的标签。除此之外，`ezdf` 也封装了几个常用的制表方法。<br>众所周知，在 R 的体系当中，并无变量标签或者数值标签的定义。对于类别变量，在 R 中使用 `factor` 类型可起到部分标签的功能。对于变量标签，在`data.frame` 中尽管可以直接使用标签来命名变量，例如 `df$\$$年龄` ，但是实际使用中多有不便。<br>在 R 中导入 SPSS 或 Stata 等传统统计软件的数据格式可有多个包来实现，例如 `foreign`、`readStata13`、`haven`、`sas7bdat`  等等。这些包在导入数据时，都能保持原数据中所定义的标签。然而所有这些包目前来说各有优缺点，即使对同一个格式也做不到支持各个版本的导入，因此难以提供一揽子解决方案。更重要的，各个包导入数据之后所定义的标签属性各不相同，导致对标签的使用难以统一。更不用说，在制作表格或者统计结果输出时，能够让 R 做到标签友好。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 副研究员</p>
     </td>
   </tr>
 
@@ -2136,10 +2110,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>陈华珊</p>
+    <p>邵兴全</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>ezdf: 用户友好的标签数据框</strong></p>
+    <p class="text-center"><strong>法律的定量分析及其实践</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-19-sub-4">详情</button>
@@ -2147,17 +2121,17 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-19-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> `ezdf` 包的目的是使 R 支持类似 SPSS 或 Stata 那样对用户友好的标签输出。`ezdf` 包并不是要定义一套新的制表函数，而是控制相关制表函数（如 `pander`）在输出时，能够自动带上对应的标签。除此之外，`ezdf` 也封装了几个常用的制表方法。<br>众所周知，在 R 的体系当中，并无变量标签或者数值标签的定义。对于类别变量，在 R 中使用 `factor` 类型可起到部分标签的功能。对于变量标签，在`data.frame` 中尽管可以直接使用标签来命名变量，例如 `df$\$$年龄` ，但是实际使用中多有不便。<br>在 R 中导入 SPSS 或 Stata 等传统统计软件的数据格式可有多个包来实现，例如 `foreign`、`readStata13`、`haven`、`sas7bdat`  等等。这些包在导入数据时，都能保持原数据中所定义的标签。然而所有这些包目前来说各有优缺点，即使对同一个格式也做不到支持各个版本的导入，因此难以提供一揽子解决方案。更重要的，各个包导入数据之后所定义的标签属性各不相同，导致对标签的使用难以统一。更不用说，在制作表格或者统计结果输出时，能够让 R 做到标签友好。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 副研究员</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 一直以来，法学被归入社会科学的范畴，主要采用定性及案例分析的方法展开研究。但随着法律经济学在英美国家的兴起，以统计为基础的研究方法，越来越多被用于法学研究与司法实践。在我国，司法判例被不断地公布，对其进行定量分析已具备初步基础，而今，无论是理论界与司法实务部门，都在积极采用大数据改进我们对司法系统的认识。本次演讲围绕法律的定量分析与隐私权保护展开，结合民商事、刑事等案件，展示如何对其进行定量分析，并得出有意义的结论。另外，本次演讲也会探讨大数据时代的隐私权保护问题。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 受过法律与经济学系统教育，具有丰富的司法实践经验，致力于法律的量化分析。</p>
     </td>
   </tr>
 
   <tr>
     <td class="col-md-2">
-    <p>邵兴全</p>
+    <p>李代</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>法律的定量分析及其实践</strong></p>
+    <p class="text-center"><strong>再抽样法分析夫妻般配与家庭工资不平等</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-19-sub-5">详情</button>
@@ -2165,8 +2139,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-19-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 一直以来，法学被归入社会科学的范畴，主要采用定性及案例分析的方法展开研究。但随着法律经济学在英美国家的兴起，以统计为基础的研究方法，越来越多被用于法学研究与司法实践。在我国，司法判例被不断地公布，对其进行定量分析已具备初步基础，而今，无论是理论界与司法实务部门，都在积极采用大数据改进我们对司法系统的认识。本次演讲围绕法律的定量分析与隐私权保护展开，结合民商事、刑事等案件，展示如何对其进行定量分析，并得出有意义的结论。另外，本次演讲也会探讨大数据时代的隐私权保护问题。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 受过法律与经济学系统教育，具有丰富的司法实践经验，致力于法律的量化分析。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 近年来，关于同型婚配的研究在社会学界得到越来越多的关注。本文采用LHSC1996与CGSS2012两个截面数据，首先用对数线性模型测量调查数据显示的夫妻教育匹配的同型程度，用相关系数测量工资收入上的相似程度。然后使用模糊置换检验，估量在控制年龄、城乡和地域之后教育程度上存在的匹配对家庭工资收入不平等指数泰尔指数（Theil Index）影响，并通过比较两个截面数据考察其变化趋势。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京大学社会学系博士研究生</p>
     </td>
   </tr>
 
@@ -2423,7 +2397,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-22-sub-1">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 本演讲将介绍如何利用CSS对shiny页面进行个性化设计及在网页中嵌入视频；并通过一个详细案例介绍了利用htmlwidgets包开发HTML控件，基于D3.JS库创建简单的交互桑基图，包括控件创建、函数修改、数据调用及与shiny结合的演示。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 乐逗游戏高级数据分析师，负责大数据挖掘及可视化。资深R语言用户，有九年以上数据挖掘工作实战经验，多次在中国R语言大会上作主题演讲。合著过《R语言与数据挖掘》、《数据实践之美》，新书《R语言游戏数据分析与挖掘》也即将上市。</p>
     </td>
   </tr>
 
@@ -2441,7 +2415,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-22-sub-2">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> RWeekly.org 搭建了一个一站式的信息平台，通过网站，邮件，新浪微博 @rweekly 等渠道，实时地向来自140多个国家的读者推送社区的最新动态。每周的资讯速递帮助 R 用户快速地掌握社区一周内的最新进展。 近年来，R 社区发展迅速，CRAN 现在已有 10000+ 的程序包。学会发现，学习和使用现有的基础资源，掌握社区的最佳实践，可以节省时间、减少重复的轮子。 这个讲座将会介绍 R Weekly 的一些有趣的发现以及背后的故事。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> R Weekly 创始人之一</p>
     </td>
   </tr>
 
@@ -2459,7 +2433,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-22-sub-3">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Automatic report generation has a massive number of use cases for reproducible research and commercial applications. Fortunately, most of the problems involved in this topic have been elegantly solved by knitr and the R Markdown specification for the R community. However, the issues on data persistence and operating system-level reproducibility were rarely considered in the context of reproducible report generation. Today, such issues have become a major concern in the current software implementations. In this talk, we will discuss potential approaches to tackle such problems, particularly with the help of modern containerization technologies. We will also demonstrate how to compose a persistent and reproducible R Markdown report with the help of the two R packages we developed: docker-r and liftr. Specifically, you will learn to dockerize your existing R Markdown documents, how to apply it to the analysis of petabyte-scale cancer genomics data on the Cancer Genomics Cloud, and how to distribute or reuse such containerized reports.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> Nan is a Genomic Data Scientist at Seven Bridges, where he and his colleagues build innovative data-driven products for petabyte-scale biomedical data analysis, accelerating breakthroughs in genomics research for cancer, drug development, and precision medicine. With the help of Docker, their scalable, cloud-based Seven Bridges Platform empowers rapid, collaborative analysis of millions of genomes in concert with other forms of biomedical data. As an active contributor to the R community, Nan is the author of 10+ R/Bioconductor packages covering topics of machine learning, reproducible research, and data visualization.</p>
     </td>
   </tr>
 
@@ -2477,7 +2451,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-22-sub-4">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In the realm of high performance computing with R, users might take a learning path from R, Rcpp to some R internals. However, each one of the three parts can be challenging without a proper understanding of the other two. This lecture attempts to share my experience and viewpoint with those who have similar interests in gaining better understanding of how R works behind the scene while advancing their C++ skills.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 量化工程师，主要方向为股票、期货策略。</p>
     </td>
   </tr>
 
@@ -2519,7 +2493,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-23-sub-1">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 互联网时代的到来，能够将普通人的日常行为以空前的规模和精细程度进行记录，形成网络行为大数据，为个性心理研究提供了前所未有的机遇，也提出了新的理论与技术问题。我们对反映个性特征的社会媒体大数据开展研究，运用机器学习方法构建利用社会媒体数据预测用户个性心理特征的计算模型，并开始尝试将模型预测作为测量手段运用于个性心理学研究。这些初步工作，为网络技术支持下个性心理研究的纵深化、精细化发展做了铺垫，并开始显露出巨大的应用潜力。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 中国科学院心理研究所研究员，博士生导师，入选中国科学院“百人计划”。获得中国科学院计算技术研究所硕士学位和博士学位，于2005年获得加拿大University of Alberta博士学位。朱廷劭研究员的工作涉及机器学习、汉语转换以及网络行为心理研究等多个领域，并取得创新性成果。他开展的网络行为心理研究，从网络行为的分析实现对用户人格、心理健康以及社会态度的感知，并在此基础上实现群体心理的预警预报和有效干预。</p>
     </td>
   </tr>
 
@@ -2537,7 +2511,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-23-sub-2">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 传统心理统计的教学模式较为依赖于纸笔运算，所倾向使用的基础统计软件多为SPSS，教学过程中统计知识与软件的结合相对分离。要促进心理统计知识与技能的学习，统计计算软件的深度参与是必不可少的，但这种软件自身知识的学习同时可能加重学生的学习负担，从而导致其学习动机和可持续性不足。本演讲将基于作者在南开大学周恩来政府管理学院的多年本科及硕士的统计类课程教学实践，说明和演示如何在教学过程中贯穿“用统计软件为统计学习服务”的基本理念，如何利用R与Rstudio简化统计教学的流程，使学生更为便利地接受R语言这一统计计算工具，同时利用Rstudio进行作业布置与管理。统计工具的大众化需要各学科内从事具体教学科研的工作人员不断提供的尝试方式，最大化地体现新工具较之传统工具的优势，如此才能形成一种良性的教学文化，使得一种统计工具真正能够在学科领域扎根并流行。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 南开大学副教授。主要研究方向包括：文化与社会心理学，尤其是对医学现象的社会学、心理学、人类学交叉视角研究及本土化阐释；统计方法及统计社会学，尤其是基于R语言的数据分析与可视化实践。出版了《R语言统计学基础》、《AP微积分基础教程》、《AP统计学基础教程》等多篇专著，在心理学报、心理科学进展、心理科学，等心理学核心刊物上发表多篇文章。</p>
     </td>
   </tr>
 
@@ -2555,7 +2529,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-23-sub-3">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自2011年，由于一系列的重复失败事件，可重复性问题成为了心理学界一个持续的热点问题。统计方法严谨性（如过度依赖于p值）和开放性（大量的可疑研究操作）不足是导致心理学研究可重复率过低的重要原因。为了应对心理学中的可重复危机，研究者们倡导使用更加多样的统计方法以及公开透明的研究实践。由于R语言中分析方法的灵活性与开放性，R语言在加强心理学研究的可重复性上可以起到重要作用。首先，R语言能够加强心理学研究中统计的严谨性和统计方法的多样性。由于众多心理学相关的软件包（psych, MBESS, lavaan, BootES, BayesFactor, Metafor等），使用R语言，研究者可以进行多样的统计，避免过度依赖于p值。例如，使用BootES，研究者可以快速地对效应量的置信区间进行估计，使用BayesFactor，研究者可以使用贝叶斯因子来进行统计。其次，R语言能够加强心理学研究中数据分析的公开与透明的程度。与心理学中最常用的SPSS软件相比，R语言代码而非鼠标点击进行数据的预处理以及分析，能够精确地记录数据分析的过程。这对于将数据分析过程透明化具有重大意义。最近，合理使用Rmarkdown的强大功能，能够将数据处理与结果报告结合起来，能够让研究者完全地数据分析与论文撰写无缝结合，例如papaja工具包的出现，可以让研究者直接使用Rmarkdown完成APA格式的文稿写作。正是由于R语言的这些优势，在最近的重复研究中，R语言被广泛地使用。例如，2015，发表在Science上的大规模重复实验中，其数据分析用R完成。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 清华大学博士五年级，研究兴趣为社会认知神经科学。近年来，由于心理学中的可重复危机，开始关注如何加强心理学研究的可重复性问题。在《心理科学进展》上发表《心理学研究的可重复性问题：从危机到契机》，专门分析心理学研究中的可重复性问题。2016年10月第19届全国心理学大会期间，举办《加强心理学研究的可重复性》工作坊。</p>
     </td>
   </tr>
 
@@ -2573,7 +2547,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-23-sub-4">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自2015年RPP项目的结果公布，表明其中的100项心理学研究中只有39项得到重复以来，心理学可重复性的危机已昭然若揭。不可重复背后主要涉及到各种不规范的研究操作，研究中使用的统计方法和出版偏见。为应对这种危机，新提出的TOP标准强调研究要提前注册，完整公开，开放数据与材料。运用R语言各种包和函数的强大功能，能有效增强心理学研究的规范化，促进研究的公开、透明和开放，从而提升研究的可重复性。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 天津师范大学应用心理专业硕士。PsychoR团队成员，研究方向为科研规范化与可重复研究的实现。</p>
     </td>
   </tr>
 
@@ -2621,34 +2595,16 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>王菲菲</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>A Topic Model for Co-occurring Normal Documents and Short Texts</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-24-sub-1">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-24-sub-1">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> User comments, as a large group of online short texts, are becoming increasingly prevalent with the development of online communications. These short texts are characterized by their co-occurrences with usually lengthier normal documents.  For example, there could be multiple user comments following one news article, or multiple reader reviews following one blog post. The co-occurring structure inherent in such text corpora is important for efficient learning of topics, but is rarely captured by conventional topic models.  To capture such structure, we propose a topic model for co-occurring documents, referred to as COTM. In COTM, we assume there are two sets of topics: formal topics and informal topics, where formal topics can appear in both normal documents and short texts whereas informal topics can only appear in short texts.  Each  normal document has a probability distribution over a set of formal topics; each short text is composed of two topics, one from the set of formal topics, whose selection is governed by the topic probabilities of the corresponding normal document, and the other from a set of informal topics. We also develop an online algorithm for COTM to deal with large scale corpus. Extensive experiments on real-world datasets demonstrate that COTM and its online algorithm outperform state-of-art methods by discovering more prominent, coherent and comprehensive topics.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 王菲菲，北京大学光华管理学院商务统计与经济计量系博士研究生，2012年毕业于中国人民大学统计学院，获经济学学士学位。感兴趣的研究领域有：文本挖掘，贝叶斯分析等。目前的研究课题集中在文本挖掘领域，尤其是主题模型在营销和社交网络方面的应用，近期也开始涉猎空间统计学在疾病分布方面的研究以及人口学领域的研究工作等。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
     <p>王厚峰</p>
     </td>
     <td class="col-md-8">
     <p class="text-center"><strong>新AI时代的智能问答</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-24-sub-2">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-24-sub-1">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-24-sub-2">
+  <tr class="collapse" id="session-24-sub-1">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 摘要：问答系统是人工智能和自然语言处理中广受关注的问题，是自动客服、人机会话、自动阅读理解、高级检索等应用中最核心的内容。随着新一轮人工智能热的兴起，自动问答更是受到了前所未有的重视，这不仅表现在学术界，而且也体现在工业界。然而，问答系统仍然存在大量尚待解决问题，包括问题的理解和答案的形成。报告简要介绍了新一轮人工智能的兴起过程及问答系统的发展状况，分析了问答系统中主要的难点以及我们在开展的相关研究工作。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 王厚峰，北京大学计算语言学研究所所长。研究兴趣为自然语言处理，近年来，主要集中于问答系统和情感分析的研究。曾作为首席专家负责过863项目，作为首席专家负责过国家社科基金重大项目。发表学术论文70余篇。</p>
@@ -2663,10 +2619,10 @@ $('#toggle-all').on('click', function (e) {
     <p class="text-center"><strong>自然语言处理中的统计结构学习</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-24-sub-3">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-24-sub-2">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-24-sub-3">
+  <tr class="collapse" id="session-24-sub-2">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 统计机器学习技术是自然语言处理的基石之一，和一般的应用场景相比，自然语言的一大特点是其句法语义的结构性，相应地结构化学习在自然语言处理中尤为重要。本报告主要讨论自然语言处理中的统计结构学习问题，从语言本体研究的角度介绍句法语义结构表征方式，从应用角度介绍这些结构和结构化学习之间的联系，并以图结构学习为重点介绍自然语言领域近几年的重点研究工作。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 孙薇薇，女，1983年2月出生，博士，副教授，北京大学计算机科学技术研究所语言计算与互联网挖掘研究组成员。研究方向为：计算语言学/自然语言处理，研究子领域为深层自然语言理解、句法分析、组合语义分析等。2002年考入北京大学中国语言文学系，2006年7月获得“应用语言学”专业文学学士学位。自2003年9月起选修北京大学信息科学技术学院开设的“软件工程”双学位，于2006年7月获得理学第二学士学位。2006年9月考入北京大学信息科学技术学院，于计算语言学研究所攻读硕士学位，导师为穗志方教授。2009年7月毕业，获“计算机软件与理论”方向理学硕士学位。2009年10月进入德国萨尔州大学（Saarland University）计算语言学系攻读博士学位，师从Hans Uszkoreit教授，同时在德国人工智能研究中心（German Research Center for Artificial Intelligence）语言技术实验室（Language Technology Lab）担任科研助理。2012年4月通过博士论文（题目为LearningChinese?Language?Structures?with?Multiple?Views）答辩，获得萨尔州大学“数学与计算机科学”方向的工学博士学位。2012年5月进入北京大学计算机科学技术研究所工作，2015年8月起任副教授。2016年11至12月于香港城市大学翻译及语言学系任访问学者。</p>
@@ -2681,13 +2637,31 @@ $('#toggle-all').on('click', function (e) {
     <p class="text-center"><strong>商业银行“半监督”文本聚类技术应用</strong></p>
     </td>
     <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-24-sub-3">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-24-sub-3">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 在商业银行日常经营管理过程中，经常会产生大量非结构性文本数据。如何对这些文本数据进行分析挖掘，从中提炼出有价值的信息并加以有效应用，已经成为大数据时代商业银行需要解决的一项重要课题。通过构建“半监督”文本聚类技术，对文本主题、类别、关键词和样本之间的关系进行学习，从而实现对非结构性信息的结构化转换和提炼，相关应用对商业银行经营管理提升起到积极推动作用。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 王彦博，中国民生银行公司业务管理部数字化中心负责人。从事大数据挖掘科研及应用工作十余年，具有丰富的智能化信息分析经验，推行“智慧银行”大数据金融战略。入职民生银行以前，曾任职英国国家文本挖掘研究中心副研究员；兼任美国IGI Global出版社《知识社区与社会网络进展》系列丛书副主编，ACM《智能系统与技术》、英国剑桥大学《知识工程回顾》、印度DIVA《数据挖掘与新兴技术》、德国IBAI“业界数据挖掘”、IEEE“计算机应用与系统建模”等国际期刊、学术会议论文审稿专家。英国利物浦大学计算机科学博士、曼彻斯特大学计算机科学博士后；发表著作1部，著作章节3篇，学术论文50余篇，参与编写金融专业书刊2部，获得国家专利1项、国家级奖励1项、省部级奖励5项。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>王菲菲</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>Bayesian Text Classification and Summarization via A Class-Specified Topic Model</strong></p>
+    </td>
+    <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-24-sub-4">详情</button>
     </td>
   </tr>
   <tr class="collapse" id="session-24-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 在商业银行日常经营管理过程中，经常会产生大量非结构性文本数据。如何对这些文本数据进行分析挖掘，从中提炼出有价值的信息并加以有效应用，已经成为大数据时代商业银行需要解决的一项重要课题。通过构建“半监督”文本聚类技术，对文本主题、类别、关键词和样本之间的关系进行学习，从而实现对非结构性信息的结构化转换和提炼，相关应用对商业银行经营管理提升起到积极推动作用。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 王彦博，中国民生银行公司业务管理部数字化中心负责人。从事大数据挖掘科研及应用工作十余年，具有丰富的智能化信息分析经验，推行“智慧银行”大数据金融战略。入职民生银行以前，曾任职英国国家文本挖掘研究中心副研究员；兼任美国IGI Global出版社《知识社区与社会网络进展》系列丛书副主编，ACM《智能系统与技术》、英国剑桥大学《知识工程回顾》、印度DIVA《数据挖掘与新兴技术》、德国IBAI“业界数据挖掘”、IEEE“计算机应用与系统建模”等国际期刊、学术会议论文审稿专家。英国利物浦大学计算机科学博士、曼彻斯特大学计算机科学博士后；发表著作1部，著作章节3篇，学术论文50余篇，参与编写金融专业书刊2部，获得国家专利1项、国家级奖励1项、省部级奖励5项。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> We propose the Class Specified Topic Model (CSTM), an extension of the Latent Dirichlet Allocation (LDA) model, to address the problems of text classification and summarization of texts within classes. We assume that each document has a probability distribution over a set of class-specific topics and a set of common topics shared across classes. Each class-specific or shared topic has its own probability distribution over a dictionary of words or phrases. Bayesian inference of the CSTM in semi-supervised scenario is developed, with supervised scenario as a special case. We analyze the 20 Newsgroup dataset, a benchmark dataset for text classification, and demonstrate that the CSTM has better performance in text classification and summarization than a two-stage approach based on LDA and a L1 penalized logistic regression.</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 王菲菲，北京大学光华管理学院商务统计与经济计量系博士研究生，2012年毕业于中国人民大学统计学院，获经济学学士学位。感兴趣的研究领域有：文本挖掘，贝叶斯分析等。目前的研究课题集中在文本挖掘领域，尤其是主题模型在营销和社交网络方面的应用，近期也开始涉猎空间统计学在疾病分布方面的研究以及人口学领域的研究工作等。</p>
     </td>
   </tr>
 
