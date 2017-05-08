@@ -67,7 +67,7 @@ location: bj
 <div class="row">
   <div class="col-md-4 col-md-offset-2 aligncenter client">
     <a href="http://lantouzi.com/" title="懒投资" target="_blank">
-      <img src="{{ '/img/logo-lantouzi.png' | prepend: site.qiniubaseurl }}" alt="懒投资" class="img-responsive center-block" />
+      <img src="{{ '/img/logo_lantouzi.jpg' | prepend: site.qiniubaseurl }}" alt="懒投资" class="img-responsive center-block" />
     </a>
   </div>
 
