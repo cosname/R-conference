@@ -12,7 +12,6 @@ $('#toggle-all').on('click', function (e) {
 </script>
 
 
-
 <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 
 <table class="table table-striped">
@@ -462,7 +461,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-4-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> It is estimated that 15-20% of all human cancers are associated with viral infections. Viruses can</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> It is estimated that 15-20% of all human cancers are associated with viral infections. Viruses can influence various stages of the oncogenic process, however discovering the biological significance of their contribution can be challenging. The prevalence of a virus with a particular cancer can range</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
     </td>
   </tr>
@@ -480,7 +479,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-4-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> from 15-100%. An option in determining the abundance of viral presence in a tumour sample would be to perform RNA sequencing on the tumour. We have developed a pipeline utilizing the Rsubread</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
@@ -504,7 +503,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-5-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 车联网作为物联网的先行者、自动驾驶的必由之路，业已开始步入蓬勃发展期，海量的多源异构的数据随之而生 ，这其中尤以时空轨迹数据为盛。如何挖掘如此大规模的数据金矿，并洞察背后的价值，这一问题在如今的数据时代显得极为迫切。本次演讲主要分享车网互联在车联网领域数据的认知和经验，围绕以下三个业务核心进行介绍：事件识别，行为评价，用户画像。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Bioconductor package that enables us to deconvolve viral RNA from human, thereby allowing us to detect and quantify the presence of viruses. We demonstrate this pipeline using RNA sequencing data from human Head and Neck Squamous Cell Carcinomas (HNSC) acquired from The Cancer Genome Atlas.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 侯志伟，数据分析师，专注于车联网时空数据分析、挖掘及其可视化。曾多次获得数学建模国家一等奖，且均为交通方向。已获得专业领域内发明专利3项，发表中文核心期刊论文1篇。擅长领域：时空数据挖掘、用户画像系统、智能优化算法，Spark高性能计算等。</p>
     </td>
   </tr>
@@ -920,8 +919,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-8-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 在过去的工程实践中，数据是一种比较稀缺的资源，很多时候手握最好的硬件、软件、算法但苦于没有数据使得这些优质资源无用武之地。随着时间的推移，数据的稀缺性渐渐降低，数据甚至呈现出井喷的趋势，越来越多的数据随处可见，但数据质量参差不齐。尤其在数据挖掘、人工智能快速发展的时代，人人都能手握最好的工具、模型、算法，却难以准备出一份合格可用的数据供分析使用。如何高效的研发高质量的地理位置数据是我们重点开展的工作之一。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京极海纵横信息技术有限公司(GeoHey)数据总监，在地理数据治理、地理数据分析及可视化、地理信息商业咨询服务等专业领域积累八年经验，曾为沃尔玛中国、万科等企业提供大数据服务，专注于研究海量地理数据挖掘解决方案。</p>
     </td>
   </tr>
 
@@ -938,7 +937,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-8-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 如今，PM 2.5已经成为生活中经常谈论的高频词，同时，许多研究、报道也表明PM 2.5给呼吸系统、心肺功能带来不良影响，危害健康。为了了解这一雾霾指标的时空分布规律，本演讲从数据分析及统计建模的层面对PM 2.5数据进行研究。具体地，本演讲将讨论PM 2.5相关的动态及空间相关特征。从统计建模上，利用带有空间相关性的自回归模型对时空特征进行了建模。最后，本研究给出空间中未知地点的预测插值方法。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 个人介绍：北京极海纵横信息技术有限公司(GeoHey)数据总监，在地理数据治理、地理数据分析及可视化、地理信息商业咨询服务等专业领域积累八年经验，曾为沃尔玛中国、万科等企业提供大数据服务，专注于研究海量地理数据挖掘解决方案。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 光华管理学院商务统计系四年级博士生。研究上关注社交网络、高维数据、环境数据分析等；“狗熊会”公众号专栏作者。曾在Annals of Statistics 以及Statistics and Its Interface有所发表。</p>
     </td>
   </tr>
@@ -3351,4 +3350,6 @@ $('#toggle-all').on('click', function (e) {
   </tr>
 
 </table>
+
+
 
