@@ -282,10 +282,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>杨灿</p>
+    <p>杜朴风</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>Adaptive False Discovery Rate regression with application in integrative analysis of large-scale genomic data</strong></p>
+    <p class="text-center"><strong>生物序列分类中的特征快速生成与可视化</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-3-sub-1">详情</button>
@@ -293,26 +293,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-3-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> To address scientific questions, we often design experiments and collect data from experiments. Conventionally, we often focus on the data set at hand and improve analysis results by refining models. The rising of Big Data may change the way of doing research – What if combining our data at hand with other existing information that hides in the Big Data Mountain?<br>In this talk, we consider a large-scale testing problem in genomic data analysis. Recent international projects, such as the Encyclopedia of DNA Elements (ENCODE) project, the Roadmap project and the Genotype-Tissue Expression (GTEx) project, have generated vast amounts of genomic annotation data, e.g., epigenome and transcriptome. There is great demanding of effective statistical approaches to integrate genomic annotations with the results from genome-wide association studies (GWAS). To explore genetic architecture of human complex phenotypes, rather than only relying on GWAS, we introduce Adaptive False Discovery Rate (AdaFDR) regression to integrate genomic annotations with GWAS. For a given phenotype, not only AdaFDR increase the power of mapping its risk variants, but also adaptively incorporates relevant annotations for prioritization of genetic risk variants, allowing nonlinear effects among these annotations, such as interaction effects between genomic features. The developed algorithm is scalable to genome-wide analysis. Using AdaFDR, we performed integrative analysis of genome-wide association studies on human complex phenotypes and genome-wide annotation resources, e.g., Roadmap epigenome. The analysis results revealed interesting regulatory patterns of risk variants, offering new biological insights on genetic architectures of complex phenotypes.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> Dr. Yang Can’s research interests include statistical genomics, bioinformatics, and machine learning. He is particularly interested in developing computationally efficient and statistically rigorous methods to address the challenging problems in the areas of statistical genomics, machine learning and etc. He has made contributions in development of statistical theory, methodology and algorithm, as well as scientific discovery. His research papers have appeared in a number of high-impact journals, including American Journal of Human Genetics, Annals of Statistics, Bioinformatics, IEEE Transactions on Pattern Analysis and Machine Intelligence, PLoS Genetics, and Proceedings of the National Academy of Sciences.</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>郭小波</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>Extending the adjusting-heritable-trait GWAS to bivariate analyse can help identify novel loci</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-3-sub-2">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-3-sub-2">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In recent years, a number of literatures published large-scale genome-wide association studies (GWASs) for human diseases or traits adjusted for other heritable traits (adjusting-heritable-trait GWASs).? However, it is known that this strategy might lead to bias genetic estimates or even false positive, leading to interpretable problem in application.? In this study, we provide a method terms ‘ETB’ that extends the?adjusting-heritable-trait GWASs to bivariate analyses by integrating the?summary data from the?adjusting-heritable-trait GWASs?and the GWASs for the adjusted heritable trait. We employ ETB to the bivariate analyses for the summary data of anthropometric traits in large scale meta-GWASs, and identify 4 novel loci to the literatures. We also show that the bivariate analyses in real data might help reveal novel loci compared with the univariate analyses. Theoretical results and simulation confirm the valid and efficiency of the proposed method.?</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 郭小波，副教授，硕士生导师，2012年毕业于中山大学统计科学系，获理学博士，2013年5月受聘于中山大学讲师职位，2017年1月受聘中山大学副教授职位，2016年4月获聘澳大利亚墨尔本大学荣誉研究员（Honorary Fellow）。曾于2011-2012年在美国耶鲁大学留学，2013.8，2015.4分别在新加坡基因研究所、新加坡眼科研究所访问。主要从事组学数据、 双生子数据、复杂医学数据、生物数据的整合与分析。目前已在统计专业著名杂志Biometrics, Genetics Epidemiology, Statistics ?in Medicine，综合性著名杂志Nature Communications, British Journal of Cancer, Scientifc Reports, Oncotarget, ?Plos One等发表了学术论文近二十篇，参与出版了《中华医学统计百科全书-遗传统计分册》，2011年获广东省统计科研优秀成果一等奖（排名第二）。主持一项国家自然科学基金青年基金、一项中山大学青年教师培育项目、共同主持一项国际多中心合作项目。参与两项在研的国家自然科学基金重点项目、一项国家自然科学基金重大研究项目。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 在生物序列分类过程中，我们需要快速的生成特征，也需要通过可视化来帮助进行分类算法的设计和选择。在这个报告里，我们将讨论一些常用的特征生成技术，以及利用R所进行的特征可视化。，</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 天津大学教师，从事生物信息学研究，主营生物序列分类业务</p>
     </td>
   </tr>
 
@@ -324,10 +306,10 @@ $('#toggle-all').on('click', function (e) {
     <p class="text-center"><strong>Hepatocellular carcinoma study based on HBV next generation sequencing</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-3-sub-3">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-3-sub-2">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-3-sub-3">
+  <tr class="collapse" id="session-3-sub-2">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Hepatocellular carcinoma (HCC) is one of the most common type of cancer in our country. There have been many studies on it. In this talk, we will introduce our recent work on HCC classification based on HBV next generation sequencing data. The clinical phenotype data are also analyzed, and their relations with HBV are studied.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 博士毕业于香港大学数学系，目前为复旦大学数学学院副教授。主要研究方向为计算数学、统计学、最优化方法在生物及医学数据中的建模、计算及相关分析，尤其网络数据的建模及分析。</p>
@@ -342,10 +324,10 @@ $('#toggle-all').on('click', function (e) {
     <p class="text-center"><strong>Prediction analysis for microbiome sequencing data</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-3-sub-4">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-3-sub-3">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-3-sub-4">
+  <tr class="collapse" id="session-3-sub-3">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> One primary goal of human microbiome studies is to predict host traits based on human microbiota. However, microbial community sequencing data present significant challenges to the development of statistical methods. In particular, the samples have different library sizes, the data contain many zeros and are often over-dispersed. To address these challenges, we introduce a new statistical framework, called predictive analysis in metagenomics via inverse regression (PAMIR). We demonstrate the advantages of PAMIR through numerical studies.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 王涛：2007年东南大学数学系学士，2010年华东师范大学金融与统计学院硕士，2013年获香港浸会大学数学系统计学专业哲学博士学位。2014年赴美国耶鲁大学公共卫生学院生物统计系从事博士后研究工作，2016年1月回国任上海交通大学特别研究员。<br>主要致力于研究高维复杂数据的统计降维技术和变量选择技术，以及研究人类微生物组数据等生物医学数据的统计分析方法。近年来分别在Journal of the American Statistical Association、Journal of the Royal Statistical Society: Series B、Biometrika、Biometrics、Bernoulli、Statistica Sinica、BMC Systems Biology等知名学术期刊上发表SCI论文二十余篇。</p>
@@ -360,10 +342,10 @@ $('#toggle-all').on('click', function (e) {
     <p class="text-center"><strong>条件随机场及其在生物信息学中的应用</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-3-sub-5">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-3-sub-4">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-3-sub-5">
+  <tr class="collapse" id="session-3-sub-4">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 海量分子生物学数据和复杂数据结构对现有的生物信息学模型和算法提出了巨大的挑战。条件随机场是一类重要的概率图模型，是隐马尔可夫模型的推广，具有更广的适用范围和更好的效果，在语言识别和图像处理等领域已经有非常广泛的应用。本报告将介绍条件随机场的模型、算法和我们开发的R软件包CRF，以及条件随机场在生物信息学领域的应用。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 吴凌云, 中国科学院数学与系统科学研究院研究员, 博士生导师, 应用数学所运筹学研究室主任, 生物信息学研究中心主任. 中国运筹学会常务理事, 科普工作委员会副主任, 计算系统生物学分会副理事长. 2002年于中国科学院获运筹学与控制论专业理学博士学位. 曾在香港科技大学和美国康奈尔大学Weill医学院从事博士后研究工作. 目前的研究兴趣是运筹学与生物信息学, 特别是运筹学方法在生物信息学与系统生物学中的应用. 主要工作包括: 测序算法, 单体型推断, 蛋白质结构预测与比对, 蛋白相互作用预测, 蛋白质修饰位点预测, 分子生物网络分析比较, 复杂疾病生物标记物建模等. 主持过青年基金, 面上基金, 重大研究计划培育项目等多项国家自然科学基金. 2014年获中国运筹学会青年科技奖.</p>
@@ -372,10 +354,28 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>杜朴风</p>
+    <p>Can Yang</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>生物序列分类中的特征快速生成与可视化</strong></p>
+    <p class="text-center"><strong>Adaptive False Discovery Rate regression with application in integrative analysis of large-scale genomic data</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-3-sub-5">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-3-sub-5">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> To address scientific questions, we often design experiments and collect data from experiments. Conventionally, we often focus on the data set at hand and improve analysis results by refining models. The rising of Big Data may change the way of doing research – What if combining our data at hand with other existing information that hides in the Big Data Mountain?</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> Can Yang, Department of Mathematics, Hong Kong Baptist University</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>郭小波</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>Extending the adjusting-heritable-trait GWAS to bivariate analyse can help identify novel loci</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-3-sub-6">详情</button>
@@ -383,8 +383,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-3-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 在生物序列分类过程中，我们需要快速的生成特征，也需要通过可视化来帮助进行分类算法的设计和选择。在这个报告里，我们将讨论一些常用的特征生成技术，以及利用R所进行的特征可视化。，</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 天津大学教师，从事生物信息学研究，主营生物序列分类业务</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In this talk, we consider a large-scale testing problem in genomic data analysis. Recent international projects, such as the Encyclopedia of DNA Elements (ENCODE) project, the Roadmap project and the Genotype-Tissue Expression (GTEx) project, have generated vast amounts of genomic annotation data, e.g., epigenome and transcriptome. There is great demanding of effective statistical approaches to integrate genomic annotations with the results from genome-wide association studies (GWAS). To explore genetic architecture of human complex phenotypes, rather than only relying on GWAS, we introduce Adaptive False Discovery Rate (AdaFDR) regression to integrate genomic annotations with GWAS. For a given phenotype, not only AdaFDR increase the power of mapping its risk variants, but also adaptively incorporates relevant annotations for prioritization of genetic risk variants, allowing nonlinear effects among these annotations, such as interaction effects between genomic features. The developed algorithm is scalable to genome-wide analysis. Using AdaFDR, we performed integrative analysis of genome-wide association studies on human complex phenotypes and genome-wide annotation resources, e.g., Roadmap epigenome. The analysis results revealed interesting regulatory patterns of risk variants, offering new biological insights on genetic architectures of complex phenotypes.</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 郭小波，副教授，硕士生导师，2012年毕业于中山大学统计科学系，获理学博士，2013年5月受聘于中山大学讲师职位，2017年1月受聘中山大学副教授职位，2016年4月获聘澳大利亚墨尔本大学荣誉研究员（Honorary Fellow）。曾于2011-2012年在美国耶鲁大学留学，2013.8，2015.4分别在新加坡基因研究所、新加坡眼科研究所访问。主要从事组学数据、 双生子数据、复杂医学数据、生物数据的整合与分析。目前已在统计专业著名杂志Biometrics, Genetics Epidemiology, Statistics ?in Medicine，综合性著名杂志Nature Communications, British Journal of Cancer, Scientifc Reports, Oncotarget, ?Plos One等发表了学术论文近二十篇，参与出版了《中华医学统计百科全书-遗传统计分册》，2011年获广东省统计科研优秀成果一等奖（排名第二）。主持一项国家自然科学基金青年基金、一项中山大学青年教师培育项目、共同主持一项国际多中心合作项目。参与两项在研的国家自然科学基金重点项目、一项国家自然科学基金重大研究项目。</p>
     </td>
   </tr>
 
@@ -1847,7 +1847,7 @@ $('#toggle-all').on('click', function (e) {
     <p>赵鹏</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>微启的旋转门：大数据教育界与工业界的生态进化</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-17-sub-2">详情</button>
@@ -1855,8 +1855,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-17-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 赵鹏先生自2013年开始独立创业起，赵鹏先生已成功创立中国最大职场点评网站“看准网”，通过雇员点评雇主，为雇主建立“信用体系”。此后，赵鹏带领创业团队成功开发招聘应用“BOSS直聘”。该产品开创直聊找工作模式，已成为互联网行业创新标兵，得到招聘行业的广泛的认可。类似微信聊天的在线直接沟通的方式，联通企业和求职者，为双方搭建起高效沟通、信息对等的公共平台，实现双方精准定位职位和最优人选，缩减招聘流程和时间。截至2016年9月底，BOSS直聘累计注册求职牛人已突破1186万，注册职场BOSS高达198万以上，包括百度、阿里巴巴、腾讯、美团等众多国内互联网大厂。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 大数据时代中，技术变革和人才稀缺成为两个核心话题。作为服务了数十万公司的移动互联网招聘平台，BOSS直聘积累了海量人才大数据，清楚地看到当下企业应用大数据技术，与人才断层下的几个困境。构建自我进化的生态系统，或许能够成为解决问题的一个方法。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
     </td>
   </tr>
 
@@ -1865,7 +1865,7 @@ $('#toggle-all').on('click', function (e) {
     <p>李扬</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>数字金融-实验室项目模拟系统 ——银行数据仓储，数据测试，数据安全三位一体的就业驱动项目训练系统平台</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-17-sub-3">详情</button>
@@ -1873,7 +1873,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-17-sub-3">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 教育部《关于“十三五”期间全面深入推荐教育信息化工作的指导意见》提出“信息化已成为国家战略，教育信息化正迎来重大历史发展机遇”。文思海辉以就业为驱动的金融训练系统平台，整合了集团数字金融解决方案的银行数据仓储工坊系统、数据测试ATQ管理系统与数据安全攻防产品系统，形成三位一体的实验室项目训练系统，并为校企合作专业共建和教学实验室建设提供了应用层、测试层、信息安全层，提供了一个完整的培养体系解决方案。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 目前就职于全球IT服务提供商Pactera文思海辉，担任技术总监。12年研发经验，曾负责金融&电力系统ERP的架构设计和研发工作。8年IT教育培训与校企合作经验，主持设计集团人才培养顶层架构，聚焦于机器学习技术研究与实训平台的研发工作。</p>
     </td>
   </tr>
@@ -2735,10 +2735,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>谷鸿秋</p>
+    <p>黄伟</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>SAS统计图表：一键式的图表生成术</strong></p>
+    <p class="text-center"><strong>NA</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-25-sub-4">详情</button>
@@ -2746,11 +2746,25 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-25-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 一直以来，统计表格的常规制作模式是： 1. 运行统计软件（菜单/代码）2. 设计统计表格 （Word/Excel）3. 复制粘贴填充结果 (Ctl+C/V)。这种操作模式不仅低效，而且容易出错，也不利用重复性研究。在总结了大量医学研究学术期刊后，笔者提炼出了学术期刊中最基本的9种统计表格，借助SAS的宏程序和ODS 系统，开发了一套可以一键式制作统计表格的工具。。
-<br>
-<br>SAS作为一款优秀的统计分析软件，其统计绘图功能却一直被大众所诟病，绘图语法也为大众所畏惧。在大众的印象中，SAS的统计绘图功能太难学，画出的图形太丑，太死板。其实SAS 公司一直在改进SAS的绘图功能，自SAS 9.2 引入ODS Graphics System后，SAS绘图的语法变得更加简洁，实现也更加方便，终极绘图武器绘图模板语言（Graph Template Language，GTL）更是让SAS 的绘图功力大大增加。ODS Graph设计器使得不会编程，不懂GTL语言的人也能迅速画出ODS Graph。
-<br>
-<br>分享本次分享将围绕 SAS统计表格输出系统的开发过程、原理、构成以及使用，以及SAS的绘图系统，ODS绘图系统的构成，各种统计图形的绘制举例，统计图形的美化等内容展开，并对SAS sgplot与 R ggplot2的做简要对比。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 随着互联网技术的发展，网络几乎渗入到了人们工作和生活的各个方面，在给人们生活带来方便的同时，网络攻击和网络犯罪也随之产生。近年来，网络攻击的数量越来越多，规模越来越大，攻击复杂度也越来越高，传统的网络安全保障机制也越来越不足以应对。网络安全可视化应运而生，并成为网络安全研究领域的一个热点。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 黄伟，现就职于360企业安全，从事前端开发与可视化研发工作，发表多篇可视化相关论文和专利，近期研究领域为多维数据可视化与可视分析，时空数据可视化，可视化数据挖掘和BI。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>谷鸿秋</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>SAS统计图表：一键式的图表生成术</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-25-sub-5">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-25-sub-5">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 随着互联网技术的发展，网络几乎渗入到了人们工作和生活的各个方面，在给人们生活带来方便的同时，网络攻击和网络犯罪也随之产生。近年来，网络攻击的数量越来越多，规模越来越大，攻击复杂度也越来越高，传统的网络安全保障机制也越来越不足以应对。网络安全可视化应运而生，并成为网络安全研究领域的一个热点。<br>本次分享将围绕360企业安全天眼团队利用GIS和WebGL技术在网络安全可视化领域的实践经验，具体包括：<br>1）APT先知计划：以“上帝视角”将攻击信息及POI信息在地图上显示出来，让客户感知安全态势，帮助企业和组织及时作出应对策略；<br>2）伪基站追踪系统：结合可视化和数据挖掘揭示伪基站在城市中出现的模式及发送短信的规律，并能够实时显示伪基站的位置，有效帮助执法机关打击不法分子；<br>3）全国僵木蠕毒态势感知：结合GeoHash技术和Openlayers以热力、蜂窝聚合显示全国僵木蠕毒数据；<br>4）春运铁路网热度：利用WebGL可视化春运时期全国铁路线路及各线路热度；<br>5）大图可视化引擎：针对海量数据可视化中布局及绘制的难点，开发大规模网络关系布局算法库在服务端进行布局，前端利用WebGL技术显示数百万点边图。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 著名医学院非著名毕业生； 土鳖博士，野生码农，科研搬砖工；微信公众号「统技思维」出品人；人大经济论坛/SAS中文论坛卸任版主；目前主要从事流行病学、公共卫生、临床试验、实效研究等临床研究领域的统计学设计和统计分析方法研究。</p>
     </td>
   </tr>
@@ -2763,10 +2777,10 @@ $('#toggle-all').on('click', function (e) {
     <p class="text-center"><strong>专题讨论</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-25-sub-5">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-25-sub-6">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-25-sub-5">
+  <tr class="collapse" id="session-25-sub-6">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
@@ -2792,7 +2806,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-26-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 本报告和大家分享如何使用深度学习技术教会计算机打麻将，并且提高电脑AI的水平。使用到的技术包括卷积神经网络，增强学习，以及一些实现技巧。本文使用的技术很大程度上收到AlphaGo的启发，不同之处在于，1）对麻将随机性的处理上，2）使用最近一年来更为强大的增强学习算法，3）更高效地利用稀有的训练数据。除了纯粹技术细节，我们还会分享从无到有地用深度学习解决问题的关键步骤，以及一些良好习惯，希望对大家有所帮助和启发。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 2）伪基站追踪系统：结合可视化和数据挖掘揭示伪基站在城市中出现的模式及发送短信的规律，并能够实时显示伪基站的位置，有效帮助执法机关打击不法分子；</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京大学光华管理学院统计系博士生。研究兴趣是时空统计以及深度学习。</p>
     </td>
   </tr>
@@ -2810,7 +2824,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-26-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 局限于模型和计算能力，词级语言模型和机器翻译是一直以来的标准。但随着网络结构的发展和计算能力的提高，词级模型的缺点似乎可以通过字符级模型来解决。本次演讲主要探讨词级和字符级模型各自优缺点，并讨论目前字符级模型的发展情况，如语言模型和机器翻译中的进展。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 3）全国僵木蠕毒态势感知：结合GeoHash技术和Openlayers以热力、蜂窝聚合显示全国僵木蠕毒数据；</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 我来自上海交通大学计算机系，目前正在从事机器翻译相关应用和研究。</p>
     </td>
   </tr>
@@ -2828,7 +2842,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-26-sub-3">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 近年来，随着技术的发展，基于深度学习的语音识别已经成为业界主流的方法。本次演讲将首先带着大家梳理基于深度学习的语音识别声学模型发展历程，之后将分享阿里巴巴在语音识别声学建模上所做的技术突破，并展示我们在语音识别应用上的一些案例。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 4）春运铁路网热度：利用WebGL可视化春运时期全国铁路线路及各线路热度；</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 薛少飞，阿里巴巴 iDST 语音识别专家，中国科学技术大学博士。现负责阿里声学模型研究与应用：包括语音识别声学建模和深度学习在业务场景中的应用。博士期间的研究方向为语音识别说话人自适应，提出基于 Speaker Code 的模型域自适应方法，在语音相关的会议和期刊上发表论文十余篇。</p>
     </td>
   </tr>
@@ -2846,7 +2860,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-26-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 随着GAN生成式模型的发展，神经网络从信息理解到信息创造进展非常快，本文将最新的研究方法，整合在一个车型设计的应用场景下，已经实现将手绘的线条自动填充绘制成彩色车型效果图，如果是现有车型的话，还可以进行车型识别</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 5）大图可视化引擎：针对海量数据可视化中布局及绘制的难点，开发大规模网络关系布局算法库在服务端进行布局，前端利用WebGL技术显示数百万点边图。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 10年的COS水友，车轮互联数据副总裁</p>
     </td>
   </tr>
