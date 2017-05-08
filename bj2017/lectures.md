@@ -161,8 +161,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-2-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 致辞</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 致辞</p>
     </td>
   </tr>
 
@@ -479,7 +479,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-4-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
@@ -619,8 +619,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-6-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> data from human Head and Neck Squamous Cell Carcinomas (HNSC) acquired from The Cancer</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京航空航天大学经管学院助理教授，研究方法为社交网络数据分析，高维数据分析，付费搜索广告营销</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> We propose a new class of spatio-temporal models with unknown and banded autoregressive coe cient matrices. The setting represents a sparse structure for high dimensional spatial panel dynamic models when panel members represent economic (or other type) individuals at many di erent locations. The structure is practically meaningful when the order of panel members is arranged appropriately. Note that the implied autocovariance metrices are unlikely to be banded, and therefore, the proposal is radically di erent from the existing literature on the inference for high-dimensional banded covari- ance matrices. Due to the innate endogeneity, we apply the least squares method based on a Yule-Walker equation to estimating autoregressive matrices. A ratio-based method for determining the bandwidth of autoregressive matrices is also proposed. Some asymptotic properties of the inference methods are established. The proposed methodology is further illustrated using both simulated and real data sets.<br>请提交您的幻灯片（10M以上请邮件或者网盘提交） 下载</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京航空航天大学经管学院助理教授，研究方法为社交网络数据分析，高维数据分析，付费搜索广告营销。</p>
     </td>
   </tr>
 
@@ -637,7 +637,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-6-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Genome Atlas.</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Motivated by the double autoregressive (DAR) model, in this talk, we study a vector double autoregressive model (VDAR). The model is a straightforward extension from univariate case to multivariate case. Sufficient ergodicity conditions are given for the model. Without existence of second moment conditions for observed time series, the quasi maximum likelihood estimator (QMLE) of the parameter in the model is shown to be asymptotically normal, which does not hold for classic vector autoregressive (VAR) model with i.i.d errors. Simulation results confirm that our estimators perform well. A given empirical study implies the proposed model has potential applications in practice. Keywords: Vector double autoregressive model, quasi maximum likelihood estimation</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 广州大学经济与统计学院统计系副教授， 副系主任<br>研究兴趣： 时间序列分析</p>
     </td>
   </tr>
@@ -674,7 +674,7 @@ $('#toggle-all').on('click', function (e) {
   <tr class="collapse" id="session-6-sub-4">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Asymptotically correct simultaneous confidence bands (SCBs) are proposed for the mean and variance functions of nonparametric regression model based on deterministic designs. The variance estimation is as efficient up to order $n^{-1/2}$ as an infeasible estimator if the mean function were known. Simulation experiments provide strong evidence that corroborates the asymptotic theory. The proposed SCBs are used to analyze two sets of strata pressure from the Bullianta Coal Mine in Erdos City, Inner Mongolia, China.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 本人是苏州大学数学与科学学院在读博士二年级学生。。。。。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 苏州大学数学与科学学院在读博士二年级学生。</p>
     </td>
   </tr>
 
