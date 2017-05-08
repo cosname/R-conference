@@ -11,7 +11,6 @@ $('#toggle-all').on('click', function (e) {
 })
 </script>
 
-
 <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 
 <table class="table table-striped">
@@ -461,7 +460,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-4-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> It is estimated that 15-20% of all human cancers are associated with viral infections. Viruses can influence various stages of the oncogenic process, however discovering the biological significance of their contribution can be challenging. The prevalence of a virus with a particular cancer can range</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> It is estimated that 15-20% of all human cancers are associated with viral infections. Viruses can influence various stages of the oncogenic process, however discovering the biological significance of their contribution can be challenging. The prevalence of a virus with a particular cancer can range from 15-100%. An option in determining the abundance of viral presence in a tumour sample would be to perform RNA sequencing on the tumour. We have developed a pipeline utilizing the Rsubread Bioconductor package that enables us to deconvolve viral RNA from human, thereby allowing us to detect and quantify the presence of viruses. We demonstrate this pipeline using RNA sequencing data from human Head and Neck Squamous Cell Carcinomas (HNSC) acquired from The Cancer Genome Atlas.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
     </td>
   </tr>
@@ -479,7 +478,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-4-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> from 15-100%. An option in determining the abundance of viral presence in a tumour sample would be to perform RNA sequencing on the tumour. We have developed a pipeline utilizing the Rsubread</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> NA</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
     </td>
   </tr>
@@ -503,7 +502,7 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-5-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Bioconductor package that enables us to deconvolve viral RNA from human, thereby allowing us to detect and quantify the presence of viruses. We demonstrate this pipeline using RNA sequencing data from human Head and Neck Squamous Cell Carcinomas (HNSC) acquired from The Cancer Genome Atlas.</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 车联网作为物联网的先行者、自动驾驶的必由之路，业已开始步入蓬勃发展期，海量的多源异构的数据随之而生 ，这其中尤以时空轨迹数据为盛。如何挖掘如此大规模的数据金矿，并洞察背后的价值，这一问题在如今的数据时代显得极为迫切。本次演讲主要分享车网互联在车联网领域数据的认知和经验，围绕以下三个业务核心进行介绍：事件识别，行为评价，用户画像</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 侯志伟，数据分析师，专注于车联网时空数据分析、挖掘及其可视化。曾多次获得数学建模国家一等奖，且均为交通方向。已获得专业领域内发明专利3项，发表中文核心期刊论文1篇。擅长领域：时空数据挖掘、用户画像系统、智能优化算法，Spark高性能计算等。</p>
     </td>
   </tr>
