@@ -986,34 +986,16 @@ location: bj
 
   <tr>
     <td class="col-md-2">
-    <p>江瑞</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>Identification of disease-causing single nucleotide variants in exome sequencing studies</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-9-sub-3">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-9-sub-3">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Exome sequencing has been widely used in detecting pathogenic nonsynonymous single nucleotide variants (SNVs) for human inherited diseases. However, traditional statistical genetics methods are ineffective in analyzing exome sequencing data, due to such facts as the large number of sequenced variants, the presence of non-negligible fraction of pathogenic rare variants or de novo mutations, and the limited size of affected and normal populations. Here, we propose bioinformatics approaches, SPRING, snvForest and GLINTS, for identifying pathogenic nonsynonymous SNVs for a given query disease. SPRING integrates six functional effect scores calculated by existing methods and five association scores derived from a variety of genomic data sources to calculate the statistical significance that an SNV is causative for a query disease. snvForest adopts an ensemble learning method to assign prediction scores to candidate SNVs. These methods are designed to use with a set of seed genes known as associated with the disease of interest, and thus is suitable for studies on diseases with some prior knowledge. GLINTS further incorporates three disease phenotype similarity data to facilitate the detection of causative SNVs without any knowledge of seed genes for a query disease. This method is therefore suitable for research on diseases whose genetic bases are completely unknown. With a series of comprehensive validation experiments, we demonstrate the effectiveness of these methods, not only in simulation studies, but also in detecting causative de novo mutations for autism, epileptic encephalopathies and intellectual disability.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 江瑞，副教授，博士生导师，2002年毕业于清华大学自动化系，获得工学博士学位。目前任清华大学数据科学研究院医疗健康大数据研究中心副主任。主要研究兴趣包括：1. 医学影像智能信息处理；2. 电子病历智能信息处理；3. 基因组学研究：非编码调控元件的识别及其目标基因的预测；4. 遗传学研究：全基因组遗传变异对特定疾病的影响预测；5. 多组学研究：候选基因对特定疾病的影响预测。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
     <p>吴健民</p>
     </td>
     <td class="col-md-8">
     <p class="text-center"><strong>消化道肿瘤基因组学研究进展</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-9-sub-4">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-9-sub-3">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-9-sub-4">
+  <tr class="collapse" id="session-9-sub-3">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 吴健民博士曾担任国际肿瘤基因组协作联盟(International Cancer Genome Consortium, ICGC)胰腺癌项目多组学数据分析负责人（2010-2015）。这里将介绍ICGC胰腺癌项目的最新研究进展，以及2016年回到北京大学肿瘤医院后在国内高发癌症之一的胃癌方面的多组学研究情况。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 吴健民，研究员、博士研究生导师，北京大学肿瘤医院肿瘤生物信息中心主任，兼信息部副主任。入选2016年第十二批北京市“海聚工程”计划。曾担任澳大利亚悉尼Gravan医学研究所PI，国际肿瘤基因组协作联盟(ICGC)胰腺癌项目多组学数据分析负责人，在大队列的癌症基因组、蛋白组及相关生物信息学研究上有丰富经验。共发表SCI论文35篇，他引1953次，单篇最高引用775次。作为通讯作者先后在Nat Methods和Nat Rev Cancer (Analysis Article)等杂志发表研究成果；合作研究多次在Nature (4次)和Cell （2014)等杂志发表。目前致力于综合计算和实验手段，整合多组学和临床数据深入研究国内高发癌种的发病机制、精准分子分型和个体化治疗。</p>
@@ -1028,10 +1010,10 @@ location: bj
     <p class="text-center"><strong>Identifying tissue origin of cancer cells with somatic mutations and copy number alterations</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-9-sub-5">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-9-sub-4">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-9-sub-5">
+  <tr class="collapse" id="session-9-sub-4">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> A substantial proportion of cancer cases present with a metastatic tumor and require further testing to determine the primary site; many of these are never fully diagnosed and remain cancer of unknown primary origin (CUP). It has been previously demonstrated that epigenomic variations detected in whole-genome bisulfite sequencing data of plasma cell-free DNA (1-3) can be used to identify its site of origin with limited accuracy. Recently, tissue-specific mutation accumulation pattern were found (4-6). We hypothesized that tissue origin of cancer cells can be identified by genomic variations detected from whole genome/exome sequencing data of tumor cells even plasma cell-free DNA. We presented a kernel machine to identify tissue origin based on somatic single nucleotide variations, copy number alterations and mutational signature from whole genome/exome sequencing 5610 cases across 24 cancer types from TCGA. The model achieved 80% of accuracy (79% of the F1 score) and the 88% of top2 accuracy (88% of the top2 F1 score) with 100 replicates of 5-fold cross-validation.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 凌少平博士，现任志诺维思基因科技有限公司CEO兼首席科学家，自动化学士、信号与信息处理硕士、基因组学博士，师从著名华人进化遗传学家吴仲义院士。凌少平博士曾任中科院北京基因组研究所生物信息技术主管、计算肿瘤基因组研究组组长，在肿瘤异质性、肿瘤演化基因组和生物信息学方面具有较深的研究基础，曾在Nature Genetics、PNAS、Annual Review of Genetics, Molecular Biology & Evolution等权威杂志上发表多篇文章。他主导设计的算法已经应用于肝癌（HCC）、急性白血病（AML）、侵袭性NK细胞白血病（ANKL）、结直肠癌（CRC）、垂体瘤、宫颈癌等诸多肿瘤基因组研究工作中。凌少平博士2015年曾代表中科院参与“国际肿瘤基因组分析金标准”大赛（ICGC-TCGA Dream Somatic Mutation Challenge）并获夺得点突变分项冠军和结构变异分项亚军。2016年作为志诺维思首席科学家率公司团队再次参赛，并获夺得结构变异分项亚军和点突变分项季军。2016年领导志诺维思推出“抗癌登月”大数据平台和个人基因组云系统受到张高丽副总理的关注！</p>
@@ -1046,13 +1028,31 @@ location: bj
     <p class="text-center"><strong>癌症转录组大数据的可视化与再挖掘</strong></p>
     </td>
     <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-9-sub-5">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-9-sub-5">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 大型的国际项目如TCGA，GTEx创造出了大量的转录组数据，为人们提供了数据挖掘、理解基因功能的机会。而如何能快速获取到这些生物大数据，从其中能够得到什么有价值的信息，是人们一直在探索的命题。为了让没有生物信息学背景的研究人员也能够轻易获取、分析生物大数据，我们通过 R 、Perl等语言对数据进行处理、可视化，设计了癌症大数据可视化手机 APP GE-mini (gemini.cancer-pku.cn)以及癌症大数据分析网站GEPIA (gepia.cancer-pku.cn)。研究人员能够通过 GE-mini 和 GEPIA来提出问题或是验证假设。我将在报告中介绍它们。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 唐泽方。北京大学生命科学学院BIOPIC张泽民组博士三年级研究生。<br>2014年加入北京大学生命科学学院BIOPIC张泽民实验组攻读博士学位，研究TCGA 癌症组织大数据与 GTEx 正常组织大数据的整合与数据挖掘。以通讯作者和一作身份在Bioinformatics杂志上发表癌症大数据可视化手机 APP GE-mini (gemini.cancer-pku.cn)，以一作身份在Nucleic Acids Research杂志上发表癌症大数据分析网站GEPIA (gepia.cancer-pku.cn)。目前研究兴趣在于利用 TCGA 、GTEx大数据进行数据再挖掘。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>江瑞</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>Identification of disease-causing single nucleotide variants in exome sequencing studies</strong></p>
+    </td>
+    <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-9-sub-6">详情</button>
     </td>
   </tr>
   <tr class="collapse" id="session-9-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 大型的国际项目如TCGA，GTEx创造出了大量的转录组数据，为人们提供了数据挖掘、理解基因功能的机会。而如何能快速获取到这些生物大数据，从其中能够得到什么有价值的信息，是人们一直在探索的命题。为了让没有生物信息学背景的研究人员也能够轻易获取、分析生物大数据，我们通过 R 、Perl等语言对数据进行处理、可视化，设计了癌症大数据可视化手机 APP GE-mini (gemini.cancer-pku.cn)以及癌症大数据分析网站GEPIA (gepia.cancer-pku.cn)。研究人员能够通过 GE-mini 和 GEPIA来提出问题或是验证假设。我将在报告中介绍它们。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 唐泽方。北京大学生命科学学院BIOPIC张泽民组博士三年级研究生。<br>2014年加入北京大学生命科学学院BIOPIC张泽民实验组攻读博士学位，研究TCGA 癌症组织大数据与 GTEx 正常组织大数据的整合与数据挖掘。以通讯作者和一作身份在Bioinformatics杂志上发表癌症大数据可视化手机 APP GE-mini (gemini.cancer-pku.cn)，以一作身份在Nucleic Acids Research杂志上发表癌症大数据分析网站GEPIA (gepia.cancer-pku.cn)。目前研究兴趣在于利用 TCGA 、GTEx大数据进行数据再挖掘。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Exome sequencing has been widely used in detecting pathogenic nonsynonymous single nucleotide variants (SNVs) for human inherited diseases. However, traditional statistical genetics methods are ineffective in analyzing exome sequencing data, due to such facts as the large number of sequenced variants, the presence of non-negligible fraction of pathogenic rare variants or de novo mutations, and the limited size of affected and normal populations. Here, we propose bioinformatics approaches, SPRING, snvForest and GLINTS, for identifying pathogenic nonsynonymous SNVs for a given query disease. SPRING integrates six functional effect scores calculated by existing methods and five association scores derived from a variety of genomic data sources to calculate the statistical significance that an SNV is causative for a query disease. snvForest adopts an ensemble learning method to assign prediction scores to candidate SNVs. These methods are designed to use with a set of seed genes known as associated with the disease of interest, and thus is suitable for studies on diseases with some prior knowledge. GLINTS further incorporates three disease phenotype similarity data to facilitate the detection of causative SNVs without any knowledge of seed genes for a query disease. This method is therefore suitable for research on diseases whose genetic bases are completely unknown. With a series of comprehensive validation experiments, we demonstrate the effectiveness of these methods, not only in simulation studies, but also in detecting causative de novo mutations for autism, epileptic encephalopathies and intellectual disability.</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 江瑞，副教授，博士生导师，2002年毕业于清华大学自动化系，获得工学博士学位。目前任清华大学数据科学研究院医疗健康大数据研究中心副主任。主要研究兴趣包括：1. 医学影像智能信息处理；2. 电子病历智能信息处理；3. 基因组学研究：非编码调控元件的识别及其目标基因的预测；4. 遗传学研究：全基因组遗传变异对特定疾病的影响预测；5. 多组学研究：候选基因对特定疾病的影响预测。</p>
     </td>
   </tr>
 
@@ -1820,27 +1820,9 @@ location: bj
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">教育培训  (主席: 王涛 ) </h3></div>
+<div class="alert alert-info" role="alert"><h3 class="text-center">大数据人才培养  (主席: 王涛 ) </h3></div>
 
 <table class="table table-striped">
-
-  <tr>
-    <td class="col-md-2">
-    <p>刘乐平</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>大数据历史长河中的统计思维与智慧</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-17-sub-1">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-17-sub-1">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 统计是动态的历史，历史是静态的统计。如果大数据是海洋，那么统计学定是汇入这海洋的主干河流之一。纵向梳理公元前至今统计历史长河中的年代大事，横向比较数据统计分析的重要科学发现，探究人类科学广场上雄伟的统计智慧殿堂。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 2003年博士毕业于中国人民大学统计系。愿与统计之都和狗熊会的小伙伴们一起共创中国统计新纪元。</p>
-    </td>
-  </tr>
 
   <tr>
     <td class="col-md-2">
@@ -1850,13 +1832,31 @@ location: bj
     <p class="text-center"><strong>微启的旋转门：大数据教育界与工业界的生态进化</strong></p>
     </td>
     <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-17-sub-1">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-17-sub-1">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 大数据时代中，技术变革和人才稀缺成为两个核心话题。作为服务了数十万公司的移动互联网招聘平台，BOSS直聘积累了海量人才大数据，清楚地看到当下企业应用大数据技术，与人才断层下的几个困境。构建自我进化的生态系统，或许能够成为解决问题的一个方法。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>欧高炎</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>数据科学与大数据专业体系与实训平台建设</strong></p>
+    </td>
+    <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-17-sub-2">详情</button>
     </td>
   </tr>
   <tr class="collapse" id="session-17-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 大数据时代中，技术变革和人才稀缺成为两个核心话题。作为服务了数十万公司的移动互联网招聘平台，BOSS直聘积累了海量人才大数据，清楚地看到当下企业应用大数据技术，与人才断层下的几个困境。构建自我进化的生态系统，或许能够成为解决问题的一个方法。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> NA</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 通过介绍博雅大数据学院在数据科学相关专业建设、大数据教育实训平台建设方面的经验，探讨大数据人才培养的模式，交流大数据教育和学科建设的经验。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 欧高炎，北京大学理学博士，博雅大数据学院院长。全球首家大数据教育、竞赛和服务平台“数据嗨客”创始人。中国人民银行征信中心《大数据新算法用于信用模型构建的效果评估》项目组负责人。</p>
     </td>
   </tr>
 
@@ -1880,10 +1880,10 @@ location: bj
 
   <tr>
     <td class="col-md-2">
-    <p>欧高炎</p>
+    <p>刘乐平</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>数据科学与大数据专业体系与实训平台建设</strong></p>
+    <p class="text-center"><strong>大数据历史长河中的统计思维与智慧</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-17-sub-4">详情</button>
@@ -1891,8 +1891,8 @@ location: bj
   </tr>
   <tr class="collapse" id="session-17-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 通过介绍博雅大数据学院在数据科学相关专业建设、大数据教育实训平台建设方面的经验，探讨大数据人才培养的模式，交流大数据教育和学科建设的经验。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 欧高炎，北京大学理学博士，博雅大数据学院院长。全球首家大数据教育、竞赛和服务平台“数据嗨客”创始人。中国人民银行征信中心《大数据新算法用于信用模型构建的效果评估》项目组负责人。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 统计是动态的历史，历史是静态的统计。如果大数据是海洋，那么统计学定是汇入这海洋的主干河流之一。纵向梳理公元前至今统计历史长河中的年代大事，横向比较数据统计分析的重要科学发现，探究人类科学广场上雄伟的统计智慧殿堂。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 2003年博士毕业于中国人民大学统计系。愿与统计之都和狗熊会的小伙伴们一起共创中国统计新纪元。</p>
     </td>
   </tr>
 
@@ -1958,34 +1958,16 @@ location: bj
 
   <tr>
     <td class="col-md-2">
-    <p>覃文锋</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>跟踪 R 社区动态 - R Weekly 的背后</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-18-sub-2">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-18-sub-2">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> RWeekly.org 搭建了一个一站式的信息平台，通过网站，邮件，新浪微博 @rweekly 等渠道，实时地向来自140多个国家的读者推送社区的最新动态。每周的资讯速递帮助 R 用户快速地掌握社区一周内的最新进展。 近年来，R 社区发展迅速，CRAN 现在已有 10000+ 的程序包。学会发现，学习和使用现有的基础资源，掌握社区的最佳实践，可以节省时间、减少重复的轮子。 这个讲座将会介绍 R Weekly 的一些有趣的发现以及背后的故事。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> R Weekly 创始人之一</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
     <p>肖楠</p>
     </td>
     <td class="col-md-8">
     <p class="text-center"><strong>Persistent Reproducible Reporting with Docker and R</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-18-sub-3">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-18-sub-2">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-18-sub-3">
+  <tr class="collapse" id="session-18-sub-2">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Automatic report generation has a massive number of use cases for reproducible research and commercial applications. Fortunately, most of the problems involved in this topic have been elegantly solved by knitr and the R Markdown specification for the R community. However, the issues on data persistence and operating system-level reproducibility were rarely considered in the context of reproducible report generation. Today, such issues have become a major concern in the current software implementations. In this talk, we will discuss potential approaches to tackle such problems, particularly with the help of modern containerization technologies. We will also demonstrate how to compose a persistent and reproducible R Markdown report with the help of the two R packages we developed: docker-r and liftr. Specifically, you will learn to dockerize your existing R Markdown documents, how to apply it to the analysis of petabyte-scale cancer genomics data on the Cancer Genomics Cloud, and how to distribute or reuse such containerized reports.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> Nan is a Genomic Data Scientist at Seven Bridges, where he and his colleagues build innovative data-driven products for petabyte-scale biomedical data analysis, accelerating breakthroughs in genomics research for cancer, drug development, and precision medicine. With the help of Docker, their scalable, cloud-based Seven Bridges Platform empowers rapid, collaborative analysis of millions of genomes in concert with other forms of biomedical data. As an active contributor to the R community, Nan is the author of 10+ R/Bioconductor packages covering topics of machine learning, reproducible research, and data visualization.</p>
@@ -2000,13 +1982,31 @@ location: bj
     <p class="text-center"><strong>Learning R Internals and C++ via Rcpp</strong></p>
     </td>
     <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-18-sub-3">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-18-sub-3">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In the realm of high performance computing with R, users might take a learning path from R, Rcpp to some R internals. However, each one of the three parts can be challenging without a proper understanding of the other two. This lecture attempts to share my experience and viewpoint with those who have similar interests in gaining better understanding of how R works behind the scene while advancing their C++ skills.</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 量化工程师，主要方向为股票、期货策略。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>覃文锋</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>跟踪 R 社区动态 - R Weekly 的背后</strong></p>
+    </td>
+    <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-18-sub-4">详情</button>
     </td>
   </tr>
   <tr class="collapse" id="session-18-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In the realm of high performance computing with R, users might take a learning path from R, Rcpp to some R internals. However, each one of the three parts can be challenging without a proper understanding of the other two. This lecture attempts to share my experience and viewpoint with those who have similar interests in gaining better understanding of how R works behind the scene while advancing their C++ skills.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 量化工程师，主要方向为股票、期货策略。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> RWeekly.org 搭建了一个一站式的信息平台，通过网站，邮件，新浪微博 @rweekly 等渠道，实时地向来自140多个国家的读者推送社区的最新动态。每周的资讯速递帮助 R 用户快速地掌握社区一周内的最新进展。 近年来，R 社区发展迅速，CRAN 现在已有 10000+ 的程序包。学会发现，学习和使用现有的基础资源，掌握社区的最佳实践，可以节省时间、减少重复的轮子。 这个讲座将会介绍 R Weekly 的一些有趣的发现以及背后的故事。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> R Weekly 创始人之一</p>
     </td>
   </tr>
 
@@ -2054,16 +2054,34 @@ location: bj
 
   <tr>
     <td class="col-md-2">
-    <p>张云松</p>
+    <p>叶梦舟</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>金融科技中的算法与可视化应用案例</strong></p>
+    <p class="text-center"><strong>以风险资本收益率驱动决策</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-19-sub-2">详情</button>
     </td>
   </tr>
   <tr class="collapse" id="session-19-sub-2">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 1. 巴塞尔监管资本概述 2. 如何用模型确定监管资本需求 3. 如何衡量产品/项目的资本收益率并服务于决策 4. 监管资本要求对银行业务的冲击和影响，以及未来发展趋势</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 2016年11月加入融360担任首席风控官； 在中国和美国商业银行有近二十年的风控领域专业经验，先后服务于中国光大银行、美国摩根大通银行和花旗银行； 曾任花旗银行北美执行董事，兼任花旗北美CRO的首席战略顾问； 南京大学经济学学士、美国印第安纳大学MBA。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>张云松</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>金融科技中的算法与可视化应用案例</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-19-sub-3">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-19-sub-3">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 随着机器学习算法和AI的普及应用，更多的算法和数据科学在金融业务领域得到实践并发挥了重要作用，同时互联网在更快更深入的变革传统金融业务，在金融业务中对金融科技的需求越来越迫切。本次分享结合目前互联网金融中的实际业务场景和需求，介绍算法和各种数据科学技术如何在决策模型、反欺诈、审批授信、风险定价等实际业务中应用的案例。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 张云松 毕业于中科院，多年零售金融行业咨询和互联网公司从业经历，专注数据算法、决策分析、风险管理和金融产品设计的工作。曾就职于互联网金融企业融360，负责运营在线授信的小额现金贷产品，目前在金融科技方向进行创业。一直致力于数据科学应用于零售金融的业务流程，通过数据化决策等金融科技方式辅助金融业务中业务中获客、转化、反欺诈、风险定价、审批授信、贷后催收等</p>
@@ -2078,31 +2096,13 @@ location: bj
     <p class="text-center"><strong>柠檬科技反欺诈产品介绍</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-19-sub-3">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-19-sub-3">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 1，反欺诈产品综述；2，介绍图查询引擎设计；3，介绍反欺诈模型；4，介绍反欺诈可视化产品</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 曾担任中国最大的金融IT服务商东南融通BI数据挖掘团队负责人，GE智能医疗研发负责人，京东风控决策支持部负责人，四方伟业首席科学家和大数据产品部总经理；在CRM系统、精准营销、信贷风控、智能医疗、电商交易风控、反欺诈行业应用方面具有丰富的经验，同时在大数据和数据挖掘的产品化方向经验丰富。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>叶梦舟</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>以风险资本收益率驱动决策</strong></p>
-    </td>
-    <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-19-sub-4">详情</button>
     </td>
   </tr>
   <tr class="collapse" id="session-19-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 1. 巴塞尔监管资本概述 2. 如何用模型确定监管资本需求 3. 如何衡量产品/项目的资本收益率并服务于决策 4. 监管资本要求对银行业务的冲击和影响，以及未来发展趋势</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 2016年11月加入融360担任首席风控官； 在中国和美国商业银行有近二十年的风控领域专业经验，先后服务于中国光大银行、美国摩根大通银行和花旗银行； 曾任花旗银行北美执行董事，兼任花旗北美CRO的首席战略顾问； 南京大学经济学学士、美国印第安纳大学MBA。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 1，反欺诈产品综述；2，介绍图查询引擎设计；3，介绍反欺诈模型；4，介绍反欺诈可视化产品</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 曾担任中国最大的金融IT服务商东南融通BI数据挖掘团队负责人，GE智能医疗研发负责人，京东风控决策支持部负责人，四方伟业首席科学家和大数据产品部总经理；在CRM系统、精准营销、信贷风控、智能医疗、电商交易风控、反欺诈行业应用方面具有丰富的经验，同时在大数据和数据挖掘的产品化方向经验丰富。</p>
     </td>
   </tr>
 
@@ -2738,7 +2738,7 @@ location: bj
     <p>黄伟</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>NA</strong></p>
+    <p class="text-center"><strong>运用WebGL+GIS 开发网络安全应用</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-25-sub-4">详情</button>
@@ -2885,10 +2885,10 @@ location: bj
 
   <tr>
     <td class="col-md-2">
-    <p>冷静</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>Generative Adversarial Training with python/r</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-26-sub-6">详情</button>
@@ -2896,8 +2896,8 @@ location: bj
   </tr>
   <tr class="collapse" id="session-26-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> GANs 是一种脱离统计模型学习目标分布的方法，基本思想是让两个神经网络，一个作为生成器，一个作为分类器，相互竞争共同进步。我会简单介绍gan的原理并做一个pytorch或者mxnet＋r的教程。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 我在nyu读计算机博士，研究深度学习。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
