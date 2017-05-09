@@ -47,11 +47,11 @@ location: bj
 
 报名成功后，请查看邮箱，下载含二维码的PDF文件。请A4纸打印，并在会议期间随身携带。
 
+**经过协调会场，多争取到了少数名额（19元的普通门票），您可以关注报名网站，补充报名开通时间5月12日20:00~24:00。**
+
 选择您需要的票种类型报名：
 
 <div><iframe id='mgframe' height='353px' width='100%' src='https://eventdove.com/business/getInnerTicket.do?siteInfoId=125128&moduleId=44&viewFlag=1&tc=promoteticket&isShow=1' frameborder='0' scrolling='no'></iframe></div>
-
-**经过协调会场，多争取到了少数名额（19元的普通门票），您可以关注报名网站，补充报名开通时间5月12日20:00~24:00。**
 
 - [参会邀请函]({{ '/files/invitation_bj_2017_cn.pdf' | prepend: site.baseurl }})
 - [嘉宾邀请函]({{ '/files/invitation_bj_2017_cn_VIP.pdf' | prepend: site.baseurl }})
