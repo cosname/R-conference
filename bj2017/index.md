@@ -42,7 +42,6 @@ location: bj
 
 中国 R 会议过去九年来一直顶着财政压力对参会者秉承免费原则，但鉴于往年各届会议有很多听众免费注册多张门票而最终不真正到场参会，屡屡造成会议资源严重浪费，也极大影响了会场的计划和安排，本次会议组委会为了保证会议质量、减少浪费，决定象征性收取19元的会议注册费，还望各位参会者理解。若有任何疑问、意见、建议，欢迎发送邮件向会务组咨询。参会完毕之后若对本次会议组织有任何不满意之处，并能提供建设性意见，欢迎邮件联系会务组说明情况，我们会审核并酌情给予全额或部分退款（注册但不参会的一概不退款）。
 
-**经过协调会场，多争取到了少数名额（19元的普通门票），您可以关注报名网站，补充报名开通时间5月12日20:00~24:00。**
 
 此外，根据往届外地参会者的反馈和建议，本届会议提供少许名额，提供会议三天的午餐券、5月20日的晚宴券、会议邀请函以及发票，注册费519元。
 
@@ -51,6 +50,8 @@ location: bj
 选择您需要的票种类型报名：
 
 <div><iframe id='mgframe' height='353px' width='100%' src='https://eventdove.com/business/getInnerTicket.do?siteInfoId=125128&moduleId=44&viewFlag=1&tc=promoteticket&isShow=1' frameborder='0' scrolling='no'></iframe></div>
+
+**经过协调会场，多争取到了少数名额（19元的普通门票），您可以关注报名网站，补充报名开通时间5月12日20:00~24:00。**
 
 - [参会邀请函]({{ '/files/invitation_bj_2017_cn.pdf' | prepend: site.baseurl }})
 - [嘉宾邀请函]({{ '/files/invitation_bj_2017_cn_VIP.pdf' | prepend: site.baseurl }})
@@ -127,7 +128,7 @@ RStudio 公司成立于 2008 年，创始人为 JJ Allaire，R 社区领军人�
 
 <div class="row">
 
-  <div class="col-md-3 col-md-offset-2 aligncenter client">
+  <div class="col-md-3  aligncenter client">
     <a href="http://www.hzbook.com/ps/" title="华章" target="_blank">
       <img src="{{ '/img/logo-hz.jpg' | prepend: site.baseurl }}" alt="华章" class="img-responsive center-block" />
     </a>
