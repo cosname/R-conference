@@ -1,15 +1,15 @@
 ---
 layout: page
-title: 演讲信息
+title: 第十届中国R会议（北京）
 location: bj
 ---
 
-<button type="button" class="btn btn-success center-block" id="toggle-all">展开/隐藏所有摘要</button>
-<script type="text/javascript">
-$('#toggle-all').on('click', function (e) {
-    $('.collapse').collapse('toggle');
-})
-</script>
+<!-- picture -->
+<div class="row">
+  <div class="col-md-10 col-md-offset-1 text-center">
+    <img src="{{ '/img/tsinghua.jpg' | prepend: site.baseurl }}" alt="清华大学" class="img-responsive" />
+  </div>
+</div>
 
 
 <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
@@ -2909,53 +2909,16 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>林绍波</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>Learning theory for deep nets</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-27-sub-1">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-27-sub-1">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Deep learning has attracted avid research activities  in the past few years. Compared with comprehensive application studies, the theoretical verifications lag heavily behind. This talk aims at developing a learning theory for deep learning to illustrate the power of deep nets. We construct a deep net containing pre-training stage, learning stage and fine-tuning stage to embody the three features of deep learning: multi-layered neural networks, large-scale algorithms and fine-tuning. Our constructed deep net is proved to attain the optimal learning rate when the ambient space is a lower dimensional manifold. This optimal learning rate is better than the existing results for shallow nets and  therefore, shows the outperformance of deep nets.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 2014年10月毕业于西安交通大学.2015年3-2016年3月，香港城市大学博士后。现工作于温州大学统计系。研究方向为分布式学习理论与深度学习理论。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>孙剑</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>Deep Learning Approach for Model Learning in Image Science</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-27-sub-2">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-27-sub-2">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In this talk, I will show that several mathematical models in image science, such as the sparsity-based models and statistical models, can be reformulated as deep learning models. The basic idea is that the iterative optimization algorithms for energy minimization or statistical inference can be unfolded to be deep architectures. In this way, the parameters and even the formulations of these models can be discriminatively learned for specific task.  I will show that the Markov random field model in image prior modeling, iterative shrinkage in signal processing, compressive sensing model in MRI can be formulated to be 
-<br>deep learning problems. These induced deep architectures are non-conventional, task-specific and achieved state-of-the-art results for solving image inverse problems, e.g., image restoration, compressive sensing MRI.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 孙剑，西安交通大学数学与统计学院信息科学系教授，2009年获得西安交通大学应用数学博士学位。主要关注自然图像和医学影像处理与分析中的数学模型与算法研究，相关成果发表于IJCV, IEEE TIP, CVPR, NIPS,MICCAI等领域内著名国际期刊和会议。曾经在微软亚洲研究院（2005-2008）、美国中佛罗里达大学（2009-2010）、法国巴黎高等师范学院与法国国家信息与自动化研究院（2012-2014）做博士后或访问学者。入选教育部新世纪优秀人才计划（2012）、国家基金委优青项目（2016），获得中国工业与应用数学学会优秀青年学者奖。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
     <p>朱军</p>
     </td>
     <td class="col-md-8">
     <p class="text-center"><strong>Triple Generative Adversarial Networks</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-27-sub-3">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-27-sub-1">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-27-sub-3">
+  <tr class="collapse" id="session-27-sub-1">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Generative adversarial nets (GANs) are good at generating realistic images and have been extended for semi-supervised classification. However, under a two-player formulation, existing work shares competing roles of identifying fake samples and predicting labels via a single discriminator network, which can lead to undesirable incompatibility. In this talk, I will present triple generative adversarial net (Triple-GAN), a flexible game-theoretical framework for classification and class-conditional generation in semi-supervised learning. Triple-GAN consists of three players - a generator, a discriminator and a classifier, where the generator and classifier characterize the conditional distributions between images and labels, and the discriminator solely focuses on identifying fake image-label pairs. With designed utilities, the distributions characterized by the classifier and generator both concentrate to the data distribution under nonparametric assumptions. Our results on several datasets demonstrate the promise in semi-supervised learning, where Triple-GAN achieves comparable or superior performance than state-of-the-art classification results among DGMs; it is also able to disentangle the classes and styles and transfer smoothly on the data level via interpolation on the latent space class-conditionally.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 朱军，清华大学计算机系长聘副教授、卡内基梅隆大学兼职教授、智能技术与系统国家重点实验室副主任、深度学习技术与应用国家工程实验室副主任。2001到2009年获清华大学计算机学士和博士学位，之后在卡内基梅隆大学做博士后，2011年回清华任教。主要从事人工智能基础理论、高效算法及相关应用研究，在国际重要期刊与会议发表学术论文近百篇。受邀担任人工智能顶级杂志IEEE TPAMI和AI的编委、《自动化学报》编委，担任机器学习国际大会ICML2014地区联合主席, ICML (2014-2017)、NIPS (2013, 2015)、UAI (2014-2017)、IJCAI（2015,2017）、AAAI（2016, 2017）等国际会议的领域主席，中国计算机学会（CCF）学术工委主任助理。获微软学者、CCF优秀博士论文奖、CCF青年科学家奖、国家优秀青年基金、中创软件人才奖等，入选国家“万人计划”青年拔尖人才、IEEE Intelligent Systems杂志评选的“AI’s 10 to Watch”（人工智能青年十杰）、及清华大学221基础研究人才计划。</p>
@@ -2970,13 +2933,31 @@ $('#toggle-all').on('click', function (e) {
     <p class="text-center"><strong>大规模线上实验与机器学习</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-27-sub-4">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-27-sub-2">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-27-sub-4">
+  <tr class="collapse" id="session-27-sub-2">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 大规模线上实验在京东每一天都在发生，大到一个全新的模块乃至平台上线，小到一个icon颜色，样式的更改，主要以AB试验的形式进行。大多数试验遵循直觉，数据收集和整理的工作冗长，但是对需要测试的指标以及收集到的数据的验证工作比较简单，容易造成区分度不足乃至和真实结论南辕北辙的情况。本次报告会详细介绍线上实验的基本科学原则，实施细节，容易犯的错误；并结合google,微软,LinkedIn，Amazon等公司的最新研究论文，以及京东个性化推荐中的实践，从案例中学习如何使用机器学习和人工智能技术来验证数据一致性，降低误差等。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 2015年加入京东，一直致力于机器学习算法在京东个性化与推荐业务中的应用，目前主要负责个性化业务中大规模线上实验，指标定义，异常追踪和用户体验优化等。曾在国内外知名大公司和研究机构从事复杂实验设计的理论和实践工作，并持续跟踪大规模线上实验与机器学习在其中应用的前沿研究。由于在利用人工智能技术提升个性化用户体验以及更全面科学地定义个性化对京东的贡献等工作上的突出贡献，曾获得2016年度CTO特别奖。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>林绍波</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>Learning theory for deep nets</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-27-sub-3">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-27-sub-3">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> Deep learning has attracted avid research activities  in the past few years. Compared with comprehensive application studies, the theoretical verifications lag heavily behind. This talk aims at developing a learning theory for deep learning to illustrate the power of deep nets. We construct a deep net containing pre-training stage, learning stage and fine-tuning stage to embody the three features of deep learning: multi-layered neural networks, large-scale algorithms and fine-tuning. Our constructed deep net is proved to attain the optimal learning rate when the ambient space is a lower dimensional manifold. This optimal learning rate is better than the existing results for shallow nets and  therefore, shows the outperformance of deep nets.</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 2014年10月毕业于西安交通大学.2015年3-2016年3月，香港城市大学博士后。现工作于温州大学统计系。研究方向为分布式学习理论与深度学习理论。</p>
     </td>
   </tr>
 
@@ -2988,10 +2969,10 @@ $('#toggle-all').on('click', function (e) {
     <p class="text-center"><strong>腾讯社交广告实践中智能出价新模式：oCPA</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-27-sub-5">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-27-sub-4">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-27-sub-5">
+  <tr class="collapse" id="session-27-sub-4">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 长期以来因为数据和技术的限制，业内的广告系统大多只将广告的效果优化止于展现和点击阶段。我们系统中是如何衡量和优化广告转化效果的呢？此次分享首先从营销漏斗开始介绍什么是转化。接着以电商和App为例讲解转化归因和转化跟踪技术。然后讲解转化率预估的建模方法、挑战和技术实现。最后介绍转化率在广告出价排序阶段的应用。希望通过分享让大家对转化闭环生态体系中的相关技术应用有一个整体的了解和认识。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 王流斌，2010年硕士毕业于北京大学软件工程专业，同年加入腾讯，先后参与过搜索广告、情境广告、社交广告的系统研发和策略优化工作，专注于大规模并行机器学习系统研发、特征选择、转化率预估及应用等技术方向。担任Tech Lead的oCPA项目获得腾讯2016年度公司级技术突破奖。</p>
@@ -3006,13 +2987,32 @@ $('#toggle-all').on('click', function (e) {
     <p class="text-center"><strong>bandit算法与推荐系统</strong></p>
     </td>
     <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-27-sub-5">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-27-sub-5">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 推荐系统里面有两个经典问题：EE问题和冷启动问题。前者涉及到平衡准确和多样，后者涉及到产品算法运营等一系列东西。bandit算法是一种简单的在线学习算法，常常用于尝试解决这两个问题，本文为你介绍基础的bandit算法及一系列升级版，以及对推荐系统这两个经典问题的思考。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 陈开江@刑无刀，天农科技CTO，曾任新浪微博资深算法工程师，考拉FM算法主管，个性化导购APP“Wave”和“边逛边聊”联合创始人，多年推荐系统从业经历，在算法、架构、产品方面均有“些许”实践经验。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>孙剑</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>Deep Learning Approach for Model Learning in Image Science</strong></p>
+    </td>
+    <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-27-sub-6">详情</button>
     </td>
   </tr>
   <tr class="collapse" id="session-27-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 推荐系统里面有两个经典问题：EE问题和冷启动问题。前者涉及到平衡准确和多样，后者涉及到产品算法运营等一系列东西。bandit算法是一种简单的在线学习算法，常常用于尝试解决这两个问题，本文为你介绍基础的bandit算法及一系列升级版，以及对推荐系统这两个经典问题的思考。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 陈开江@刑无刀，天农科技CTO，曾任新浪微博资深算法工程师，考拉FM算法主管，个性化导购APP“Wave”和“边逛边聊”联合创始人，多年推荐系统从业经历，在算法、架构、产品方面均有“些许”实践经验。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In this talk, I will show that several mathematical models in image science, such as the sparsity-based models and statistical models, can be reformulated as deep learning models. The basic idea is that the iterative optimization algorithms for energy minimization or statistical inference can be unfolded to be deep architectures. In this way, the parameters and even the formulations of these models can be discriminatively learned for specific task.  I will show that the Markov random field model in image prior modeling, iterative shrinkage in signal processing, compressive sensing model in MRI can be formulated to be 
+<br>deep learning problems. These induced deep architectures are non-conventional, task-specific and achieved state-of-the-art results for solving image inverse problems, e.g., image restoration, compressive sensing MRI.</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 孙剑，西安交通大学数学与统计学院信息科学系教授，2009年获得西安交通大学应用数学博士学位。主要关注自然图像和医学影像处理与分析中的数学模型与算法研究，相关成果发表于IJCV, IEEE TIP, CVPR, NIPS,MICCAI等领域内著名国际期刊和会议。曾经在微软亚洲研究院（2005-2008）、美国中佛罗里达大学（2009-2010）、法国巴黎高等师范学院与法国国家信息与自动化研究院（2012-2014）做博士后或访问学者。入选教育部新世纪优秀人才计划（2012）、国家基金委优青项目（2016），获得中国工业与应用数学学会优秀青年学者奖。</p>
     </td>
   </tr>
 
