@@ -468,10 +468,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-4-sub-5">详情</button>
@@ -479,8 +479,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-4-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -698,10 +698,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-6-sub-6">详情</button>
@@ -709,8 +709,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-6-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -812,10 +812,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-7-sub-6">详情</button>
@@ -823,8 +823,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-7-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -1136,10 +1136,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-10-sub-5">详情</button>
@@ -1147,8 +1147,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-10-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -1250,10 +1250,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-11-sub-6">详情</button>
@@ -1261,8 +1261,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-11-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -1688,10 +1688,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-15-sub-6">详情</button>
@@ -1699,8 +1699,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-15-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -1802,10 +1802,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-16-sub-6">详情</button>
@@ -1813,8 +1813,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-16-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -1916,10 +1916,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-17-sub-6">详情</button>
@@ -1927,8 +1927,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-17-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -2012,10 +2012,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-18-sub-5">详情</button>
@@ -2023,8 +2023,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-18-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -2108,10 +2108,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-19-sub-5">详情</button>
@@ -2119,8 +2119,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-19-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -2222,10 +2222,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-20-sub-6">详情</button>
@@ -2233,8 +2233,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-20-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -2336,10 +2336,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-21-sub-6">详情</button>
@@ -2347,8 +2347,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-21-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -2436,10 +2436,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-22-sub-5">详情</button>
@@ -2447,8 +2447,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-22-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -2532,10 +2532,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-5">详情</button>
@@ -2543,8 +2543,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-23-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -2646,10 +2646,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-24-sub-6">详情</button>
@@ -2657,8 +2657,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-24-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -2771,10 +2771,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-25-sub-6">详情</button>
@@ -2782,8 +2782,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-25-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
@@ -3228,10 +3228,10 @@ $('#toggle-all').on('click', function (e) {
 
   <tr>
     <td class="col-md-2">
-    <p>讨论</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>专题讨论</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-29-sub-6">详情</button>
@@ -3239,8 +3239,8 @@ $('#toggle-all').on('click', function (e) {
   </tr>
   <tr class="collapse" id="session-29-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 专题讨论</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 专题讨论</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
