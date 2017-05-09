@@ -1838,8 +1838,7 @@ location: bj
   <tr class="collapse" id="session-17-sub-1">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 大数据时代中，技术变革和人才稀缺成为两个核心话题。作为服务了数十万公司的移动互联网招聘平台，BOSS直聘积累了海量人才大数据，清楚地看到当下企业应用大数据技术，与人才断层下的几个困境。构建自我进化的生态系统，或许能够成为解决问题的一个方法。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 看准数据招聘集团创始人，资深人力资源和品牌营销专家。他创立于2013年12月的看准数据招聘集团旗下现拥有看准网、BOSS直聘和店长直聘三个子品牌，总服务用户数超过1亿。其中，于2014年7月上线的BOSS直聘，在全球首创求职者与招聘方的“在线直聊模式”，并通过大数据技术实现人才与岗位的精准推荐，已成为中国移动互联网招聘领域单款最大APP，截至2017年4月底，拥有注册求职者1950万，注册Boss 403万。赵鹏先生在人力资源科技领域有12年经验，曾担任智联招聘CEO，期间带领连续亏损13年的公司扭亏为盈。赵鹏先生是中国大学生志愿者西部支教计划的缔造者之一，服务于青年志愿者事业十年。赵鹏先生1994年毕业于北京大学法律系。
-</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 看准数据招聘集团创始人，资深人力资源和品牌营销专家。他创立于2013年12月的看准数据招聘集团旗下现拥有看准网、BOSS直聘和店长直聘三个子品牌，总服务用户数超过1亿。其中，于2014年7月上线的BOSS直聘，在全球首创求职者与招聘方的“在线直聊模式”，并通过大数据技术实现人才与岗位的精准推荐，已成为中国移动互联网招聘领域单款最大APP，截至2017年4月底，拥有注册求职者1950万，注册Boss 403万。赵鹏先生在人力资源科技领域有12年经验，曾担任智联招聘CEO，期间带领连续亏损13年的公司扭亏为盈。赵鹏先生是中国大学生志愿者西部支教计划的缔造者之一，服务于青年志愿者事业十年。赵鹏先生1994年毕业于北京大学法律系。<br></p>
     </td>
   </tr>
 
@@ -1848,7 +1847,7 @@ location: bj
     <p>欧高炎</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>数据科学与大数据专业体系与实训平台建设</strong></p>
+    <p class="text-center"><strong>大数据教育学科建设的关键因素</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-17-sub-2">详情</button>
@@ -1902,7 +1901,7 @@ location: bj
     <p>袁星星</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>大数据教育实训平台的建设与探索</strong></p>
+    <p class="text-center"><strong>大数据教育平台的建设与探索</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-17-sub-5">详情</button>
