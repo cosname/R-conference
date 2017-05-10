@@ -2998,10 +2998,10 @@ location: bj
 
   <tr>
     <td class="col-md-2">
-    <p>孙剑</p>
+    <p>自由讨论</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>Deep Learning Approach for Model Learning in Image Science</strong></p>
+    <p class="text-center"><strong>自由讨论</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-27-sub-6">详情</button>
@@ -3009,9 +3009,8 @@ location: bj
   </tr>
   <tr class="collapse" id="session-27-sub-6">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In this talk, I will show that several mathematical models in image science, such as the sparsity-based models and statistical models, can be reformulated as deep learning models. The basic idea is that the iterative optimization algorithms for energy minimization or statistical inference can be unfolded to be deep architectures. In this way, the parameters and even the formulations of these models can be discriminatively learned for specific task.  I will show that the Markov random field model in image prior modeling, iterative shrinkage in signal processing, compressive sensing model in MRI can be formulated to be 
-<br>deep learning problems. These induced deep architectures are non-conventional, task-specific and achieved state-of-the-art results for solving image inverse problems, e.g., image restoration, compressive sensing MRI.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 孙剑，西安交通大学数学与统计学院信息科学系教授，2009年获得西安交通大学应用数学博士学位。主要关注自然图像和医学影像处理与分析中的数学模型与算法研究，相关成果发表于IJCV, IEEE TIP, CVPR, NIPS,MICCAI等领域内著名国际期刊和会议。曾经在微软亚洲研究院（2005-2008）、美国中佛罗里达大学（2009-2010）、法国巴黎高等师范学院与法国国家信息与自动化研究院（2012-2014）做博士后或访问学者。入选教育部新世纪优秀人才计划（2012）、国家基金委优青项目（2016），获得中国工业与应用数学学会优秀青年学者奖。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 自由讨论</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 自由讨论</p>
     </td>
   </tr>
 
