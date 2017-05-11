@@ -2423,7 +2423,7 @@ location: bj
     <p>肖勃飞</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>消费金融中反欺诈的应用研究</strong></p>
+    <p class="text-center"><strong>消费金融反欺诈应用探索</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-22-sub-4">详情</button>
