@@ -2683,7 +2683,8 @@ location: bj
   </tr>
   <tr class="collapse" id="session-25-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 2）伪基站追踪系统：结合可视化和数据挖掘揭示伪基站在城市中出现的模式及发送短信的规律，并能够实时显示伪基站的位置，有效帮助执法机关打击不法分子；</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 本报告和大家分享如何使用深度学习技术教会计算机打麻将，并且提高电脑AI的水平。使用到的技术包括卷积神经网络，增强学习，以及一些实现技巧。本文使用的技术很大程度上收到AlphaGo的启发，不同之处在于，1）对麻将随机性的处理上，2）使用最近一年来更为强大的增强学习算法，3）更高效地利用稀有的训练数据。除了纯粹技术细节，我们还会分享从无到有地用深度学习解决问题的关键步骤，以及一些良好习惯，希望对大家有所帮助和启发。
+</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京大学光华管理学院统计系博士生。研究兴趣是时空统计以及深度学习。</p>
     </td>
   </tr>
@@ -2701,7 +2702,8 @@ location: bj
   </tr>
   <tr class="collapse" id="session-25-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 3）全国僵木蠕毒态势感知：结合GeoHash技术和Openlayers以热力、蜂窝聚合显示全国僵木蠕毒数据；</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 局限于模型和计算能力，词级语言模型和机器翻译是一直以来的标准。但随着网络结构的发展和计算能力的提高，词级模型的缺点似乎可以通过字符级模型来解决。本次演讲主要探讨词级和字符级模型各自优缺点，并讨论目前字符级模型的发展情况，如语言模型和机器翻译中的进展。
+</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 我来自上海交通大学计算机系，目前正在从事机器翻译相关应用和研究。</p>
     </td>
   </tr>
@@ -2719,7 +2721,8 @@ location: bj
   </tr>
   <tr class="collapse" id="session-25-sub-3">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 4）春运铁路网热度：利用WebGL可视化春运时期全国铁路线路及各线路热度；</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 近年来，随着技术的发展，基于深度学习的语音识别已经成为业界主流的方法。本次演讲将首先带着大家梳理基于深度学习的语音识别声学模型发展历程，之后将分享阿里巴巴在语音识别声学建模上所做的技术突破，并展示我们在语音识别应用上的一些案例。
+</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 薛少飞，阿里巴巴 iDST 语音识别专家，中国科学技术大学博士。现负责阿里声学模型研究与应用：包括语音识别声学建模和深度学习在业务场景中的应用。博士期间的研究方向为语音识别说话人自适应，提出基于 Speaker Code 的模型域自适应方法，在语音相关的会议和期刊上发表论文十余篇。</p>
     </td>
   </tr>
@@ -2737,7 +2740,8 @@ location: bj
   </tr>
   <tr class="collapse" id="session-25-sub-4">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 5）大图可视化引擎：针对海量数据可视化中布局及绘制的难点，开发大规模网络关系布局算法库在服务端进行布局，前端利用WebGL技术显示数百万点边图。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button>在移动互联网时代，多屏媒体，O2O多维互动，给消费者购物带来了更多信息和更多选择。也给了企业更丰富，更有挑战的营销环境。 在众多影响决策的微时刻（micro-moment）和关键时刻（moment of truch）中，汽车消费者的思维已经不知觉的进入了“车型鄙视链” 的精神世界和换车魔力象限的领域。 利用车轮查违章，车轮社区（覆盖2亿真实车主的APP应用）中用户对车型PK投票的数据，我们真实再现了这个车型鄙视链，从中会发现每一款车，你都可以找到选择他的理由。这为更加细分，更加个性化的汽车市场提供了理论支撑。以此报告希望能够协助用户选到最适合自己的车，也协助车厂在细分市场更加精准的定位，甚至可以预测未来的汽车销量
+</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 10年的COS水友，车轮互联数据副总裁</p>
     </td>
   </tr>
