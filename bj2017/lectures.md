@@ -1820,7 +1820,7 @@ location: bj
     <p>欧高炎</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>大数据教育学科建设的关键因素</strong></p>
+    <p class="text-center"><strong>大数据学科建设的关键因素</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-17-sub-2">详情</button>
