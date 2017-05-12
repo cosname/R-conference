@@ -3,6 +3,14 @@ layout: page
 title: 第十届中国R会议（北京）
 location: bj
 ---
+
+<button type="button" class="btn btn-success center-block" id="toggle-all">展开/隐藏所有摘要</button>
+ <script type="text/javascript">
+ $('#toggle-all').on('click', function (e) {
+     $('.collapse').collapse('toggle');
+ })
+ </script>
+ 
 <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 
 <table class="table table-striped">
