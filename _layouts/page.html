@@ -8,7 +8,9 @@ layout: default
 
       <div class="col-md-3 col-md-push-9 col-xs-12">
         <aside class="right-sidebar">
-          {% include {{page.location | prepend: 'sidebar-' | append: '.html'}} %}
+	  {% comment %}
+	  {% include {{ page.location | prepend: 'sidebar-' | append: '.html' }} %}
+	  {% endcomment %}
         </aside>
       </div>
 
