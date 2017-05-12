@@ -8,7 +8,9 @@ layout: default
 
       <div class="col-md-3 col-md-push-9 col-xs-12">
         <aside class="right-sidebar">
-	  {% include sidebar-bj.html %}
+          {% if page.location %}
+          {% include sidebar-{{page.location}}.html %}
+          {% endif %}
         </aside>
       </div>
 
