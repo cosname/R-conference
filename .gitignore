@@ -2,3 +2,4 @@ _site/
 *.db
 .ruby-version
 .python-version
+.Rproj.user
