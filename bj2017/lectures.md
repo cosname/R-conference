@@ -2710,7 +2710,7 @@ location: bj
   </tr>
   <tr class="collapse" id="session-25-sub-2">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 局限于模型和计算能力，词级语言模型和机器翻译是一直以来的标准。但随着网络结构的发展和计算能力的提高，词级模型的缺点似乎可以通过字符级模型来解决。本次演讲主要探讨词级和字符级模型各自优缺点，并讨论目前字符级模型的发展情况，如语言模型和机器翻译中的进展。
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button>局限于模型和计算能力，词级语言模型和机器翻译是一直以来的标准。但随着网络结构的发展和计算能力的提高，词级模型的缺点似乎可以通过字符级模型来解决。本次演讲主要探讨词级和字符级模型各自优缺点，并讨论目前字符级模型的发展情况，如语言模型和机器翻译中的进展。
 </p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 我来自上海交通大学计算机系，目前正在从事机器翻译相关应用和研究。</p>
     </td>
