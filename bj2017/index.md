@@ -35,7 +35,7 @@ location: bj
 
 <!-- picture -->
 <div class="row">
-  <div class="col-md-5 col-md-offset-1 text-center">
+  <div class="col-md-10 col-md-offset-1 text-center">
     <img src="{{ '/img/scheduleTable2017.jpg' | prepend: site.qiniubaseurl }}" alt="人民大学" class="img-responsive" />
   </div>
 </div>
