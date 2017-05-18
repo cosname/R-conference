@@ -11,9 +11,9 @@ location: bj
   </div>
 </div>
 
- **参会指南请**[点击](http://mp.weixin.qq.com/s/adV6yzv3hPNkGESMZXo1zQ)
+ **参会指南请**[点击](http://mp.weixin.qq.com/s/adV6yzv3hPNkGESMZXo1zQ)。
  
- **不能到场参会的人可以观看直播，直播[地址1](http://www.itdks.com/dakashuo/playback/426)或[地址2](https://ke.qq.com/course/208165)**更多信息请[参考](http://mp.weixin.qq.com/s/k0zD_7cuc6NHNP0YfPkPSg)
+ **不能到场参会的人可以观看直播，直播[地址1](http://www.itdks.com/dakashuo/playback/426)或[地址2](https://ke.qq.com/course/208165)**更多信息请[参考](http://mp.weixin.qq.com/s/k0zD_7cuc6NHNP0YfPkPSg)。
 
 2017年，是中国R会议值得纪念的第10个年头，本届R会议将于5月19-21日在美丽的清华大学举办。在这样一个值得纪念的时刻，让我们相聚清华大学统计学研究中心，相聚R会议十周年庆典，也相聚这场数据与统计的盛宴！本届会议覆盖数据科学多个领域，我们非常期待您的到来，希望您的演讲能让听众更多受益，能让会议更加精彩！
 
