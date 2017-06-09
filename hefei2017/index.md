@@ -45,13 +45,13 @@ location: hefei
 
 
 <h3 class ="text-center">赞助商</h3>
-  <div class="col-md-10 aligncenter client">
+<div class="row">
+  <div class="col-md-10 col-md-offset-1 text-center">
     <a href="http://www.merklechina.cn/" title="美库尔" target="_blank">
       <img src="{{ '/img/merkle.jpg' | prepend: site.qiniubaseurl }}" alt="美库尔" class="img-responsive center-block" />
     </a>
   </div>
 </div>
-
 
 Merkle Inc，世界顶级的大数据营销咨询公司。创立于1971年，总部设在美国首都大华府地区，全球3800多名员工分布在21座城市，为超过200家的国际大型品牌提供咨询服务，涉及多个行业和领域。公司于2009年初起，拓展部分核心业务到中国，为全球和本土企业提供客户关系市场营销服务，主要业务包括：市场营销策划、客户关系管理、统计建模和分析，数据处理分析、数据库开发、管理和服务。中国的办公地点为上海和南京。
 
