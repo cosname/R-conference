@@ -105,14 +105,14 @@ IT大咖说，IT垂直领域的大咖知识分享平台，践行“开源是一�
 
 <!-- picture -->
 <div class="row">
-  <div class="col-md-10 col-md-offset-0.8 text-center">
+  <div class="col-md-10 col-md-offset-2 text-center">
     <img src="{{ '/img/logo_kedaguanli.png' | prepend: site.baseurl }}" alt="中国科学技术大学管理学院" class="img-responsive" />
   </div>
 </div>
 #### [统计之都](http://cos.name/)
 <!-- picture -->
 <div class="row">
-  <div class="col-md-10 col-md-offset-1 text-center">
+  <div class="col-md-10 col-md-offset-2 text-center">
     <img src="{{ '/img/cos.png' | prepend: site.baseurl }}" alt="统计之都" class="img-responsive" />
   </div>
 </div>
@@ -120,7 +120,7 @@ IT大咖说，IT垂直领域的大咖知识分享平台，践行“开源是一�
 #### 中国科学技术大学国际金融研究院
 <!-- picture -->
 <div class="row">
-  <div class="col-md-10 col-md-offset-1 text-center">
+  <div class="col-md-10 col-md-offset-2 text-center">
     <img src="{{ '/img/logo_kedajinrong.png' | prepend: site.baseurl }}" alt="中国科学技术大学国际金融研究院" class="img-responsive" />
   </div>
 </div>
