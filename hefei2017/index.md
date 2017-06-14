@@ -117,8 +117,13 @@ IT大咖说，IT垂直领域的大咖知识分享平台，践行“开源是一�
   </div>
 </div>
 
-####  中国科学技术大学国际金融研究院
-
+#### 中国科学技术大学国际金融研究院
+<!-- picture -->
+<div class="row">
+  <div class="col-md-10 col-md-offset-1 text-center">
+    <img src="{{ '/img/logo_kedajinrong.png' | prepend: site.baseurl }}" alt="中国科学技术大学国际金融研究院" class="img-responsive" />
+  </div>
+</div>
 #### 协办方
 - 大数据分析与应用安徽省重点实验室
 
