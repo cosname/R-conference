@@ -105,7 +105,7 @@ IT大咖说，IT垂直领域的大咖知识分享平台，践行“开源是一�
 
 <!-- picture -->
 <div class="row">
-  <div class="col-md-5 col-md-offset-3 text-center">
+  <div class="col-md-10 col-md-offset-1 text-center">
     <img src="{{ '/img/logo_kedaguanli.png' | prepend: site.baseurl }}" alt="中国科学技术大学管理学院" class="img-responsive" />
   </div>
 </div>
