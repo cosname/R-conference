@@ -22,6 +22,8 @@ location: hefei
 
 ### 二、会议地点
 
+- [会议手册]({{ '/files/10th_R_hefei.pdf' | prepend: site.baseurl }})
+
 中国科技大学西校区教学三楼(具体会场地址请留意网站更新)
 
 ### 三、会议主题
