@@ -102,7 +102,7 @@ IT大咖说，IT垂直领域的大咖知识分享平台，践行“开源是一�
 如有需要，请点击下面链接下载邀请函。
 
 - [参会邀请函]({{ '/files/Invitation_hf_2017.jpg' | prepend: site.baseurl }})
-- [嘉宾邀请函]({{ '/files/invitation_hf_2017_vip.jpg' | prepend: site.baseurl }})
+- [嘉宾邀请函]({{ '/files/Invitation_hf_2017_vip.jpg' | prepend: site.baseurl }})
 
 
 ### 七、组织机构
