@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: 第十届中国R会议（兰州）<br>暨西北地区数据科学会议
 location: lanzhou
@@ -47,7 +47,7 @@ location: lanzhou
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/img/logo_lzcj.jpg' | prepend: site.qiniubaseurl }}" alt="兰州财经校徽" class="img-responsive" />
+    <img src="{{ '/img/logo_lzcj.JPG' | prepend: site.qiniubaseurl }}" alt="兰州财经校徽" class="img-responsive" />
   </div>
 </div>
 
