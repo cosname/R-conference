@@ -60,12 +60,11 @@ location: lanzhou
 #### 统计之都
 
 <!-- picture -->
+<div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
     <img src="{{ '/img/cos.png' | prepend: site.qiniubaseurl }}" alt="统计之都" class="img-responsive" />
   </div>
 </div>
-
-
 
 统计之都（Capital of Statistics，简称 COS）成立于2006年5月19日，是一个旨在推广与应用统计学知识的网站和社区。统计之都网站最初由谢益辉创办，现任理事会主席为冯凌秉，现由世界各地的众多志愿者共同管理维护。
 
