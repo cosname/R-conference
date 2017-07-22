@@ -24,7 +24,7 @@ location: lanzhou
 
 大会除了邀请嘉宾演讲之外，也欢迎各界人士报名演讲。主题包括但不限于金融与金融大数据、统计与机器学习、业界应用与数据可视化、自然语言与软件工具等。欢迎有兴趣的演讲者登录会议活动主页下载报名表（附件），并将填写完的报名表邮件发送至chinar-2017-lz@cos.name，大会组委会将对报名的演讲者择优录用。演讲者报名截止日期为8月31号。为保证演讲质量，演讲材料提交后，会议专业委员会进行审核，审核结果将会在9月5号之前通知演讲申请人。
 
-- [报名表下载]({{ '/files/10th_chinar_lanzhou_speaker_application.docx' | prepend: site.baseurl }})
+- [报名表下载]({{ '/files/application_lz_2017.docx' | prepend: site.baseurl }})
 
 ### 三、参会者报名
 
