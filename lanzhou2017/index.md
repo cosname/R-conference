@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: 第十届中国R会议（兰州）<br>暨西北地区数据科学会议
 location: lanzhou
@@ -81,3 +81,14 @@ R会议由统计之都主办。统计之都（Capital of Statistics，简称COS�
 会议联系邮箱：chinar-2017-lz@cos.name
 
 会议微信：统计之都
+
+### 六、会议资料下载
+
+本次大会提供相应的邀请函。如有需要，请点击下面链接下载邀请函。
+
+- [会议邀请函]({{ '/files/invitation_lanzhou_2017_cn.pdf' | prepend: site.baseurl }})
+
+欢迎大家点击下面的链接下载本次会议的会议手册。
+
+- [会议手册]({{ '/files/ChinaR_10th_lanzhou.pdf' | prepend: site.baseurl }})
+
