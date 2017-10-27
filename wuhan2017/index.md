@@ -52,7 +52,7 @@ R语言作为统计和数据挖掘界广泛应用的统计分析、绘图的语�
 
 <!-- picture -->
 <div class="row">
-  <div class="col-md-5 col-md-offset-1 text-center">
+  <div class="col-md-10 col-md-offset-1 text-center">
     <img src="{{ '/img/zncjzf.jpg' | prepend: site.qiniubaseurl }}" alt="中南财经政法大学" class="img-responsive" />
   </div>
 </div>
