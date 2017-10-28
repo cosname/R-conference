@@ -41,7 +41,7 @@ location: wuhan
 <div class="row">
   <div class="col-md-8 col-md-offset-1 text-center">
     <a href="https://geneplan.com/" title="知己基因" target="_blank">
-      <img src="{{ '/img/zhijijiyin.jpg' | prepend: site.qiniubaseurl }}" alt="知己基因" class="img-responsive center-block" />
+      <img src="{{ '/img/zjjy.jpg' | prepend: site.qiniubaseurl }}" alt="知己基因" class="img-responsive center-block" />
     </a>
   </div>
 </div>
