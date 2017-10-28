@@ -39,7 +39,7 @@ location: wuhan
 
 <h3 class ="text-center">战略合作伙伴</h3>
 <div class="row">
-  <div class="col-md-2 col-md-offset-1 text-center">
+  <div class="col-md-6 col-md-offset-1 text-center">
     <a href="https://geneplan.com/" title="知己基因" target="_blank">
       <img src="{{ '/img/zhijijiyin.jpg' | prepend: site.qiniubaseurl }}" alt="知己基因" class="img-responsive center-block" />
     </a>
