@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: 第十届中国R会议（北京）
 location: bj
