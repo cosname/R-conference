@@ -39,14 +39,14 @@ location: wuhan
 
 <h3 class ="text-center">战略合作伙伴</h3>
 <div class="row">
-  <div class="col-md-8 col-md-offset-1 text-center">
+  <div class="col-md-2 col-md-offset-1 text-center">
     <a href="https://geneplan.com/" title="知己基因" target="_blank">
       <img src="{{ '/img/zhijijiyin.jpg' | prepend: site.qiniubaseurl }}" alt="知己基因" class="img-responsive center-block" />
     </a>
   </div>
 </div>
 
-#### GenePlan知几基因  专业级基因体检专家
+#### GenePlan 知几基因  专业级基因体检专家
 
 GenePlan（知几基因）专注于提供与基因科学有关的健康类服务。创始团队于2014年组建，独立检测研究室设于成都，同时与国内数家基因检测机构、分析机构及医疗机构合作。
 GenePlan（知几基因）现提供三种类型的基因体检服务。分别为“基础版”、“专业版”和“旗舰版”。与传统体检相比，基因体检可以在任何时间、地点独立完成。基于基因检测技术，可以比传统体检检测出更多遗传病风险，及早通过基因点位变异，发现肿瘤的早期风险。同时结合靶向用药，对癌症临床治疗起到显著的效果。
