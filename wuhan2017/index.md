@@ -68,9 +68,8 @@ GenePlan（知几基因）现提供三种类型的基因体检服务。分别为
 
 #### 中南财经政法大学
 
-<!-- picture -->
 <div class="row">
-  <div class="col-md-10 col-md-offset-1 text-center">
+  <div class="col-md-6 col-md-offset-1 text-center">
     <img src="{{ '/img/zncjzf.jpg' | prepend: site.qiniubaseurl }}" alt="中南财经政法大学" class="img-responsive" />
   </div>
 </div>
