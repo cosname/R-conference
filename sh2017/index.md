@@ -57,7 +57,7 @@ GenePlan（知几基因）现提供三种类型的基因体检服务。分别为
 
 <div class="row">
   <div class="col-md-8 col-md-offset-1 text-center">
-    <a href="https://geneplan.com/" title="长江众创" target="_blank">
+    <a href="http://www.cjtc.net.cn/index" title="长江众创" target="_blank">
       <img src="{{ '/img/changjiangzhongchuang.jpg' | prepend: site.qiniubaseurl }}" alt="长江众创" class="img-responsive center-block" />
     </a>
   </div>
