@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 主办机构
-location: bj
+location: bj2018
 ---
 
 ### [北京大学商务智能研究中心](http://www.gsm.pku.edu.cn/index/index.html)
