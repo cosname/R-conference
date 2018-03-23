@@ -31,7 +31,7 @@ location: bj2018
 
 本次大会欢迎企业、高校以及个人以合适的形式提供赞助。主办方将提供包括在会议手册上印制赞助商介绍、为赞助商提供报告演讲机会在内的等多种权益。具体赞助事宜请与会务组讨论商定，联系邮箱 chinar-2018-bj@cos.name。
 
-####
+#### 星通联华
 
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
