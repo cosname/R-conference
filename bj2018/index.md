@@ -48,7 +48,7 @@ location: bj2018
 <h3 class ="text-center">战略合作伙伴</h3>
 
 <div class="row">
-  <div class="col-md-1 text-center">
+  <div class="text-center">
     <a href="https://www.tdw.cn/" title="派生集团" target="_blank">
       <img src="{{ '/img/logo_ptg.jpg' | prepend: site.qiniubaseurl }}" alt="派生集团" class="img-responsive center-block" />
     </a>
@@ -61,7 +61,7 @@ location: bj2018
 <h3 class ="text-center">金牌赞助商</h3>
 
 <div class="row">
-  <div class="col-md-1 text-center">
+  <div class="text-center">
    <a href="http://www.satcomiot.com/" title="星通联华" target="_blank">
     <img src="{{ '/img/xtlh.png' | prepend: site.baseurl }}" alt="星通联华" class="img-responsive" />
     </a>
