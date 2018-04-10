@@ -41,7 +41,7 @@ location: bj2018
 
 ### 七、参会者报名
 
-参会者报名系统预计于2018年4月10日前开放，敬请期待。
+参会者报名地址请点击右上角**参会报名**
 
 ### 八、赞助商介绍
 
@@ -55,9 +55,7 @@ location: bj2018
   </div>
  </div>
 
-派生集团于2011年在东莞成立，注册资金10亿元。聚焦实业、科技、金融三大战略投资方向，致力于成为一家以“大数据、人工智能、互联网科技”等技术力量驱动产融结合、提升产业运营效率的投资服务集团。
-自2013年起，集团旗下公司陆续获得三轮累计6.75亿元的融资，投资方包括九鼎投资、巨人投资等。2017年，集团再获新一轮18亿元投资，由民生资本领投，盈生创新、海慧科技及北海宏泰等跟投。
-
+派生集团于2011年在东莞成立，注册资金10亿元。聚焦实业、科技、金融三大战略投资方向，致力于成为一家以“大数据、人工智能、互联网科技”等技术力量驱动产融结合、提升产业运营效率的投资服务集团。自2013年起，集团旗下公司陆续获得三轮累计6.75亿元的融资，投资方包括九鼎投资、巨人投资等。2017年，集团再获新一轮18亿元投资，由民生资本领投，盈生创新、海慧科技及北海宏泰等跟投。目前，集团最新估值118亿元，员工超过15000名。
 <h3 class ="text-center">金牌赞助商</h3>
 
 <div class="row">
@@ -69,6 +67,44 @@ location: bj2018
 </div>
 
 北京星通联华科技发展股份有限公司是物联网技术的整体服务提供商，包括高端自主知识产权高端传感器的生产、软件开发、系统集成以及运营服务。拥有质量管理体系认证证书、信息安全管理体系认证证书及多项专利技术和高端传感器的生产许可证，业务涵盖了公路、铁路桥梁的健康检测监测；地质灾害预警和地下水环境监测；高层建筑安全检测监测；交通运输物流信息化系统、物联网金融技术服务等多个领域。
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3 text-center">
+   <a href="http://www.satcomiot.com/" title="星通联华" target="_blank">
+    <img src="{{ '/img/xtlh.png' | prepend: site.baseurl }}" alt="星通联华" class="img-responsive" />
+    </a>
+  </div>
+</div>
+
+北京天启智创信息技术有限公司注册于2016年10月，2017年3月正式运营。天启智创以人工智能算法、风控数据服务、决策引擎系统为核心技术能力，目前主要专注于服务金融信贷和保险行业客户，为客户提供营销、智能化决策系统、风险模型策略和数据服务。天启智创未来定位于互金、银行、保险等行业的金融科技能力构建，产品方向为数据模型服务、风控和决策系统产品、用户信用风险评估等。
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3 text-center">
+   <a href="http://www.tianqismart.com/" title="天启智创" target="_blank">
+    <img src="{{ '/img/tqs.png' | prepend: site.baseurl }}" alt="天启智创" class="img-responsive" />
+    </a>
+  </div>
+</div>
+
+上海明汯投资管理有限公司成立于2014年，是一家拥有全球视野、与国际化接轨的对冲基金公司。明汯投资立志成为利用新一代技术进行量化投资的金融界佼佼者。国内市场投资标的包括股票，期货，期权，ETF，可转债等。已发行稳健增长、多策略对冲、中性、CTA、全天候5大系列基金。总管理资金规模接近40亿元。公司目前员工45人，投研团队36人，主要投研人员来自宾夕法尼亚、剑桥等世界级名校以及清华、北大、中科大、复旦、上海交大等国内外名校。公司数名投研人员均来自国内外顶尖团队。公司为2016年度私募金牛获奖管理人。
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3 text-center">
+   <a href="http://www.mhfunds.com" title="明汯投资" target="_blank">
+    <img src="{{ '/img/mhtz.png' | prepend: site.baseurl }}" alt="明汯投资" class="img-responsive" />
+    </a>
+  </div>
+</div>
+
+RStudio公司成立于2008年，创始人为JJ Allaire，R社区领军人物Hadley Wickham 现任RStudio 首席科学家。RStudio旨在为R语音提供更便利的开发环境和数据分析工具，例如RStudio集成开发环境（IDE）、RStudio服务器、Shiny、Shiny服务器、ShinyApps.io、R Markdown、RStudio Connect等。RStudio坚定支持开源软件和社区，其产品多为免费开源软件，但同时RStudio也提供相应的企业级软件应用（如RStudio服务器专业版、Shiny服务器专业版等），以满足商业使用需求（如企业内部RStudio服务器管理、售后服务支持）。自2012年起，RStudio为世界各地的R会议提供了大量赞助和支持，包括官方R语言会议和中国R语言会议。为了R语言能更持续稳定发展，RStudio倡议与微软、Tibco、Google等几家商业公司成立了R联合团体（R Consortium），每年为R社区的开源项目提供大量资助，召集优秀人才解决R语言现存的重要且有挑战性的问题。
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3 text-center">
+   <a href="https://www.rstudio.com/" title="Rstudio" target="_blank">
+    <img src="{{ '/img/logo-rstudio.png' | prepend: site.baseurl }}" alt="Rstudio" class="img-responsive" />
+    </a>
+  </div>
+</div>
 
 ### 九、 联系方式
 
