@@ -41,7 +41,7 @@ location: bj2018
 
 如有需要，请点击下面链接下载邀请函。
 
-- [嘉宾邀请函]({{ '/files/invitation_bj_2017_cn_VIP.pdf' | prepend: site.baseurl }})
+- [嘉宾邀请函]({{ '/files/invitation_bj_2018_cn_VIP.pdf' | prepend: site.baseurl }})
 
 ### 七、参会者报名
 
@@ -51,7 +51,7 @@ location: bj2018
 
 如有需要，请点击下面链接下载邀请函。
 
-- [嘉宾邀请函]({{ '/files/invitation_bj_2017_cn_VIP.pdf' | prepend: site.baseurl }})
+- [参会邀请函]({{ '/files/invitation_bj_2018_cn.pdf' | prepend: site.baseurl }})
 
 
 ### 八、赞助商介绍
