@@ -121,23 +121,27 @@ location: bj2018
 
 RStudio公司成立于2008年，创始人为JJ Allaire，R社区领军人物Hadley Wickham 现任RStudio 首席科学家。RStudio旨在为R语音提供更便利的开发环境和数据分析工具，例如RStudio集成开发环境（IDE）、RStudio服务器、Shiny、Shiny服务器、ShinyApps.io、R Markdown、RStudio Connect等。RStudio坚定支持开源软件和社区，其产品多为免费开源软件，但同时RStudio也提供相应的企业级软件应用（如RStudio服务器专业版、Shiny服务器专业版等），以满足商业使用需求（如企业内部RStudio服务器管理、售后服务支持）。自2012年起，RStudio为世界各地的R会议提供了大量赞助和支持，包括官方R语言会议和中国R语言会议。为了R语言能更持续稳定发展，RStudio倡议与微软、Tibco、Google等几家商业公司成立了R联合团体（R Consortium），每年为R社区的开源项目提供大量资助，召集优秀人才解决R语言现存的重要且有挑战性的问题。
 
+<h3 class ="text-center">银牌赞助商</h3>
+
 <div class="row">
-  <div class="col-md-6 col-md-offset-3 text-center">
+  <div class="col-md-4 col-md-offset-2 aligncenter client">
     <a href="http://www.ituring.com.cn/" title="图灵教育" target="_blank">
       <img src="{{ '/img/tulingjiaoyu.jpg' | prepend: site.baseurl }}" alt="图灵教育" class="img-responsive center-block" />
     </a>
   </div>
 </div>
 
-图灵教育 北京图灵文化发展有限公司，始终以策划出版高质量的科技图书为核心业务，自成立以来累计销售图书已超1000万册，影响了数百万读者。旗下图灵教育品牌是国内计算机图书领域的高端品牌之一。图灵社区是图灵公司打造的综合性服务平台，集图书内容生产、作译者服务、电子书销售、技术人士交流于一体。
-
 <div class="row">
-  <div class="col-md-6 col-md-offset-3 text-center">
+  <div class="col-md-4 col-md-offset-2 aligncenter client">
     <a href="http://elastic.co" title="Elastic" target="_blank">
       <img src="{{ '/img/elastic.jpg' | prepend: site.baseurl }}" alt="Elastic" class="img-responsive center-block" />
     </a>
   </div>
 </div>
+
+
+图灵教育 北京图灵文化发展有限公司，始终以策划出版高质量的科技图书为核心业务，自成立以来累计销售图书已超1000万册，影响了数百万读者。旗下图灵教育品牌是国内计算机图书领域的高端品牌之一。图灵社区是图灵公司打造的综合性服务平台，集图书内容生产、作译者服务、电子书销售、技术人士交流于一体。
+
 
 Elastic Elastic 致力于构建大规模实时数据处理软件，场景主要涵盖搜索、日志、安全与数据分析等领域。公司成立于 2012 年，旗下拥有产品包括开源的 Elastic Stack（Elasticsearch、Kibana、Beats 和 Logstash）、 X-Pack （商业特性）和 Elastic Cloud （一种托管服务）。迄今为止，这些产品的累积下载次数已超过 2.25 亿。Elastic 由 Benchmark Capital、Index Ventures 及 NEA 投资，投资额超过 1 亿美金。Elastic 拥有超过 800 位员工，分布于世界上 30 多个国家和地区。欲了解详情请访问：elastic.co。
 
