@@ -132,7 +132,7 @@ RStudio公司成立于2008年，创始人为JJ Allaire，R社区领军人物Hadl
 </div>
 
 <div class="row">
-  <div class="col-md-4 col-md-offset-2 aligncenter client">
+  <div class="col-md-4 aligncenter client">
     <a href="http://elastic.co" title="Elastic" target="_blank">
       <img src="{{ '/img/elastic.jpg' | prepend: site.baseurl }}" alt="Elastic" class="img-responsive center-block" />
     </a>
