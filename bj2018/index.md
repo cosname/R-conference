@@ -81,7 +81,7 @@ location: bj2018
 北京星通联华科技发展股份有限公司是物联网技术的整体服务提供商，包括高端自主知识产权高端传感器的生产、软件开发、系统集成以及运营服务。拥有质量管理体系认证证书、信息安全管理体系认证证书及多项专利技术和高端传感器的生产许可证，业务涵盖了公路、铁路桥梁的健康检测监测；地质灾害预警和地下水环境监测；高层建筑安全检测监测；交通运输物流信息化系统、物联网金融技术服务等多个领域。
 
 <div class="row">
-  <div class="col-md-4 col-md-offset-2 text-center">
+  <div class="col-md-6 col-md-offset-3 text-center">
    <a href="http://www.tianqismart.com/" title="天启智创" target="_blank">
     <img src="{{ '/img/tqs.png' | prepend: site.baseurl }}" alt="天启智创" class="img-responsive" />
     </a>
@@ -113,7 +113,7 @@ RStudio公司成立于2008年，创始人为JJ Allaire，R社区领军人物Hadl
 
 
 <div class="row">
-  <div class="col-md-4 aligncenter client">
+  <div class="col-md-4 col-md-offset-3 aligncenter client">
     <a href="http://elastic.co" title="Elastic" target="_blank">
       <img src="{{ '/img/elastic.jpg' | prepend: site.baseurl }}" alt="Elastic" class="img-responsive center-block" />
     </a>
