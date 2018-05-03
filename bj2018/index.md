@@ -126,7 +126,7 @@ Elastic Elastic 致力于构建大规模实时数据处理软件，场景主要�
 <h3 class ="text-center">银牌赞助商</h3>
 
 <div class="row">
-  <div class="col-md-4 col-md-offset-2 aligncenter client">
+  <div class="col-md-6 col-md-offset-3 aligncenter client">
     <a href="http://www.ituring.com.cn/" title="图灵教育" target="_blank">
       <img src="{{ '/img/tulingjiaoyu.jpg' | prepend: site.baseurl }}" alt="图灵教育" class="img-responsive center-block" />
     </a>
@@ -137,7 +137,7 @@ Elastic Elastic 致力于构建大规模实时数据处理软件，场景主要�
 图灵教育 北京图灵文化发展有限公司，始终以策划出版高质量的科技图书为核心业务，自成立以来累计销售图书已超1000万册，影响了数百万读者。旗下图灵教育品牌是国内计算机图书领域的高端品牌之一。图灵社区是图灵公司打造的综合性服务平台，集图书内容生产、作译者服务、电子书销售、技术人士交流于一体。
 
 <div class="row">
-  <div class="col-md-4 col-md-offset-2 aligncenter client">
+  <div class="col-md-6 col-md-offset-3 aligncenter client">
     <a href="http://www.merklechina.cn/" title="美库尔" target="_blank">
       <img src="{{ '/img/merkle.jpg' | prepend: site.baseurl }}" alt="美库尔" class="img-responsive center-block" />
     </a>
