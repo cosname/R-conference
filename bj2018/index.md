@@ -92,16 +92,6 @@ location: bj2018
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3 text-center">
-   <a href="http://www.mhfunds.com" title="明汯投资" target="_blank">
-    <img src="{{ '/img/mhtz.png' | prepend: site.baseurl }}" alt="明汯投资" class="img-responsive" />
-    </a>
-  </div>
-</div>
-
-上海明汯投资管理有限公司成立于2014年，是一家拥有全球视野、与国际化接轨的对冲基金公司。明汯投资立志成为利用新一代技术进行量化投资的金融界佼佼者。国内市场投资标的包括股票，期货，期权，ETF，可转债等。已发行稳健增长、多策略对冲、中性、CTA、全天候5大系列基金。总管理资金规模接近40亿元。公司目前员工45人，投研团队36人，主要投研人员来自宾夕法尼亚、剑桥等世界级名校以及清华、北大、中科大、复旦、上海交大等国内外名校。公司数名投研人员均来自国内外顶尖团队。公司为2016年度私募金牛获奖管理人。
-
-<div class="row">
-  <div class="col-md-6 col-md-offset-3 text-center">
  <a href="http://www.crup.com.cn/" title="中国人民大学出版社" target="_blank">
       <img src="{{ '/img/crup_logo.jpg' | prepend: site.baseurl }}" alt="中国人民大学出版社" class="img-responsive center-block" />
     </a>
@@ -121,6 +111,18 @@ location: bj2018
 
 RStudio公司成立于2008年，创始人为JJ Allaire，R社区领军人物Hadley Wickham 现任RStudio 首席科学家。RStudio旨在为R语音提供更便利的开发环境和数据分析工具，例如RStudio集成开发环境（IDE）、RStudio服务器、Shiny、Shiny服务器、ShinyApps.io、R Markdown、RStudio Connect等。RStudio坚定支持开源软件和社区，其产品多为免费开源软件，但同时RStudio也提供相应的企业级软件应用（如RStudio服务器专业版、Shiny服务器专业版等），以满足商业使用需求（如企业内部RStudio服务器管理、售后服务支持）。自2012年起，RStudio为世界各地的R会议提供了大量赞助和支持，包括官方R语言会议和中国R语言会议。为了R语言能更持续稳定发展，RStudio倡议与微软、Tibco、Google等几家商业公司成立了R联合团体（R Consortium），每年为R社区的开源项目提供大量资助，召集优秀人才解决R语言现存的重要且有挑战性的问题。
 
+
+<div class="row">
+  <div class="col-md-4 aligncenter client">
+    <a href="http://elastic.co" title="Elastic" target="_blank">
+      <img src="{{ '/img/elastic.jpg' | prepend: site.baseurl }}" alt="Elastic" class="img-responsive center-block" />
+    </a>
+  </div>
+</div>
+
+Elastic Elastic 致力于构建大规模实时数据处理软件，场景主要涵盖搜索、日志、安全与数据分析等领域。公司成立于 2012 年，旗下拥有产品包括开源的 Elastic Stack（Elasticsearch、Kibana、Beats 和 Logstash）、 X-Pack （商业特性）和 Elastic Cloud （一种托管服务）。迄今为止，这些产品的累积下载次数已超过 2.25 亿。Elastic 由 Benchmark Capital、Index Ventures 及 NEA 投资，投资额超过 1 亿美金。Elastic 拥有超过 800 位员工，分布于世界上 30 多个国家和地区。欲了解详情请访问：elastic.co。
+
+
 <h3 class ="text-center">银牌赞助商</h3>
 
 <div class="row">
@@ -131,19 +133,18 @@ RStudio公司成立于2008年，创始人为JJ Allaire，R社区领军人物Hadl
   </div>
 </div>
 
+
+图灵教育 北京图灵文化发展有限公司，始终以策划出版高质量的科技图书为核心业务，自成立以来累计销售图书已超1000万册，影响了数百万读者。旗下图灵教育品牌是国内计算机图书领域的高端品牌之一。图灵社区是图灵公司打造的综合性服务平台，集图书内容生产、作译者服务、电子书销售、技术人士交流于一体。
+
 <div class="row">
-  <div class="col-md-4 aligncenter client">
-    <a href="http://elastic.co" title="Elastic" target="_blank">
-      <img src="{{ '/img/elastic.jpg' | prepend: site.baseurl }}" alt="Elastic" class="img-responsive center-block" />
+  <div class="col-md-4 col-md-offset-2 aligncenter client">
+    <a href="http://www.merklechina.cn/" title="美库尔" target="_blank">
+      <img src="{{ '/img/merkle.jpg' | prepend: site.baseurl }}" alt="美库尔" class="img-responsive center-block" />
     </a>
   </div>
 </div>
 
-
-图灵教育 北京图灵文化发展有限公司，始终以策划出版高质量的科技图书为核心业务，自成立以来累计销售图书已超1000万册，影响了数百万读者。旗下图灵教育品牌是国内计算机图书领域的高端品牌之一。图灵社区是图灵公司打造的综合性服务平台，集图书内容生产、作译者服务、电子书销售、技术人士交流于一体。
-
-
-Elastic Elastic 致力于构建大规模实时数据处理软件，场景主要涵盖搜索、日志、安全与数据分析等领域。公司成立于 2012 年，旗下拥有产品包括开源的 Elastic Stack（Elasticsearch、Kibana、Beats 和 Logstash）、 X-Pack （商业特性）和 Elastic Cloud （一种托管服务）。迄今为止，这些产品的累积下载次数已超过 2.25 亿。Elastic 由 Benchmark Capital、Index Ventures 及 NEA 投资，投资额超过 1 亿美金。Elastic 拥有超过 800 位员工，分布于世界上 30 多个国家和地区。欲了解详情请访问：elastic.co。
+美库尔是全美规模最大、发展最快的私有客户关系营销（CRM）咨询公司。20多年来，美库尔同众多财富1000强企业以及非营利组织机构合作，帮助客户实现其顾客组合价值的最大化。拥有强大的cCRM™架构，我们能帮助客户建立平台营销的技能，并抓住大规模客户识别技术的机遇。美库尔运用一整套的数据驱动的策略，结合完营销、技术、分析和行业知识，给客户提供整合客户营销解决方案。
 
 <h3 class ="text-center">会议视频服务独家合作伙伴</h3>
 <div class="row">
@@ -154,8 +155,7 @@ Elastic Elastic 致力于构建大规模实时数据处理软件，场景主要�
   </div>
 </div>
 
-IT大咖说，IT垂直领域的大咖知识分享平台，践行“开源是一种态度”，通过线上线下开放模式分享行业TOP大咖干货，技术大会在线直播点播，在线直播知识分享平台。50+合作社区，每周10+场技术大会精彩分享，2000+业内大咖资源。让程序猿、攻城狮不再遗憾，随时随地，想看就看！IT大咖说，让智慧流动起来！
-
+IT大咖说，IT垂直领域的大咖知识分享平台，践行“开源是一种态度”，通过线上线下开放模式分享行业TOP大咖干货，技术大会在线直播点播，在线直播知识分享平台。200+合作社区，每周30+场技术大会精彩分享，4000+业内大咖资源。让程序猿、攻城狮不再遗憾，随时随地，想看就看，让智慧流动起来！
 
 ### 九、 联系方式
 
