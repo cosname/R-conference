@@ -26,7 +26,7 @@ location: bj2018
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/logo-bear.png' | prepend: site.baseurl }}" alt="狗熊会" class="img-responsive center-block" />
+    <img src="{{ '/img/logo_bear.png' | prepend: site.baseurl }}" alt="狗熊会" class="img-responsive center-block" />
   </div>
 </div>
 
