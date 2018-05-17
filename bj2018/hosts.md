@@ -4,6 +4,16 @@ title: 主办机构
 location: bj2018
 ---
 
+### [中国人民大学统计学院](http://stat.ruc.edu.cn/)
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <img src="{{ '/img/logo-ruc.jpg' | prepend: site.qiniubaseurl }}" alt="中国人民大学" class="img-responsive center-block" />
+  </div>
+</div>
+
+人大统计学科始建于1950年，2003年建院。全国重点学科，2007年教育部二级学科评估排名全国第一，2012年教育部统计学一级学科评估排名全国第一。拥有统计学一级学科博士点和博士后流动站，经济统计学和风险管理与精算学两个二级学科博士点，拥有预防医学与公共卫生一级学科硕士授权点，应用统计学专业学位硕士点，统计学、经济统计学、应用统计学（风险管理与精算）三个本科专业，是全国拥有理学、经济学、医学三大门类统计学专业最齐全的统计学院。
+
 ### [北京大学光华管理学院](http://www.gsm.pku.edu.cn/)
 
 <div class="row">

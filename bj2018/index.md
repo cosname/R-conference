@@ -82,16 +82,6 @@ location: bj2018
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3 text-center">
-   <a href="http://www.tianqismart.com/" title="天启智创" target="_blank">
-    <img src="{{ '/img/tqs.png' | prepend: site.baseurl }}" alt="天启智创" class="img-responsive" />
-    </a>
-  </div>
-</div>
-
-北京天启智创信息技术有限公司注册于2016年10月，2017年3月正式运营。天启智创以人工智能算法、风控数据服务、决策引擎系统为核心技术能力，目前主要专注于服务金融信贷和保险行业客户，为客户提供营销、智能化决策系统、风险模型策略和数据服务。天启智创未来定位于互金、银行、保险等行业的金融科技能力构建，产品方向为数据模型服务、风控和决策系统产品、用户信用风险评估等。
-
-<div class="row">
-  <div class="col-md-6 col-md-offset-3 text-center">
  <a href="http://www.crup.com.cn/" title="中国人民大学出版社" target="_blank">
       <img src="{{ '/img/crup_logo.jpg' | prepend: site.baseurl }}" alt="中国人民大学出版社" class="img-responsive center-block" />
     </a>
@@ -100,6 +90,15 @@ location: bj2018
 
 中国人民大学出版社 中国人民大学出版社成立于1955年，是新中国成立后的第一家大学出版社。1982年被教育部确定为全国高等学校文科教材出版中心，2007年获首届中国出版政府奖先进出版单位奖，2009年获首届全国百佳图书出版单位荣誉称号，是中国最重要的高校教材和学术著作出版基地之一。我社统计学出版坚持精品战略，汇集了中国人民大学、北京大学、厦门大学、中央财经大学等国内众多知名高校的统计学教授的代表性教材和著作，受到了国内统计学老师的普遍认可。同时，紧跟学科发展前沿，率先出版了大数据系列教材和《数据科学概论》等。
 
+<div class="row">
+  <div class="col-md-6 col-md-offset-3 text-center">
+   <a href="http://www.tianqismart.com/" title="天启智创" target="_blank">
+    <img src="{{ '/img/tqs.png' | prepend: site.baseurl }}" alt="天启智创" class="img-responsive" />
+    </a>
+  </div>
+</div>
+
+北京天启智创信息技术有限公司注册于2016年10月，2017年3月正式运营。天启智创以人工智能算法、风控数据服务、决策引擎系统为核心技术能力，目前主要专注于服务金融信贷和保险行业客户，为客户提供营销、智能化决策系统、风险模型策略和数据服务。天启智创未来定位于互金、银行、保险等行业的金融科技能力构建，产品方向为数据模型服务、风控和决策系统产品、用户信用风险评估等。
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3 text-center">
@@ -120,7 +119,7 @@ RStudio公司成立于2008年，创始人为JJ Allaire，R社区领军人物Hadl
   </div>
 </div>
 
-Elastic Elastic 致力于构建大规模实时数据处理软件，场景主要涵盖搜索、日志、安全与数据分析等领域。公司成立于 2012 年，旗下拥有产品包括开源的 Elastic Stack（Elasticsearch、Kibana、Beats 和 Logstash）、 X-Pack （商业特性）和 Elastic Cloud （一种托管服务）。迄今为止，这些产品的累积下载次数已超过 2.25 亿。Elastic 由 Benchmark Capital、Index Ventures 及 NEA 投资，投资额超过 1 亿美金。Elastic 拥有超过 800 位员工，分布于世界上 30 多个国家和地区。欲了解详情请访问：elastic.co。
+Elastic 致力于构建大规模实时数据处理软件，场景主要涵盖搜索、日志、安全与数据分析等领域。公司成立于 2012 年，旗下拥有产品包括开源的 Elastic Stack（Elasticsearch、Kibana、Beats 和 Logstash）、 X-Pack （商业特性）和 Elastic Cloud （一种托管服务）。迄今为止，这些产品的累积下载次数已超过 2.25 亿。Elastic 由 Benchmark Capital、Index Ventures 及 NEA 投资，投资额超过 1 亿美金。Elastic 拥有超过 800 位员工，分布于世界上 30 多个国家和地区。欲了解详情请访问：elastic.co。
 
 
 <h3 class ="text-center">银牌赞助商</h3>
@@ -134,7 +133,7 @@ Elastic Elastic 致力于构建大规模实时数据处理软件，场景主要�
 </div>
 
 
-图灵教育 北京图灵文化发展有限公司，始终以策划出版高质量的科技图书为核心业务，自成立以来累计销售图书已超1000万册，影响了数百万读者。旗下图灵教育品牌是国内计算机图书领域的高端品牌之一。图灵社区是图灵公司打造的综合性服务平台，集图书内容生产、作译者服务、电子书销售、技术人士交流于一体。
+北京图灵文化发展有限公司，始终以策划出版高质量的科技图书为核心业务，自成立以来累计销售图书已超1000万册，影响了数百万读者。旗下图灵教育品牌是国内计算机图书领域的高端品牌之一。图灵社区是图灵公司打造的综合性服务平台，集图书内容生产、作译者服务、电子书销售、技术人士交流于一体。
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3 aligncenter client">
