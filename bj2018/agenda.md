@@ -8,8 +8,7 @@ location: bj2018
   <div class=" text-center">
     <a >
       <img src="{{ '/img/Rcap2018_keynote.pdf' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
-	  <img src="{{ '/img/scheduleTable2018.pdf' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
-	  <img src="{{ '/img/Rcap2018.pdf' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
+	  
     </a>
   </div>
  </div>
