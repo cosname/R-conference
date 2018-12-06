@@ -6,7 +6,7 @@ location: sh
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/img/logosh.jpg' | prepend: site.baseurl }}" alt="华东师范大学" class="img-responsive" />
+    <img src="{{ '/img/logosh2018.jpg' | prepend: site.baseurl }}" alt="华东师范大学" class="img-responsive" />
   </div>
 </div>
 自2008年起，北京、上海、杭州、广州等地区已经成功举办了十届R语言会议，前后报名参与人数超过万人，会议内容针对数据科学的前沿领域，覆盖了数据科学在各行各业中的应用，包括人工智能、互联网、物联网、量化金融以及金融大数据、生物信息、医学以及生物制药、城市大数据、商务智能等。R会议聚学界翘楚、业界精英、技术大咖于一堂，让更多的数据科学爱好者参与其中，在高校和业界产生了深远影响，极大促进了数据科学在中国的推广和发展，如今已经成为国内数据科学界最重要的盛会之一，见证了中国数据科学的迅猛发展。
@@ -39,6 +39,8 @@ location: sh
 
 本届会议主题包括但不限于机器学习、数据可视化、数据挖掘、量化金融、人工智能、深度学习、图像识别、对抗学习、智慧营销、智慧医疗、智慧教育、智慧城市、社交网络、平台搭建、网络爬虫、文本挖掘、知识图谱等数据科学领域的前沿主题。
 
+- [会议手册]({{ '/files/ChinaR_11th.pdf' | prepend: site.baseurl }})
+
 ### 四、会议赞助
 
 本次大会欢迎企业、高校以及个人以合适的形式提供赞助，主办方将提供包括在会议手册上印制赞助商介绍、为赞助商提供报告演讲机会等在内的多种权益。具体赞助事宜请与会务组讨论商定，请联系chinar-2017-sh@cos.name。
@@ -61,7 +63,7 @@ RStudio公司成立于2008年，创始人为JJ Allaire，R社区领军人物Hadl
 <div class="row">
   <div class="col-md-8 col-md-offset-1 text-center">
     <a href="https://charminginsurance.cn/" title="卓铭保险" target="_blank">
-      <img src="{{ '/img/logo_zhuoming.jpg' | prepend: site.qiniubaseurl }}" alt="卓铭保险" class="img-responsive center-block" />
+      <img src="{{ '/img/logo_zhuoming.png' | prepend: site.qiniubaseurl }}" alt="卓铭保险" class="img-responsive center-block" />
     </a>
   </div>
 </div>
