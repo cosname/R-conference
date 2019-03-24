@@ -60,7 +60,7 @@ location: bj2019
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/logo-cfas.jpg' | prepend: site.qiniubaseurl }}" alt="中国人民大学应用统计科学研究中心" class="img-responsive center-block" />
+    <img src="{{ '/img/logo-cfas.png' | prepend: site.qiniubaseurl }}" alt="中国人民大学应用统计科学研究中心" class="img-responsive center-block" />
   </div>
 </div>
 
