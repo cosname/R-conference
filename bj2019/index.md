@@ -7,7 +7,7 @@ location: bj2019
 <!-- picture -->
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/img/logo_2018R.png' | prepend: site.baseurl }}" alt="中国R会议北京" class="img-responsive" />
+    <img src="{{ '/img/logo_2019R.png' | prepend: site.baseurl }}" alt="中国R会议北京" class="img-responsive" />
   </div>
 </div>
 
@@ -20,7 +20,7 @@ location: bj2019
 
 ### 二、会议地点
 
-中国人民大学，24日主会场地点为八百人大教室，25-26日分会场地点为中国人民大学公教三楼。具体会场地址敬请关注中国R会议官方网站（www.china-r.org）
+中国人民大学，24日主会场地点为八百人大教室，25-26日分会场地点为中国人民大学公教三楼。具体会场地址敬请关注中国R会议官方网站（[www.china-r.org](http://www.china-r.org)）
 
 ### 三、会议主题
 
@@ -81,7 +81,7 @@ location: bj2019
 ### [狗熊会](http://www.xiong99.com.cn/) 
 
 <div class="row">
-  <div class="col-md-6 col-md-offset-3">
+  <div class="col-md-8 col-md-offset-5">
     <img src="{{ '/img/logo-bear.png' | prepend: site.baseurl }}" alt="狗熊会" class="img-responsive center-block" />
   </div>
  </div> 
