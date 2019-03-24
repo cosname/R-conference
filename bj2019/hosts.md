@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 主办机构
-location: bj2018
+location: bj2019
 ---
 
 ### [中国人民大学统计学院](http://stat.ruc.edu.cn/)
