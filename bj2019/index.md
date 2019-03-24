@@ -81,7 +81,7 @@ location: bj2019
 ### [狗熊会](http://www.xiong99.com.cn/) 
 
 <div class="row">
-  <div class="col-md-5 col-md-offset-3">
+  <div class="col-md-6 col-md-offset-3">
     <img src="{{ '/img/logo-bear.png' | prepend: site.baseurl }}" alt="狗熊会" class="img-responsive center-block" />
   </div>
  </div> 
@@ -90,7 +90,7 @@ location: bj2019
 
 
 <div class="row">
-  <div class="col-md-5 col-md-offset-3">
+  <div class="col-md-6 col-md-offset-3">
     <img src="{{ '/img/logo-bear-QRcode.png' | prepend: site.baseurl }}" alt="狗熊会微信公众号二维码" class="img-responsive center-block" />
   </div>
  </div> 
