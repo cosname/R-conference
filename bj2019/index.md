@@ -88,6 +88,13 @@ location: bj2019
  
 狗熊会是一个致力于数据产业的高端智库。狗熊会帮助合作伙伴制定数据战略，培养数据人才，研究数据业务，发现数据价值，推送产业进步！狗熊会使命：“聚数据英才，助产业振兴”！
 
+
+<div class="row">
+  <div class="col-md-8 col-md-offset-5">
+    <img src="{{ '/img/logo-bear-QRcode.png' | prepend: site.baseurl }}" alt="狗熊会微信公众号二维码" class="img-responsive center-block" />
+  </div>
+ </div> 
+
 ### 九、 联系方式
 
 会议微信：统计之都
