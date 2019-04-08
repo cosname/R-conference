@@ -20,7 +20,7 @@ location: bj2019
 
 ### 二、会议地点
 
-中国人民大学，24日主会场地点为八百人大教室，25-26日分会场地点为中国人民大学公教三楼。具体会场地址敬请关注中国R会议官方网站（[www.china-r.org](http://www.china-r.org)）
+中国人民大学，24日主会场地点为八百人大教室，25-26日分会场地点为中国人民大学公教三楼。具体会场地址敬请关注中国R会议官方网站（[china-r.org](https://china-r.org)）
 
 ### 三、会议主题
 
@@ -50,7 +50,7 @@ location: bj2019
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/logo-rucstat.jpg' | prepend: site.qiniubaseurl }}" alt="中国人民大学统计学院" class="img-responsive center-block" />
+    <img src="{{ '/img/logo-rucstat.jpg' | prepend: site.baseurl }}" alt="中国人民大学统计学院" class="img-responsive center-block" />
   </div>
 </div>
 
@@ -60,21 +60,21 @@ location: bj2019
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/logo-cfas.png' | prepend: site.qiniubaseurl }}" alt="中国人民大学应用统计科学研究中心" class="img-responsive center-block" />
+    <img src="{{ '/img/logo-cfas.png' | prepend: site.baseurl }}" alt="中国人民大学应用统计科学研究中心" class="img-responsive center-block" />
   </div>
 </div>
 
 中国人民大学应用统计科学研究中心是中华人民共和国教育部所属百所人文社会科学重点研究基地之一，它成立于2000年9月，其前身是1988年成立的中国人民大学统计科学研究所。研究中心积极培育中青年学术骨干，逐渐发展并形成了经济与社会统计、统计调查与数据分析、风险管理与精算、生物卫生统计，四个各具特色的研究方向。中心建设的重点研究平台是：1．重大发展问题的统计技术创新研究。2．现代统计技术与方法的应用性研究。3．精算技术的创新与应用。4．生物医学统计技术发展与应用。研究中心拥有国内一流的研究人员，承担多项国家及教育部项目，获得丰硕的研究成果。应用统计科学研究中心，始终将建立和发展应用统计学科基地作为战略定位，着重从制定应用统计研究的科学规划、密切联系实际选准科研攻关方向、注重研究工作的长期积累、加强重点研究平台建设等方面开展工作。
 
-### [统计之都](http://cosx.org/)
+### [统计之都](https://cosx.org/)
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/logo-cos.png' | prepend: site.qiniubaseurl }}" alt="统计之都" class="img-responsive center-block" />
+    <img src="{{ '/img/logo-cos.png' | prepend: site.baseurl }}" alt="统计之都" class="img-responsive center-block" />
   </div>
 </div>
 
-统计之都（Capital of Statistics，简称 COS，网址 http://cosx.org/），成立于 2006 年 5 月，是一家旨在推广与应用统计学知识的网站和社区，其口号是“中国统计学门户网站，免费统计学服务平台”。统计之都发源于中国人民大学统计学院，由谢益辉创建，现由世界各地的众多志愿者共同管理维护，理事会现任主席为冯凌秉。统计之都致力于搭建一个开放的平台，使得科研人员、数据分析人员和统计学爱好者能互相交流合作，一方面促进彼此专业知识技能的增长，另一方面为国内统计学和数据科学的发展贡献自己的力量。
+统计之都（Capital of Statistics，简称 COS，网址 https://cosx.org/），成立于 2006 年 5 月，是一家旨在推广与应用统计学知识的网站和社区，其口号是“中国统计学门户网站，免费统计学服务平台”。统计之都发源于中国人民大学统计学院，由谢益辉创建，现由世界各地的众多志愿者共同管理维护，理事会现任主席为冯凌秉。统计之都致力于搭建一个开放的平台，使得科研人员、数据分析人员和统计学爱好者能互相交流合作，一方面促进彼此专业知识技能的增长，另一方面为国内统计学和数据科学的发展贡献自己的力量。
 
 <h3 class ="text-center">协办方</h3>
 
