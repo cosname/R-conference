@@ -36,13 +36,7 @@ location: bj2019
 
 如有需要，请点击下面链接下载邀请函。
 
-- [嘉宾邀请函]({{ '/files/invitation-letter-cn.pdf' | prepend: site.baseurl }})
-
-### 七、参会者邀请函
-
-如有需要，请点击下面链接下载邀请函。
-
-- [参会邀请函]({{ '/files/invitation_bj_2018_cn.pdf' | prepend: site.baseurl }})
+- [嘉宾邀请函]({{ '/img/invitation-letter-cn.pdf' | prepend: site.baseurl }})
 
 
 ### 六、分会场组织者报名
@@ -52,6 +46,11 @@ location: bj2019
 ### 七、参会者报名
 
 参会者报名系统预计于2019年4月12日前开放，敬请期待。
+
+
+如有需要，请点击下面链接下载邀请函。
+
+- [参会邀请函]({{ '/img/notice.pdf' | prepend: site.baseurl }})
 
 ### 八、会议组织
 
