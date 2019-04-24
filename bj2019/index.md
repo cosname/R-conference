@@ -45,8 +45,13 @@ location: bj2019
 
 ### 七、参会者报名
 
-参会者报名系统预计于2019年4月12日前开放，敬请期待。
+参会者请点击点击网页右上方“演讲者报名”，可进入演讲者报名网站。或使用手机识别下图二维码来进行报名。
 
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <img src="{{ '/img/sign-up.jpg' | prepend: site.baseurl }}" alt="报名二维码" class="img-responsive center-block" />
+  </div>
+</div>
 
 如有需要，请点击下面链接下载邀请函。
 
@@ -55,6 +60,18 @@ location: bj2019
 ### 八、会议组织
 
 <h3 class ="text-center">主办方</h3>
+
+### [统计之都](https://cosx.org/)
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <img src="{{ '/img/logo-cos.png' | prepend: site.baseurl }}" alt="统计之都" class="img-responsive center-block" />
+  </div>
+</div>
+
+统计之都（Capital of Statistics，简称 COS，网址 https://cosx.org/），成立于 2006 年 5 月，是一家旨在推广与应用统计学知识的网站和社区，其口号是“中国统计学门户网站，免费统计学服务平台”。统计之都发源于中国人民大学统计学院，由谢益辉创建，现由世界各地的众多志愿者共同管理维护，理事会现任主席为冯凌秉。统计之都致力于搭建一个开放的平台，使得科研人员、数据分析人员和统计学爱好者能互相交流合作，一方面促进彼此专业知识技能的增长，另一方面为国内统计学和数据科学的发展贡献自己的力量。
+
+<h3 class ="text-center">协办方</h3>
 
 ### [中国人民大学统计学院](http://stat.ruc.edu.cn/)
 
@@ -76,18 +93,6 @@ location: bj2019
 
 中国人民大学应用统计科学研究中心是中华人民共和国教育部所属百所人文社会科学重点研究基地之一，它成立于2000年9月，其前身是1988年成立的中国人民大学统计科学研究所。研究中心积极培育中青年学术骨干，逐渐发展并形成了经济与社会统计、统计调查与数据分析、风险管理与精算、生物卫生统计，四个各具特色的研究方向。中心建设的重点研究平台是：1．重大发展问题的统计技术创新研究。2．现代统计技术与方法的应用性研究。3．精算技术的创新与应用。4．生物医学统计技术发展与应用。研究中心拥有国内一流的研究人员，承担多项国家及教育部项目，获得丰硕的研究成果。应用统计科学研究中心，始终将建立和发展应用统计学科基地作为战略定位，着重从制定应用统计研究的科学规划、密切联系实际选准科研攻关方向、注重研究工作的长期积累、加强重点研究平台建设等方面开展工作。
 
-### [统计之都](https://cosx.org/)
-
-<div class="row">
-  <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/logo-cos.png' | prepend: site.baseurl }}" alt="统计之都" class="img-responsive center-block" />
-  </div>
-</div>
-
-统计之都（Capital of Statistics，简称 COS，网址 https://cosx.org/），成立于 2006 年 5 月，是一家旨在推广与应用统计学知识的网站和社区，其口号是“中国统计学门户网站，免费统计学服务平台”。统计之都发源于中国人民大学统计学院，由谢益辉创建，现由世界各地的众多志愿者共同管理维护，理事会现任主席为冯凌秉。统计之都致力于搭建一个开放的平台，使得科研人员、数据分析人员和统计学爱好者能互相交流合作，一方面促进彼此专业知识技能的增长，另一方面为国内统计学和数据科学的发展贡献自己的力量。
-
-<h3 class ="text-center">协办方</h3>
-
 ### [狗熊会](http://www.xiong99.com.cn/) 
 
 <div class="row">
@@ -98,13 +103,67 @@ location: bj2019
  
 狗熊会是一个致力于数据产业的高端智库。狗熊会帮助合作伙伴制定数据战略，培养数据人才，研究数据业务，发现数据价值，推送产业进步！狗熊会使命：“聚数据英才，助产业振兴”！
 
-
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
     <img src="{{ '/img/logo-bear-QRcode.png' | prepend: site.baseurl }}" alt="狗熊会微信公众号二维码" class="img-responsive center-block" />
   </div>
  </div> 
 
+<h3 class ="text-center">金牌赞助商</h3>
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3 text-center">
+   <a href="https://www.rstudio.com/" title="Rstudio" target="_blank">
+    <img src="{{ '/img/logo-rstudio.png' | prepend: site.baseurl }}" alt="Rstudio" class="img-responsive" />
+    </a>
+  </div>
+</div>
+
+RStudio公司成立于2008年，创始人为JJ Allaire，R社区领军人物Hadley Wickham 现任RStudio 首席科学家。RStudio旨在为R语音提供更便利的开发环境和数据分析工具，例如RStudio集成开发环境（IDE）、RStudio服务器、Shiny、Shiny服务器、ShinyApps.io、R Markdown、RStudio Connect等。RStudio坚定支持开源软件和社区，其产品多为免费开源软件，但同时RStudio也提供相应的企业级软件应用（如RStudio服务器专业版、Shiny服务器专业版等），以满足商业使用需求（如企业内部RStudio服务器管理、售后服务支持）。自2012年起，RStudio为世界各地的R会议提供了大量赞助和支持，包括官方R语言会议和中国R语言会议。为了R语言能更持续稳定发展，RStudio倡议与微软、Tibco、Google等几家商业公司成立了R联合团体（R Consortium），每年为R社区的开源项目提供大量资助，召集优秀人才解决R语言现存的重要且有挑战性的问题。
+
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3 text-center">
+   <a href="http://www.ptpress.com.cn/" title="人民邮电出版社" target="_blank">
+    <img src="{{ '/img/rmyd.png' | prepend: site.baseurl }}" alt="人民邮电出版社" class="img-responsive" />
+    </a>
+  </div>
+</div>
+
+
+人民邮电出版社成立于1953年10月，隶属于工信部，是全国优秀出版社、全国百佳图书出版单位，荣获“中国出版政府奖先进出版单位”“全国文明单位”“中央国家机关文明单位标兵”等重要荣誉，出版领域涵盖科技出版、教育出版、大众出版，涉及信息技术、经济管理、摄影、心理学、少儿、大中专教材等十余个出版门类。 年出版新书约3000种，再版图书超过5000种，年销售码洋超过20亿元。
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3 aligncenter client">
+    <a href="http://www.ituring.com.cn/" title="图灵教育" target="_blank">
+      <img src="{{ '/img/tulingjiaoyu.jpg' | prepend: site.baseurl }}" alt="图灵教育" class="img-responsive center-block" />
+    </a>
+  </div>
+</div>
+
+
+北京图灵文化发展有限公司，始终以策划出版高质量的科技图书为核心业务，自成立以来累计销售图书已超1000万册，影响了数百万读者。旗下图灵教育品牌是国内计算机图书领域的高端品牌之一。图灵社区是图灵公司打造的综合性服务平台，集图书内容生产、作译者服务、电子书销售、技术人士交流于一体。
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3 text-center">
+ <a href="http://www.crup.com.cn/" title="中国人民大学出版社" target="_blank">
+      <img src="{{ '/img/crup_logo.jpg' | prepend: site.baseurl }}" alt="中国人民大学出版社" class="img-responsive center-block" />
+    </a>
+  </div>
+</div>
+中国人民大学出版社 中国人民大学出版社成立于1955年，是新中国成立后的第一家大学出版社。1982年被教育部确定为全国高等学校文科教材出版中心，2007年获首届中国出版政府奖先进出版单位奖，2009年获首届全国百佳图书出版单位荣誉称号，是中国最重要的高校教材和学术著作出版基地之一。我社统计学出版坚持精品战略，汇集了中国人民大学、北京大学、厦门大学、中央财经大学等国内众多知名高校的统计学教授的代表性教材和著作，受到了国内统计学老师的普遍认可。同时，紧跟学科发展前沿，率先出版了大数据系列教材和《数据科学概论》等。
+
+<h3 class ="text-center">会议视频服务独家合作伙伴</h3>
+<div class="row">
+  <div class="col-md-10 col-md-offset-1 text-center">
+   <a href="http://www.itdks.com/" title="IT大咖说" target="_blank">
+    <img src="{{ '/img/IT_logo.jpg' | prepend: site.baseurl }}" alt="IT大咖说" class="img-responsive" />
+    </a>
+  </div>
+</div>
+
+IT大咖说，IT垂直领域的大咖知识分享平台，践行“开源是一种态度”，通过线上线下开放模式分享行业TOP大咖干货，技术大会在线直播点播，在线直播知识分享平台。200+合作社区，每周30+场技术大会精彩分享，4000+业内大咖资源。让程序猿、攻城狮不再遗憾，随时随地，想看就看，让智慧流动起来！
+ 
 ### 九、 联系方式
 
 会议微信：统计之都
