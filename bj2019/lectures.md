@@ -10,7 +10,7 @@ location: bj2019
      $('.collapse').collapse('toggle');
  })
  </script>
- 
+
 <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 
 <table class="table table-striped">
@@ -146,7 +146,7 @@ location: bj2019
   </tr>
   <tr class="collapse" id="session-1-sub-7">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 中国各级医院、医师诊疗水平参差不齐，优质资源集中在大医院和少数专家手里基层医院和大夫诊疗水平提高的渠道少。临床大量的误诊误治病例，均由于缺乏精准的专业知识和标准化的诊疗决策流程。日益复杂和细化的临床诊疗要求，给传统的经验医学提出了前所未有的挑战。由于中国医生少、病人多，医生没有时间和精力掌握完整的系统知识，也不可能规范地按照标准流程开展诊治。因此，迫切需要一套简单、实用的工具系统，辅助神经专科和非专科大夫在短期内处理大量的医学信息和快速做出正确的决策。本报告将围绕神经系统疾病的精准诊疗辅助决策与多层次会诊系统的建设方案和临床应用场景进行介绍。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 中国各级医院、医师诊疗水平参差不齐，优质资源集中在大医院和少数专家手里，基层医院和大夫诊疗水平提高的渠道少。临床大量的误诊误治病例，均由于缺乏精准的专业知识和标准化的诊疗决策流程。日益复杂和细化的临床诊疗要求，给传统的经验医学提出了前所未有的挑战。由于中国医生少、病人多，医生没有时间和精力掌握完整的系统知识，也不可能规范地按照标准流程开展诊治。因此，迫切需要一套简单、实用的工具系统，辅助神经专科和非专科大夫在短期内处理大量的医学信息和快速做出正确的决策。本报告将围绕神经系统疾病的精准诊疗辅助决策与多层次会诊系统的建设方案和临床应用场景进行介绍。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 王朝东，教授、主任医师、博士研究生导师。现任首都医科大学宣武医院神经内科遗传代谢专业主任、国家老年疾病临床医学研究中心办公室主任, 兼任国家重点研发计划项目“主动健康与老龄化科技应对”重点项目专家组成员、中国医师协会老年病学分会委员、中国优生科学协会理事、中国老年保健协会脑保健专业委员会副主任委员、北京市医学会帕金森病与运动障碍分会委员、北京市医学会遗传学分会委员。长期从事神经系统疾病的临床诊疗及分子机制、精准诊治和大数据应用等方面研究。主持国家科技部重点研发计划项目子课题1项、国家自然科学基金面上项目4项、省级课题6项。在国内外专业杂志发表论文50余篇，其中SCI收录30余篇。获中华医学科技二等奖、北京市科学技术一等奖、江西省科技进步三等奖各一项。</p>
     </td>
   </tr>
@@ -432,7 +432,7 @@ location: bj2019
     <p>钟永剑</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>D3 财务可视化财报呈现一目了然</strong></p>
+    <p class="text-center"><strong>D3 财务可视化：财报呈现一目了然</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-4-sub-3">详情</button>
@@ -450,7 +450,7 @@ location: bj2019
     <p>胡悦</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>数据可视化与反p-hacking以政治科学研究为例</strong></p>
+    <p class="text-center"><strong>数据可视化与反p-hacking：以政治科学研究为例</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-4-sub-4">详情</button>
@@ -1217,7 +1217,7 @@ location: bj2019
   </tr>
   <tr class="collapse" id="session-13-sub-1">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 中国各级医院、医师诊疗水平参差不齐，优质资源集中在大医院和少数专家手里基层医院和大夫诊疗水平提高的渠道少。临床大量的误诊误治病例，均由于缺乏精准的专业知识和标准化的诊疗决策流程。日益复杂和细化的临床诊疗要求，给传统的经验医学提出了前所未有的挑战。由于中国医生少、病人多，医生没有时间和精力掌握完整的系统知识，也不可能规范地按照标准流程开展诊治。因此，迫切需要一套简单、实用的工具系统，辅助神经专科和非专科大夫在短期内处理大量的医学信息和快速做出正确的决策。本报告将围绕神经系统疾病的精准诊疗辅助决策与多层次会诊系统的建设方案和临床应用场景进行介绍。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 中国各级医院、医师诊疗水平参差不齐，优质资源集中在大医院和少数专家手里，基层医院和大夫诊疗水平提高的渠道少。临床大量的误诊误治病例，均由于缺乏精准的专业知识和标准化的诊疗决策流程。日益复杂和细化的临床诊疗要求，给传统的经验医学提出了前所未有的挑战。由于中国医生少、病人多，医生没有时间和精力掌握完整的系统知识，也不可能规范地按照标准流程开展诊治。因此，迫切需要一套简单、实用的工具系统，辅助神经专科和非专科大夫在短期内处理大量的医学信息和快速做出正确的决策。本报告将围绕神经系统疾病的精准诊疗辅助决策与多层次会诊系统的建设方案和临床应用场景进行介绍。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 教授、主任医师、博士研究生导师。现任首都医科大学宣武医院神经内科遗传代谢专业主任、国家老年疾病临床医学研究中心办公室主任, 兼任国家重点研发计划项目“主动健康与老龄化科技应对”重点项目专家组成员、中国医师协会老年病学分会委员、中国优生科学协会理事、中国老年保健协会脑保健专业委员会副主任委员、北京市医学会帕金森病与运动障碍分会委员、北京市医学会遗传学分会委员。长期从事神经系统疾病的临床诊疗及分子机制、精准诊治和大数据应用等方面研究。</p>
     </td>
   </tr>
@@ -1272,7 +1272,7 @@ location: bj2019
   <tr class="collapse" id="session-13-sub-4">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 模拟自闭症诊断流程，建立我国人群的刺激--反应训练集。利用图像识别技术，来分析情绪和行为的变化，建立情绪和行为变化与自闭症诊断之间的模型联系。未来可以通过该系统，早筛查幼儿是否患有自闭症和心理健康方面的问题。实现在家也能对儿童进行筛查，从而提前诊断和治疗。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 章林，围绕临床实验室真实世界数据挖掘方法和人工智能初探这一主题展开，进行了以下两方面的论述：结合自身研究实例，谈论临床实验室数据挖掘的流程规范；论述临床实验室真实世界数据挖掘到人工智能的初探，助力实验室管理。基于各指标大数据的分布情况，借鉴工业质量控制方法，建立可实时监测异常情况的个性化的算法和模型，助力实验室质量管理，为构建统一化、智能化实验室奠基。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 章林，原微软企业咨询部高级咨询顾问，曾担任项目经理及架构师，善于跨学科技术应用及构建异种平台。目前主要研究方向是计算机前沿技术在医疗领域中的应用。</p>
     </td>
   </tr>
 
@@ -1325,7 +1325,7 @@ location: bj2019
   </tr>
   <tr class="collapse" id="session-13-sub-7">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 云蜂生物创始人和CEO，2010年毕业于中国科学院基因组研究所，获生物信息学博士学位，曾担任华大基因高级科学家和产品研发总监等职位。长期致力于与人类疾病的基因组学和数据分析算法开发，在Nature和Nature Genetics等顶级学术期刊发表论文二十余篇。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 随着高通量测序技术的快速发展，基因测序已经逐渐从实验室研究走向临床。目前基因数据分析和临床解读需要很多手工操作，效率低下且容易犯错。我们采用了文献挖掘和人工校对等方法，构建了临床级的基因解读知识库，同时采用统计学习等算法，构建了致病变异筛选算法，可以快速从数万个基因变异中确定真实致病变异，实现了遗传病的精准快速诊断。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 云蜂生物创始人和CEO，2010年毕业于中国科学院基因组研究所，获生物信息学博士学位，曾担任华大基因高级科学家和产品研发总监等职位。长期致力于与人类疾病的基因组学和数据分析算法开发，在Nature和Nature Genetics等顶级学术期刊发表论文二十余篇。</p>
     </td>
   </tr>
@@ -2003,7 +2003,7 @@ location: bj2019
     <p>汪昊</p>
     </td>
     <td class="col-md-8">
-    <p class="text-center"><strong>AI大潮下的 “真” 数据分析</strong></p>
+    <p class="text-center"><strong>金融科技公司如何利用人工智能技术进行风控</strong></p>
     </td>
     <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-20-sub-4">详情</button>
@@ -2118,6 +2118,102 @@ location: bj2019
 
 </table>
 
+<div class="alert alert-info" role="alert"><h3 class="text-center">心理学2  (主席: 夏骁凯 ) </h3></div>
+
+<table class="table table-striped">
+
+  <tr>
+    <td class="col-md-2">
+    <p>吕杰妤</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>R在心理学中的应用</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-22-sub-1">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-22-sub-1">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 随着数据科学中的重要作用，具有强大的统计计算功能和便捷的数据可视化系统的 R 统计在各个学科中得到了广泛的应用。基于实证研究中的心理学也日益显现了 R 在科学研究中的数据分析的重要性。R 的免费、开源、灵活性等特性也使依赖于数据分析的心理学实现更为深度的学习。同时开放科学的普及，在科研研究论文在国际高水平期刊中发表时，有些杂志要求上传原始数据和数据分析情况，采用 R 软件能够更加促进知识交流。因此本次报告中第一部分数据统计分析，将结合心理学常用的实验法中，如何使用 R 计算出在心理学论文中所需要报告的描述统计、推论统计；第二部分数据可视化，以 ggplot2 介绍如何使用 R 来进行单因素实验设计、多因素实验设计的实验结果中的 bar chart 和 line chart 的图形的呈现。第三部分，元分析，简单介绍如何使用 R 来进行元分析研究。通过这三个部分的简单介绍，希望帮助和引导心理学专业的本科生、研究生以及研究者开始使用 R 软件来进行数据分析，从而达到使心理学研究者们更便捷地进行交流和学习。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 现任中央财经大学心理学系讲师，心理学博士，本硕毕业于西南大学心理学部，博士毕业于英国伦敦玛丽女王大学（Queen Mary University of London）“动态学习与决策实验室”。美国判断与决策协会成员，欧洲决策协会成员。研究方向为合作行为的机制及影响因素。迄今为止，科研方面，主持科研项目 4 项、发表英文学术论文 SCI/SSCI6 篇。教学方面，主持教学项目 1 项，此教学项目为 2018 年中央财经大学新开课程建设项目“基于 R 的心理统计及其可视化”, 参与教学项目 1 项，主讲课程为 English Academic Writing, 决策心理学，财税心理学和 R 在心理学中的应用。R 在心理学中的应用的课程开设面向本科生、硕士生。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>高树青</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>“乱世重才，治世重德”——经济不确定与德-才偏好</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-22-sub-2">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-22-sub-2">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 近些年来，经济全球化越发深入，各国经济发展联系越发紧密，与此同时，全球经济的不确定因素也明显增加。越来越多的研究开始关注经济不稳定对人们心理和行为的消极影响。 在社会价值观念中，道德观念能够引人向善，促进社会的和谐与稳定。人们对于道德与才能的偏好不仅体现了人们在自我建构时如何权衡发展，同时反映了一个时期内社会道德观念是否处于最重要的位置。过分推崇才能势必导致道德观念的下滑。已有研究者指出，在过去的几十年间，美国正在经历道德的衰落，那么中国的情况如何？中国德-才观念的变化机制是什么成为重要的研究问题。 本研究认为宏观经济的不稳定可能促进了人们德-才观念的变化。经济不稳定使得个体具有更强的控制感需求，在德-才偏好中，更注重能够自我获益的，可控的才能品质，降低了对道德品质的亲和。因此，在经济不稳定的情况下，个体更加偏好采用才能进行自我建构，认为对自己而言，才能比道德更加重要。 本研究通过三个研究对这个问题进行了探讨，研究一通过宏观层面的公开数据考察了经济政策不确定与道德和能力词汇搜索比率之间的关系。研究二通过新闻材料操纵被试对于中国经济环境不确定程度的认知，同时，采用道德和能力词汇迫选的方式，探究经济不确定对被试描述自我时选取道德和能力词汇偏好的作用。研究三更加聚焦个体层面经济不确定的作用，通过自传体回忆范式启动被试的经济不确定，进一步探究经济不确定对个体道德和能力评分的影响，同时考察控制感在二者间的中介作用。三个研究证明了在宏观和个体水平，经济不确定性增加了人们对于德-才中才能的偏好。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京师范大学博士，主要研究领域为社会心理学、人格心理学、进化心理学与网络心理学，主要研究内容包括：网络情绪表达的地区差异及其社会生态机制，空气污染与风险决策、收入不平等与道德判断以及价值观关系等内容。擅长结合实验室研究与宏观网络数据，探讨宏观社会生态变量对人们心理与行为的影响。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>黄文昊</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>人们对社会与金钱奖赏的预期共享神经环路：结合多种分析方法的脑成像元分析研究</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-22-sub-3">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-22-sub-3">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 在日常生活中，作为各种目标导向行为的诱因，社会性奖赏与物质性奖赏扮演着同样重要的角色。近年来，大量的神经影像学研究在尝试回答这样一个问题，人类的大脑中是否存在特定的神经回路来表征社会性奖赏，或者是社会性奖赏与物质性奖赏以类似的形式在大脑中编码。本次报告将为大家介绍结合多种分析方法的脑成像元分析在解答这一问题上的尝试，此外，将以本研究为例介绍激活似然性估计方法（Activation Likelihood Estimation, ALE）的基本原理和操作，以及功能解码（functional decoding）和脑连通性元分析模型（meta-analytic connectivity modeling，MACM）等分析方法在元分析研究上的应用。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 黄文昊，首都师范大学心理学院研究生，主要的研究兴趣为情绪和社会认知，通过结合行为，脑成像和药理学实验等技术手段探索社会行为的神经机制以及其与情绪的相互影响。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>夏晓磊</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>心理学脑电研究中数据的基本概念与分析实践</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-22-sub-4">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-22-sub-4">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 脑电图（EEG）技术具有安全无创、价格便宜、容易操作的特点，在基础研究和临床上的应用越来越普及。本次报告将对脑电原理、实验和数据分析实践中涉及的一些问题进行探讨，对初学者经常犯的错误和有疑问的地方做重点讨论，帮助大家澄清一些基本问题、正确利用脑电技术服务好自己的科研事业。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 夏晓磊，中国科学院心理研究所在读博士，擅长脑电实验设计和数据分析技术，使用脑电技术以第一作者/并列一作身份在疼痛领域顶尖杂志 Pain 上发表论文 2 篇（含封面文章 1 篇）、在神经成像领域优秀期刊 NeuroImage 上发表论文 1 篇。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>赵加伟</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>基于OSF增强研究中的开放科学</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-22-sub-5">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-22-sub-5">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 心理学界重复性危机至少有 60 年的历史（Sterling, 1959），且这场危机仍在持续。自 2011 年以来，心理学研究者越来越意识到危机的严重性，Open Science Framework（OSF）是在此危机中搭建的用于开放科学的平台。这是一个免费的 web 应用程序，研究人员在 OSF 中可从头到尾管理他们的研究，如预注册（pre-register）、公开数据与材料、远程合作。预注册简单形式包含基本研究设计，也可以包括研究程序、结果和统计分析计划的详细预先说明。OSF 提供一个受认可的预注册平台，注册后可作为研究凭证。同时，OSF 上可以实现多人远程协作，免费存储数据且自带版本控制。此外，OSF 与其它平台能无缝结合，如 Amazon、Box、Google Drive、Github。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 赵加伟，天津师范大学应用心理专业硕士研究生；Open Science Club 成员。</p>
+    </td>
+  </tr>
+
+</table>
+
 <div class="alert alert-info" role="alert"><h3 class="text-center">本科生专场  (主席: 冉佳鹭 ) </h3></div>
 
 <table class="table table-striped">
@@ -2130,10 +2226,10 @@ location: bj2019
     <p class="text-center"><strong>使用Rstudio结合RcppArmadillo制作可以快速随机计算稀疏矩阵奇异值分解的包</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-22-sub-1">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-1">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-22-sub-1">
+  <tr class="collapse" id="session-23-sub-1">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 制作R包是件挺有意思的事，但仅仅使用R语言制作的R包在计算一些结果时，很难达到令人满意的效率。利用Rcpp手段制作高效运算包可以很大程度上提高工作效率。而矩阵的奇异值分解问题可以广泛应用于各个领域，随着社交网络、自然语义识别等领域的发展，这些问题往往面临着求解大规模稀疏矩阵奇异值分解的问题，R语言现有的奇异值分解手段仍有优化空间。本演讲基于制作R包的过程展开，以快速随机计算稀疏矩阵奇异值分解为例，探究使用Rcpp结合现有矩阵代数库Armadillo实现R包的中可能遇到的问题，并借此倡导广大R语言和其他兼修多种语言使用者加入到扩充R包的队伍中，以实现更多有趣的课题。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 李家郡，中国人民大学统计学院2015级本科生，主修统计学，辅修计算机科学技术，编程、羽毛球、足球、骑行爱好者。主要研究方向包括大数据流算法、矩阵计算，有多年C++、R、Python、Java编程经验，初步开始探索制作个人博客https://llijiajun.github.io/github-io/。</p>
@@ -2148,10 +2244,10 @@ location: bj2019
     <p class="text-center"><strong>伊辛图模型组合结构推断问题的计算-统计权衡</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-22-sub-2">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-2">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-22-sub-2">
+  <tr class="collapse" id="session-23-sub-2">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> In various problems, data are represented and interpreted in the form of graphs, where conditional dependency relationships among nodes are illustrated by edges between pairs of nodes. Ising model is a popular kind of graphical model that is suitable for binary-valued nodes. Under the framework of oracle model, which captures the computational properties of a wide range of algorithms, we focus on inferring combinatorial structures of Ising model, for example, the existence of an s-clique in a given graph. We are interested in the detection limits both with or without polynomial computational limits, equivalently, the computational-statistical tradeoffs in this problem.
 <br>
@@ -2168,10 +2264,10 @@ location: bj2019
     <p class="text-center"><strong>基于岭比收缩的高光谱图像端元个数估计方法</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-22-sub-3">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-3">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-22-sub-3">
+  <tr class="collapse" id="session-23-sub-3">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 高光谱图像端元个数的估计问题一直都是该领域的核心问题之一。经典的算法如HFC、HySime等对于很多实际数据的模拟效果很差，这与他们对算法内部的参数以及噪音类型的高敏感度有很大关系，并且本身的理论也普遍存在一定缺陷。本研究着眼于利用统计理论构造了一种克服上述缺点新方法(thresholding ridge ratio criterion)，并且在模拟与实际数据中表现出了很大的优越性。</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 康越，西安交通大学数学与应用数学专业大四在读，毕业后将前往加州大学戴维斯分校攻读统计学博士，研究兴趣为高维数据分析及其在各个领域的应用。在IEEE Transactions on Geoscience and Remote Sensing杂志上投稿文章一篇，运用统计学知识对高光谱图像端元个数的估计问题提出了更为高效的方法。</p>
@@ -2186,10 +2282,10 @@ location: bj2019
     <p class="text-center"><strong>基于前列腺分割任务的DDSP网络设计和损失函数探讨</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-22-sub-4">详情</button>
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-4">详情</button>
     </td>
   </tr>
-  <tr class="collapse" id="session-22-sub-4">
+  <tr class="collapse" id="session-23-sub-4">
     <td colspan="3">
     <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> The high incidence rate of prostate disease poses a requirement in early detection for diagnosis. As one of the main imaging methods used for prostate cancer detection, Magnetic Resonance Imaging (MRI) has wide range of appearance and imbalance problems, making automated prostate segmentation fundamental but challenging. Here we propose a novel Densely Dilated Spatial Pooling Convolutional Network (DDSP ConNet) in encoder-decoder structure, which employs dense structure to combine dilated convolution and global pooling, thus supplying coarse segmentation results from encoder and decoder subnet and preserving more contextual information. Furtherly, to obtain richer hierarchical feature maps, residual long connection is adopted to fuse contexture features. Meanwhile, we adopt DSC loss and Jaccard loss functions to train our DDSP ConNet and we surprisingly found and proved that, in contrast to re-weighted cross entropy, DSC loss and Jaccard loss have a lot of benign properties in theory, including symmetry, continuity and differentiability about the parameters of network. To corroborate the effectiveness of our DDSP ConNet with DSC loss and Jaccard loss, extensive experiments have been done on the MICCAI PROMISE12 challenge dataset. In the test dataset , our method achieves a score of 85.78, outperforming most of other competitors.</p>
     <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 刘秋华，中国人民大学信息学院2015级本科生，主修应用数学，美国密歇根大学生物统计硕士2019FALL录取。于2017-2018年间获两次北美大学生数学建模竞赛一等奖、一次全国大学生数学建模竞赛国家二等奖；于2017年3月加入中国人民大学数学科学研究院数学智能应用实验室，期间参与三个科研项目，目前学生二作BMC Systems Biology发表一篇，一作投稿SIAM Journal on Imaging Science一篇；于2018年6-9月到美国斯坦福大学参加暑期科研，目前一作正撰稿一篇。研究方向主要为深度学习领域数学统计理论、医疗图像处理、机器学习建模等。</p>
@@ -2204,110 +2300,14 @@ location: bj2019
     <p class="text-center"><strong>从零开始的COSplay</strong></p>
     </td>
     <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-22-sub-5">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-22-sub-5">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 统计之都（COS）一直致力于推广与应用统计学知识，分享有趣的数据科学方法与观点，为国内统计学和数据科学的发展贡献力量。我们也一直欢迎有志于将统计学和数据科学发扬光大的各界朋友加入到这个大家庭来。让我们一起探秘COS编辑部时尚时尚最时尚的在线投稿系统，解锁COS丰富的“玩法”，从零开始一场统计学与数据科学的精彩PLAY！ 
-<br></p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 统计之都副主编，中国科学技术大学在读硕士，感兴趣的领域包括机器学习、优化理论等。</p>
-    </td>
-  </tr>
-
-</table>
-
-<div class="alert alert-info" role="alert"><h3 class="text-center">心理学2  (主席: 夏骁凯 ) </h3></div>
-
-<table class="table table-striped">
-
-  <tr>
-    <td class="col-md-2">
-    <p>吕杰妤</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>R在心理学中的应用</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-1">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-23-sub-1">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 随着数据科学中的重要作用，具有强大的统计计算功能和便捷的数据可视化系统的 R 统计在各个学科中得到了广泛的应用。基于实证研究中的心理学也日益显现了 R 在科学研究中的数据分析的重要性。R 的免费、开源、灵活性等特性也使依赖于数据分析的心理学实现更为深度的学习。同时开放科学的普及，在科研研究论文在国际高水平期刊中发表时，有些杂志要求上传原始数据和数据分析情况，采用 R 软件能够更加促进知识交流。因此本次报告中第一部分数据统计分析，将结合心理学常用的实验法中，如何使用 R 计算出在心理学论文中所需要报告的描述统计、推论统计；第二部分数据可视化，以 ggplot2 介绍如何使用 R 来进行单因素实验设计、多因素实验设计的实验结果中的 bar chart 和 line chart 的图形的呈现。第三部分，元分析，简单介绍如何使用 R 来进行元分析研究。通过这三个部分的简单介绍，希望帮助和引导心理学专业的本科生、研究生以及研究者开始使用 R 软件来进行数据分析，从而达到使心理学研究者们更便捷地进行交流和学习。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 现任中央财经大学心理学系讲师，心理学博士，本硕毕业于西南大学心理学部，博士毕业于英国伦敦玛丽女王大学（Queen Mary University of London）“动态学习与决策实验室”。美国判断与决策协会成员，欧洲决策协会成员。研究方向为合作行为的机制及影响因素。迄今为止，科研方面，主持科研项目 4 项、发表英文学术论文 SCI/SSCI6 篇。教学方面，主持教学项目 1 项，此教学项目为 2018 年中央财经大学新开课程建设项目“基于 R 的心理统计及其可视化”, 参与教学项目 1 项，主讲课程为 English Academic Writing, 决策心理学，财税心理学和 R 在心理学中的应用。R 在心理学中的应用的课程开设面向本科生、硕士生。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>高树青</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>“乱世重才，治世重德”——经济不确定与德-才偏好</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-2">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-23-sub-2">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 近些年来，经济全球化越发深入，各国经济发展联系越发紧密，与此同时，全球经济的不确定因素也明显增加。越来越多的研究开始关注经济不稳定对人们心理和行为的消极影响。 在社会价值观念中，道德观念能够引人向善，促进社会的和谐与稳定。人们对于道德与才能的偏好不仅体现了人们在自我建构时如何权衡发展，同时反映了一个时期内社会道德观念是否处于最重要的位置。过分推崇才能势必导致道德观念的下滑。已有研究者指出，在过去的几十年间，美国正在经历道德的衰落，那么中国的情况如何？中国德-才观念的变化机制是什么成为重要的研究问题。 本研究认为宏观经济的不稳定可能促进了人们德-才观念的变化。经济不稳定使得个体具有更强的控制感需求，在德-才偏好中，更注重能够自我获益的，可控的才能品质，降低了对道德品质的亲和。因此，在经济不稳定的情况下，个体更加偏好采用才能进行自我建构，认为对自己而言，才能比道德更加重要。 本研究通过三个研究对这个问题进行了探讨，研究一通过宏观层面的公开数据考察了经济政策不确定与道德和能力词汇搜索比率之间的关系。研究二通过新闻材料操纵被试对于中国经济环境不确定程度的认知，同时，采用道德和能力词汇迫选的方式，探究经济不确定对被试描述自我时选取道德和能力词汇偏好的作用。研究三更加聚焦个体层面经济不确定的作用，通过自传体回忆范式启动被试的经济不确定，进一步探究经济不确定对个体道德和能力评分的影响，同时考察控制感在二者间的中介作用。三个研究证明了在宏观和个体水平，经济不确定性增加了人们对于德-才中才能的偏好。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 北京师范大学博士，主要研究领域为社会心理学、人格心理学、进化心理学与网络心理学，主要研究内容包括：网络情绪表达的地区差异及其社会生态机制，空气污染与风险决策、收入不平等与道德判断以及价值观关系等内容。擅长结合实验室研究与宏观网络数据，探讨宏观社会生态变量对人们心理与行为的影响。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>黄文昊</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>人们对社会与金钱奖赏的预期共享神经环路结合多种分析方法的脑成像元分析研究</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-3">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-23-sub-3">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 在日常生活中，作为各种目标导向行为的诱因，社会性奖赏与物质性奖赏扮演着同样重要的角色。近年来，大量的神经影像学研究在尝试回答这样一个问题，人类的大脑中是否存在特定的神经回路来表征社会性奖赏，或者是社会性奖赏与物质性奖赏以类似的形式在大脑中编码。本次报告将为大家介绍结合多种分析方法的脑成像元分析在解答这一问题上的尝试，此外，将以本研究为例介绍激活似然性估计方法（Activation Likelihood Estimation, ALE）的基本原理和操作，以及功能解码（functional decoding）和脑连通性元分析模型（meta-analytic connectivity modeling，MACM）等分析方法在元分析研究上的应用。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 黄文昊，首都师范大学心理学院研究生，主要的研究兴趣为情绪和社会认知，通过结合行为，脑成像和药理学实验等技术手段探索社会行为的神经机制以及其与情绪的相互影响。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>夏晓磊</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>心理学脑电研究中数据的基本概念与分析实践</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-4">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-23-sub-4">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 脑电图（EEG）技术具有安全无创、价格便宜、容易操作的特点，在基础研究和临床上的应用越来越普及。本次报告将对脑电原理、实验和数据分析实践中涉及的一些问题进行探讨，对初学者经常犯的错误和有疑问的地方做重点讨论，帮助大家澄清一些基本问题、正确利用脑电技术服务好自己的科研事业。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 夏晓磊，中国科学院心理研究所在读博士，擅长脑电实验设计和数据分析技术，使用脑电技术以第一作者/并列一作身份在疼痛领域顶尖杂志 Pain 上发表论文 2 篇（含封面文章 1 篇）、在神经成像领域优秀期刊 NeuroImage 上发表论文 1 篇。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>赵加伟</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>基于OSF增强研究中的开放科学</strong></p>
-    </td>
-    <td class="col-md-2">
     <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-23-sub-5">详情</button>
     </td>
   </tr>
   <tr class="collapse" id="session-23-sub-5">
     <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 心理学界重复性危机至少有 60 年的历史（Sterling, 1959），且这场危机仍在持续。自 2011 年以来，心理学研究者越来越意识到危机的严重性，Open Science Framework（OSF）是在此危机中搭建的用于开放科学的平台。这是一个免费的 web 应用程序，研究人员在 OSF 中可从头到尾管理他们的研究，如预注册（pre-register）、公开数据与材料、远程合作。预注册简单形式包含基本研究设计，也可以包括研究程序、结果和统计分析计划的详细预先说明。OSF 提供一个受认可的预注册平台，注册后可作为研究凭证。同时，OSF 上可以实现多人远程协作，免费存储数据且自带版本控制。此外，OSF 与其它平台能无缝结合，如 Amazon、Box、Google Drive、Github。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 赵加伟，天津师范大学应用心理专业硕士研究生；Open Science Club 成员。</p>
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 统计之都（COS）一直致力于推广与应用统计学知识，分享有趣的数据科学方法与观点，为国内统计学和数据科学的发展贡献力量。我们也一直欢迎有志于将统计学和数据科学发扬光大的各界朋友加入到这个大家庭来。让我们一起探秘COS编辑部时尚时尚最时尚的在线投稿系统，解锁COS丰富的“玩法”，从零开始一场统计学与数据科学的精彩PLAY！ 
+<br></p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 统计之都副主编，中国科学技术大学在读硕士，感兴趣的领域包括机器学习、优化理论等。</p>
     </td>
   </tr>
 
