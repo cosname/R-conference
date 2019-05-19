@@ -30,7 +30,7 @@ location: bj2019
  <div class="row">
   <div class="text-center">
     <a target="_blank">
-      <img src="{{ '/img/Rcap2019_2.jpg' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
+      <img src="{{ '/img/Rcap2018_2.jpg' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
     </a>
   </div>
  </div>
