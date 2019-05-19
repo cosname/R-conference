@@ -7,7 +7,7 @@ location: bj2019
 <div class="row">
   <div class="text-center">
     <a target="_blank">
-      <img src="{{ '/img/Rcap2019_keynote.jpg' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
+      <img src="{{ '/img/Rcap2019_keynote.png' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
     </a>
   </div>
  </div>
@@ -15,7 +15,7 @@ location: bj2019
 <div class="row">
   <div class="text-center">
     <a target="_blank">
-      <img src="{{ '/img/scheduleTable2019.jpg' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
+      <img src="{{ '/img/Rcap2019.png' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
     </a>
   </div>
  </div>
