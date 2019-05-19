@@ -9,67 +9,7 @@ location: bj2019
     <img src="{{ '/img/Rcap2019_keynote.png' | prepend: site.baseurl }}"  class="img-responsive" />
   </div>
 <div class="row">
-  <div class="col-md-10 col-md-offset-1 text-center">
+  <div class="col-md-10 col-md-offset-2 text-center">
     <img src="{{ '/img/Rcap2019.png' | prepend: site.baseurl }}"  class="img-responsive" />
   </div>
-<div class="row">
-  <div class="text-center">
-    <a target="_blank">
-      <img src="{{ '/img/Rcap2019.png' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
-    </a>
-  </div>
- </div>
- <div class="row">
-  <div class="text-center">
-    <a target="_blank">
-      <img src="{{ '/img/Rcap2019_1.jpg' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
-    </a>
-  </div>
- </div>
- 
- <div class="row">
-  <div class="text-center">
-    <a target="_blank">
-      <img src="{{ '/img/Rcap2018_2.jpg' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
-    </a>
-  </div>
- </div>
- 
- <div class="row">
-  <div class="text-center">
-    <a target="_blank">
-      <img src="{{ '/img/Rcap2019_3.jpg' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
-    </a>
-  </div>
- </div>
- 
- <div class="row">
-  <div class="text-center">
-    <a target="_blank">
-      <img src="{{ '/img/Rcap2019_4.jpg' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
-    </a>
-  </div>
- </div>
- 
- <div class="row">
-  <div class="text-center">
-    <a target="_blank">
-      <img src="{{ '/img/Rcap2019_5.jpg' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
-    </a>
-  </div>
- </div>
- 
-  <div class="row">
-  <div class="text-center">
-    <a target="_blank">
-      <img src="{{ '/img/Rcap2019_6.jpg' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
-    </a>
-  </div>
- </div>
-  <div class="row">
-  <div class="text-center">
-    <a target="_blank">
-      <img src="{{ '/img/Rcap2019_7.jpg' | prepend: site.qiniubaseurl }}" class="img-responsive center-block" />
-    </a>
-  </div>
- </div>
+  
