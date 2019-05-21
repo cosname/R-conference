@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 第十一届中国R会议（北京）
+title: 第十二届中国R会议（北京）
 location: bj2019
 ---
 
