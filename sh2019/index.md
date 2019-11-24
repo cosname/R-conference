@@ -33,7 +33,9 @@ location: sh
 <font color="#000066">https://www.bagevent.com/event/speechApply/6195057</font><br /> 
  填写报名信息（**建议使用电脑端报名**）或者**扫描下方二维码**进行演讲者报名。
 
-<div align=center>![](https://github.com/StevenBoys/photo/blob/master/sh2019_speaker.jpeg?raw=true)</div>
+<div style="align: center">
+    <img src="https://github.com/StevenBoys/photo/blob/master/sh2019_speaker.jpeg?raw=true"/>
+        </div>
 
 大会组委会将对报名的演讲择优录用，演讲者报名截止时间为12月10日。如果对会议演讲报名有问题，请发邮件至
 <font color="#000066">chinar-2019-sh@cos.name</font>联系会务组。
@@ -45,7 +47,9 @@ location: sh
 <font color="#000066">https://www.bagevent.com/event/6195057</font><br /> 
 （**建议使用电脑端报名**）填写报名信息或扫描下方二维码进行参会报名。
 
-<div align=center>![](https://github.com/StevenBoys/photo/blob/master/sh2019_aud.jpeg?raw=true)</div>
+<div style="align: center">
+    <img src="https://github.com/StevenBoys/photo/blob/master/sh2019_aud.jpeg?raw=true"/>
+        </div>
 
 若有报名故障请发送邮件至<font color="#000066">chinar-2019-sh@cos.name</font>。
 
@@ -57,7 +61,9 @@ location: sh
 
 #### 华东师范大学
 
-<div align=center>![](https://github.com/StevenBoys/photo/blob/master/sh2019_uni.jpeg?raw=true)</div>
+<div style="align: center">
+    <img src="https://github.com/StevenBoys/photo/blob/master/sh2019_uni.jpeg?raw=true"/>
+        </div>
 
 华东师范大学是由教育部主管，教育部与上海市人民政府重点共建的综合性研究型大学。1959年学校被中共中央确定为全国16所重点院校之一，1978年学校再次被确认为全国重点大学，1986年学校被国务院批准成为设立研究生院的33所高等院校之一。1996年被列入"211工程"国家重点建设大学行列。2006年教育部和上海市决定重点共建华东师范大学，学校进入国家"985工程"高校行列。2017年学校进入世界一流大学A类建设高校行列，全面开启建设中国特色世界一流大学的新征程。
 
@@ -89,7 +95,9 @@ location: sh
 
 #### 统计之都
 
-<div align=center>![](https://github.com/StevenBoys/photo/blob/master/cos.jpeg?raw=true)</div>
+<div style="align: center">
+<img src="https://github.com/StevenBoys/photo/blob/master/cos.jpeg?raw=true"/>
+</div>
 
 统计之都（Capital of Statistics，简称 COS）成立于 2006 年 5 月，是一个旨在推广与应用统计学知识的网站和社区，今年是其成立的第十三周年。其主要依托主站（<font color="#000066">http://cosx.org/</font>）、微信公众号（CapStat）、新浪微博（统计之都）、中国 R 语言会议（font color="#000066">http://china-r.org/</font>）、线下线上沙龙等平台活动推广与应用统计学知识，希望统计理论研究者能充分关注应用问题，而统计应用者也能正确把握统计学基本知识，将统计学这门应用学科真正的潜力开发出来。同时，统计之都也希望科研人员、数据分析人员和统计学爱好者能互相交流合作，一方面促进彼此知识和技能的增长，另一方面为国内的统计学和数据科学贡献自己的力量。
 
