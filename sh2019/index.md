@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 第十二届中国R会议（上海）暨华东地区数据科学会议通知
-location: sh
+location: sh2019
 ---
 
 自2008年起，北京、上海、杭州、广州等地区已经成功举办了十一届R会议，前后报名参与人数超过万人，会议内容针对数据科学的前沿领域，覆盖了数据科学在各行各业中的应用，包括人工智能、互联网、物联网、量化金融以及金融大数据、生物信息、医学以及生物制药、城市大数据、商务智能等。R会议聚学界翘楚、业界精英、技术大咖于一堂，让更多的数据科学爱好者参与其中，在高校和业界产生了深远影响，极大促进了数据科学在中国的推广和发展，如今已经成为国内数据科学界最重要的盛会之一，见证了中国数据科学的迅猛发展。
@@ -33,7 +33,11 @@ location: sh
 <font color="#000066">https://www.bagevent.com/event/speechApply/6195057</font><br /> 
  填写报名信息（**建议使用电脑端报名**）或者**扫描下方二维码**进行演讲者报名。
 
-![](https://github.com/StevenBoys/photo/blob/master/sh2019_speaker.jpeg?raw=true){:height="300px" width="300px"}
+<div class="row">
+  <div class="col-md-10 col-md-offset-1 text-center">
+    <img src="{{ 'https://github.com/StevenBoys/photo/blob/master/sh2019_speaker.jpeg?raw=true' | prepend: site.baseurl }}" alt="中国R会议北京" class="img-responsive" />
+  </div>
+</div>
 
 大会组委会将对报名的演讲择优录用，演讲者报名截止时间为12月10日。如果对会议演讲报名有问题，请发邮件至
 <font color="#000066">chinar-2019-sh@cos.name</font>联系会务组。
