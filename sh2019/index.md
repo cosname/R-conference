@@ -33,7 +33,7 @@ location: sh
 <font color="#000066">https://www.bagevent.com/event/speechApply/6195057</font><br /> 
  填写报名信息（**建议使用电脑端报名**）或者**扫描下方二维码**进行演讲者报名。
 
-<img src="https://github.com/StevenBoys/photo/blob/master/sh2019_speaker.jpeg?raw=true" width = "300" height = "300" alt="演讲者报名二维码" align=center />
+![](https://github.com/StevenBoys/photo/blob/master/sh2019_speaker.jpeg?raw=true){:height="300px" width="300px"}
 
 大会组委会将对报名的演讲择优录用，演讲者报名截止时间为12月10日。如果对会议演讲报名有问题，请发邮件至
 <font color="#000066">chinar-2019-sh@cos.name</font>联系会务组。
@@ -45,7 +45,7 @@ location: sh
 <font color="#000066">https://www.bagevent.com/event/6195057</font><br /> 
 （**建议使用电脑端报名**）填写报名信息或扫描下方二维码进行参会报名。
 
-<img src="https://github.com/StevenBoys/photo/blob/master/sh2019_aud.jpeg?raw=true" width = "350" height = "350" alt="参会者报名二维码" align=center />
+![](https://github.com/StevenBoys/photo/blob/master/sh2019_aud.jpeg?raw=true){:height="300px" width="300px"}
 
 若有报名故障请发送邮件至<font color="#000066">chinar-2019-sh@cos.name</font>。
 
@@ -101,7 +101,7 @@ location: sh
 
 #### 云筏科技
 
-<img src="https://github.com/StevenBoys/photo/blob/master/cloudraft.jpeg?raw=true" width = "500" height = "400" alt="云筏科技" align=center />
+![](https://github.com/StevenBoys/photo/blob/master/cloudraft.jpeg?raw=true){:height="500px" width="625px"}
 
 云筏科技是一家拥有丰富经验的云计算解决方案提供商，我们致力于为用户提供优质和高性价比的定制化云服务，通过降低数据分析的学习和使用门槛，助力分析人员降本增效。公司主要产品包括多语言在线环境和云筏容器云平台，用户覆盖了国内顶尖高校及科研院所和各大教学平台。
 
