@@ -34,7 +34,7 @@ location: sh2019
  填写报名信息（**建议使用电脑端报名**）或者**扫描下方二维码**进行演讲者报名。
 
 <div class="row">
-  <div class="col-md-10 col-md-offset-6 text-center">
+  <div class="col-md-10 col-md-offset-4 text-center">
     <img src="{{ 'https://github.com/StevenBoys/photo/blob/master/sh2019_speaker.jpeg?raw=true' | prepend: site.baseurl }}" alt="中国R会议北京" class="img-responsive" />
   </div>
 </div>
@@ -50,7 +50,7 @@ location: sh2019
 （**建议使用电脑端报名**）填写报名信息或扫描下方二维码进行参会报名。
 
 <div class="row">
-  <div class="col-md-10 col-md-offset-1 text-center">
+  <div class="col-md-10 col-md-offset-4 text-center">
     <img src="{{ 'https://github.com/StevenBoys/photo/blob/master/sh2019_aud.jpeg?raw=true' | prepend: site.baseurl }}" alt="中国R会议北京" class="img-responsive" />
   </div>
 </div>
@@ -66,7 +66,7 @@ location: sh2019
 #### 华东师范大学
 
 <div class="row">
-  <div class="col-md-10 col-md-offset-1 text-center">
+  <div class="col-md-10 col-md-offset-4 text-center">
     <img src="{{ 'https://github.com/StevenBoys/photo/blob/master/sh2019_uni.jpeg?raw=true' | prepend: site.baseurl }}" alt="中国R会议北京" class="img-responsive" />
   </div>
 </div>
@@ -102,7 +102,7 @@ location: sh2019
 #### 统计之都
 
 <div class="row">
-  <div class="col-md-10 col-md-offset-1 text-center">
+  <div class="col-md-10 col-md-offset-4 text-center">
     <img src="{{ 'https://github.com/StevenBoys/photo/blob/master/cos.jpeg?raw=true' | prepend: site.baseurl }}" alt="中国R会议北京" class="img-responsive" />
   </div>
 </div>
@@ -118,7 +118,7 @@ location: sh2019
 #### 云筏科技
 
 <div class="row">
-  <div class="col-md-10 col-md-offset-1 text-center">
+  <div class="col-md-10 col-md-offset-4 text-center">
     <img src="{{ 'https://github.com/StevenBoys/photo/blob/master/cloudraft.jpeg?raw=true' | prepend: site.baseurl }}" alt="中国R会议北京" class="img-responsive" />
   </div>
 </div>
