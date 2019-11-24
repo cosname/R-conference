@@ -33,12 +33,7 @@ location: sh
 <font color="#000066">https://www.bagevent.com/event/speechApply/6195057</font><br /> 
  填写报名信息（**建议使用电脑端报名**）或者**扫描下方二维码**进行演讲者报名。
 
-<!-- picture -->
-    <div class="row">
-        <div class="col-md-10 col-md-offset-1 text-center">
-            <img src="{{ 'https://github.com/StevenBoys/photo/blob/master/sh2019_speaker.jpeg?raw=true' | prepend: site.baseurl }}" class="img-responsive" />
-                </div>
-                </div>
+<img src="https://github.com/StevenBoys/photo/blob/master/sh2019_speaker.jpeg?raw=true" width = "300" height = "200" alt="演讲者报名二维码" align=center />
 
 大会组委会将对报名的演讲择优录用，演讲者报名截止时间为12月10日。如果对会议演讲报名有问题，请发邮件至
 <font color="#000066">chinar-2019-sh@cos.name</font>联系会务组。
