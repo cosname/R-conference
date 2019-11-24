@@ -34,7 +34,7 @@ location: sh2019
  填写报名信息（**建议使用电脑端报名**）或者**扫描下方二维码**进行演讲者报名。
 
 <div class="row">
-  <div class="col-md-10 col-md-offset-1 text-center">
+  <div class="col-md-10 col-md-offset-6 text-center">
     <img src="{{ 'https://github.com/StevenBoys/photo/blob/master/sh2019_speaker.jpeg?raw=true' | prepend: site.baseurl }}" alt="中国R会议北京" class="img-responsive" />
   </div>
 </div>
