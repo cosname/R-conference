@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 第12届中国R会议（北京）
+title: 第13届中国R会议（北京）
 location: bj2020
 ---
 
@@ -44,7 +44,7 @@ location: bj2020
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/logo-ruc.jpg' | prepend: site.qiniubaseurl }}" alt="中国人民大学" class="img-responsive center-block" />
+    <img src="{{ '/img/logo-rucstat.jpg' | prepend: site.baseurl }}" alt="中国人民大学统计学院" class="img-responsive center-block" />
   </div>
 </div>
 
@@ -52,7 +52,7 @@ location: bj2020
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/CAS-RUC.png' | prepend: site.qiniubaseurl }}" alt="中国人民大学应用统计科学研究中心" class="img-responsive center-block" />
+    <img src="{{ '/img/logo-cfas.png' | prepend: site.baseurl }}" alt="中国人民大学应用统计科学研究中心" class="img-responsive center-block" />
   </div>
 </div>
 
