@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 第14届中国R会议（北京）
-location: bj2020
+location: bj2021
 ---
 
 <!-- picture -->
