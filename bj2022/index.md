@@ -32,7 +32,7 @@ location: bj2022
 
 此次会议主题包括但不限于：机器学习、数理统计、生物统计、统计计算、可视化、统计软件工具、工业大数据、智慧经济统计、区块链保险、生态环境、医疗卫生与健康等。
 
-<!-- - [会议手册]({{ '/files/ChinaR_13th.pdf' | prepend: site.baseurl }}) -->
+[会议手册]({{ '/files/ChinaR_15th.pdf' | prepend: site.baseurl }})
 
 ## 四、参会须知
 
