@@ -144,7 +144,7 @@ location: bj2023
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/cos-OA.jpg' | prepend: site.baseurl }}" alt="原灵科技" class="img-responsive center-block" />
+    <img src="{{ '/img/cos-OA.png' | prepend: site.baseurl }}" alt="原灵科技" class="img-responsive center-block" />
   </div>
 </div>
 
@@ -154,7 +154,7 @@ location: bj2023
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/cos-cssc.jpg' | prepend: site.baseurl }}" alt="中国商业统计学会人工智能分会（筹）" class="img-responsive center-block" />
+    <img src="{{ '/img/cos-cssc.png' | prepend: site.baseurl }}" alt="中国商业统计学会人工智能分会（筹）" class="img-responsive center-block" />
   </div>
 </div>
 
@@ -168,7 +168,7 @@ location: bj2023
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/wizard.jpg' | prepend: site.baseurl }}" alt="宽德投资" class="img-responsive center-block" />
+    <img src="{{ '/img/wizard.png' | prepend: site.baseurl }}" alt="宽德投资" class="img-responsive center-block" />
   </div>
 </div>
 
@@ -179,7 +179,7 @@ location: bj2023
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/cos-heywhale.jpg' | prepend: site.baseurl }}" alt="和鲸科技" class="img-responsive center-block" />
+    <img src="{{ '/img/cos-heywhale.png' | prepend: site.baseurl }}" alt="和鲸科技" class="img-responsive center-block" />
   </div>
 </div>
 
