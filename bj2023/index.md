@@ -51,6 +51,8 @@ location: bj2023
 
 ● 和鲸科技
 
+● Posit
+
 ## 四、会议主题
 
 此次会议将着眼于人工智能、数据科学应用实战以及相关理论，会议主题包含数据科学、人工智能行业应用、计算及理论，包括但不限于：
@@ -162,6 +164,8 @@ location: bj2023
 
 ## 八、赞助商介绍
 
+<h3 class ="text-center">赞助商</h3>
+
 ### 宽德投资
 
 <div class="row">
@@ -181,6 +185,18 @@ location: bj2023
 </div>
 
 和鲸科技成立于2015年4月，是一家专注于“数据科学协同平台”的数据智能科技公司和平台服务商，可满足数据科学家、人工智能工程师、商业分析师等数据工作者在线完成算法建模、数据分析、数据可视化等任务，并支持私有化部署和云端协同，帮助企业、高校、科研机构、政府机构开展工业级数据科学与人工智能的应用研发。
+
+### Posit
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3 text-center">
+   <a href="https://posit.co/" title="Posit" target="_blank">
+    <img src="{{ '/img/posit.png' | prepend: site.baseurl }}" alt="Posit" class="img-responsive" />
+    </a>
+  </div>
+</div>
+
+Posit公司，原名RStudio，成立于2008年，创始人为 JJ Allaire，R 社区领军人物 Hadley Wickham 为首席科学家。该公司旨在为 R 语言提供更便利的开发环境和数据分析工具，例如 RStudio 集成开发环境（IDE）、RStudio 服务器、Shiny、Shiny 服务器、ShinyApps.io、R Markdown、RStudio Connect 等。Posit公司坚定支持开源软件和社区，其产品多为免费开源软件，但同时 RStudio 也提供相应的企业级软件应用（如 RStudio 服务器专业版、Shiny 服务器专业版等），以满足商业使用需求（如企业内部 RStudio 服务器管理、售后服务支持）。自2012年起，Posit为世界各地的 R 会议提供了大量赞助和支持，包括官方 R 语言会议和中国 R 语言会议。为了 R 语言能更持续稳定发展，该公司倡议与微软、Tibco、Google 等几家商业公司成立了 R 联合团体（RConsortium），每年为 R 社区的开源项目提供大量资助，召集优秀人才解决 R 语言现存的重要且有挑战性的问题。2022年7月RStudio公司更名为Posit，公司章程将使命定义为创建用于数据科学、科学研究和技术交流的免费开源软件，这一使命意在超越 "R for Data Science" ——沿用 R 语言成功的方法，并将其应用得更广泛。
  
 ### 联系方式
 
