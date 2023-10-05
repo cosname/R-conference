@@ -9,7 +9,7 @@ location: bj2023
 
 <div class="row">
   <div class="col-md-10 col-md-offset-1 text-center">
-    <img src="{{ '/img/head-bj-2021.png' | prepend: site.baseurl }}" alt="中国R会议北京" class="img-responsive" />
+    <img src="{{ '/img/head-bj-2023.png' | prepend: site.baseurl }}" alt="中国R会议北京" class="img-responsive" />
   </div>
 </div>
 
