@@ -47,6 +47,10 @@ location: bj2023
 
 ## 三、会议赞助方
 
+● 宽德投资
+
+● 和鲸科技
+
 
 本次会议将结合线上与线下会议形式，各会场已邀请到来自各个领域研究统计学与数据科学的高水平演讲嘉宾。与会者可以选择线下或线上的形式参会。
 
@@ -144,7 +148,7 @@ location: bj2023
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/cos-OA.png' | prepend: site.baseurl }}" alt="原灵科技" class="img-responsive center-block" />
+    <img src="{{ '/img/log-OA.png' | prepend: site.baseurl }}" alt="原灵科技" class="img-responsive center-block" />
   </div>
 </div>
 
@@ -154,7 +158,7 @@ location: bj2023
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/cos-cssc.png' | prepend: site.baseurl }}" alt="中国商业统计学会人工智能分会（筹）" class="img-responsive center-block" />
+    <img src="{{ '/img/logo-cssc.png' | prepend: site.baseurl }}" alt="中国商业统计学会人工智能分会（筹）" class="img-responsive center-block" />
   </div>
 </div>
 
@@ -168,18 +172,18 @@ location: bj2023
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/wizard.png' | prepend: site.baseurl }}" alt="宽德投资" class="img-responsive center-block" />
+    <img src="{{ '/img/logo-wizard.png' | prepend: site.baseurl }}" alt="宽德投资" class="img-responsive center-block" />
   </div>
 </div>
 
 
 宽德投资是一家国内领先、业务全面的量化对冲基金。基于先进的高频交易构架，以及完善的资产管理系统，宽德投资在国内期货、股票、期权等主流市场具有出色的盈利能力。 
 
-### 何鲸科技
+### 和鲸科技
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/cos-heywhale.png' | prepend: site.baseurl }}" alt="和鲸科技" class="img-responsive center-block" />
+    <img src="{{ '/img/logo-heywhale.png' | prepend: site.baseurl }}" alt="和鲸科技" class="img-responsive center-block" />
   </div>
 </div>
 
