@@ -47,11 +47,9 @@ location: bj2023
 
 ## 三、会议赞助方
 
-● 宽德投资
-
 ● 和鲸科技
 
-● Posit
+● 宽德投资
 
 ## 四、会议主题
 
@@ -97,19 +95,29 @@ location: bj2023
 
 ## 五、会议征稿
 
-本次会议将进行公开征稿，征稿时间为10月9日-10月29日。
+本次会议将进行公开征稿，征稿时间为10月29日。
 
-征稿链接：问卷二维码（也可以通过统计之都邮箱提交editor@cosx.org）
+征稿链接：
 
-投稿论文将由统计之都编辑部审核，并在征稿时间结束后统一反馈结果。持续关注统计之都公众号以获得更多分会场信息。
+<div class="row">
+  <div class="col-md-6 col-md-offset-2 text-center">
+    <img src="{{ '/img/QR2023.png' | prepend: site.baseurl }}" alt="征稿链接" class="img-responsive" />
+  </div>
+</div>
+
+您也可以将个人联系方式、工作单位、个人介绍、演讲标题和摘要提交到会务组邮箱：chinar-2023@cosx.org
+
+
+投稿论文将由会议组委会审核、筛选，并在征稿时间结束后统一反馈结果。持续关注统计之都公众号以获得更多分会场信息。
+
 
 ## 六、参与者报名
 
-线下参会报名系统预计于**11月13日**开放，线上参会请关注会议手册和后续通告，敬请期待。
+线下参会报名系统预计于11月上旬开放，报名11月25日及26日的线下参会者每人需缴纳20元参会费用。线上参会请关注会议主页和后续通告，敬请期待。
 
 ## 七、主办方介绍
 
-<h3 class ="text-center">主办方</h3>
+<h3 class ="text-center">主办方介绍</h3>
 
 ### 中国人民大学统计学院
 
@@ -149,7 +157,8 @@ location: bj2023
   </div>
 </div>
 
-原灵科技（OriginAGI）是一家人工智能初创公司，成立于2023年，致力于打造更先进、更安全、更普惠的智能。
+原灵科技（OriginAGI）是一家人工智能创业公司，成立于2023年，致力于打造更先进、更安全、更普惠的智能。当前研究课题主要包括大模型、表示学习、强化学习等前沿领域，即将推出OpenEmbedding、OriGear等大模型相关开源产品。原灵科技将结合市场与产业需求，陆续推出大模型应用系列产品。
+
 
 ### 中国商业统计学会人工智能分会（筹）
 
@@ -164,17 +173,8 @@ location: bj2023
 
 ## 八、赞助商介绍
 
-<h3 class ="text-center">赞助商</h3>
+<h3 class ="text-center">赞助商介绍</h3>
 
-### 宽德投资
-
-<div class="row">
-  <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/logo-wizard.png' | prepend: site.baseurl }}" alt="宽德投资" class="img-responsive center-block" />
-  </div>
-</div>
-
-宽德投资是一家国内领先、业务全面的量化对冲基金。基于先进的高频交易构架，以及完善的资产管理系统，宽德投资在国内期货、股票、期权等主流市场具有出色的盈利能力。 
 
 ### 和鲸科技
 
@@ -186,17 +186,15 @@ location: bj2023
 
 和鲸科技成立于2015年4月，是一家专注于“数据科学协同平台”的数据智能科技公司和平台服务商，可满足数据科学家、人工智能工程师、商业分析师等数据工作者在线完成算法建模、数据分析、数据可视化等任务，并支持私有化部署和云端协同，帮助企业、高校、科研机构、政府机构开展工业级数据科学与人工智能的应用研发。
 
-### Posit
+### 宽德投资
 
 <div class="row">
-  <div class="col-md-6 col-md-offset-3 text-center">
-   <a href="https://posit.co/" title="Posit" target="_blank">
-    <img src="{{ '/img/posit.png' | prepend: site.baseurl }}" alt="Posit" class="img-responsive" />
-    </a>
+  <div class="col-md-6 col-md-offset-3">
+    <img src="{{ '/img/logo-wizard.png' | prepend: site.baseurl }}" alt="宽德投资" class="img-responsive center-block" />
   </div>
 </div>
 
-Posit公司，原名RStudio，成立于2008年，创始人为 JJ Allaire，R 社区领军人物 Hadley Wickham 为首席科学家。该公司旨在为 R 语言提供更便利的开发环境和数据分析工具，例如 RStudio 集成开发环境（IDE）、RStudio 服务器、Shiny、Shiny 服务器、ShinyApps.io、R Markdown、RStudio Connect 等。Posit公司坚定支持开源软件和社区，其产品多为免费开源软件，但同时 RStudio 也提供相应的企业级软件应用（如 RStudio 服务器专业版、Shiny 服务器专业版等），以满足商业使用需求（如企业内部 RStudio 服务器管理、售后服务支持）。自2012年起，Posit为世界各地的 R 会议提供了大量赞助和支持，包括官方 R 语言会议和中国 R 语言会议。为了 R 语言能更持续稳定发展，该公司倡议与微软、Tibco、Google 等几家商业公司成立了 R 联合团体（RConsortium），每年为 R 社区的开源项目提供大量资助，召集优秀人才解决 R 语言现存的重要且有挑战性的问题。2022年7月RStudio公司更名为Posit，公司章程将使命定义为创建用于数据科学、科学研究和技术交流的免费开源软件，这一使命意在超越 "R for Data Science" ——沿用 R 语言成功的方法，并将其应用得更广泛。
+宽德投资是一家国内领先、业务全面的量化对冲基金。基于先进的高频交易构架，以及完善的资产管理系统，宽德投资在国内期货、股票、期权等主流市场具有出色的盈利能力。 
  
 ### 联系方式
 
