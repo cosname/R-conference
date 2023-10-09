@@ -197,6 +197,15 @@ location: bj2023
 </div>
 
 和鲸科技成立于2015年4月，是一家专注于“数据科学协同平台”的数据智能科技公司和平台服务商，可满足数据科学家、人工智能工程师、商业分析师等数据工作者在线完成算法建模、数据分析、数据可视化等任务，并支持私有化部署和云端协同，帮助企业、高校、科研机构、政府机构开展工业级数据科学与人工智能的应用研发。
+
+### 友情设计支持
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <img src="{{ '/img/logo-zibo.png' | prepend: site.baseurl }}" alt="ZIBO" class="img-responsive center-block" />
+  </div>
+</div>
+
  
 ### 联系方式
 
