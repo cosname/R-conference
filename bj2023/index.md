@@ -115,7 +115,7 @@ location: bj2023
 或扫描下方二维码：
 
 <div class="row">
-  <div class="col-md-6 col-md-offset-2 text-center">
+  <div class="col-md-6 col-md-offset-4 text-center">
     <img src="{{ '/img/QR2023.png' | prepend: site.baseurl }}" alt="征稿链接" class="img-responsive" />
   </div>
 </div>
@@ -205,6 +205,8 @@ location: bj2023
 
 和鲸科技成立于2015年4月，是一家专注于“数据科学协同平台”的数据智能科技公司和平台服务商，可满足数据科学家、人工智能工程师、商业分析师等数据工作者在线完成算法建模、数据分析、数据可视化等任务，并支持私有化部署和云端协同，帮助企业、高校、科研机构、政府机构开展工业级数据科学与人工智能的应用研发。
 
+
+### 子博设计
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
