@@ -115,8 +115,8 @@ location: bj2023
 或扫描下方二维码：
 
 <div class="row">
-  <div class="col-md-6 col-md-offset-4 text-center">
-    <img src="{{ '/img/QR2023.png' | prepend: site.baseurl }}" alt="征稿链接" class="img-responsive" />
+  <div class="col-md- col-md-offset-5 text-center">
+    <img src="{{ '/img/QR2023.png' | prepend: site.baseurl }}" style="width:100px; height:100px;" alt="征稿链接" class="img-responsive" />
   </div>
 </div>
 
@@ -173,7 +173,7 @@ location: bj2023
 ### 中国商业统计学会人工智能分会（筹）
 
 <div class="row">
-  <div class="col-md-6 col-md-offset-3">
+  <div class="col-md-8 col-md-offset-2">
     <img src="{{ '/img/logo-cssc.png' | prepend: site.baseurl }}" alt="中国商业统计学会人工智能分会（筹）" class="img-responsive center-block" />
   </div>
 </div>
