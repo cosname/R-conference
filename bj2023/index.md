@@ -115,7 +115,7 @@ location: bj2023
 或扫描下方二维码：
 
 <div class="row">
-  <div class="col-md- col-md-offset-5 text-center">
+  <div class="col-md-5 col-md-offset-2 text-center">
     <img src="{{ '/img/QR2023.png' | prepend: site.baseurl }}" style="width:100px; height:100px;" alt="征稿链接" class="img-responsive" />
   </div>
 </div>
