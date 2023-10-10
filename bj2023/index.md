@@ -163,7 +163,7 @@ location: bj2023
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/log-OA.png' | prepend: site.baseurl }}" style="width:200px; height:150px;alt="原灵科技" class="img-responsive center-block" />
+    <img src="{{ '/img/log-OA.png' | prepend: site.baseurl }}" style="width:200px; height:150px";alt="原灵科技" class="img-responsive center-block" />
   </div>
 </div>
 
