@@ -106,27 +106,16 @@ location: bj2023
 各会场已邀请在产业界和学术界一线奋战的高水平嘉宾。
 
 
-<h3 class ="text-center">会议演讲报名和参会报名</h3>
-
-本次会议欢迎您报名演讲，时间截止到10月29日。
+<h3 class ="text-center">参会报名</h3>
 
 
-演讲报名网站链接：https://wj.qq.com/s2/13269550/1d26/
-
-
-或扫描下方二维码：
+本会场将线上线下同步进行，线下会场位于中国人民大学，线上会场为学说直播平台。**线下参会者需要扫描下方二维码报名**。欢迎各位线上线下的朋友共同参会！
 
 <div class="row">
-  <div class="col-md-5 col-md-offset-2 text-center">
-    <img src="{{ '/img/QR2023.png' | prepend: site.baseurl }}" style="width:100px; height:100px;" alt="征稿链接" class="img-responsive" />
+  <div class="col-md-6 col-md-offset-3">
+    <img src="{{ '/img/2023baoming.png' | prepend: site.baseurl }}" alt="报名二维码" class="img-responsive center-block" />
   </div>
 </div>
-
-您也可以将演讲信息提交到会务组邮箱：chinar-2023@cosx.org
-
-您提交的演讲信息将由会议组委会审核，并在截止时间后统一反馈结果。持续关注统计之都公众号以获得更多分会场信息。
-
-线下参会报名系统预计于11月上旬开放。线上参会请关注会议主页和后续通告，敬请期待。
 
 
 <h3 class ="text-center">会议主办方介绍</h3>
