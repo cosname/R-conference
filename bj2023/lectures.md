@@ -13,7 +13,7 @@ location: bj2023
 
 
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></di
+<div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 <table class="table table-striped">
 
   <tr>
