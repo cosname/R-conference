@@ -173,3 +173,10 @@ This venue will operate both online and offline simultaneously. The offline venu
 微信公众号：统计之都
 
 统计之都组委会邮箱：chinar-ifods-2024@cosx.org
+
+**Contact Information**
+
+WeChat Public Account: Capital of Statistics
+
+Email of the Organizing Committee: chinar-ifods-2024@cosx.org
+
