@@ -11,12 +11,16 @@ The 17th China-R & 2024 X-AGI Joint Conference with the 2024 International Forum
 ### Date: 
 
 •	July 20-21, 2024 (8:30-17:30), on site, Renmin University of China.
+
 •	2024. 07. 22-24 (19:00-21:00), virtual
 
 ### Organizers:
 •	Center for Applied Statistics, Renmin University of China
+
 •	School of Statistics, Renmin University of China
+
 •	Capital of Statistics
+
 •	Artificial Intelligence Branch (in preparation), Commerce Statistical Society of China
 
 ### Sponsors:
@@ -29,7 +33,7 @@ The 17th China-R & 2024 X-AGI Joint Conference with the 2024 International Forum
 
 •	[Tianqiao and Chrissy Chen Institute](https://www.cheninstitute.org/zh)
 
-•	 [ZIBO DESIGN](http://zibodesign.cn/)
+•	[ZIBO DESIGN](http://zibodesign.cn/)
 
 
 ### Registration: 
@@ -39,20 +43,35 @@ https://www.wenjuan.com/s/UZBZJv1fOd/#
 #### Sessions:
 
 •	Theories of Data Science
+
 •	Applications of Data Science
+
 •	Statistical Computation and Software Tools
+
 •	Fundamental AI Theories
+
 •	AI for Natural Sciences
+
 •	AI for Social Sciences
+
 •	AI + Finance
+
 •	AI + Healthcare
+
 •	AI + Visualization
+
 •	Trustworthy AI
+
 •	Large Models + Agent
+
 •	Large Model Infrastructure
+
 •	Large Model Ecosystem
+
 •	Large Model Industry Exploration
+
 •	Biostatistics
+
 •	Causal Inference
 
 
