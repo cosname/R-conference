@@ -33,23 +33,24 @@ The 17th China R Conference & 2024 X-Intelligence Conference & 2024 Data Science
 
 **会议地点**：
 
-● 线下：中国人民大学逸夫第一报告厅、立德楼。（20、21日）
+•	 线下：中国人民大学逸夫第一报告厅、立德楼。（20、21日）
 
-● 线上：腾讯会议、Bilibili直播。（22、23、24日）
+•	 线上：腾讯会议、Bilibili直播。（22、23、24日）
 
 **Venue**:
-•	Offline: Yi Fu First Auditorium, Lide Building, Renmin University of China (July 20, 21).
-•	Online: Tencent Meetings, Bilibili Live Broadcast (July 22, 23, 24).
+• 	Offline: Yi Fu First Auditorium, Lide Building, Renmin University of China (July 20, 21).
+
+•	 Online: Tencent Meetings, Bilibili Live Broadcast (July 22, 23, 24).
 
 **主办方：**
 
-● 中国人民大学应用统计科学研究中心
+•	中国人民大学应用统计科学研究中心
 
-● 中国人民大学统计学院
+•	中国人民大学统计学院
 
-● 统计之都
+•	统计之都
 
-● 中国商业统计学会人工智能分会（筹）
+•	中国商业统计学会人工智能分会（筹）
 
 **Organizers**:
 
@@ -64,28 +65,28 @@ The 17th China R Conference & 2024 X-Intelligence Conference & 2024 Data Science
 
 **赞助方**
 
-### 明汯投资
+•	明汯投资
 
-### 宽德投资
+•	宽德投资
 
-### 和鲸科技
+•	和鲸科技
 
-### 天桥脑科学研究院
+•	天桥脑科学研究院
 
-### 子博设计
+•	子博设计
 
 
 **Conference Sponsors**
 
-### [Minghong Investment](https://www.mhfunds.com/)
+•	[Minghong Investment](https://www.mhfunds.com/)
 
-### [WIZARD QUANT](https://www.wizardquant.com/)
+•	[WIZARD QUANT](https://www.wizardquant.com/)
 
-### [Heywhale](https://www.heywhale.com/home)
+•	[Heywhale](https://www.heywhale.com/home)
 
-### [Tianqiao and Chrissy Chen Institute](https://www.cheninstitute.org/zh)
+•	[Tianqiao and Chrissy Chen Institute](https://www.cheninstitute.org/zh)
 
-### [ZIBO DESIGN](http://zibodesign.cn/)
+•	 [ZIBO DESIGN](http://zibodesign.cn/)
 
 **会议形式**：本次会议将结合线上与线下会议形式，各会场已邀请到来自各个领域研究统计学与数据科学的高水平演讲嘉宾，同时开放演讲报名。与会者可以选择线下或线上的形式参会。
 
