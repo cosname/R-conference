@@ -6,24 +6,24 @@ location: bj2024
 ---
 
 
-The 17th China-R & 2024 X-AGI Joint Conference with the 2024 International Forum on Data Science will be held from July 20-24 at Renmin University of China to discuss the latest advances in data science and artificial intelligence. This conference will adopt a hybrid format combining both online and offline events.
+The 17th China-R & 2024 X-AGI Joint Conference with the 2024 International Forum on Data Science will be held from July 20-24 at Renmin University of China to discuss the latest advances in data science and artificial intelligence. 
 
-### Date: 
+### Date
 
 •	July 20-21, 2024 (8:30-17:30), on site, Renmin University of China.
 
 •	2024. 07. 22-24 (19:00-21:00), virtual
 
-### Organizers:
-•	Center for Applied Statistics, Renmin University of China
+### Organizers
+•	[Center for Applied Statistics, Renmin University of China](http://cfas.ruc.edu.cn/)
 
-•	School of Statistics, Renmin University of China
+•	[School of Statistics, Renmin University of China](http://stat.ruc.edu.cn/)
 
-•	Capital of Statistics
+•	[Capital of Statistics](https://cosx.org/)
 
-•	Artificial Intelligence Branch (in preparation), Commerce Statistical Society of China
+•	[Artificial Intelligence Branch (in preparation), Commerce Statistical Society of China](http://www.china-cssc.org/)
 
-### Sponsors:
+### Sponsors
 
 •	[Minghong Investment](https://www.mhfunds.com/)
 
@@ -36,11 +36,11 @@ The 17th China-R & 2024 X-AGI Joint Conference with the 2024 International Forum
 •	[ZIBO DESIGN](http://zibodesign.cn/)
 
 
-### Registration: 
+### Registration
 
 https://www.wenjuan.com/s/UZBZJv1fOd/#
 
-#### Sessions:
+### Sessions
 
 •	Theories of Data Science
 
