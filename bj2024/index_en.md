@@ -38,7 +38,7 @@ The 17th China-R & 2024 X-AGI Joint Conference with the 2024 International Forum
 
 ### Registration
 
-https://www.wenjuan.com/s/UZBZJv1fOd/#
+[https://www.wenjuan.com/s/UZBZJv1fOd/#](https://www.wenjuan.com/s/UZBZJv1fOd/#)
 
 ### Sessions
 
