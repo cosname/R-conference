@@ -99,7 +99,7 @@ location: bj2024
 本会场将线上线下同步进行，线下会场位于中国人民大学，线上会场为学说直播平台。**线下参会者需要扫描下方二维码报名**。欢迎各位线上线下的朋友共同参会！
 
 <div class="row">
-  <div class="col-md-4 col-md-offset-2">
+  <div class="col-md-6 col-md-offset-3">
     <img src='assets/22df902ebfc3d45df54d7de0b7113a6.png'  alt="报名二维码" class="img-responsive center-block" />
   </div>
 </div>
