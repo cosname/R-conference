@@ -5,7 +5,7 @@ location: bj2024
 
 ---
 <div class="row">
-  <div class="col-md-6 col-md-offset-3">
+  <div class="col-md-12 col-md-offset-0">
     <img src='assets/Main_Figure.jpg'  alt="主视觉图" class="img-responsive center-block" />
   </div>
 </div>
