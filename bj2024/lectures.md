@@ -17,6 +17,86 @@ location: bj2024
 
 <div class="alert alert-info" role="alert"><h3 class="text-center">会议主会场</h3></div>
 
+<div class="alert alert-info" role="alert"><h3 class="text-center">Keynote  (主席： 常象宇&魏太云 ) </h3></div>
+
+<table class="table table-striped">
+
+  <tr>
+    <td class="col-md-2">
+    <p>董彬</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>AI for Mathematics</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-5-sub-1">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-5-sub-1">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 本报告将重点关注近年来人工智能在辅助数学探索中的一些进展。 首先， 我们将回顾人 工智能为数学研究赋能的背景和一些发展现状，包括机器学习在激发数学家进行前沿探索中的应用。其次，我们将介绍目前正在进行的一些工 作的初步成果。最后，我们将展望人工智能与数学交叉研究领域的未来机遇与挑战。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 董彬，北京大学，北京国际数学研究中心教授、国际机器学习研究中心副主任。主要研究领域为机器学习、科学计算和计算成像。2014年获得求是杰出青年学者奖，2022年受邀在世界数学家大会（ICM）做45分钟报告，2023年获得新基石研究员项目，同年获得王选杰出青年学者奖。</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-2">
+    <p>刘红升</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>大模型时代下的AI4Science发展和设想</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-5-sub-3">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-5-sub-3">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 本次报告回顾AI for Science在各领域的最新业界进展，并介绍华为AI4Sci Lab基于昇腾AI基础软硬件及昇思MindSpore AI框架在大模型赋能各方向的最新研究与未来展望。</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 中国科学技术大学少年班学院本科，北卡罗莱纳大学教堂山分校统计学博士。现任华为2012实验室昇思MindSpore架构师/AI4Sci Lab负责人。基于昇腾AI基础软硬件及昇思MindSpore AI框架构建了面向AI4Sci领域的MindScience开源框架，覆盖生物、化学、流体、气象、电磁等多个领域。</p>
+    </td>
+  </tr>
+  <tr>
+    <td class="col-md-2">
+    <p>Songxi Chen</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>Digital Twin of Economic Systems</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-5-sub-2">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-5-sub-2">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> A digital twin of a system is a high-precision numerical simulation based on the integration of system models and observational data, representing the pinnacle of understanding of that system. I will discuss the importance and feasibility of establishing a digital twin for the Chinese economic system, as well as the requirements for high spatiotemporal resolution economic datasets and the development of large-scale econometric models.</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> Dr. Songxi Chen is an Academician of the Chinese Academy of Sciences. He is currently serving as the President of the Chinese Society for Probability and Statistics for the term 2023-2026. Dr. Chen earned his Ph.D. in Statistics from the Australian National University in 1993. Prior to his full-time return to China, he held faculty positions at the National University of Singapore and Iowa State University. From 2010 to 2019, Dr. Chen served as the Founding Director of the Center for Statistical Science at Peking University. His research interests are diverse and include high-dimensional data inference, environmental modeling and assessment, empirical likelihood, statistical and machine learning, and stochastic process inference. Notably, his recent work on air quality assessment and epidemiology has had a significant impact on environmental and public health in China. Dr. Chen is a Fellow of the Institute of Mathematical Statistics (IMS), the American Statistical Association, and the American Association for the Advancement of Science. He is also an elected member of the International Statistical Institute (ISI).</p>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td class="col-md-2">
+    <p>Chuanhai Liu</p>
+    </td>
+    <td class="col-md-8">
+    <p class="text-center"><strong>First Principles of Advanced Data Analysis: the Prediction Principle</strong></p>
+    </td>
+    <td class="col-md-2">
+    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-5-sub-4">详情</button>
+    </td>
+  </tr>
+  <tr class="collapse" id="session-5-sub-4">
+    <td colspan="3">
+    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> This era of big data is fascinating for data analysis in particular and statistics in general. It has also clearly revealed more than ever different scientific attitudes toward data analysis and statistical research from different perspectives. As statisticians, we see both challenges and responsibility for foundational developments in both statistical inference and scientific modeling. This talk introduces a new principle, called the prediction principle. We argue that this principle can serve as a first principle for valid and efficient inference by exploring its implications in three key research directions: (a) how the prediction principle can be used to refine both the principle of maximum likelihood and the likelihood principle, (b) how statistical inference should be formalized, as the required reasoning is deductive, and (c) how a general theory of scientific modeling might be achievable, despite the inherent challenges of inductive reasoning. These discussions are illustrated using seemingly simple but unsolved problems in high-dimensional statistics and deep learning models. To prompt deeper reflections, the talk concludes with a few challenging problems.</p>
+    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> Chuanhai Liu earned his correspondence diploma from Central China Normal University in 1985, master's degree in Probability and Statistics from Wuhan University in 1987, and PhD in Statistics from Harvard University in 1994. He worked at Bell Laboratories for ten years starting in 1995 and at Texas A&M as an Associate Professor in Spring 2024. Since 2005, he has been a Professor of Statistics at Purdue University. His research interests include the foundations of statistical inference, statistical computing, and applied statistics. Much of his work on iterative algorithms, such as Quasi-Newton, EM, and MCMC methods, is discussed in his book titled "Advanced Markov Chain Monte Carlo Methods" (2010), co-authored with F. Liang and R. J. Carroll. His work on the foundations of statistical inference, developing a new inferential framework for prior-free probabilistic inference, is included in his book titled "Inferential Models: Reasoning with Uncertainty" (2015), co-authored with R. Martin. For his research on statistical computing, he spent several years experimenting with a multi-threaded and distributed R software system called SupR for big data analysis. Currently, he is working on topics for a potential new book titled "Scientific Modeling: Principles, Methods, and Examples."</p>
+    </td>
+  </tr>
+
+</table>
+
+
 <table class="table table-striped">
 
   <tr>
@@ -390,83 +470,7 @@ location: bj2024
 
 </table>
 
-<div class="alert alert-info" role="alert"><h3 class="text-center">Keynote  (主席： 常象宇&魏太云 ) </h3></div>
 
-<table class="table table-striped">
-
-  <tr>
-    <td class="col-md-2">
-    <p>董彬</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>AI for Mathematics</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-5-sub-1">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-5-sub-1">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 本报告将重点关注近年来人工智能在辅助数学探索中的一些进展。 首先， 我们将回顾人 工智能为数学研究赋能的背景和一些发展现状，包括机器学习在激发数学家进行前沿探索中的应用。其次，我们将介绍目前正在进行的一些工 作的初步成果。最后，我们将展望人工智能与数学交叉研究领域的未来机遇与挑战。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 董彬，北京大学，北京国际数学研究中心教授、国际机器学习研究中心副主任。主要研究领域为机器学习、科学计算和计算成像。2014年获得求是杰出青年学者奖，2022年受邀在世界数学家大会（ICM）做45分钟报告，2023年获得新基石研究员项目，同年获得王选杰出青年学者奖。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>Songxi Chen</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>Digital Twin of Economic Systems</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-5-sub-2">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-5-sub-2">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> A digital twin of a system is a high-precision numerical simulation based on the integration of system models and observational data, representing the pinnacle of understanding of that system. I will discuss the importance and feasibility of establishing a digital twin for the Chinese economic system, as well as the requirements for high spatiotemporal resolution economic datasets and the development of large-scale econometric models.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> Dr. Songxi Chen is an Academician of the Chinese Academy of Sciences. He is currently serving as the President of the Chinese Society for Probability and Statistics for the term 2023-2026. Dr. Chen earned his Ph.D. in Statistics from the Australian National University in 1993. Prior to his full-time return to China, he held faculty positions at the National University of Singapore and Iowa State University. From 2010 to 2019, Dr. Chen served as the Founding Director of the Center for Statistical Science at Peking University. His research interests are diverse and include high-dimensional data inference, environmental modeling and assessment, empirical likelihood, statistical and machine learning, and stochastic process inference. Notably, his recent work on air quality assessment and epidemiology has had a significant impact on environmental and public health in China. Dr. Chen is a Fellow of the Institute of Mathematical Statistics (IMS), the American Statistical Association, and the American Association for the Advancement of Science. He is also an elected member of the International Statistical Institute (ISI).</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>刘红升</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>大模型时代下的AI4Science发展和设想</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-5-sub-3">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-5-sub-3">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> 本次报告回顾AI for Science在各领域的最新业界进展，并介绍华为AI4Sci Lab基于昇腾AI基础软硬件及昇思MindSpore AI框架在大模型赋能各方向的最新研究与未来展望。</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> 中国科学技术大学少年班学院本科，北卡罗莱纳大学教堂山分校统计学博士。现任华为2012实验室昇思MindSpore架构师/AI4Sci Lab负责人。基于昇腾AI基础软硬件及昇思MindSpore AI框架构建了面向AI4Sci领域的MindScience开源框架，覆盖生物、化学、流体、气象、电磁等多个领域。</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="col-md-2">
-    <p>Chuanhai Liu</p>
-    </td>
-    <td class="col-md-8">
-    <p class="text-center"><strong>First Principles of Advanced Data Analysis: the Prediction Principle</strong></p>
-    </td>
-    <td class="col-md-2">
-    <button type="button" class="btn btn-default pull-right" data-toggle="collapse" href="#session-5-sub-4">详情</button>
-    </td>
-  </tr>
-  <tr class="collapse" id="session-5-sub-4">
-    <td colspan="3">
-    <p><button type="button" class="btn btn-primary"><strong>摘要</strong></button> This era of big data is fascinating for data analysis in particular and statistics in general. It has also clearly revealed more than ever different scientific attitudes toward data analysis and statistical research from different perspectives. As statisticians, we see both challenges and responsibility for foundational developments in both statistical inference and scientific modeling. This talk introduces a new principle, called the prediction principle. We argue that this principle can serve as a first principle for valid and efficient inference by exploring its implications in three key research directions: (a) how the prediction principle can be used to refine both the principle of maximum likelihood and the likelihood principle, (b) how statistical inference should be formalized, as the required reasoning is deductive, and (c) how a general theory of scientific modeling might be achievable, despite the inherent challenges of inductive reasoning. These discussions are illustrated using seemingly simple but unsolved problems in high-dimensional statistics and deep learning models. To prompt deeper reflections, the talk concludes with a few challenging problems.</p>
-    <p><button type="button" class="btn btn-info"><strong>演讲者</strong></button> Chuanhai Liu earned his correspondence diploma from Central China Normal University in 1985, master's degree in Probability and Statistics from Wuhan University in 1987, and PhD in Statistics from Harvard University in 1994. He worked at Bell Laboratories for ten years starting in 1995 and at Texas A&M as an Associate Professor in Spring 2024. Since 2005, he has been a Professor of Statistics at Purdue University. His research interests include the foundations of statistical inference, statistical computing, and applied statistics. Much of his work on iterative algorithms, such as Quasi-Newton, EM, and MCMC methods, is discussed in his book titled "Advanced Markov Chain Monte Carlo Methods" (2010), co-authored with F. Liang and R. J. Carroll. His work on the foundations of statistical inference, developing a new inferential framework for prior-free probabilistic inference, is included in his book titled "Inferential Models: Reasoning with Uncertainty" (2015), co-authored with R. Martin. For his research on statistical computing, he spent several years experimenting with a multi-threaded and distributed R software system called SupR for big data analysis. Currently, he is working on topics for a potential new book titled "Scientific Modeling: Principles, Methods, and Examples."</p>
-    </td>
-  </tr>
-
-</table>
 
 <div class="alert alert-info" role="alert"><h3 class="text-center">Machine Learning and Data Science专场  (主席： Jie Li ) </h3></div>
 
